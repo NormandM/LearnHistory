@@ -11,7 +11,10 @@ import SwiftUI
 struct LearnHistoryApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ZStack {
+            NMLogo()
+           // ContentView()
+            }
         }
     }
 }
