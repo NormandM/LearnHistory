@@ -8,6 +8,7 @@
 
 import UIKit
 import AVFoundation
+
 class SoundOption {
     static func soundOnOff() -> String{
         var soundState = String()
@@ -22,6 +23,4 @@ class SoundOption {
         UserDefaults.standard.setValue(soundState, forKey: "soundState")
         return soundState
     }
-    
-    
 }

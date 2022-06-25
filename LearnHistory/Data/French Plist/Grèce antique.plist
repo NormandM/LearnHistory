@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>135fb242-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1600 Av</string>
+		<key>question</key>
+		<string>Quelle civilisation représente la première société avancée en Europe ?</string>
+		<key>correctTAnswer</key>
+		<string>La civilisation minoenne</string>
+		<key>incorrectAnswer1</key>
+		<string>Rome</string>
+		<key>incorrectAnswer2</key>
+		<string>Égypte</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Francs</string>
+		<key>wikiSearchWord</key>
+		<string>La civilisation minoenne</string>
+		<key>questionTrueOrFalse</key>
+		<string>La civilisation minoenne s&apos;est épanouie sur l&apos;île de Crète.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>L&apos;éruption volcanique catastrophique des Minoens.</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fb4ea-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1200 Av</string>
+		<key>question</key>
+		<string>Quelle guerre mythique a été provoquée par l&apos;enlèvement d&apos;Hélène de Sparte ?</string>
+		<key>correctTAnswer</key>
+		<string>La guerre de Troie</string>
+		<key>incorrectAnswer1</key>
+		<string>Invasion dorienne</string>
+		<key>incorrectAnswer2</key>
+		<string>Guerres puniques</string>
+		<key>incorrectAnswer3</key>
+		<string>La guerre de Meliac</string>
+		<key>wikiSearchWord</key>
+		<string>La guerre de Troie</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;Odyssée est l&apos;histoire de la guerre de Troie.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Guerre de Troie</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fb63e-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1150  Av</string>
+		<key>question</key>
+		<string>Quelle est la cause de l&apos;âge des ténèbres en Grèce ?</string>
+		<key>correctTAnswer</key>
+		<string>Effondrement de l&apos;âge du bronze</string>
+		<key>incorrectAnswer1</key>
+		<string>Éruption volcanique</string>
+		<key>incorrectAnswer2</key>
+		<string>Trop de guerres</string>
+		<key>incorrectAnswer3</key>
+		<string>Le déluge</string>
+		<key>wikiSearchWord</key>
+		<string>Effondrement de l&apos;âge du bronze</string>
+		<key>questionTrueOrFalse</key>
+		<string>La civilisation mycénienne a survécu à l&apos;effondrement de l&apos;âge de bronze.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Effondrement de l&apos;âge du bronze</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fb760-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>800 Av</string>
+		<key>question</key>
+		<string>Qui a écrit l&apos;Iliade et l&apos;Odyssée ?</string>
+		<key>correctTAnswer</key>
+		<string>Homère</string>
+		<key>incorrectAnswer1</key>
+		<string>Virgile</string>
+		<key>incorrectAnswer2</key>
+		<string>Aristote</string>
+		<key>incorrectAnswer3</key>
+		<string>Platon</string>
+		<key>wikiSearchWord</key>
+		<string>Homère</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les épopées homériques ont eu peu d&apos;influence sur la culture et l&apos;éducation de la Grèce antique.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Homère écrit l&apos;Iliade et l&apos;Odyssée.</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fb882-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>800-700 Av</string>
+		<key>question</key>
+		<string>Quel était le nom de la grande prêtresse du temple d&apos;Apollon à Delphes ?</string>
+		<key>correctTAnswer</key>
+		<string>Pythie</string>
+		<key>incorrectAnswer1</key>
+		<string>Héra</string>
+		<key>incorrectAnswer2</key>
+		<string>Aphrodite</string>
+		<key>incorrectAnswer3</key>
+		<string>Hélène</string>
+		<key>wikiSearchWord</key>
+		<string>Pythie</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Pythie tire son nom de Python.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Création de la Pythie</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fb9ae-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>776 Av</string>
+		<key>question</key>
+		<string>En quelle année les premiers Jeux olympiques ont-ils eu lieu ?</string>
+		<key>correctTAnswer</key>
+		<string>776 AV. J.-C.</string>
+		<key>incorrectAnswer1</key>
+		<string>555 AVANT J.-C.</string>
+		<key>incorrectAnswer2</key>
+		<string>896 AV. J.-C.</string>
+		<key>incorrectAnswer3</key>
+		<string>344 AV.</string>
+		<key>wikiSearchWord</key>
+		<string>Jeux olympiques antiques</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Jeux olympiques ont cessé d&apos;être célébrés lorsque la Grèce est passée sous la domination romaine.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Premiers Jeux olympiques</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fbad0-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>660 Av</string>
+		<key>question</key>
+		<string>Qui dirigeait les cités grecques avant l&apos;instauration de la démocratie ?</string>
+		<key>correctTAnswer</key>
+		<string>Les tyrans</string>
+		<key>incorrectAnswer1</key>
+		<string>Rois</string>
+		<key>incorrectAnswer2</key>
+		<string>Généraux</string>
+		<key>incorrectAnswer3</key>
+		<string>Emirs</string>
+		<key>wikiSearchWord</key>
+		<string>Tyran</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les tyrans étaient connus pour gouverner par consensus.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Phéidon est tyran à Argos.</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fbbde-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>622 Av</string>
+		<key>question</key>
+		<string>Qui a établi des lois caractérisées par leur dureté pour la cité-État d&apos;Athènes ?</string>
+		<key>correctTAnswer</key>
+		<string>Dracon</string>
+		<key>incorrectAnswer1</key>
+		<string>Solon</string>
+		<key>incorrectAnswer2</key>
+		<string>Socrate</string>
+		<key>incorrectAnswer3</key>
+		<string>Platon</string>
+		<key>wikiSearchWord</key>
+		<string>Dracon</string>
+		<key>questionTrueOrFalse</key>
+		<string>Dracon appartenait à la classe des Eupatrides (les « bien nés »).</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Draco établit son code juridique</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fbf3a-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>560 Av</string>
+		<key>question</key>
+		<string>Cléisthène est vu comme le fondateur de la démocratie athénienne, mais qui en a jeté les bases ?</string>
+		<key>correctTAnswer</key>
+		<string>Solon</string>
+		<key>incorrectAnswer1</key>
+		<string>Draco</string>
+		<key>incorrectAnswer2</key>
+		<string>Socrate</string>
+		<key>incorrectAnswer3</key>
+		<string>Platon</string>
+		<key>wikiSearchWord</key>
+		<string>Solon</string>
+		<key>questionTrueOrFalse</key>
+		<string>Il fait partie des Sept Sages de la Grèce. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Mort de Solon</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fc05c-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>508 Av</string>
+		<key>question</key>
+		<string>Qui est considéré comme &quot;le père de la démocratie athénienne&quot; ?</string>
+		<key>correctTAnswer</key>
+		<string>Clisthenes</string>
+		<key>incorrectAnswer1</key>
+		<string>Solon</string>
+		<key>incorrectAnswer2</key>
+		<string>Socrate</string>
+		<key>incorrectAnswer3</key>
+		<string>Aristote</string>
+		<key>wikiSearchWord</key>
+		<string>Clisthène</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les actions de Cléisthène n&apos;ont pas réduit le pouvoir de la noblesse sur la politique athénienne.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Cléisthène réforme la constitution d&apos;Athènes sur la voie de la démocratie.</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fc174-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>499-493 Av</string>
+		<key>question</key>
+		<string>Qu&apos;est-ce qui a constitué le premier conflit majeur entre la Grèce et l&apos;Empire perse ?</string>
+		<key>correctTAnswer</key>
+		<string>La révolte ionienne</string>
+		<key>incorrectAnswer1</key>
+		<string>Guerre du Péloponnèse</string>
+		<key>incorrectAnswer2</key>
+		<string>La première guerre punique</string>
+		<key>incorrectAnswer3</key>
+		<string>la bataille de Marathon</string>
+		<key>wikiSearchWord</key>
+		<string>La révolte ionienne</string>
+		<key>questionTrueOrFalse</key>
+		<string>Athènes n&apos;a pas défendu les Ioniens pendant la révolte.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>La révolte ionienne</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fc28c-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>492-490 Av</string>
+		<key>question</key>
+		<string>Qui est le roi perse qui a envahi la Grèce pour la première fois ?</string>
+		<key>correctTAnswer</key>
+		<string>Darius le Grand</string>
+		<key>incorrectAnswer1</key>
+		<string>Cyrius</string>
+		<key>incorrectAnswer2</key>
+		<string>Xerxès</string>
+		<key>incorrectAnswer3</key>
+		<string>Hannibal</string>
+		<key>wikiSearchWord</key>
+		<string>Première guerre médique</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Perses ont gagné cette première guerre.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Première invasion perse de la Grèce</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fc3a4-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>480-479 Av</string>
+		<key>question</key>
+		<string>Lors de la 2e invasion perse, comment s&apos;appelait le col défendu par une petite force spartiate ?</string>
+		<key>correctTAnswer</key>
+		<string>Les Thermopyles</string>
+		<key>incorrectAnswer1</key>
+		<string>Gibraltar</string>
+		<key>incorrectAnswer2</key>
+		<string>Skinakas</string>
+		<key>incorrectAnswer3</key>
+		<string>Katara</string>
+		<key>wikiSearchWord</key>
+		<string>bataille des Thermopyles.</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Perses ont perdu la bataille des Thermopyles.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>La deuxième invasion perse de la Grèce</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fc4c6-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>478 Av</string>
+		<key>question</key>
+		<string>Quel est le nom de la ligue, formée par Athènes, pendant son âge d&apos;or ?</string>
+		<key>correctTAnswer</key>
+		<string>Délos</string>
+		<key>incorrectAnswer1</key>
+		<string>Athéniens</string>
+		<key>incorrectAnswer2</key>
+		<string>Périclès</string>
+		<key>incorrectAnswer3</key>
+		<string>Péloponnèse</string>
+		<key>wikiSearchWord</key>
+		<string>Ligue de Délos</string>
+		<key>questionTrueOrFalse</key>
+		<string>Seule la ville d&apos;Athènes faisait partie de cette ligue.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Fondation de Délos</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fc5d4-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>460 Av</string>
+		<key>question</key>
+		<string>Qui est considéré comme l&apos;une des figures les plus marquantes de l&apos;histoire de la médecine ?</string>
+		<key>correctTAnswer</key>
+		<string>Hippocrate</string>
+		<key>incorrectAnswer1</key>
+		<string>Aristote</string>
+		<key>incorrectAnswer2</key>
+		<string>Platon</string>
+		<key>incorrectAnswer3</key>
+		<string>Socrate</string>
+		<key>wikiSearchWord</key>
+		<string>Hippocrate</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hippocrate est considéré traditionnellement comme le « père de la médecine »..</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Naissance d&apos;Hippocrate</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fc8cc-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>445 Av</string>
+		<key>question</key>
+		<string>Quelles étaient les deux principales villes ennemies lors de la première guerre du Péloponnèse ?</string>
+		<key>correctTAnswer</key>
+		<string>Athènes et Sparte</string>
+		<key>incorrectAnswer1</key>
+		<string>Athènes et Thèbes</string>
+		<key>incorrectAnswer2</key>
+		<string>Argo et Sparte</string>
+		<key>incorrectAnswer3</key>
+		<string>Thèbes et Argo</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre du Péloponnèse</string>
+		<key>questionTrueOrFalse</key>
+		<string>La ligue du Péloponnèse était dirigée par Athènes.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Fin de la première guerre du Péloponnèse.</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fc9ee-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>438 Av</string>
+		<key>question</key>
+		<string>Construit sur l&apos;Acropole athénienne, à quel dieu ou déesse le Parthénon est-il dédié ?</string>
+		<key>correctTAnswer</key>
+		<string>Athéna</string>
+		<key>incorrectAnswer1</key>
+		<string>Zeus</string>
+		<key>incorrectAnswer2</key>
+		<string>Héra</string>
+		<key>incorrectAnswer3</key>
+		<string>Apollon</string>
+		<key>wikiSearchWord</key>
+		<string>Parthénon</string>
+		<key>questionTrueOrFalse</key>
+		<string>le Parthénon est le temple qui a le plus inspiré les architectes néo-classiques.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Le Parthénon est achevé.</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fcafc-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>404 Av</string>
+		<key>question</key>
+		<string>Qui a gagné la guerre du Péloponnèse ?</string>
+		<key>correctTAnswer</key>
+		<string>Sparte</string>
+		<key>incorrectAnswer1</key>
+		<string>Athènes</string>
+		<key>incorrectAnswer2</key>
+		<string>Thèbes</string>
+		<key>incorrectAnswer3</key>
+		<string>Argo</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre du Péloponnèse</string>
+		<key>questionTrueOrFalse</key>
+		<string>Après la guerre, Sparte devient la première puissance de la Grèce.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Fin de la guerre du Péloponnèse.</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fcc1e-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>399 Av</string>
+		<key>question</key>
+		<string>Quel philosophe grec d&apos;Athènes est considéré comme le fondateur de la philosophie occidentale ?</string>
+		<key>correctTAnswer</key>
+		<string>Socrate</string>
+		<key>incorrectAnswer1</key>
+		<string>Platon</string>
+		<key>incorrectAnswer2</key>
+		<string>Aristote</string>
+		<key>incorrectAnswer3</key>
+		<string>Pythagore</string>
+		<key>wikiSearchWord</key>
+		<string>Socrate</string>
+		<key>questionTrueOrFalse</key>
+		<string>Socrate n&apos;a laissé aucun document écrit de ses concepts philosophiques.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Décès de Socrate</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fcd36-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>384 Av</string>
+		<key>question</key>
+		<string>Quel mot décrit le mieux les domaines d&apos;intérêt et d&apos;étude d&apos;Aristote ?</string>
+		<key>correctTAnswer</key>
+		<string>Polymathe</string>
+		<key>incorrectAnswer1</key>
+		<string>Philosophe</string>
+		<key>incorrectAnswer2</key>
+		<string>Médecin</string>
+		<key>incorrectAnswer3</key>
+		<string>Poète</string>
+		<key>wikiSearchWord</key>
+		<string>Aristote</string>
+		<key>questionTrueOrFalse</key>
+		<string>Aristote est l&apos;un des penseurs les plus influents que le monde occidental ait connus.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Naissance d&apos;Aristote</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fce4e-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>350 Av</string>
+		<key>question</key>
+		<string>Quel mathématicien grec est considéré comme le fondateur de la géométrie ?</string>
+		<key>correctTAnswer</key>
+		<string>Euclide</string>
+		<key>incorrectAnswer1</key>
+		<string>Socrate</string>
+		<key>incorrectAnswer2</key>
+		<string>Pythagore</string>
+		<key>incorrectAnswer3</key>
+		<string>Zénon</string>
+		<key>wikiSearchWord</key>
+		<string>Euclide</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Éléments d&apos;Euclide sont l&apos;un des ouvrages les plus influents de l&apos;histoire des mathématiques.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Naissance d&apos;Euclide</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fcf5c-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>347 Av</string>
+		<key>question</key>
+		<string>Son professeur était Socrate et son élève le plus célèbre était Aristote. Qui était-il?</string>
+		<key>correctTAnswer</key>
+		<string>Platon</string>
+		<key>incorrectAnswer1</key>
+		<string>Pythagore</string>
+		<key>incorrectAnswer2</key>
+		<string>Hérodote</string>
+		<key>incorrectAnswer3</key>
+		<string>Zénon</string>
+		<key>wikiSearchWord</key>
+		<string>Platon</string>
+		<key>questionTrueOrFalse</key>
+		<string>Comme pour son maître Socrate, Platon n&apos;a jamais mis par écrit aucun de ses enseignements.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Décès de Platon</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fd074-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>356 Av</string>
+		<key>question</key>
+		<string>Quel pays constituait la limite orientale de l&apos;empire d&apos;Alexandre le Grand ?</string>
+		<key>correctTAnswer</key>
+		<string>Inde</string>
+		<key>incorrectAnswer1</key>
+		<string>Chine</string>
+		<key>incorrectAnswer2</key>
+		<string>Anétolie</string>
+		<key>incorrectAnswer3</key>
+		<string>Perse</string>
+		<key>wikiSearchWord</key>
+		<string>Alexandre le Grand</string>
+		<key>questionTrueOrFalse</key>
+		<string>Alexandre le Grand est mort à l&apos;âge de 44 ans.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Naissance d&apos;Alexandre le Grand</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fd84e-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>335 Av</string>
+		<key>question</key>
+		<string>Quelle cité grecque a menacé de se rebeller quand Alexandre est devenu roi et a été détruite par lui ?</string>
+		<key>correctTAnswer</key>
+		<string>Thèbes</string>
+		<key>incorrectAnswer1</key>
+		<string>Sparte</string>
+		<key>incorrectAnswer2</key>
+		<string>Corinthe</string>
+		<key>incorrectAnswer3</key>
+		<string>Athènes</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de Thèbes</string>
+		<key>questionTrueOrFalse</key>
+		<string>Lorsqu&apos;Alexandre succède à son père, il est rapidement accepté comme le nouvel hégémon de la Grèce.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>La bataille d&apos;Alexandre contre Thèbes</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fd9c0-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>326 Av</string>
+		<key>question</key>
+		<string>Quel est le nom du célèbre cheval d&apos;Alexandre ?</string>
+		<key>correctTAnswer</key>
+		<string>Bucéphale</string>
+		<key>incorrectAnswer1</key>
+		<string>Minotaure</string>
+		<key>incorrectAnswer2</key>
+		<string>Godolphin</string>
+		<key>incorrectAnswer3</key>
+		<string>Marengo</string>
+		<key>wikiSearchWord</key>
+		<string>Bucéphale</string>
+		<key>questionTrueOrFalse</key>
+		<string>Une ville en Inde a été nommée en l&apos;honneur de Bucéphale.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string> Bucéphale meurt après la bataille de l&apos;Hydaspe</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fdae2-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>323 Av</string>
+		<key>question</key>
+		<string>Où est né Alexandre le Grand ?</string>
+		<key>correctTAnswer</key>
+		<string>Macédoine</string>
+		<key>incorrectAnswer1</key>
+		<string>Athènes</string>
+		<key>incorrectAnswer2</key>
+		<string>Rome</string>
+		<key>incorrectAnswer3</key>
+		<string>Égypte</string>
+		<key>wikiSearchWord</key>
+		<string>Alexandre le Grand</string>
+		<key>questionTrueOrFalse</key>
+		<string>Alexandre le Grand a fondé plus de vingt villes qui portent son nom.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Décès d&apos;Alexandre le Grand</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fdc54-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>276 Av</string>
+		<key>question</key>
+		<string>Il est la première personne connue à avoir calculé la circonférence de la Terre. Qui est-il ?</string>
+		<key>correctTAnswer</key>
+		<string>Eratosthène</string>
+		<key>incorrectAnswer1</key>
+		<string>Pythagore</string>
+		<key>incorrectAnswer2</key>
+		<string>Archimède</string>
+		<key>incorrectAnswer3</key>
+		<string>Zénon</string>
+		<key>wikiSearchWord</key>
+		<string>Eratosthène</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ératosthène devient le bibliothécaire en chef de la bibliothèque d&apos;Alexandrie.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Naissance d&apos;Eratosthène</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fdd80-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>212 Av</string>
+		<key>question</key>
+		<string>Quelle est la célèbre exclamation attribuée à Archimède ?</string>
+		<key>correctTAnswer</key>
+		<string>Eurêka</string>
+		<key>incorrectAnswer1</key>
+		<string>Je l&apos;ai eu !</string>
+		<key>incorrectAnswer2</key>
+		<string>Veni, vidi, vici</string>
+		<key>incorrectAnswer3</key>
+		<string>Enfin !</string>
+		<key>wikiSearchWord</key>
+		<string>Archimède</string>
+		<key>questionTrueOrFalse</key>
+		<string>Archimède est originaire de Syracuse, en Sicile.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Mort d&apos;Archimède</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>135fde8e-ba90-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>146 Av</string>
+		<key>question</key>
+		<string>Quelle défaite a conduit à la domination romaine de la Grèce ?</string>
+		<key>correctTAnswer</key>
+		<string>Corinthe</string>
+		<key>incorrectAnswer1</key>
+		<string>Athènes</string>
+		<key>incorrectAnswer2</key>
+		<string>Sparte</string>
+		<key>incorrectAnswer3</key>
+		<string>Thèbes</string>
+		<key>wikiSearchWord</key>
+		<string>bataille de Leucopétra</string>
+		<key>questionTrueOrFalse</key>
+		<string>La bataille de Corinthe a été livrée par César.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>La bataille de Corinthe. Domination romaine.</string>
+		<key>theme</key>
+		<string>Grèce antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+	</dict>
+</array>
+</plist>

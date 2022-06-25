@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>932aa0ac-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>3200 BC</string>
+		<key>question</key>
+		<string>Quel était le système d&apos;écriture formel utilisé en Egypte ancienne ?</string>
+		<key>correctTAnswer</key>
+		<string>Hiéroglyphes</string>
+		<key>incorrectAnswer1</key>
+		<string>Cunéiforme</string>
+		<key>incorrectAnswer2</key>
+		<string>Alphabet antique</string>
+		<key>incorrectAnswer3</key>
+		<string>Images</string>
+		<key>wikiSearchWord</key>
+		<string>Hiéroglyphes égyptiens</string>
+		<key>questionTrueOrFalse</key>
+		<string>La connaissance de la lecture des hiéroglyphes n&apos;a jamais été perdue.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>L&apos;écriture hiéroglyphique est utilisée pour la première fois.</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932aa318-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>3100 BC</string>
+		<key>question</key>
+		<string>Qui est le premier roi à avoir unifié l&apos;Egypte ?</string>
+		<key>correctTAnswer</key>
+		<string>Narmer</string>
+		<key>incorrectAnswer1</key>
+		<string>Khufu</string>
+		<key>incorrectAnswer2</key>
+		<string>Thoutmosis</string>
+		<key>incorrectAnswer3</key>
+		<string>Amenhotep</string>
+		<key>wikiSearchWord</key>
+		<string>Narmer</string>
+		<key>questionTrueOrFalse</key>
+		<string>Narmer est le fondateur de la première dynastie.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Première unification de la Haute et de la Basse-Égypte.</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932aa44e-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>3100 Av</string>
+		<key>question</key>
+		<string>Pendant quelle période de l&apos;Egypte ancienne les pyramides ont-elles été construites ?</string>
+		<key>correctTAnswer</key>
+		<string>L&apos;Ancien empire</string>
+		<key>incorrectAnswer1</key>
+		<string>Le Moyen Empire </string>
+		<key>incorrectAnswer2</key>
+		<string>Le Nouvel Empire </string>
+		<key>incorrectAnswer3</key>
+		<string>La période intermédiaire </string>
+		<key>wikiSearchWord</key>
+		<string>Ancien Empire</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;Ancien Empire est également connu sous le nom de &quot; l&apos;âge des pyramides &quot;.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Début de l&apos;Ancien Empire.</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932aa57a-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>2780 Av</string>
+		<key>question</key>
+		<string>Qu&apos;utilisait-on pour enterrer les morts, avant la pyramide à degrés ?</string>
+		<key>correctTAnswer</key>
+		<string>Le mastaba </string>
+		<key>incorrectAnswer1</key>
+		<string>Grottes</string>
+		<key>incorrectAnswer2</key>
+		<string>Sablières</string>
+		<key>incorrectAnswer3</key>
+		<string>Le sarcophage</string>
+		<key>wikiSearchWord</key>
+		<string>Mastaba</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les rois n&apos;ont jamais été enterrés dans des mastabas.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Premiers mastabas</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932aa692-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>2670–2650 Av</string>
+		<key>question</key>
+		<string>Qui fut le premier pharaon à construire une pyramide à degrés ?</string>
+		<key>correctTAnswer</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer1</key>
+		<string>Narmer</string>
+		<key>incorrectAnswer2</key>
+		<string>Snéfrou </string>
+		<key>incorrectAnswer3</key>
+		<string>Khufu</string>
+		<key>wikiSearchWord</key>
+		<string>Complexe funéraire de Djéser</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;architecte de la Pyramide de Djoser était Imhotep.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Pyramide de Djoser</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932aa7b4-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>2600 Av</string>
+		<key>question</key>
+		<string>Quel pharaon de l&apos;Ancien Empire a construit trois pyramides pendant son règne?</string>
+		<key>correctTAnswer</key>
+		<string>Snéfrou </string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Narmer</string>
+		<key>incorrectAnswer3</key>
+		<string>Neferefre</string>
+		<key>wikiSearchWord</key>
+		<string>Snéfrou</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les trois pyramides, construites par Snéfrou, sont maintenant disparues.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>La pyramide courbe de Dahchour.</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932aab38-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>2600 Av</string>
+		<key>question</key>
+		<string>Des vases canopes ont été trouvés à côté de tombes. Que contenaient-ils?</string>
+		<key>correctTAnswer</key>
+		<string>Les organes internes</string>
+		<key>incorrectAnswer1</key>
+		<string>Nourriture</string>
+		<key>incorrectAnswer2</key>
+		<string>Eau</string>
+		<key>incorrectAnswer3</key>
+		<string>Bijoux</string>
+		<key>wikiSearchWord</key>
+		<string>Vase canope</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les viscères étaient tous conservés dans un seul vase canope.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Les premiers vases canopes sont mis au point.</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932aac64-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>2566 Av</string>
+		<key>question</key>
+		<string>Quelle est la plus ancienne des sept merveilles du monde antique ?</string>
+		<key>correctTAnswer</key>
+		<string>Grande Pyramide de Gizeh</string>
+		<key>incorrectAnswer1</key>
+		<string>Le Sphinx</string>
+		<key>incorrectAnswer2</key>
+		<string>Phare d&apos;Alexandrie</string>
+		<key>incorrectAnswer3</key>
+		<string>Vallée des Rois</string>
+		<key>wikiSearchWord</key>
+		<string>Pyramide de Khéops</string>
+		<key>questionTrueOrFalse</key>
+		<string>L’architecte de la pyramide de Khéops est Imhotep.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Grande Pyramide de Gizeh</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932aad72-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string> 2558–2532 Av</string>
+		<key>question</key>
+		<string>A quelle période de l&apos;histoire égyptienne le Grand Sphinx a-t-il été construit ?</string>
+		<key>correctTAnswer</key>
+		<string>Ancien Empire</string>
+		<key>incorrectAnswer1</key>
+		<string>Nouveau Royaume</string>
+		<key>incorrectAnswer2</key>
+		<string>Moyen Empire</string>
+		<key>incorrectAnswer3</key>
+		<string>Première période intermédiaire</string>
+		<key>wikiSearchWord</key>
+		<string>Grand Sphinx de Gizeh</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le Sphinx est la sculpture monolithique la plus grande du monde.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Le Sphinx est construit.</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932aae94-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>2400 Av</string>
+		<key>question</key>
+		<string>Quel document était placé dans le cercueil du défunt ?</string>
+		<key>correctTAnswer</key>
+		<string>Livre des morts</string>
+		<key>incorrectAnswer1</key>
+		<string>Livre de hiéroglyphes</string>
+		<key>incorrectAnswer2</key>
+		<string>Livre de l&apos;au-delà</string>
+		<key>incorrectAnswer3</key>
+		<string>Livre des vivants</string>
+		<key>wikiSearchWord</key>
+		<string>Le livre des morts</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le but du Livre des morts est d&apos;aider une personne décédée à traverser le monde souterrain.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Le Livre des Morts est utilisé pour la première fois.</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932aafa2-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>2300 Av</string>
+		<key>question</key>
+		<string>Qui a conquis les Egyptiens et a été conquis par les Egyptiens ?</string>
+		<key>correctTAnswer</key>
+		<string>Les Nubiens</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Hittites</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Grecs</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Romains</string>
+		<key>wikiSearchWord</key>
+		<string>Nubie</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Nubie a été conquise par le Nouvel Empire d&apos;Égypte sous le règne du pharaon Thoutmosis Ier.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Les Nubiens sont mentionnés pour la première fois.</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932ab0b0-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>2181–2055 Av</string>
+		<key>question</key>
+		<string>Quel est le nom de la période qui suit le déclin de l&apos;Ancien Empire ?</string>
+		<key>correctTAnswer</key>
+		<string>La première période intermédiaire</string>
+		<key>incorrectAnswer1</key>
+		<string>L&apos;âge des ténèbres</string>
+		<key>incorrectAnswer2</key>
+		<string>Le moyen empire</string>
+		<key>incorrectAnswer3</key>
+		<string> Le Nouvel Empire </string>
+		<key>wikiSearchWord</key>
+		<string>Première période intermédiaire d&apos;Égypte</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le territoire égyptien reste unifié durant la Première Période intermédiaire.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Première période intermédiaire</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932ab1c8-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>2040 to 1782 Av</string>
+		<key>question</key>
+		<string>Qu&apos;est-ce qui décrit le mieux le Moyen Empire ?</string>
+		<key>correctTAnswer</key>
+		<string>Une période de réunification</string>
+		<key>incorrectAnswer1</key>
+		<string>Une période de guerres et de conflits.</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;âge des bâtisseurs de pyramides.</string>
+		<key>incorrectAnswer3</key>
+		<string>La décadence de l&apos;Egypte</string>
+		<key>wikiSearchWord</key>
+		<string>Moyen Empire d&apos;Égypte</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le Moyen Empire est une période de prospérité.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Moyen Empire d&apos;Égypte</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932ab2ea-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1650 – 1550 Av</string>
+		<key>question</key>
+		<string>Qui sont les étrangers qui ont régné sur l&apos;Egypte pendant la 2e période intermédiaire?</string>
+		<key>correctTAnswer</key>
+		<string>Les Hyksos</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Hittites </string>
+		<key>incorrectAnswer2</key>
+		<string>Les Phéniciens</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Grecs</string>
+		<key>wikiSearchWord</key>
+		<string>Deuxième période intermédiaire de l&apos;Égypte</string>
+		<key>questionTrueOrFalse</key>
+		<string>Contrairement à la première période intermédiaire, la deuxième période intermédiaire est une période de croissance.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Deuxième période intermédiaire</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932ab5ba-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1600 Av</string>
+		<key>question</key>
+		<string>De quelle activité, le papyrus d’Edwin Smith, est-il le plus ancien document connu?</string>
+		<key>correctTAnswer</key>
+		<string>Traité de chirurgie</string>
+		<key>incorrectAnswer1</key>
+		<string>Astronomie</string>
+		<key>incorrectAnswer2</key>
+		<string>Physique</string>
+		<key>incorrectAnswer3</key>
+		<string>Architecture</string>
+		<key>wikiSearchWord</key>
+		<string>Papyrus Edwin Smith</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le papyrus Edwin Smith présente une approche rationnelle et scientifique de la médecine.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Papyrus d&apos;Edwin Smith</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932ab92a-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1507–1458 Av</string>
+		<key>question</key>
+		<string>Quel est le nom d&apos;une femme pharaon de la 18e dynastie du Nouvel Empire ?</string>
+		<key>correctTAnswer</key>
+		<string>Hatchepsout</string>
+		<key>incorrectAnswer1</key>
+		<string>Néfertiti</string>
+		<key>incorrectAnswer2</key>
+		<string>Twosret</string>
+		<key>incorrectAnswer3</key>
+		<string>Neithikret</string>
+		<key>wikiSearchWord</key>
+		<string>Hatchepsout</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hatchepsout est connue pour être la « première grande femme dont l&apos;histoire ait gardé le nom</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Hatchepsout</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932aba6a-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1481-1425 Av</string>
+		<key>question</key>
+		<string>Quel pharaon a créé le plus grand empire que l&apos;Egypte ait jamais connu?</string>
+		<key>correctTAnswer</key>
+		<string>Thoutmosis III</string>
+		<key>incorrectAnswer1</key>
+		<string>Ramsès II</string>
+		<key>incorrectAnswer2</key>
+		<string>Toutankhamon</string>
+		<key>incorrectAnswer3</key>
+		<string>Djoser</string>
+		<key>wikiSearchWord</key>
+		<string>Thoutmosis III</string>
+		<key>questionTrueOrFalse</key>
+		<string>Thoutmosis III a régné 53 ans.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Thoutmosis III</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932abb8c-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1370 – 1330 Av</string>
+		<key>question</key>
+		<string>Son buste est l&apos;une des œuvres les plus copiées de l&apos;Égypte ancienne. Qui est-elle ?</string>
+		<key>correctTAnswer</key>
+		<string>Néfertiti</string>
+		<key>incorrectAnswer1</key>
+		<string>Cléopâtre</string>
+		<key>incorrectAnswer2</key>
+		<string>Hatchepsout</string>
+		<key>incorrectAnswer3</key>
+		<string>Twosret</string>
+		<key>wikiSearchWord</key>
+		<string>Néfertiti</string>
+		<key>questionTrueOrFalse</key>
+		<string>Néfertiti était la grande épouse royale du pharaon Akhénaton.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Néfertiti</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932abca4-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1351–1334 Av</string>
+		<key>question</key>
+		<string>Quel pharaon a institué le monothéisme pour la première fois de l&apos;histoire?</string>
+		<key>correctTAnswer</key>
+		<string>Akhénaton</string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Ramsès II</string>
+		<key>incorrectAnswer3</key>
+		<string>Toutankhamon</string>
+		<key>wikiSearchWord</key>
+		<string>Le règne d&apos;Akhenaton</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le monothéisme instauré par Akhénaton transforme à jamais la religion égyptienne.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Akhénaton</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932abdbc-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1341 -  1323 Av</string>
+		<key>question</key>
+		<string>Howard Carter a découvert sa tombe presque intacte en 1922. Qui est-il ?</string>
+		<key>correctTAnswer</key>
+		<string>Toutankhamon</string>
+		<key>incorrectAnswer1</key>
+		<string>Ramsès II</string>
+		<key>incorrectAnswer2</key>
+		<string>Akhénaton</string>
+		<key>incorrectAnswer3</key>
+		<string>Djoser</string>
+		<key>wikiSearchWord</key>
+		<string>Toutankhamon</string>
+		<key>questionTrueOrFalse</key>
+		<string>Toutankhamon est mort de vieillesse.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Toutankhamon</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932abed4-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1303–1213 Av</string>
+		<key>question</key>
+		<string>Qui était considéré comme le plus grand et le plus puissant pharaon du Nouvel Empire ?</string>
+		<key>correctTAnswer</key>
+		<string>Ramsès II</string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Akhénaton</string>
+		<key>incorrectAnswer3</key>
+		<string>Toutankhamon</string>
+		<key>wikiSearchWord</key>
+		<string>Ramsès II</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ramsès II n&apos;a jamais fait de campagne militaire.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Ramsès II</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932ac000-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1250 Av</string>
+		<key>question</key>
+		<string>Quelles structures étaient censées attirer les rayons du soleil, permettant ainsi des résurrections ?</string>
+		<key>correctTAnswer</key>
+		<string>L&apos;Obélisque</string>
+		<key>incorrectAnswer1</key>
+		<string>La Pyramide</string>
+		<key>incorrectAnswer2</key>
+		<string>Le temple</string>
+		<key>incorrectAnswer3</key>
+		<string>La colonne </string>
+		<key>wikiSearchWord</key>
+		<string>Obélisque de Louxor</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;obélisque de Louxor est au centre de la place de la Concorde à Paris.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Obélisques de Louxor</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932ac384-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>305 Av</string>
+		<key>question</key>
+		<string>Quel ancien général d’Alexandre s’est proclamé pharaon d’Égypte?</string>
+		<key>correctTAnswer</key>
+		<string>Ptolémée I</string>
+		<key>incorrectAnswer1</key>
+		<string>Cassandre</string>
+		<key>incorrectAnswer2</key>
+		<string>Séleucus I Nicator</string>
+		<key>incorrectAnswer3</key>
+		<string>Lysimaque </string>
+		<key>wikiSearchWord</key>
+		<string>Dynastie lagide</string>
+		<key>questionTrueOrFalse</key>
+		<string>La famille de Ptolémée a régné sur l&apos;Égypte jusqu&apos;à la conquête romaine de 30 avant Jésus-Christ.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Fondation de la dynastie ptolémaïque.</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932ac4b0-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>304 – 282 Av</string>
+		<key>question</key>
+		<string>Quel souverain de l&apos;Egypte ancienne a créé la bibliothèque royale ?</string>
+		<key>correctTAnswer</key>
+		<string>Ptolémée Ier Sôter</string>
+		<key>incorrectAnswer1</key>
+		<string>Alexandre le Grand</string>
+		<key>incorrectAnswer2</key>
+		<string>Cléopâtre</string>
+		<key>incorrectAnswer3</key>
+		<string>Toutankhamon</string>
+		<key>wikiSearchWord</key>
+		<string>Ptolémée Ier</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ptolémée Ier  est né à Thèbes.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Règne de Ptolémée Ier Sôter</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932ac5be-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>284-246 Av</string>
+		<key>question</key>
+		<string>Une des 7 merveilles était la grande pyramide, quelle autre possédait l’Égypte?</string>
+		<key>correctTAnswer</key>
+		<string>Le phare d&apos;Alexandrie</string>
+		<key>incorrectAnswer1</key>
+		<string>La Vallée des Rois</string>
+		<key>incorrectAnswer2</key>
+		<string>La vallée des reines</string>
+		<key>incorrectAnswer3</key>
+		<string>Temple de Louxor</string>
+		<key>wikiSearchWord</key>
+		<string>Le Phare d&apos;Alexandrie</string>
+		<key>questionTrueOrFalse</key>
+		<string>À ce jour, le phare d&apos;Alexandrie existe toujours.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Construction du Phare d&apos;Alexandrie.</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932ac6cc-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>285–246 Av</string>
+		<key>question</key>
+		<string>Dans quelle ville égyptienne se trouvait la plus grande bibliothèque de l’antiquité</string>
+		<key>correctTAnswer</key>
+		<string>Alexandrie</string>
+		<key>incorrectAnswer1</key>
+		<string>Memphis</string>
+		<key>incorrectAnswer2</key>
+		<string>Thèbes</string>
+		<key>incorrectAnswer3</key>
+		<string>Le Caire</string>
+		<key>wikiSearchWord</key>
+		<string>Bibliothèque d&apos;Alexandrie</string>
+		<key>questionTrueOrFalse</key>
+		<string>La bibliothèque d&apos;Alexandrie a survécu jusqu&apos;au 10e siécle.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Création de la Bibliothèque d&apos;Alexandrie</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932ac7ee-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>196 Av</string>
+		<key>question</key>
+		<string>Quel artefact a permis de déchiffrer les hiéroglyphes égyptiens ?</string>
+		<key>correctTAnswer</key>
+		<string>La pierre de Rosette</string>
+		<key>incorrectAnswer1</key>
+		<string>Le livre des morts</string>
+		<key>incorrectAnswer2</key>
+		<string>Le livre des hiéroglyphes</string>
+		<key>incorrectAnswer3</key>
+		<string>Traductions d&apos;Hérodote</string>
+		<key>wikiSearchWord</key>
+		<string>Pierre de Rosette</string>
+		<key>questionTrueOrFalse</key>
+		<string>Des hiéroglyphes et le latin sont sur la pierre de Rosette.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Création de la pierre de Rosette</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932ac906-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>69-30 Av</string>
+		<key>question</key>
+		<string>Qui fut le dernier souverain de la dynastie des Ptolémées ?</string>
+		<key>correctTAnswer</key>
+		<string>Cléopâtre VII</string>
+		<key>incorrectAnswer1</key>
+		<string>César</string>
+		<key>incorrectAnswer2</key>
+		<string>Ptolémée XIV</string>
+		<key>incorrectAnswer3</key>
+		<string>Marcus Antonius</string>
+		<key>wikiSearchWord</key>
+		<string>Cléopâtre VII</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cléopâtre a eu un fils avec César : Césarion</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Cléopâtre</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>932aca28-b9c0-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1798–1801</string>
+		<key>question</key>
+		<string>Son expédition militaire en Égypte amorce le début de l&apos;égyptologie. Qui est-il ?</string>
+		<key>correctTAnswer</key>
+		<string>Napoléon</string>
+		<key>incorrectAnswer1</key>
+		<string>César</string>
+		<key>incorrectAnswer2</key>
+		<string>Ptolémée</string>
+		<key>incorrectAnswer3</key>
+		<string>Marcus Antonius</string>
+		<key>wikiSearchWord</key>
+		<string>Campagne française en Egypte et en Syrie</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;expédition de Napoléon en Égypte a conduit à la découverte de la pierre de Rosette.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Campagne française en Egypte</string>
+		<key>theme</key>
+		<string>Égypte antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+	</dict>
+</array>
+</plist>

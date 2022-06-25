@@ -1,0 +1,150 @@
+/* 
+  Localizable.strings
+  LearnHistory
+
+  Created by Normand Martin on 2022-04-05.
+  
+*/
+/* No comment provided by engineer. */
+"%lld coins" = "%lld monedas";
+
+/* No comment provided by engineer. */
+"Apps" = "Aplicaciones";
+
+/* No comment provided by engineer. */
+"Before or After" = "Antes o después";
+
+/* No comment provided by engineer. */
+"Hints Coins available: %lld" = "monedas para pistas: %lld";
+"Coins available: %lld" = "Monedas disponibles : %lld";
+/* No comment provided by engineer. */
+"Hints cannot be displayed" = "No se puede mostrar la pista";
+
+/* No comment provided by engineer. */
+"History themes" = "Temas";
+
+/* No comment provided by engineer. */
+"History Time Lines" = "Cronología";
+
+/* No comment provided by engineer. */
+"Learn History" = "Aprender la historia";
+
+/* No comment provided by engineer. */
+"Loading..." = "Cargando...";
+
+/* No comment provided by engineer. */
+"Manage your credits" = "Gestione sus créditos";
+
+/* No comment provided by engineer. */
+"MEMO CARDS: " = "TARJETAS DE MEMORIA: ";
+
+/* No comment provided by engineer. */
+"No Internet Connection" = "Sin conexión a Internet";
+
+/* No comment provided by engineer. */
+"Ok" = "Ok";
+
+/* No comment provided by engineer. */
+"PlaceHolder" = "PlaceHolder";
+
+/* No comment provided by engineer. */
+"Quiz" = "Prueba";
+
+/* No comment provided by engineer. */
+"Right" = "Correcto";
+
+/* No comment provided by engineer. */
+"Sorry, no information can be displayed" = "No se puede mostrar ninguna información";
+
+/* No comment provided by engineer. */
+"Study" = "Estudiar";
+
+/* No comment provided by engineer. */
+"The information cannot be displayed" = "No se puede mostrar la información";
+
+/* No comment provided by engineer. */
+"Time Lines" = "Cronología";
+"Timelines" = "Cronología";
+
+/* No comment provided by engineer. */
+"Use All Cards" = "Utilizar todas las tarjetas";
+
+/* No comment provided by engineer. */
+"Use incorrectly\nanswered cards" = "Utilizar las tarjetas\nmal contestadas";
+
+/* No comment provided by engineer. */
+"Wrong" = "Incorrecto";
+
+/* No comment provided by engineer. */
+"X" = "X";
+
+"Ancient Egypt" = "Antiguo Egipto";
+"Ancient Mesopotamia" = "Antigua Mesopotamia";
+"Ancient Greece" = "Antigua Grecia";
+"British History" = "Inglaterra";
+"French History" = "Francia";
+"Europe" = "Europa";
+"Ancient Rome" = "La antigua Roma";
+"China" = "La China";
+"Ancient History" = "Historia antigua";
+"List.json" = "ListSpanish.json";
+"en" = "es";
+"Start\nOver" = "Repita";
+"Read\nMore" = "Leer";
+"See\nStats" = "Ver\nStats";
+"Stack correctly answered cards here." = "Apilar aquí las tarjetas correctamente contestadas.";
+"Stack incorrectly answered cards here" = "Apilar aquí las tarjetas mal contestadas";
+"See answer" = "Ver respuesta";
+"True" = "Verdadero";
+"False" = "Falso";
+"Hints" = "Ayuda";
+"Before?\n\nDrop Card Here" = "¿Antes?\n\nPonga la tarjeta aquí";
+"After?\n\nDrop Card Here" = "¿Después?\n\nPonga la tarjeta aquí";
+"Great Job!" = "¡Bravo!";
+"You have finished" = "Ha terminado";
+"Your score is:" = "Su resultado es:";
+"Can you achieve 100% and become" = "¿Puede lograr el 100% y convertirse en";
+"and become" = "y convertirse en";
+"expert in " = "experto en";
+"Back\nto\nmenu" = "Volver\nal\nmenú";
+"Congratulation" = "Felicitaciones";
+"You are now an expert in" = "Ahora es usted un experto en";
+"in" = "en";
+"The quiz is in Progress" = "La prueba está en marcha";
+"On your last try your score was:" = "En tu último intento tu puntuación fue:";
+"Score:" = "Puntuación:";
+"Questions" = "Preguntas";
+"%lld of %lld Questions" = "%lld de %lld Preguntas";
+"No Internet Connection" = "Sin conexión a Internet";
+"Sorry, no information can be displayed" = "Lo sentimos, no se puede mostrar ninguna información";
+"Are you sure you want to exit without finishing the Quiz?" = "¿Estás seguro de que quieres salir sin terminar el Quiz?";
+"It will reset the quiz" = "Reiniciará el quiz";
+"Exit" = "Salir";
+"To preserve the visual integrity and user experience of Learn History there are no adds." = "To preserve the visual integrity and user experience of Learn History there are no adds.";
+"CREDIT AVAILABLE: %lld coins" = "CREDIT AVAILABLE: %lld coins";
+"Need any coins?" = "Need any coins?";
+"200 coins for: " = "200 coins for: ";
+"You have finished the quiz:" = "You have finished the quiz";
+"Good Job!" = "Good Job!";
+"1 coin was added to your total" = "1 coin was added to your total";
+"Try again!" = "Try again!";
+"Good!" = "Good!";
+"2 coins was added to your total" = "2 coins was added to your total";
+"Very Good!" = "Very Good!";
+"3 coins was added to your total" = "3 coins was added to your total";
+"Great!" = "Great!";
+"4 coins was added to your total" = "4 coins was added to your total";
+"5 coins was added to your total" = "5 jetons ont été ajoutés";
+"This is your first try for the theme: %@" = "Ceci est votre premier essai pour le thème: %@";
+"You answered correctly, continue!" = "You answered correctly, continue!";
+"You are out of coins!" = "You are out of coins!";
+"Buy some coins" = "Buy some coins";
+"Exit the Quiz" = "Go back to Quiz";
+"Events and Dates" =  "Events and Dates";
+"Read and learn" = "Read and learn";
+"Test your knowledge" = "Testez vos connaissances";
+"You are already an expert in" = "You are already an expert in";
+"The History of " = "The History of ";
+"Do you want to start over?" = "Do you want to start over?";
+"Yes" = "Si";
+"No" = "No";

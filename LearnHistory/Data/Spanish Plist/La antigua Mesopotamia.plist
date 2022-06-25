@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>c89cba00-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>10000  A.C.</string>
+		<key>question</key>
+		<string>¿Cuándo cambió Mesopotamia de una vida de caza y recolección a la agricultura?</string>
+		<key>correctTAnswer</key>
+		<string>10000 A.C.</string>
+		<key>incorrectAnswer1</key>
+		<string>15000 A.C.</string>
+		<key>incorrectAnswer2</key>
+		<string>20000 A.C.</string>
+		<key>incorrectAnswer3</key>
+		<string>5000 A.C.</string>
+		<key>wikiSearchWord</key>
+		<string>Mesopotamia</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mesopotamia está situada en el sistema fluvial Tigris-Eufrates.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>La agricultura aparece en Mesopotamia.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89cbcf8-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>6000 A.C.</string>
+		<key>question</key>
+		<string>¿Cuál es la civilización más antigua conocida en Mesopotamia?</string>
+		<key>correctTAnswer</key>
+		<string>Sumer</string>
+		<key>incorrectAnswer1</key>
+		<string>Egipto</string>
+		<key>incorrectAnswer2</key>
+		<string>Babilonia</string>
+		<key>incorrectAnswer3</key>
+		<string>Asirio</string>
+		<key>wikiSearchWord</key>
+		<string>Sumeria</string>
+		<key>questionTrueOrFalse</key>
+		<string>La civilización sumeria fue una de las últimas en surgir en la antigua Mesopotamia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Aparición de la civilización sumeria.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89cbe56-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>5400 A.C.</string>
+		<key>question</key>
+		<string>¿Qué ciudad se considera la más antigua de la civilización sumeria?</string>
+		<key>correctTAnswer</key>
+		<string>Eridu</string>
+		<key>incorrectAnswer1</key>
+		<string>Babilonia</string>
+		<key>incorrectAnswer2</key>
+		<string>Tebas</string>
+		<key>incorrectAnswer3</key>
+		<string>Persépolis</string>
+		<key>wikiSearchWord</key>
+		<string>Eridu</string>
+		<key>questionTrueOrFalse</key>
+		<string>Según las epopeyas babilónicas, Eridu habría sido la primera ciudad creada en el mundo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Fundación de Eridu.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89cc2c0-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>3400 A.C.</string>
+		<key>question</key>
+		<string>Inventado por los sumerios, es el primer sistema de escritura. ¿Cómo se llama?</string>
+		<key>correctTAnswer</key>
+		<string>Cuneiforme</string>
+		<key>incorrectAnswer1</key>
+		<string>Jeroglíficos</string>
+		<key>incorrectAnswer2</key>
+		<string>Semita</string>
+		<key>incorrectAnswer3</key>
+		<string>Lineal</string>
+		<key>wikiSearchWord</key>
+		<string>Escritura cuneiforme</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los sumerios escribían en papiro.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Creación de la escritura cuneiforme.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89cc7f2-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>3100 A.C.</string>
+		<key>question</key>
+		<string>¿En qué ciudad se dice que reinó el legendario rey Gilgamesh en el siglo XXVII a.C.?</string>
+		<key>correctTAnswer</key>
+		<string>Uruk</string>
+		<key>incorrectAnswer1</key>
+		<string>Ur</string>
+		<key>incorrectAnswer2</key>
+		<string>Babilonia</string>
+		<key>incorrectAnswer3</key>
+		<string>Acad</string>
+		<key>wikiSearchWord</key>
+		<string>Uruk</string>
+		<key>questionTrueOrFalse</key>
+		<string>Uruk desempeñó un papel preponderante en la temprana urbanización de Sumer a mediados del IV milenio a. C..</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>La ciudad de Uruk alcanza los 40.000 habitantes</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89cc9d2-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>2400 A.C.</string>
+		<key>question</key>
+		<string>¿Qué dos naciones resultaron de la caída del imperio acadio?</string>
+		<key>correctTAnswer</key>
+		<string>Asiria y Babilonia </string>
+		<key>incorrectAnswer1</key>
+		<string>Elam y Gutium</string>
+		<key>incorrectAnswer2</key>
+		<string>Aqueménida y Sumeria</string>
+		<key>incorrectAnswer3</key>
+		<string>Sumer y Elam</string>
+		<key>wikiSearchWord</key>
+		<string>Imperio acadio</string>
+		<key>questionTrueOrFalse</key>
+		<string>El imperio acadio alcanzó su apogeo político en el año 1000 a.C.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>El acadio sustituye al sumerio como lengua principal.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89ccc0c-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>2334–2279 A.C.</string>
+		<key>question</key>
+		<string>Fue el fundador del primer imperio: el Imperio Acadio. ¿Quién era?</string>
+		<key>correctTAnswer</key>
+		<string>Sargón de Acad</string>
+		<key>incorrectAnswer1</key>
+		<string>Darius</string>
+		<key>incorrectAnswer2</key>
+		<string>Cyrius</string>
+		<key>incorrectAnswer3</key>
+		<string>Homer</string>
+		<key>wikiSearchWord</key>
+		<string>Sargón de Acad</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Imperio de Sargón se extendía desde Elam hasta el mar Mediterráneo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>El reinado de Sargón de Acad</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89cce28-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>2100-1200 A.C.</string>
+		<key>question</key>
+		<string>¿Cómo se llama este poema épico considerado como la primera obra literaria?</string>
+		<key>correctTAnswer</key>
+		<string>Epopeya de Gilgamesh</string>
+		<key>incorrectAnswer1</key>
+		<string>Epopeya de Emmerkar</string>
+		<key>incorrectAnswer2</key>
+		<string>Epopeya de Arata</string>
+		<key>incorrectAnswer3</key>
+		<string>Epopeya de Aga</string>
+		<key>wikiSearchWord</key>
+		<string>Poema de Gilgamesh</string>
+		<key>questionTrueOrFalse</key>
+		<string>En la epopeya, Gilgamesh emprende un largo viaje para descubrir el secreto de la vida eterna.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Se escribe la Epopeya de Gilgamesh.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89cd01c-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>2100 A.C.</string>
+		<key>question</key>
+		<string>¿Cómo se llaman los templos construidos por los sumerios que creían habitados por sus dioses?</string>
+		<key>correctTAnswer</key>
+		<string>Ziggurat</string>
+		<key>incorrectAnswer1</key>
+		<string>Pirámide</string>
+		<key>incorrectAnswer2</key>
+		<string>Pagoda</string>
+		<key>incorrectAnswer3</key>
+		<string>Santuario</string>
+		<key>wikiSearchWord</key>
+		<string>Zigurat</string>
+		<key>questionTrueOrFalse</key>
+		<string>La historia bíblica de la Torre de Babel se inspira en el Zigurat de Babilonia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Construcción del gran zigurat de Ur.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89cd1f2-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>2000 A.C.</string>
+		<key>question</key>
+		<string>Según la Biblia, ¿qué ciudad de Mesopotamia es el lugar de nacimiento de Abraham?</string>
+		<key>correctTAnswer</key>
+		<string>Ur</string>
+		<key>incorrectAnswer1</key>
+		<string>Babilonia</string>
+		<key>incorrectAnswer2</key>
+		<string>Uruk</string>
+		<key>incorrectAnswer3</key>
+		<string>Assur</string>
+		<key>wikiSearchWord</key>
+		<string>Ur (Mesopotamia)</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ur o Uruk es una pronunciación diferente del nombre de la misma ciudad.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Los elamitas se apoderan de Ur. </string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89cd404-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1894 A.C.</string>
+		<key>question</key>
+		<string>Tras la destrucción de la tercera dinastía de Ur, ¿qué pueblo dominó Mesopotamia?</string>
+		<key>correctTAnswer</key>
+		<string>Imperio babilónico</string>
+		<key>incorrectAnswer1</key>
+		<string>Acadians</string>
+		<key>incorrectAnswer2</key>
+		<string>Asirios</string>
+		<key>incorrectAnswer3</key>
+		<string>Egipcios</string>
+		<key>wikiSearchWord</key>
+		<string>Babilonia (reino)</string>
+		<key>questionTrueOrFalse</key>
+		<string>El antiguo Imperio Babilónico reinó desde 1792–1595 a. C.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Surgimiento del antiguo imperio babilónico.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89cd95e-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1792 A.C.</string>
+		<key>question</key>
+		<string>Este rey babilónico es más conocido por haber publicado un código de leyes. ¿Quiénes son?</string>
+		<key>correctTAnswer</key>
+		<string>Hammurabi</string>
+		<key>incorrectAnswer1</key>
+		<string>Gilgamesh</string>
+		<key>incorrectAnswer2</key>
+		<string>Sargon</string>
+		<key>incorrectAnswer3</key>
+		<string>Ur-Nammu</string>
+		<key>wikiSearchWord</key>
+		<string>Hammurabi</string>
+		<key>questionTrueOrFalse</key>
+		<string> Hammurabi también logró separar la política de la religión</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>El rey Hammurabi sube al trono de Babilonia.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89cdbc0-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1595 A.C.</string>
+		<key>question</key>
+		<string>Vinieron de Anatolia y saquearon Babilonia en 1584 a.C. ¿Quiénes son?</string>
+		<key>correctTAnswer</key>
+		<string>Los hititas</string>
+		<key>incorrectAnswer1</key>
+		<string>Los persas</string>
+		<key>incorrectAnswer2</key>
+		<string>Los fenicios</string>
+		<key>incorrectAnswer3</key>
+		<string>Los turcos</string>
+		<key>wikiSearchWord</key>
+		<string>Historia de los hititas</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los Hititas llegaron a convertirse en una de las grandes potencias de Oriente Próximo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Los hititas saquean Babilonia.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89cdda0-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>911 A.C.</string>
+		<key>question</key>
+		<string>En Mesopotamia, ¿quiénes fueron conocidos como guerreros despiadados que gobernaron desde el siglo XIV hasta el VII a.C.?</string>
+		<key>correctTAnswer</key>
+		<string>Los asirios</string>
+		<key>incorrectAnswer1</key>
+		<string>Los egipcios</string>
+		<key>incorrectAnswer2</key>
+		<string>Hititas</string>
+		<key>incorrectAnswer3</key>
+		<string>Los romanos</string>
+		<key>wikiSearchWord</key>
+		<string>Imperio Antiguo Asirio</string>
+		<key>questionTrueOrFalse</key>
+		<string>Asiria recibía su nombre de su capital original, la antigua ciudad de Aššur</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Surgimiento del imperio neoasirio.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89cdf26-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>631 A.C.</string>
+		<key>question</key>
+		<string>¿Quién es considerado el último gran rey de Asiria?</string>
+		<key>correctTAnswer</key>
+		<string>Ashurbanipal</string>
+		<key>incorrectAnswer1</key>
+		<string>Sargon</string>
+		<key>incorrectAnswer2</key>
+		<string>Hammurabi</string>
+		<key>incorrectAnswer3</key>
+		<string>Gilgamesh</string>
+		<key>wikiSearchWord</key>
+		<string>Ashurbanipal</string>
+		<key>questionTrueOrFalse</key>
+		<string>Durante el reinado de Ashurbanipal, la cultura y el poder de Asiria alcanzaron su apogeo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Muerte de Asurbanipal</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89ce0b6-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>612 A.C.</string>
+		<key>question</key>
+		<string>¿Cuál fue el último imperio mesopotámico gobernado por mesopotámicos?</string>
+		<key>correctTAnswer</key>
+		<string>Los neobabilonios</string>
+		<key>incorrectAnswer1</key>
+		<string>Los asirios</string>
+		<key>incorrectAnswer2</key>
+		<string>Los acadios</string>
+		<key>incorrectAnswer3</key>
+		<string>Los sumerios</string>
+		<key>wikiSearchWord</key>
+		<string>Imperio neobabilónico</string>
+		<key>questionTrueOrFalse</key>
+		<string>El imperio neobabilónico duró más de 400 años.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Cae el imperio neoasirio.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89ce228-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>587 A.C.</string>
+		<key>question</key>
+		<string>¿Qué rey neobabilónico destruyó el reino de Judá y su capital, Jerusalén?</string>
+		<key>correctTAnswer</key>
+		<string>Nabucodonosor</string>
+		<key>incorrectAnswer1</key>
+		<string>Gilgamesh</string>
+		<key>incorrectAnswer2</key>
+		<string>Hammurabi</string>
+		<key>incorrectAnswer3</key>
+		<string>Sargón II</string>
+		<key>wikiSearchWord</key>
+		<string>Nabucodonosor II</string>
+		<key>questionTrueOrFalse</key>
+		<string>Nabucodonosor es recordado como un gran constructor, pero tuvo poco éxito militar.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Nabucodonosor destruye el reino de Judá.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89ce3c2-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>539 A.C.</string>
+		<key>question</key>
+		<string>¿Quién conquistó el imperio neobabilónico en el año 539 a.C.?</string>
+		<key>correctTAnswer</key>
+		<string>Los aqueménidas</string>
+		<key>incorrectAnswer1</key>
+		<string>Los griegos</string>
+		<key>incorrectAnswer2</key>
+		<string>Los romanos</string>
+		<key>incorrectAnswer3</key>
+		<string>Los hititas</string>
+		<key>wikiSearchWord</key>
+		<string>Imperio aqueménida</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Imperio Aqueménida se derrumbó, derrotado por Alejandro Magno, en el año 330 a.C.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>El imperio persa aqueménida conquista el imperio neobabilónico.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89ce732-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>484 A.C.</string>
+		<key>question</key>
+		<string>En el 484 a.C., los babilonios se rebelaron contra este rey del Imperio Persa. ¿Quién era este rey?</string>
+		<key>correctTAnswer</key>
+		<string>Jerjes I</string>
+		<key>incorrectAnswer1</key>
+		<string>Ciro el Grande</string>
+		<key>incorrectAnswer2</key>
+		<string>Darío I</string>
+		<key>incorrectAnswer3</key>
+		<string>Artajerjes II </string>
+		<key>wikiSearchWord</key>
+		<string>Revueltas de Babilonia (484 a. C.)</string>
+		<key>questionTrueOrFalse</key>
+		<string> Los reyes aqueménidas no se dejaron absorber por la cultura nativa babilónica.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Los babilonios se rebelan de nuevo contra Jerjes.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89ce8b8-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>321 A.C.</string>
+		<key>question</key>
+		<string>Tras la división del imperio de Alejandro Magno, ¿quién recibió la región de Babilonia?</string>
+		<key>correctTAnswer</key>
+		<string>Seleucus</string>
+		<key>incorrectAnswer1</key>
+		<string>Ptolomeo</string>
+		<key>incorrectAnswer2</key>
+		<string>Cassandra</string>
+		<key>incorrectAnswer3</key>
+		<string>Antigonus</string>
+		<key>wikiSearchWord</key>
+		<string>Imperio seléucida</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Imperio Seléucida nunca se extendió fuera de Mesopotamia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Seleuco recibe la región mesopotámica de Babilonia.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89cea20-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>129 A.C.</string>
+		<key>question</key>
+		<string>¿Quiénes eran los iraníes que se apoderaron de Mesopotamia en el año 129 a.C.?</string>
+		<key>correctTAnswer</key>
+		<string>Imperio parto</string>
+		<key>incorrectAnswer1</key>
+		<string>Los hititas</string>
+		<key>incorrectAnswer2</key>
+		<string>Los asirios</string>
+		<key>incorrectAnswer3</key>
+		<string>Los turcos</string>
+		<key>wikiSearchWord</key>
+		<string>Imperio parto</string>
+		<key>questionTrueOrFalse</key>
+		<string>En su apogeo, el Imperio parto se extendía desde el norte del Éufrates, en lo que ahora es el centro-este de Turquía, hasta el este de Irán.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Los partos derrotan a los seléucidas y se apoderan de Mesopotamia.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89ceb88-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>75</string>
+		<key>question</key>
+		<string>¿Qué medio se utilizaba para escribir en cuneiforme?</string>
+		<key>correctTAnswer</key>
+		<string>Tablilla de arcilla</string>
+		<key>incorrectAnswer1</key>
+		<string>Papyrus</string>
+		<key>incorrectAnswer2</key>
+		<string>Papel</string>
+		<key>incorrectAnswer3</key>
+		<string>Las tablas de piedra</string>
+		<key>wikiSearchWord</key>
+		<string>Cuneiforme</string>
+		<key>questionTrueOrFalse</key>
+		<string>Sólo la lengua sumeria utilizaba la escritura cuneiforme.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Última tablilla cuneiforme fechable</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89cece6-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>224</string>
+		<key>question</key>
+		<string>¿Quiénes fueron los neopersas que sucedieron al Imperio Parto en Mesopotamia?</string>
+		<key>correctTAnswer</key>
+		<string>El imperio sasánida</string>
+		<key>incorrectAnswer1</key>
+		<string>Los árabes</string>
+		<key>incorrectAnswer2</key>
+		<string>El Imperio Otomano</string>
+		<key>incorrectAnswer3</key>
+		<string>Los turcos</string>
+		<key>wikiSearchWord</key>
+		<string>El imperio sasánida</string>
+		<key>questionTrueOrFalse</key>
+		<string>El periodo sasánida alcanzó los mayores logros de la cultura persa.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Los sasánidas derrocan a los partos.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>c89cee4e-c347-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>651</string>
+		<key>question</key>
+		<string>En el siglo VII, conquistaron gran parte del mundo, incluyendo Mesopotamia. ¿Quiénes eran?</string>
+		<key>correctTAnswer</key>
+		<string>Los musulmanes</string>
+		<key>incorrectAnswer1</key>
+		<string>El Imperio Otomano</string>
+		<key>incorrectAnswer2</key>
+		<string>El Imperio Bizantino</string>
+		<key>incorrectAnswer3</key>
+		<string>Los vándalos</string>
+		<key>wikiSearchWord</key>
+		<string>Expansión del Islam</string>
+		<key>questionTrueOrFalse</key>
+		<string>La conquista musulmana de Mesopotamia fue lenta y duró más de cien años.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Conquista musulmana de Mesopotamia.</string>
+		<key>theme</key>
+		<string>La antigua Mesopotamia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+</array>
+</plist>

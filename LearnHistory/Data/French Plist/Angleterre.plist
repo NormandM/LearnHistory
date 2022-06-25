@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>eec86e24-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>6000 Av</string>
+		<key>question</key>
+		<string>Quand les îles britanniques se sont-elles séparées du continent européen ?</string>
+		<key>correctTAnswer</key>
+		<string>6000 Av</string>
+		<key>incorrectAnswer1</key>
+		<string>2000 Av</string>
+		<key>incorrectAnswer2</key>
+		<string>12000 Av</string>
+		<key>incorrectAnswer3</key>
+		<string>100000 Av</string>
+		<key>wikiSearchWord</key>
+		<string>Doggerland</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le Doggerland était une zone de terre, aujourd&apos;hui immergée sous la partie sud de la mer du Nord, qui reliait la Grande-Bretagne à l&apos;Europe continentale.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string> Les îles britanniques se séparent du continent européen.</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec87158-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>500 Av</string>
+		<key>question</key>
+		<string>Ils commencent à coloniser la Grande-Bretagne à partir de 500 avant J.-C. Qui sont-ils ?</string>
+		<key>correctTAnswer</key>
+		<string>Les Celtes</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Grecs</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Romains</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Goths</string>
+		<key>wikiSearchWord</key>
+		<string>Celtes</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Celtes et les Romains n&apos;ont jamais été en guerre. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Les Celtes commencent à coloniser les îles britanniques.</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec873d8-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>55 Av</string>
+		<key>question</key>
+		<string>Quel grand général a été le premier à envahir la Grande-Bretagne ?</string>
+		<key>correctTAnswer</key>
+		<string>César</string>
+		<key>incorrectAnswer1</key>
+		<string>Alexandre le Grand</string>
+		<key>incorrectAnswer2</key>
+		<string>Hannibal</string>
+		<key>incorrectAnswer3</key>
+		<string>Cyrus le Grand</string>
+		<key>wikiSearchWord</key>
+		<string>Expéditions de Jules César en Bretagne</string>
+		<key>questionTrueOrFalse</key>
+		<string>César envahit la Grande-Bretagne en 55 avant J.-C. et en 54 avant J.-C.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Premiers raids romains en Grande-Bretagne sous Jules César.</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec875cc-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>43</string>
+		<key>question</key>
+		<string>Quel empereur romain a commencé l’occupation de la Grande-Bretagne?</string>
+		<key>correctTAnswer</key>
+		<string>Claudius</string>
+		<key>incorrectAnswer1</key>
+		<string>César</string>
+		<key>incorrectAnswer2</key>
+		<string>Auguste</string>
+		<key>incorrectAnswer3</key>
+		<string>Caligula</string>
+		<key>wikiSearchWord</key>
+		<string>Conquête romaine de la Grande-Bretagne</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les romains, sous l&apos;égide de leur général Aulus Plautius, commencèrent l&apos;invasion et réussirent à pénétrer à l&apos;intérieur des terre.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Début de la domination romaine sur la Grande-Bretagne</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec877c0-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>61</string>
+		<key>question</key>
+		<string>Quelle reine, humiliée par les Romains, a mené une insurrection contre ceux-ci?</string>
+		<key>correctTAnswer</key>
+		<string>Boadicée</string>
+		<key>incorrectAnswer1</key>
+		<string>Eurydice</string>
+		<key>incorrectAnswer2</key>
+		<string>Clodia</string>
+		<key>incorrectAnswer3</key>
+		<string>Bérénice</string>
+		<key>wikiSearchWord</key>
+		<string>Boadicée</string>
+		<key>questionTrueOrFalse</key>
+		<string>Boadicée perd sa première bataille à Camulodunum.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Boadicée mène un soulèvement contre l&apos;Empire romain.</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec87c5c-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>450</string>
+		<key>question</key>
+		<string>Quelle nouvelle langue et culture a été introduite en Grande-Bretagne par les Anglo-Saxons ?</string>
+		<key>correctTAnswer</key>
+		<string>Germanique</string>
+		<key>incorrectAnswer1</key>
+		<string>Langue et culture anglaises</string>
+		<key>incorrectAnswer2</key>
+		<string>Langue et culture gaéliques</string>
+		<key>incorrectAnswer3</key>
+		<string>Langue et culture viking</string>
+		<key>wikiSearchWord</key>
+		<string>Colonisation anglo-saxonne de la Grande-Bretagne</string>
+		<key>questionTrueOrFalse</key>
+		<string>La germanisation de l&apos;Angleterre s&apos;est produite à partir du troisième siècle, avant la fin de la domination romaine en Grande-Bretagne.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Début de la colonisation anglo-saxonne de la Grande-Bretagne</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec87ef0-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>597</string>
+		<key>question</key>
+		<string>Qui est devenu le premier archevêque de Canterbury en 597 ?</string>
+		<key>correctTAnswer</key>
+		<string>Saint Augustin</string>
+		<key>incorrectAnswer1</key>
+		<string>Saint Patrick</string>
+		<key>incorrectAnswer2</key>
+		<string>Saint Georges</string>
+		<key>incorrectAnswer3</key>
+		<string>Saint André</string>
+		<key>wikiSearchWord</key>
+		<string>Augustin de Cantorbéry</string>
+		<key>questionTrueOrFalse</key>
+		<string>Saint Augustin a été envoyé pour christianiser le roi Æthelberht et son royaume du Kent du paganisme anglo-saxon.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Saint Augustin apporte le christianisme en Angleterre depuis Rome.</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec880d0-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>731</string>
+		<key>question</key>
+		<string>Qui a écrit &quot;The Ecclesiastical History of the English People&quot; ?</string>
+		<key>correctTAnswer</key>
+		<string>Bède</string>
+		<key>incorrectAnswer1</key>
+		<string>Arthur</string>
+		<key>incorrectAnswer2</key>
+		<string>Shakespeare</string>
+		<key>incorrectAnswer3</key>
+		<string>Saint Augustin</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire ecclésiastique du peuple anglais</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;histoire ecclésiastique du peuple anglais a été écrite en anglais.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Bède écrit &quot;L&apos;histoire ecclésiastique du peuple anglais&quot;. </string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec882ba-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>792</string>
+		<key>question</key>
+		<string>Jusqu’à quel siècle s’est poursuivie l’activité des Vikings en Angleterre?</string>
+		<key>correctTAnswer</key>
+		<string>11ème siècle</string>
+		<key>incorrectAnswer1</key>
+		<string>9ème siècle</string>
+		<key>incorrectAnswer2</key>
+		<string>15ème siècle</string>
+		<key>incorrectAnswer3</key>
+		<string>13ème siècle</string>
+		<key>wikiSearchWord</key>
+		<string>Activité des Vikings dans les îles britanniques</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Vikings sont présents dans les îles Britanniques dès le 5e siècle.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Début des raids vikings en Grande-Bretagne</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec88490-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>878</string>
+		<key>question</key>
+		<string>Quel est le nom de la victoire décisive d&apos;Alfred le Grand contre les Vikings en 878 ?</string>
+		<key>correctTAnswer</key>
+		<string>Ethandun</string>
+		<key>incorrectAnswer1</key>
+		<string>Buttington</string>
+		<key>incorrectAnswer2</key>
+		<string>Tettenhall</string>
+		<key>incorrectAnswer3</key>
+		<string>Bedanford</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille d&apos;Ethandun</string>
+		<key>questionTrueOrFalse</key>
+		<string>Malgré la signature du traité de Wedmore, puis du traité entre Alfred et Guthrum, l&apos;état de guerre se maintint entre Danois et Anglo-Saxons.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Bataille d&apos;Ethandun</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec8868e-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1016</string>
+		<key>question</key>
+		<string>C&apos;était un prince danois qui est devenu roi d&apos;Angleterre en 1016. Qui est-il ?</string>
+		<key>correctTAnswer</key>
+		<string>Knut</string>
+		<key>incorrectAnswer1</key>
+		<string>Ragnar</string>
+		<key>incorrectAnswer2</key>
+		<string>Sigfred</string>
+		<key>incorrectAnswer3</key>
+		<string>Harald</string>
+		<key>wikiSearchWord</key>
+		<string>Knut le Grand</string>
+		<key>questionTrueOrFalse</key>
+		<string>Knut est devenu roi d&apos;Angleterre mais n&apos;a jamais été roi du Danemark.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Le roi Cnut du Danemark s&apos;empare de la couronne d&apos;Angleterre.</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec889fe-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1066</string>
+		<key>question</key>
+		<string>Quel est le nom du duc de Normandie qui a envahi l’Angleterre en 1086?</string>
+		<key>correctTAnswer</key>
+		<string>Guillaume le Conquérant</string>
+		<key>incorrectAnswer1</key>
+		<string>Robert le Grand</string>
+		<key>incorrectAnswer2</key>
+		<string>François Ier</string>
+		<key>incorrectAnswer3</key>
+		<string>Louis XIII</string>
+		<key>wikiSearchWord</key>
+		<string>Conquête normande</string>
+		<key>questionTrueOrFalse</key>
+		<string>Guillaume le Conquérant n&apos;a jamais régné sur l&apos;Angleterre après l&apos;invasion.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>La conquête normande sous Guillaume le Conquérant</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec88c42-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1154</string>
+		<key>question</key>
+		<string>Elle fut successivement reine de France et reine d&apos;Angleterre. Qui est-elle ?</string>
+		<key>correctTAnswer</key>
+		<string>Aliénor d&apos;Aquitaine</string>
+		<key>incorrectAnswer1</key>
+		<string>Marie Antoinette</string>
+		<key>incorrectAnswer2</key>
+		<string>Marie I</string>
+		<key>incorrectAnswer3</key>
+		<string>Elizabeth I</string>
+		<key>wikiSearchWord</key>
+		<string>Aliénor d&apos;Aquitaine</string>
+		<key>questionTrueOrFalse</key>
+		<string>Malgré le fait qu&apos;elle était reine de France et d&apos;Angleterre, elle n&apos;a jamais eu de réel pouvoir</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Aliénor d&apos;Aquitaine devient reine consort d&apos;Angleterre.</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec88e04-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1167</string>
+		<key>question</key>
+		<string>Fondée en 1167, c&apos;est la première université de langue anglaise.</string>
+		<key>correctTAnswer</key>
+		<string>Oxford</string>
+		<key>incorrectAnswer1</key>
+		<string>Cambridge</string>
+		<key>incorrectAnswer2</key>
+		<string>St Andrews</string>
+		<key>incorrectAnswer3</key>
+		<string>Glasgow</string>
+		<key>wikiSearchWord</key>
+		<string>Université d&apos;Oxford</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le roi Henri, pour promouvoir l’Université d’Oxford, interdit aux étudiants anglais de suivre les cours de l’université de Paris.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Création de l&apos;université d&apos;Oxford</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec88fe4-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1204</string>
+		<key>question</key>
+		<string>Quel roi a perdu la plupart terres françaises au profit de Philippe II de France?</string>
+		<key>correctTAnswer</key>
+		<string>Roi Jean</string>
+		<key>incorrectAnswer1</key>
+		<string>Le roi Richard Ier</string>
+		<key>incorrectAnswer2</key>
+		<string>Roi Henri III</string>
+		<key>incorrectAnswer3</key>
+		<string>Roi Edward I</string>
+		<key>wikiSearchWord</key>
+		<string>Jean, roi d&apos;Angleterre</string>
+		<key>questionTrueOrFalse</key>
+		<string>La révolte baronniale à la fin du règne de Jean a conduit au scellement de la Magna Carta</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Le roi Jean perd la province de Normandie au profit de la France.</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec8934a-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1215</string>
+		<key>question</key>
+		<string>Cette charte, signée en 1215, établit les droits de l&apos;individu contre le pouvoir du roi. Comment s&apos;appelle-t-elle ?</string>
+		<key>correctTAnswer</key>
+		<string>Magna Carta</string>
+		<key>incorrectAnswer1</key>
+		<string>La déclaration des droits</string>
+		<key>incorrectAnswer2</key>
+		<string>Thr Constitution</string>
+		<key>incorrectAnswer3</key>
+		<string>La loi sur la liberté</string>
+		<key>wikiSearchWord</key>
+		<string>Magna Carta</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Grande Charte a été rédigée pour faire la paix entre le roi impopulaire et un groupe de barons rebelles.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Signature de la Magna Carta</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec89548-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1349</string>
+		<key>question</key>
+		<string>En 1349-50, la peste noire a tué quel pourcentage de la population anglaise ?</string>
+		<key>correctTAnswer</key>
+		<string>50%</string>
+		<key>incorrectAnswer1</key>
+		<string>10%</string>
+		<key>incorrectAnswer2</key>
+		<string>20%</string>
+		<key>incorrectAnswer3</key>
+		<string>70%</string>
+		<key>wikiSearchWord</key>
+		<string>La peste noire</string>
+		<key>questionTrueOrFalse</key>
+		<string>Il n’y a eu qu’une pandémie de peste.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>La peste noire tue la moitié de la population</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec89728-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1453</string>
+		<key>question</key>
+		<string>Quel pays a gagné la guerre de Cent Ans ?</string>
+		<key>correctTAnswer</key>
+		<string>France</string>
+		<key>incorrectAnswer1</key>
+		<string>Angleterre</string>
+		<key>incorrectAnswer2</key>
+		<string>Norvège</string>
+		<key>incorrectAnswer3</key>
+		<string>Espagne</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre de Cent Ans</string>
+		<key>questionTrueOrFalse</key>
+		<string>Il n&apos;y a pas eu de trêves pendant la guerre de Cent Ans</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Fin de la guerre de Cent Ans</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec898ea-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1455</string>
+		<key>question</key>
+		<string>Quel est le nom de guerres civiles au 15ème siècle entre deux branches des Plantagenêt ?</string>
+		<key>correctTAnswer</key>
+		<string>Guerre des Roses</string>
+		<key>incorrectAnswer1</key>
+		<string>La guerre de cent ans</string>
+		<key>incorrectAnswer2</key>
+		<string>La guerre de 30 ans</string>
+		<key>incorrectAnswer3</key>
+		<string>Les guerres civiles</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre des Deux-Roses</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;affrontement des deux lignées, issues de la maison Plantagenêt, signe la fin de celle-ci et son remplacement par la maison Tudor.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Début de la guerre des Roses</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec89dea-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1509</string>
+		<key>question</key>
+		<string>Deux mois après être devenu roi, Henri VIII a épousé la veuve de son frère. Quel était son nom ?</string>
+		<key>correctTAnswer</key>
+		<string>Catherine d&apos;Aragon</string>
+		<key>incorrectAnswer1</key>
+		<string>Isabella</string>
+		<key>incorrectAnswer2</key>
+		<string>Marie Antoinette</string>
+		<key>incorrectAnswer3</key>
+		<string>Aliénor d&apos;Aquitaine</string>
+		<key>wikiSearchWord</key>
+		<string>Catherine d&apos;Aragon</string>
+		<key>questionTrueOrFalse</key>
+		<string>Catherine d&apos;Aragon était française</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Catherine d’Aragon marie Henri VIII.</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec89ffc-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1528</string>
+		<key>question</key>
+		<string>Henri VIII fait appel au pape pour annuler son mariage. Qui voulait-il épouser à la place ?</string>
+		<key>correctTAnswer</key>
+		<string>Anne Boleyn</string>
+		<key>incorrectAnswer1</key>
+		<string>Elizabeth</string>
+		<key>incorrectAnswer2</key>
+		<string>Marie</string>
+		<key>incorrectAnswer3</key>
+		<string>Aliénor d&apos;Aquitaine</string>
+		<key>wikiSearchWord</key>
+		<string>Anne Boleyn</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ann Boleyn est la dernière épouse d&apos;Henri VIII</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Henri VIII fait appel au pape pour annuler son mariage.</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec8a1dc-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1543</string>
+		<key>question</key>
+		<string>Combien de fois Henri VIII s&apos;est-il marié ?</string>
+		<key>correctTAnswer</key>
+		<string>6</string>
+		<key>incorrectAnswer1</key>
+		<string>4</string>
+		<key>incorrectAnswer2</key>
+		<string>8</string>
+		<key>incorrectAnswer3</key>
+		<string>3</string>
+		<key>wikiSearchWord</key>
+		<string>Henri VIII</string>
+		<key>questionTrueOrFalse</key>
+		<string>Henri VIII était déjà protestant lorsqu&apos;il a lancé la réforme de l&apos;Angleterre ?</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Henri VIII épouse Catherine Parr, son sixième mariage.</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec8a3a8-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1553</string>
+		<key>question</key>
+		<string>Elle fut la première femme à être couronnée monarque d&apos;Angleterre à part entière&quot; Qui est-elle ?</string>
+		<key>correctTAnswer</key>
+		<string>Marie Tudor</string>
+		<key>incorrectAnswer1</key>
+		<string>Elizabeth I</string>
+		<key>incorrectAnswer2</key>
+		<string>Catherine d&apos;Aragon</string>
+		<key>incorrectAnswer3</key>
+		<string>Aliénor d&apos;Aquitaine</string>
+		<key>wikiSearchWord</key>
+		<string>Marie Ire (reine d&apos;Angleterre)</string>
+		<key>questionTrueOrFalse</key>
+		<string>Marie Tudor était également connue sous le nom de Bloody Mary.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Marie Tudor devient reine d&apos;Angleterre.</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec8a57e-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1587</string>
+		<key>question</key>
+		<string>Elle était reine d&apos;Écosse et a été exécutée après avoir été reconnue coupable de trahison. Qui est-elle ?</string>
+		<key>correctTAnswer</key>
+		<string>Marie Stuart</string>
+		<key>incorrectAnswer1</key>
+		<string>Jeanne de Navarre</string>
+		<key>incorrectAnswer2</key>
+		<string>Marguerite d&apos;Anjou</string>
+		<key>incorrectAnswer3</key>
+		<string>Catherine de Valois</string>
+		<key>wikiSearchWord</key>
+		<string>Marie, reine d&apos;Écosse</string>
+		<key>questionTrueOrFalse</key>
+		<string>Marie Stuart a passé dix-huit ans et demi en captivité avant d&apos;être décapitée.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Marie Stuart (Marie Ier d&apos;Écosse) est exécutée.</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec8a704-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1642</string>
+		<key>question</key>
+		<string>En 1642, une guerre civile commence. Qui étaient les parties impliquées dans cette guerre ?</string>
+		<key>correctTAnswer</key>
+		<string> Royaliste et parlementaire</string>
+		<key>incorrectAnswer1</key>
+		<string>Irlande et Angleterre</string>
+		<key>incorrectAnswer2</key>
+		<string>Irlande et Ecosse</string>
+		<key>incorrectAnswer3</key>
+		<string>Ecosse et Irlande</string>
+		<key>wikiSearchWord</key>
+		<string>Première révolution anglaise</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerre s&apos;est terminée par la victoire des royalistes à la bataille de Worcester le 3 septembre 1651.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Début de la guerre civile anglaise</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec8aab0-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1649</string>
+		<key>question</key>
+		<string>Après l&apos;exécution de ce roi d&apos;Angleterre, la monarchie a été abolie. Qui est-il ?</string>
+		<key>correctTAnswer</key>
+		<string>Charles Ier</string>
+		<key>incorrectAnswer1</key>
+		<string>Louis XVI</string>
+		<key>incorrectAnswer2</key>
+		<string>Edward</string>
+		<key>incorrectAnswer3</key>
+		<string>Edgar</string>
+		<key>wikiSearchWord</key>
+		<string>Charles Ier d&apos;Angleterre</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le roi Charles Ier a refusé les demandes de ses ravisseurs en faveur d&apos;une monarchie constitutionnelle.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Le roi Charles Ier est exécuté pour haute trahison.</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec8acb8-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1653</string>
+		<key>question</key>
+		<string>À partir de 1653, il règne en tant que Lord Protecteur de l&apos;Angleterre. Qui est-il ?</string>
+		<key>correctTAnswer</key>
+		<string>Oliver Cromwell</string>
+		<key>incorrectAnswer1</key>
+		<string>Henry Ireton</string>
+		<key>incorrectAnswer2</key>
+		<string>John Pym</string>
+		<key>incorrectAnswer3</key>
+		<string>Jean Hampden</string>
+		<key>wikiSearchWord</key>
+		<string>Oliver Cromwell</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cromwell ne fait pas partie des signataires de l&apos;arrêt de mort de Charles Ier.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Cromwell est nommé Lord Protecteur.</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec8ae70-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1688</string>
+		<key>question</key>
+		<string>Qui est devenu roi après la Glorieuse Révolution et le renversement du roi Jacques II ?</string>
+		<key>correctTAnswer</key>
+		<string>Guillaume d&apos;Orange</string>
+		<key>incorrectAnswer1</key>
+		<string>Charles II</string>
+		<key>incorrectAnswer2</key>
+		<string>Jacques II</string>
+		<key>incorrectAnswer3</key>
+		<string>Guillaume II</string>
+		<key>wikiSearchWord</key>
+		<string>La Glorieuse Révolution</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Glorieuse Révolution a duré plus de 10 ans.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>La Glorieuse Révolution</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec8b082-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1805</string>
+		<key>question</key>
+		<string>En 1805, Lord Nelson vainc Napoléon. Quel était le nom de la bataille ?</string>
+		<key>correctTAnswer</key>
+		<string>Bataille de Trafalgar</string>
+		<key>incorrectAnswer1</key>
+		<string>Bataille de Waterloo</string>
+		<key>incorrectAnswer2</key>
+		<string>Bataille d&apos;Iena</string>
+		<key>incorrectAnswer3</key>
+		<string>Bataille d&apos;Austerlitz</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de Trafalgar</string>
+		<key>questionTrueOrFalse</key>
+		<string>Nelson y trouve la mort, mais la victoire des Britanniques est totale.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Bataille de Trafalgar</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec8b3d4-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1837</string>
+		<key>question</key>
+		<string>En 1837, elle devient reine à l&apos;âge de 18 ans. Qui est-elle ?</string>
+		<key>correctTAnswer</key>
+		<string>La reine Victoria</string>
+		<key>incorrectAnswer1</key>
+		<string>La reine Elizabeth I</string>
+		<key>incorrectAnswer2</key>
+		<string>La reine Marie</string>
+		<key>incorrectAnswer3</key>
+		<string>Reine Elizabeth II</string>
+		<key>wikiSearchWord</key>
+		<string>La reine Victoria</string>
+		<key>questionTrueOrFalse</key>
+		<string>Après la mort d&apos;Albert en 1861, Victoria sombra dans une profonde dépression et se retira de la vie publique.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Victoria devient reine</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>eec8b58c-b8fa-11ec-8422-0242ac120002</string>
+		<key>date</key>
+		<string>1952</string>
+		<key>question</key>
+		<string>Qui est le roi ou la reine qui a régné le plus longtemps au Royaume-Uni ?</string>
+		<key>correctTAnswer</key>
+		<string>Elizabeth II</string>
+		<key>incorrectAnswer1</key>
+		<string>Victoria</string>
+		<key>incorrectAnswer2</key>
+		<string>Elizabeth I</string>
+		<key>incorrectAnswer3</key>
+		<string>Henry VIII</string>
+		<key>wikiSearchWord</key>
+		<string>Elizabeth II</string>
+		<key>questionTrueOrFalse</key>
+		<string>Elle a été mariée 73 ans au prince Philip.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Elizabeth II devient reine.</string>
+		<key>theme</key>
+		<string>Angleterre</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>31</integer>
+	</dict>
+</array>
+</plist>

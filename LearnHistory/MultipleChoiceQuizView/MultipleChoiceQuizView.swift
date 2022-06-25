@@ -1,57 +1,105 @@
 //
 //  ContentView.swift
-//  FirstQuizTest
+//  FirstQuizTestw
 //
 //  Created by Normand Martin on 2021-11-03.
 //
 
 import SwiftUI
 import AVFoundation
+import ActivityIndicatorView
+
 
 struct MultipleChoiceQuizView: View {
+    @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
+    @Environment(\.managedObjectContext) var moc
+    @Environment(\.scenePhase) var scenePhase
+    var deviceHeight: CGFloat {
+        UIScreen.main.bounds.height
+    }
+    var deviceWidth: CGFloat {
+        UIScreen.main.bounds.width
+    }
+    
+    @FetchRequest var fetchRequest: FetchedResults<HistoricalEvent>
     @State private var buttonFlipped = [false, false,false, false]
-    @State private var allFlipped = false
     @State private  var buttonIsVisible = [true, true, true, true]
-    @StateObject var questionViewModel = QuestionViewModel()
     @State private var coins = UserDefaults.standard.integer(forKey: "coins")
     @State private  var indexOfQuestion = UserDefaults.standard.integer(forKey: "indexOfQuestion")
     @State private  var buttonTitles = ["", "", "", ""]
     @State private  var textForQuestion = ""
-    @State private var numberOfTries = 0
     var soundPlayer = SoundPlayer.shared
     @State private var soundState = "speaker.slash"
-    @State private var isCardViewQuiz = false
     @State private var questionSection = QuestionSection.multipleChoiceQuestionNotAnswered
     @State private var isFlippedLeft = false
     @State private var isFlippedRight = false
-
+    var selectedTheme: String
+    @StateObject var questionViewModel: QuestionViewModel
+    @ObservedObject var monitor = NetworkMonitor()
+    @State private var showAlertSheet = false
+    @State private var imageIsLoading = false
+    @State private var hintDemanded = false
+    @State private var identifyButtonRightAnswer = false
+    @State private var nextButtonIsVisible = false
+    @State private var progressNumber = CGFloat()
+    @State private var numberOfAnswers = 0
+    @State private var progressionMessage = ProgressionMessage.inProgress
+    @State private var showAlertQuizExit = false
+    @State private var hintButtonIsVisible = true
+    @State private var score = 0.0
+    @State private var answerIsGood = true
+    @State private var startOver = false
+    @State private var showAlertOutOfCoins = false
+    @State private var viewOpacity = 0.0
+    @State private var message = String()
+    @State private var fromNoCoinsView = false
+    let numberOfQuestion: Int
+    init (selectedTheme: String) {
+        self.selectedTheme = selectedTheme
+        let allEvents = Bundle.main.decode([Event].self, from: selectedTheme)
+        self._questionViewModel = StateObject(wrappedValue: QuestionViewModel(allEvents: allEvents))
+        _fetchRequest = FetchRequest<HistoricalEvent>(sortDescriptors: [
+            NSSortDescriptor(keyPath: \HistoricalEvent.order, ascending: true)
+        ],predicate: NSPredicate(format: "theme == %@", selectedTheme))
+        self.numberOfQuestion = allEvents.count
+        
+    }
+    
     var body: some View {
-        GeometryReader{ geo in
-            VStack {
-                NavigationLink(destination: CardQuizView(), isActive: $isCardViewQuiz) { EmptyView() }
-                Spacer()
-                switch questionSection {
-                case .multipleChoiceQuestionNotAnswered:
-                    Text(textForQuestion)
-                        .font(.title)
-                        .foregroundColor(.white)
-                        .multilineTextAlignment(.center)
-                        .border(.white, width: 2)
-                    Spacer()
-                    FlipView(isFlipped: allFlipped) {
+        if UserDefaults.standard.double(forKey: selectedTheme) == 1.0 && !startOver {
+            AlreadyAnExpertView(theme: selectedTheme, startOver: $startOver)
+                .transition(.asymmetric(insertion: .slide, removal: .scale))
+                .background(Color.black)
+        }else{
+            ZStack{
+                Color.black
+                    .ignoresSafeArea()
+                VStack {
+                    switch questionSection {
+                    case .multipleChoiceQuestionNotAnswered:
+                        Spacer()
+                        Text(textForQuestion)
+                            .font(.headline)
+                            .fontWeight(.bold)
+                            .foregroundColor(.white)
+                            .multilineTextAlignment(.center)
+                            .padding()
+                        
+                        Spacer()
                         LazyVGrid(columns: [GridItem(), GridItem()]){
                             ForEach((0..<4)){buttonIndex in
                                 FlipView(isFlipped: buttonFlipped[buttonIndex]) {
                                     Button{
                                         evaluateAnswer(buttonTitle: questionViewModel.buttonTitles[buttonIndex], buttonIndex: buttonIndex)
                                     }label: {
-                                        QuizButtonTextModifier( buttonTitle: buttonTitles[buttonIndex])
+                                        QuizButtonTextModifier( buttonTitle: buttonTitles[buttonIndex], identifyButtonRightAnswer: identifyButtonRightAnswer)
                                             .animation(.easeIn(duration: 1.0))
                                     }
+                                    .disabled(identifyButtonRightAnswer)
                                     .padding(.leading)
                                     .padding(.trailing)
                                 } back: {
-                                    QuizButtonTextModifier2(title: "")
+                                    QuizButtonTextModifier2(title: buttonTitles[buttonIndex], hintDemanded: hintDemanded)
                                         .padding(.leading)
                                         .padding(.trailing)
                                 }
@@ -59,82 +107,222 @@ struct MultipleChoiceQuizView: View {
                                 .animation(.spring(response: 0.7, dampingFraction: 0.7))
                             }
                         }
-                    } back : {
-                        AllButtonsView()
-                    }
-                    .animation(.spring(response: 0.7, dampingFraction: 0.7))
-                case .multipleChoiceQuestionAnsweredCorrectly:
-                    WiKiView(wikiSearch: questionViewModel.wikiSearchWord, questionSection: questionSection)
-                        .frame(width: geo.size.width, height: geo.size.height * 0.8, alignment: .center)
-                        .border(.white, width: 2)
-                case .trueOrFalseQuestionDisplayed:
-                    WiKiView(wikiSearch: questionViewModel.wikiSearchWord, questionSection: questionSection)
-                        .frame(width: geo.size.width, height: geo.size.height * 0.4, alignment: .center)
-                    TrueOrFalseQuizView(isCardViewQuiz: $isCardViewQuiz, isFlippedLeft: $isFlippedLeft, isFlippedRight: $isFlippedRight, soundState: soundState)
-                        .frame(width: geo.size.width, height: geo.size.height * 0.4, alignment: .center)
-                        .border(.green, width: 2)
-                }
-                VStack {
-                    Button{
-                        determineQuizSection()
-                        if isFlippedLeft || isFlippedRight || allFlipped {
-                            initialiseForQuestion()
-                            
+                        .animation(.spring(response: 0.7, dampingFraction: 0.7))
+                        
+                    case .multipleChoiceQuestionAnsweredIncorrectly:
+                        CustomProgressViewUser(progress: progressNumber, theme: selectedTheme, progressionMessage: progressionMessage, numberOfAnswers: numberOfAnswers, numberOfQuestions: numberOfQuestion, score: score, answerIsGood: false)
+                            .frame(height: progressNumber >= 1.0 ? deviceHeight : deviceHeight * 0.80)
+                        
+                    case .multipleChoiceQuestionAnsweredCorrectly:
+                        ZStack {
+                            WiKiView(imageIsLoading: $imageIsLoading, wikiSearch: questionViewModel.wikiSearchWord, questionSection: questionSection)
+                                .frame(width: deviceWidth, height: deviceHeight * 0.7, alignment: .center)
+                                .onAppear{
+                                    hintDemanded = false
+                                }
                         }
-                    }label: {
-                        Text(isFlippedLeft || isFlippedRight || allFlipped ? "Back" : "Next")
-                            .font(.title)
-                            .opacity(nextButtonIsVisible() ? 1 : 0)
-                    }
-                    .frame( maxWidth: .infinity)
-                    .foregroundColor(.white)
-                    .background(Color.black)
-                    Button{
-                        hintManagement()
-                    }label:{
-                        Text("Hints     Coins available: \(UserDefaults.standard.integer(forKey: "coins"))")
-                    }
-                    .frame( maxWidth: .infinity)
-                    .foregroundColor(.white)
-                    .background(ColorReference.darkGreen)
-                    .cornerRadius(15)
-                    .padding()
-                    .padding(.bottom)
+                        .alert(isPresented: $showAlertSheet) {
+                            Alert(
+                                title: Text("No Internet Connection"),
+                                message: Text("The information cannot be displayed"),
+                                dismissButton: .default(Text("Ok"), action:  {
+                                    questionSection = .trueOrFalseQuestionDisplayed
+                                })
+                            )
+                        }
+                    case .trueOrFalseQuestionDisplayed:
+                        if monitor.isConnected {
+                            WiKiView( imageIsLoading: $imageIsLoading, wikiSearch: questionViewModel.wikiSearchWord, questionSection: questionSection)
+                                .frame(width: deviceWidth, height: deviceHeight * 0.35, alignment: .center)
+                        }
+                        
+                        TrueOrFalseQuizView(isFlippedLeft: $isFlippedLeft, isFlippedRight: $isFlippedRight, nextButtonIsVisible: $nextButtonIsVisible, questionSection: $questionSection, soundPlayer: soundPlayer,  soundState: soundState, selectedTheme: selectedTheme, questionViewModel: questionViewModel, hintDemanded: $hintDemanded, fetchRequest: _fetchRequest)
 
+                    case .trueOrFalseHint:
+                        WiKiView(imageIsLoading: $imageIsLoading, wikiSearch: questionViewModel.wikiSearchWord, questionSection: questionSection)
+                            .frame(width: deviceWidth, height: deviceHeight * 0.70, alignment: .center)
+                            .alert(isPresented: $showAlertSheet) {
+                                Alert(
+                                    title: Text("No Internet Connection"),
+                                    message: Text("Hints cannot be displayed"),
+                                    dismissButton: .default(Text("Ok"), action:  {
+                                        questionSection = .trueOrFalseQuestionDisplayed
+                                    })
+                                )
+                            }
+                    case .trueOrFalseAnsweredIncorrectly:
+                        CustomProgressViewUser(progress: progressNumber, theme: selectedTheme, progressionMessage: progressionMessage, numberOfAnswers: numberOfAnswers, numberOfQuestions: numberOfQuestion, score: score, answerIsGood: false)
+                            .frame(height: progressNumber >= 1.0 ? deviceHeight : deviceHeight * 0.80)
+                    case .showQuizStatusPage:
+                        CustomProgressViewUser(progress: progressNumber, theme: selectedTheme, progressionMessage: progressionMessage, numberOfAnswers: numberOfAnswers, numberOfQuestions: numberOfQuestion, score: score, answerIsGood: answerIsGood)
+                            .frame(height: progressNumber >= 1.0 ? deviceHeight : deviceHeight * 0.75)
+                        
+                    case .showCardView:
+                        CardQuizView(initialiseForQuestion: initialiseForQuestion, answerIsGood: $answerIsGood ,questionSection: $questionSection, hintDemanded: $hintDemanded, selectedTheme: selectedTheme, questionViewModel: questionViewModel, numberOfQuestion: numberOfQuestion, nextButtonVisible: $nextButtonIsVisible, hintButtonIsVisible: $hintButtonIsVisible, numberOfAnswers: $numberOfAnswers, progressionMessage: $progressionMessage, progressNumber: $progressNumber, score: $score, coins: $coins, soundState: soundState, viewOpacity: $viewOpacity)
+                    case .showNoCoinsView:
+                        NoCoinsView(selectedTheme: selectedTheme, questionSection: $questionSection, hintButtonIsVisible: $hintButtonIsVisible, fromNoCoinsView: $fromNoCoinsView)
+                            .frame(width: deviceHeight > deviceWidth ?  deviceHeight * 0.4 : deviceHeight * 0.6, height: deviceHeight > deviceWidth ? deviceHeight * 0.5 : deviceHeight * 0.6, alignment: .center)
+                            .cornerRadius(20)
+                            .opacity(viewOpacity)
+                    case .showCoinMangementView:
+                        CoinManagementView(questionSection: $questionSection, coins: $coins, nextButtonIsVisible: $nextButtonIsVisible, hintButtonIsVisible: $hintButtonIsVisible, fromNocoinsView: $fromNoCoinsView)
+                    }
+                    
+                    
+                    VStack {
+                        if nextButtonIsVisible {
+                            Button{
+                                determineQuizSection()
+                                coins =  UserDefaults.standard.integer(forKey: "coins")
+                                if coins < 0 {
+                                    questionSection = .showNoCoinsView
+                                    hintButtonIsVisible = false
+                                    nextButtonIsVisible = false
+                                    withAnimation(Animation.linear(duration: 2.0)) {
+                                        viewOpacity = 1.0
+                                    }
+                                }
+                                
+                            }label: {
+                                if isFlippedLeft || isFlippedRight || identifyButtonRightAnswer || !answerIsGood {
+                                    Image(systemName: "arrow.left")
+                                        .font(.title)
+                                }else{
+                                    Image(systemName: "arrow.right")
+                                        .font(.title)
+                                }
+                            }
+                            .buttonStyle(ArrowButton())
+                            .zIndex(1.0)
+                            .padding()
+                        }
+                        Button{
+                            
+                            if coins < 1 {
+                                questionSection = .showNoCoinsView
+                                hintButtonIsVisible = false
+                                withAnimation(Animation.linear(duration: 2.0)) {
+                                    viewOpacity = 1.0
+                                }
+                                
+                            }else{
+                                hintManagement()
+                            }
+                            coins = UserDefaults.standard.integer(forKey: "coins")
+                        }label:{
+                            HStack {
+                                if !hintDemanded && !identifyButtonRightAnswer {Text("Hints")}
+                                Text("Coins available: \(coins)")
+                                    .padding(.leading)
+                                    .foregroundColor(hintDemanded || identifyButtonRightAnswer ? .black : .white)
+                            }
+                        }
+                        .disabled(hintDemanded || identifyButtonRightAnswer)
+                        .padding(10)
+                        .frame( maxWidth: .infinity)
+                        .foregroundColor(.white)
+                        .background(hintDemanded || identifyButtonRightAnswer ? ColorReference.lightGreen : ColorReference.darkGreen)
+                        .cornerRadius(15)
+                        .padding()
+                        .padding(.bottom)
+                        .opacity(hintButtonIsVisible  ? 1 : 0)
+                        .zIndex(0.5)
+                    }
+                    
                 }
-                .background(Color.black)
-            }
-            .onAppear{
-                initialiseForQuestion()
-                if let soundStateTrans = UserDefaults.standard.string(forKey: "soundState"){
-                    soundState = soundStateTrans
+                .toolbar{
+                    Button{
+                        soundState = SoundOption.soundOnOff()
+                    }label: {
+                        Image(systemName: soundState)
+                    }
+                }
+                .navigationTitle(selectedTheme)
+                .navigationBarTitleDisplayMode(.inline)
+                .frame(maxHeight: .infinity)
+                .navigationBarBackButtonHidden(true)
+                .navigationBarItems(leading: Button(action : {
+                    showAlertQuizExit = true
+                }){
+                    if fromNoCoinsView {
+                        Text("")
+                    }else{
+                        Image(systemName: "chevron.left")
+                            .foregroundColor(.white)
+                            .padding()
+                    }
+
+                })
+                .onChange(of: scenePhase) {newPhase in
+                    if newPhase == .inactive {
+                        print("is incative")
+                    }
+                    if newPhase == .active {
+                        print("active")
+                    }
+                    if newPhase == .background {
+                        print("in background")
+                        EraseQuizResult.erase(fetchRequest: fetchRequest, theme: selectedTheme)
+                    }
+                }
+                .onAppear{
+                    if numberOfAnswers == 0 {
+                        EraseQuizResult.erase(fetchRequest: fetchRequest, theme: selectedTheme)
+                    }
+                    hintDemanded = false
+                    nextButtonIsVisible = false
+                    identifyButtonRightAnswer = false
+                    initialiseForQuestion()
+                    if let soundStateTrans = UserDefaults.standard.string(forKey: "soundState"){
+                        soundState = soundStateTrans
+                    }
+                    if !monitor.isConnected {
+                        print("is not connected")
+                        showAlertSheet = true
+                        imageIsLoading = false
+                    }else{
+                        imageIsLoading = true
+                        DispatchQueue.main.asyncAfter(deadline: .now() + 5.0) {
+                            imageIsLoading = false
+                        }
+                        
+                    }
+                }
+                .alert(isPresented: $showAlertQuizExit) {
+                    Alert(
+                        title: Text("Are you sure you want to exit without finishing the Quiz?"),
+                        message: Text("It will reset the quiz"),
+                        primaryButton: .destructive(Text("Exit")) {
+                            EraseQuizResult.erase(fetchRequest: fetchRequest, theme: selectedTheme)
+                            if UserDefaults.standard.double(forKey: selectedTheme) < score {
+                                UserDefaults.standard.set(score, forKey: selectedTheme)
+                            }
+                            
+                            presentationMode.wrappedValue.dismiss()
+                        },
+                        secondaryButton: .cancel()
+                    )
                 }
             }
-            .toolbar{
-                Button{
-                    soundState = SoundOption.soundOnOff()
-                }label: {
-                    Image(systemName: soundState)
-                }
-            }
-            .navigationTitle("French History")
-            .navigationBarTitleDisplayMode(.inline)
-            .frame(maxHeight: .infinity)
-            .background(Color.black)
-            .edgesIgnoringSafeArea(.all)
         }
     }
     
-    
     // MARK: FUNCTIONS
     func evaluateAnswer(buttonTitle: String, buttonIndex: Int)  {
+        nextButtonIsVisible = true
         determineQuizSection()
         if buttonTitle == questionViewModel.correctAnswer {
-            coins =  coins + Coins.goodAnswer
-            UserDefaults.standard.set(coins, forKey: "coins")
+            //GoodAnswer.add()
             questionSection = .multipleChoiceQuestionAnsweredCorrectly
             soundPlayer.playSound(soundName: "chime_clickbell_octave_up", type: "mp3", soundState: soundState)
-            textForQuestion = questionViewModel.wikiSearchWord
+                textForQuestion = questionViewModel.wikiSearchWord
+        
+            
+            if !monitor.isConnected {
+                imageIsLoading = false
+            }else{
+                imageIsLoading = true
+            }
             switch buttonIndex {
             case 0:
                 buttonIsVisible = [true, false, false, false]
@@ -148,76 +336,163 @@ struct MultipleChoiceQuizView: View {
                 buttonIsVisible = [false, false, false, false]
             }
         }else{
+            for event in fetchRequest{
+                if event.wrappedId == questionViewModel.id {
+                    event.numberOfBadAnswersQuiz = event.numberOfBadAnswersQuiz + 1
+                    try? moc.save()
+                }
+            }
             soundPlayer.playSound(soundName: "etc_error_drum", type: "mp3", soundState: soundState)
-            coins = coins + Coins.badAnswer
-            UserDefaults.standard.set(coins,forKey: "coins")
+            identifyButtonRightAnswer = true
+            if hintDemanded {
+                BadAnswer1.substract()
+            }else{
+                BadAnswer2.substract()
+            }
             buttonFlipped[buttonIndex] = true
-            numberOfTries += 1
-            testButtonVisible()
+            var indexForButton = [0, 1, 2 ,3]
+            indexForButton.remove(at: buttonIndex)
+            for index in indexForButton  {
+                if buttonTitles[index] == questionViewModel.correctAnswer {
+                    buttonIsVisible[index] = true
+                    identifyButtonRightAnswer = true
+                }else{
+                    buttonIsVisible[index] = false
+                }
+            }
         }
     }
-    func testButtonVisible(){
-        if numberOfTries >= 3 {
-            allFlipped = true
-            
-        }
-    }
+    
     func initialiseForQuestion() {
         questionViewModel.increment()
+        hintDemanded = false
+        identifyButtonRightAnswer = false
         buttonTitles[0] = questionViewModel.buttonTitles[0]
         buttonTitles[1] = questionViewModel.buttonTitles[1]
         buttonTitles[2] = questionViewModel.buttonTitles[2]
         buttonTitles[3] = questionViewModel.buttonTitles[3]
         textForQuestion = questionViewModel.question
-        numberOfTries = 0
-        allFlipped = false
         isFlippedLeft = false
         isFlippedRight = false
         questionSection = QuestionSection.multipleChoiceQuestionNotAnswered
         buttonIsVisible = [true, true, true, true]
         buttonFlipped = [false, false, false, false]
+        
     }
     func hintManagement() {
-        var removeIndex = Int()
-        var buttonIndexArray = [0,1,2,3]
-        for n in 0...3 {
-            if questionViewModel.correctAnswer == buttonTitles[n]{
-                removeIndex = n
-            }
-        }
-        buttonIndexArray.remove(at: removeIndex)
-        buttonIndexArray.shuffle()
-        buttonIsVisible[buttonIndexArray[0]] = false
-        buttonIsVisible[buttonIndexArray[1]] = false
-        testButtonVisible()
-        coins = coins + Coins.hint1
-        UserDefaults.standard.set(coins, forKey: "coins")
-    }
-    func determineQuizSection(){
+        hintDemanded = true
+        Hint1.substract()
         switch questionSection {
         case .multipleChoiceQuestionNotAnswered:
-            return
-        case .multipleChoiceQuestionAnsweredCorrectly:
-            questionSection = .trueOrFalseQuestionDisplayed
+            var removeIndex = Int()
+            var buttonIndexArray = [0,1,2,3]
+            for n in 0...3 {
+                if questionViewModel.correctAnswer == buttonTitles[n]{
+                    removeIndex = n
+                }
+            }
+            buttonIndexArray.remove(at: removeIndex)
+            buttonIndexArray.shuffle()
+            buttonIsVisible[buttonIndexArray[0]] = false
+            buttonIsVisible[buttonIndexArray[1]] = false
         case .trueOrFalseQuestionDisplayed:
+            questionSection = .trueOrFalseHint
+            nextButtonIsVisible = true
+            hintButtonIsVisible = false
+            if !monitor.isConnected {
+                showAlertSheet = true
+            }
+        default:
+            return
+        }
+        
+    }
+    func determineQuizSection(){
+        score = Progression.calculation(fetchRequest: fetchRequest, numberOfQuestion: numberOfQuestion)
+        progressNumber = Progression.quizProgress(fetchRequest: fetchRequest)
+        progressionMessage = Progression.message(questionViewModel: questionViewModel, progressNumber: progressNumber, score: score, answerIsGood: answerIsGood)
+        switch questionSection {
+        case .multipleChoiceQuestionNotAnswered:
+            nextButtonIsVisible = true
+            if identifyButtonRightAnswer {
+                hintButtonIsVisible = false
+                numberOfAnswers = Progression.numberOfAnswers(fetchRequest: fetchRequest)
+                progressionMessage = Progression.message(questionViewModel: questionViewModel, progressNumber: progressNumber, score: score, answerIsGood: false)
+                questionSection = .multipleChoiceQuestionAnsweredIncorrectly
+                
+            }else{
+                hintButtonIsVisible = false
+            }
+            print("identifyButtonRightAnswer")
+            
+        case .multipleChoiceQuestionAnsweredIncorrectly:
+            initialiseForQuestion()
+            hintButtonIsVisible = true
+            nextButtonIsVisible = false
+            questionSection = .multipleChoiceQuestionNotAnswered
+            print("multipleChoiceQuestionAnsweredIncorrectly")
+        case .trueOrFalseHint:
+            questionSection = .trueOrFalseQuestionDisplayed
+            hintDemanded = true
+            nextButtonIsVisible = false
+            hintButtonIsVisible = true
+            print("trueOrFalseHint")
+        case .multipleChoiceQuestionAnsweredCorrectly:
+            hintDemanded = false
+            identifyButtonRightAnswer = false
+            nextButtonIsVisible = false
+            hintButtonIsVisible = true
+           
+            questionSection = .trueOrFalseQuestionDisplayed
+            
+            
+                
+            
+            
+            print("multipleChoiceQuestionAnsweredCorrectly")
+        case .trueOrFalseQuestionDisplayed:
+            if hintDemanded {
+                questionSection = .trueOrFalseHint
+            }
+            if isFlippedLeft || isFlippedRight {
+                score = Progression.calculation(fetchRequest: fetchRequest, numberOfQuestion: numberOfQuestion)
+                progressionMessage = Progression.message(questionViewModel: questionViewModel, progressNumber: progressNumber, score: score, answerIsGood: false)
+                numberOfAnswers = Progression.numberOfAnswers(fetchRequest: fetchRequest)
+                progressNumber = Progression.quizProgress(fetchRequest: fetchRequest)
+                nextButtonIsVisible = true
+                hintButtonIsVisible = false
+                questionSection = .trueOrFalseAnsweredIncorrectly
+            }
+            print(".trueOrFalseQuestionDisplayed")
+        case .trueOrFalseAnsweredIncorrectly:
+            hintButtonIsVisible = true
+            nextButtonIsVisible = false
+            initialiseForQuestion()
+            questionSection = .multipleChoiceQuestionNotAnswered
+            print("trueOrFalseAnsweredIncorrectly")
+        case .showQuizStatusPage:
+            nextButtonIsVisible = false
+            hintButtonIsVisible = true
+            answerIsGood = true
+            initialiseForQuestion()
+            questionSection = .multipleChoiceQuestionNotAnswered
+            print("showQuizStatusPage")
+        case .showCardView:
+            nextButtonIsVisible = false
+            hintButtonIsVisible = false
+            print("showCardView")
+            
+        default:
             return
         }
     }
-    func nextButtonIsVisible() -> Bool{
-        if allFlipped {
-            return true
-        }else if questionSection == .multipleChoiceQuestionAnsweredCorrectly {
-            return true
-        }else if isFlippedLeft || isFlippedRight {
-            return true
-        }else{
-            return false
-        }
-    }
+
+
+    
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        MultipleChoiceQuizView()
+        MultipleChoiceQuizView(selectedTheme: "")
     }
 }

@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>8D142A1C-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>40000 years ago</string>
+		<key>question</key>
+		<string>They are archaic humans who lived in France and disappeared about 40000 years ago. What are they called?</string>
+		<key>correctTAnswer</key>
+		<string>Neanderthal</string>
+		<key>incorrectAnswer1</key>
+		<string>Homo erectus</string>
+		<key>incorrectAnswer2</key>
+		<string>Cro-Magnons</string>
+		<key>incorrectAnswer3</key>
+		<string>Homo sapiens</string>
+		<key>wikiSearchWord</key>
+		<string>Neanderthal</string>
+		<key>questionTrueOrFalse</key>
+		<string>There has never been any interbreeding between Neanderthal and Homo sapiens.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Neanderthals disappeared.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D142C4C-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>800 BC</string>
+		<key>question</key>
+		<string>They began to immigrate, in great numbers, into the region of modern France around 800 B.C. Who are they?</string>
+		<key>correctTAnswer</key>
+		<string>The Celts</string>
+		<key>incorrectAnswer1</key>
+		<string>The Goths</string>
+		<key>incorrectAnswer2</key>
+		<string>The Huns</string>
+		<key>incorrectAnswer3</key>
+		<string>The Vandals</string>
+		<key>wikiSearchWord</key>
+		<string>Celts</string>
+		<key>questionTrueOrFalse</key>
+		<string> By the 1st century AD, most Celtic territories had become part of the Roman Empire.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>The Celts immigrate to France.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D142D8C-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>390 BC</string>
+		<key>question</key>
+		<string>From Gaul they invaded Rome in 390 BC winning the battle of Allia. Who are they?</string>
+		<key>correctTAnswer</key>
+		<string>The Celts/Senones</string>
+		<key>incorrectAnswer1</key>
+		<string>The Goths</string>
+		<key>incorrectAnswer2</key>
+		<string>The Huns</string>
+		<key>incorrectAnswer3</key>
+		<string>The Vandals</string>
+		<key>wikiSearchWord</key>
+		<string>Battle of Allia</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Senones who invaded northern Italy and Rome were led by Brennus</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>The Celts invade Rome.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D142FA8-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>52 BC</string>
+		<key>question</key>
+		<string>What was the first name of the city of Paris, founded in 52 B.C?</string>
+		<key>correctTAnswer</key>
+		<string>Lutetia</string>
+		<key>incorrectAnswer1</key>
+		<string>Lugdunum</string>
+		<key>incorrectAnswer2</key>
+		<string>Avignon</string>
+		<key>incorrectAnswer3</key>
+		<string>Lyon</string>
+		<key>wikiSearchWord</key>
+		<string>Lutetia</string>
+		<key>questionTrueOrFalse</key>
+		<string>Lutetia was never conquered by the Romans</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Foundation of Lutetia.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D142EA4-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>51 BC</string>
+		<key>question</key>
+		<string>He won the Gallic Wars  in 51 BC&quot; . What was his name?</string>
+		<key>correctTAnswer</key>
+		<string>Caesar</string>
+		<key>incorrectAnswer1</key>
+		<string>Pompey</string>
+		<key>incorrectAnswer2</key>
+		<string>Crassus</string>
+		<key>incorrectAnswer3</key>
+		<string>Mark Antony</string>
+		<key>wikiSearchWord</key>
+		<string>Ceasar</string>
+		<key>questionTrueOrFalse</key>
+		<string>Octavius, Caesar’s adoptive son rose to sole power after defeating his opponents in the last civil war of the Roman Republic.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Caesar wins the Gallic War.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D1430AC-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>481</string>
+		<key>question</key>
+		<string>What was the name of the first king of the Franks to unite all the Frankish tribes?</string>
+		<key>correctTAnswer</key>
+		<string>Clovis I</string>
+		<key>incorrectAnswer1</key>
+		<string>Louis I</string>
+		<key>incorrectAnswer2</key>
+		<string>Francois I</string>
+		<key>incorrectAnswer3</key>
+		<string>Henri I</string>
+		<key>wikiSearchWord</key>
+		<string>Clovis I</string>
+		<key>questionTrueOrFalse</key>
+		<string>Clovis succeeded his father, Childeric I, as a king of Salian Franks in 481</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Clovis I becomes king of the Franks.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D1431BA-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>511</string>
+		<key>question</key>
+		<string>To which dynasty did Clovis belong?</string>
+		<key>correctTAnswer</key>
+		<string>Merovingian</string>
+		<key>incorrectAnswer1</key>
+		<string>Carolingian</string>
+		<key>incorrectAnswer2</key>
+		<string>House of Capet</string>
+		<key>incorrectAnswer3</key>
+		<string>Robertian</string>
+		<key>wikiSearchWord</key>
+		<string>Merovingian</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Merovingians&apos; long hair distinguished them among the Franks, who commonly cut their hair short.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Death of Clovis I.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D143458-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>732</string>
+		<key>question</key>
+		<string>In 732 he defeats the Muslims at Poitiers, stopping the Arab invasion. Who is he?</string>
+		<key>correctTAnswer</key>
+		<string>Charles Martel</string>
+		<key>incorrectAnswer1</key>
+		<string>Charlemagne</string>
+		<key>incorrectAnswer2</key>
+		<string>Louis X</string>
+		<key>incorrectAnswer3</key>
+		<string>Pepin</string>
+		<key>wikiSearchWord</key>
+		<string>Charles Martel</string>
+		<key>questionTrueOrFalse</key>
+		<string>Charles Martel belongs to the Merovingian dynasty.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Muslim invasion stopped at Poitier.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D143570-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>800</string>
+		<key>question</key>
+		<string>To which dynasty did Charlemagne belong?</string>
+		<key>correctTAnswer</key>
+		<string>Carolingian</string>
+		<key>incorrectAnswer1</key>
+		<string>Merovingian</string>
+		<key>incorrectAnswer2</key>
+		<string>Robertian</string>
+		<key>incorrectAnswer3</key>
+		<string>House of Valois</string>
+		<key>wikiSearchWord</key>
+		<string>Charlemagne</string>
+		<key>questionTrueOrFalse</key>
+		<string>He was the first recognized emperor to rule from western Europe since the fall of the Western Roman Empire.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Charlemagne became emperor.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D143778-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>843</string>
+		<key>question</key>
+		<string>What treaty signed in 843 initiated the dissolution of Charlemagne&apos;s empire and prefigured the formation of modern European countries?</string>
+		<key>correctTAnswer</key>
+		<string>Treaty of Verdun</string>
+		<key>incorrectAnswer1</key>
+		<string>Treaty of Paris</string>
+		<key>incorrectAnswer2</key>
+		<string>Treaty of Caen</string>
+		<key>incorrectAnswer3</key>
+		<string>Treaty of Bonn</string>
+		<key>wikiSearchWord</key>
+		<string>Treaty of Verdun</string>
+		<key>questionTrueOrFalse</key>
+		<string>The treaty, signed in Verdun-sur-Meuse, ended the three-year Carolingian Civil War. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Treaty of Verdun is signed.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D14389A-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1309-1376</string>
+		<key>question</key>
+		<string>From 1309 to 1376 seven successive popes resided in this French city.</string>
+		<key>correctTAnswer</key>
+		<string>Avignon</string>
+		<key>incorrectAnswer1</key>
+		<string>Rome</string>
+		<key>incorrectAnswer2</key>
+		<string>Paris</string>
+		<key>incorrectAnswer3</key>
+		<string>Lyon</string>
+		<key>wikiSearchWord</key>
+		<string>Avignon Papacy</string>
+		<key>questionTrueOrFalse</key>
+		<string>During this same period, a pope had also been appointed in Rome. So there were two popes.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>The pope moves to Avignon.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D143994-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1453</string>
+		<key>question</key>
+		<string>Who won the Hundred Years&apos; War that lasted from 1337–1453?</string>
+		<key>correctTAnswer</key>
+		<string>France</string>
+		<key>incorrectAnswer1</key>
+		<string>England</string>
+		<key>incorrectAnswer2</key>
+		<string>Spain</string>
+		<key>incorrectAnswer3</key>
+		<string>Italy</string>
+		<key>wikiSearchWord</key>
+		<string>Hundred Years&apos; War</string>
+		<key>questionTrueOrFalse</key>
+		<string>There was no truce for the duration of the Hundred Years&apos; War.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>End of the Hundred Years War.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D143AA2-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1515</string>
+		<key>question</key>
+		<string>Which king of France fostered the emergence of the French Renaissance by attracting many Italian artists to work for him, including Leonardo da Vinci?</string>
+		<key>correctTAnswer</key>
+		<string>Francis I</string>
+		<key>incorrectAnswer1</key>
+		<string>Louis XIV</string>
+		<key>incorrectAnswer2</key>
+		<string>Louis XV</string>
+		<key>incorrectAnswer3</key>
+		<string>Henry iV</string>
+		<key>wikiSearchWord</key>
+		<string>Francis I of France</string>
+		<key>questionTrueOrFalse</key>
+		<string>Francis I formed a Franco-Ottoman alliance with the Muslim sultan Suleiman the Magnificent, a controversial move for a Christian king at the time.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Francis I crowned king of France.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D143EBC-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1572</string>
+		<key>question</key>
+		<string>These French Calvinist Protestants were the victims of the St. Bartholomew&apos;s Day massacre. What was their name?</string>
+		<key>correctTAnswer</key>
+		<string>Huguenots</string>
+		<key>incorrectAnswer1</key>
+		<string>Baptists</string>
+		<key>incorrectAnswer2</key>
+		<string>Evangelicals</string>
+		<key>incorrectAnswer3</key>
+		<string>Puritans</string>
+		<key>wikiSearchWord</key>
+		<string>St. Bartholomew&apos;s Day massacre</string>
+		<key>questionTrueOrFalse</key>
+		<string>Traditionally, the massacre is believed to have been instigated by Queen Catherine de&apos; Medici, the mother of King Charles IX.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>St. Bartholomew&apos;s Day massacre.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D143B9C-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1589</string>
+		<key>question</key>
+		<string>Henri IV was the first king of what dynasty?</string>
+		<key>correctTAnswer</key>
+		<string>Bourbons</string>
+		<key>incorrectAnswer1</key>
+		<string>Merovingian</string>
+		<key>incorrectAnswer2</key>
+		<string>Carolingian</string>
+		<key>incorrectAnswer3</key>
+		<string>Valois</string>
+		<key>wikiSearchWord</key>
+		<string>Henri IV</string>
+		<key>questionTrueOrFalse</key>
+		<string>Henry IV never converted to Catholicism</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Henri IV crowned king of France.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D143FCA-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1682</string>
+		<key>question</key>
+		<string>He was known has the Sun King (Le roi Soleil). Who is he?</string>
+		<key>correctTAnswer</key>
+		<string>Louis XIV</string>
+		<key>incorrectAnswer1</key>
+		<string>Louis XV</string>
+		<key>incorrectAnswer2</key>
+		<string>Francois I</string>
+		<key>incorrectAnswer3</key>
+		<string>Henri IV</string>
+		<key>wikiSearchWord</key>
+		<string>Louis XIV</string>
+		<key>questionTrueOrFalse</key>
+		<string>Louis XIV promulgated the Edict of Nantes, granting the Huguenots, substantial rights.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Louis XIV moves to Versailles. </string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D1440D8-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1715</string>
+		<key>question</key>
+		<string>This French King built the Versailles Palace and moved the seat of his court there. Who is he?</string>
+		<key>correctTAnswer</key>
+		<string>Louis XIV</string>
+		<key>incorrectAnswer1</key>
+		<string>Louis XV</string>
+		<key>incorrectAnswer2</key>
+		<string>Francois I</string>
+		<key>incorrectAnswer3</key>
+		<string>Henri IV</string>
+		<key>wikiSearchWord</key>
+		<string>Louis XIV</string>
+		<key>questionTrueOrFalse</key>
+		<string>Louis XiV reign lasted 72 years, the longest recorded of any monarch of a sovereign country in history.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Death of Louis XIV.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D1441F0-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1755</string>
+		<key>question</key>
+		<string>In which country was Queen Marie Antoinette born?</string>
+		<key>correctTAnswer</key>
+		<string>Austria</string>
+		<key>incorrectAnswer1</key>
+		<string>France</string>
+		<key>incorrectAnswer2</key>
+		<string>Prussia</string>
+		<key>incorrectAnswer3</key>
+		<string>Spain</string>
+		<key>wikiSearchWord</key>
+		<string>Marie Antoinette</string>
+		<key>questionTrueOrFalse</key>
+		<string>She became dauphine of France at age 14 upon her marriage.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Marie Antoinette married LouisXVI.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D1442F4-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1789</string>
+		<key>question</key>
+		<string>The year the French Revolution started by the storming of the Bastille. What year is it?</string>
+		<key>correctTAnswer</key>
+		<string>1789</string>
+		<key>incorrectAnswer1</key>
+		<string>1790</string>
+		<key>incorrectAnswer2</key>
+		<string>1800</string>
+		<key>incorrectAnswer3</key>
+		<string>1780</string>
+		<key>wikiSearchWord</key>
+		<string>Storming of the Bastille</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Bastille was a political prison seen by the revolutionaries as a symbol of the monarchy&apos;s abuse of power.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Storming of the Bastille.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D1445E2-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1793</string>
+		<key>question</key>
+		<string>She was the queen of France and was guillotined during the French Revolution. Who is she?</string>
+		<key>correctTAnswer</key>
+		<string>Marie Antoinette</string>
+		<key>incorrectAnswer1</key>
+		<string>Catherine de&apos; Medici</string>
+		<key>incorrectAnswer2</key>
+		<string>Mary Tudor</string>
+		<key>incorrectAnswer3</key>
+		<string>Margaret of Valois</string>
+		<key>wikiSearchWord</key>
+		<string>Marie Antoinette</string>
+		<key>questionTrueOrFalse</key>
+		<string>Before the revolution Marie-Antoinette was liked by the population.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Marie Antoinette is guillotined.</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D144704-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1794</string>
+		<key>question</key>
+		<string>In 1794 he was overthrown, executed and  the Reign of Terror ended. Who is he?</string>
+		<key>correctTAnswer</key>
+		<string>Robespierre</string>
+		<key>incorrectAnswer1</key>
+		<string>Jean-Paul Marat</string>
+		<key>incorrectAnswer2</key>
+		<string>Georges Danton</string>
+		<key>incorrectAnswer3</key>
+		<string>Napoleaon</string>
+		<key>wikiSearchWord</key>
+		<string>Robespierre</string>
+		<key>questionTrueOrFalse</key>
+		<string>Robespierre is best known for his role as a member of the Committee of Public Safety as he signed 542 arrests.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Robespierre is guillotined</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D144808-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1805</string>
+		<key>question</key>
+		<string>On December 2, 1805, Napoleon won what is considered its greatest victory. What was the name of the battle?</string>
+		<key>correctTAnswer</key>
+		<string>Austerlitz</string>
+		<key>incorrectAnswer1</key>
+		<string>Marengo</string>
+		<key>incorrectAnswer2</key>
+		<string>Ulm</string>
+		<key>incorrectAnswer3</key>
+		<string>Waterloo</string>
+		<key>wikiSearchWord</key>
+		<string>The Battle of Austerlitz</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Battle of Austerlitz is also known as the Battle of the Three Emperors.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>The Battle of Austerlitz</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D144AD8-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1812</string>
+		<key>question</key>
+		<string>What was the most eastern city occupied by Napoleon in September 1812?</string>
+		<key>correctTAnswer</key>
+		<string>Moscow</string>
+		<key>incorrectAnswer1</key>
+		<string>Vienna</string>
+		<key>incorrectAnswer2</key>
+		<string>Beijing</string>
+		<key>incorrectAnswer3</key>
+		<string>Berlin</string>
+		<key>wikiSearchWord</key>
+		<string>French occupation of Moscow</string>
+		<key>questionTrueOrFalse</key>
+		<string>After invading Moscow, the French were able to resupply to continue the attack.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Napoleon invades Moscow</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D144BE6-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1815</string>
+		<key>question</key>
+		<string>On Sunday, 18 June 1815, Napoleon suffered is final defeat. What was the name of the battle?</string>
+		<key>correctTAnswer</key>
+		<string>Waterloo</string>
+		<key>incorrectAnswer1</key>
+		<string>Austerlitz</string>
+		<key>incorrectAnswer2</key>
+		<string>Iena</string>
+		<key>incorrectAnswer3</key>
+		<string>Marengo</string>
+		<key>wikiSearchWord</key>
+		<string>The Battle of  Waterloo</string>
+		<key>questionTrueOrFalse</key>
+		<string>Waterloo was not Napoleon&apos;s last battle, other battles took place before his surrender.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>The Battle of  Waterloo</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D144CF4-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1852</string>
+		<key>question</key>
+		<string>In 1852 Napoleon III is crowned emperor. What was its relation with Napoleon I?</string>
+		<key>correctTAnswer</key>
+		<string>His nephew</string>
+		<key>incorrectAnswer1</key>
+		<string>His brother</string>
+		<key>incorrectAnswer2</key>
+		<string>His son</string>
+		<key>incorrectAnswer3</key>
+		<string>His grandson</string>
+		<key>wikiSearchWord</key>
+		<string>Napoleon III</string>
+		<key>questionTrueOrFalse</key>
+		<string>In 1870, after the defeat of the French army at the hands of the Prussians, Napoleon III was made prisoner.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Napoleon III crowned emperor</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D144E02-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1871-1914</string>
+		<key>question</key>
+		<string>The period between 1871 and 1914  was characterised by optimism, peace, prosperity, colonial expansion, and innovations. What name is given to this period?</string>
+		<key>correctTAnswer</key>
+		<string>La belle époque</string>
+		<key>incorrectAnswer1</key>
+		<string>La vie est belle</string>
+		<key>incorrectAnswer2</key>
+		<string>Les temps dorés</string>
+		<key>incorrectAnswer3</key>
+		<string>Le bonheur</string>
+		<key>wikiSearchWord</key>
+		<string>La belle époque</string>
+		<key>questionTrueOrFalse</key>
+		<string>Despite the prosperity, &quot;La Belle Époque&quot; was a time when Europe experienced a decline in its global political power.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>La belle époque</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D144F10-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1889</string>
+		<key>question</key>
+		<string>What year was the Eiffel Tower inaugurated?</string>
+		<key>correctTAnswer</key>
+		<string>1889</string>
+		<key>incorrectAnswer1</key>
+		<string>1900</string>
+		<key>incorrectAnswer2</key>
+		<string>1882</string>
+		<key>incorrectAnswer3</key>
+		<string>1775</string>
+		<key>wikiSearchWord</key>
+		<string>Eiffel Tower</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Eiffel Tower was initially criticized by some of France&apos;s leading artists and intellectuals for its design.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Inauguration of the Eiffel Tower</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D14500A-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1894</string>
+		<key>question</key>
+		<string>In December 1894 a French artillery officer of Jewish descent was falsely convicted and sentenced to life imprisonment for communicating French military secrets. What was his name?</string>
+		<key>correctTAnswer</key>
+		<string>Dreyfus</string>
+		<key>incorrectAnswer1</key>
+		<string>Zola</string>
+		<key>incorrectAnswer2</key>
+		<string>Proust</string>
+		<key>incorrectAnswer3</key>
+		<string>Picard</string>
+		<key>wikiSearchWord</key>
+		<string>Dreyfus affair</string>
+		<key>questionTrueOrFalse</key>
+		<string>Despite his exoneration, Dreyfus was never reinstated in the French army.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Dreyfus is condemned</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D1450F0-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>18-12-1916</string>
+		<key>question</key>
+		<string>The French lost more than 400,000 men defending what city against the Germans in World War I?</string>
+		<key>correctTAnswer</key>
+		<string>Verdun</string>
+		<key>incorrectAnswer1</key>
+		<string>Marne</string>
+		<key>incorrectAnswer2</key>
+		<string>Somme</string>
+		<key>incorrectAnswer3</key>
+		<string>Gallipoli</string>
+		<key>wikiSearchWord</key>
+		<string>Battle of Verdun</string>
+		<key>questionTrueOrFalse</key>
+		<string>The battle lasted for 302 days, the longest and one of the most costly in human history.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Battle of Verdun</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>8D1451CC-84E1-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1940</string>
+		<key>question</key>
+		<string>Although he was considered a war hero after WW1 after WW2, he was convicted of treason. What is his name?</string>
+		<key>correctTAnswer</key>
+		<string>Philippe Pétain</string>
+		<key>incorrectAnswer1</key>
+		<string>Charles de Gaulle</string>
+		<key>incorrectAnswer2</key>
+		<string>Gaston Billotte</string>
+		<key>incorrectAnswer3</key>
+		<string>Marcel Deslaurens</string>
+		<key>wikiSearchWord</key>
+		<string>Philippe Pétain</string>
+		<key>questionTrueOrFalse</key>
+		<string>Pétain led the French Army to victory at the nine-month-long Battle of Verdun.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Pétain signs the armistice with Germany</string>
+		<key>theme</key>
+		<string>French History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>31</integer>
+	</dict>
+</array>
+</plist>

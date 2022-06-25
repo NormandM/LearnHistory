@@ -8,6 +8,13 @@
 import Foundation
 enum QuestionSection {
     case multipleChoiceQuestionNotAnswered
+    case multipleChoiceQuestionAnsweredIncorrectly
     case multipleChoiceQuestionAnsweredCorrectly
     case trueOrFalseQuestionDisplayed
+    case trueOrFalseHint
+    case trueOrFalseAnsweredIncorrectly
+    case showQuizStatusPage
+    case showCardView
+    case showCoinMangementView
+    case showNoCoinsView
 }

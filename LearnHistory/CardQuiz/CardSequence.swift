@@ -7,26 +7,30 @@
 
 import SwiftUI
 class CardSequence: ObservableObject{
-    var cardViewModel = EventViewModel()
     @Published var upperCard = ""
     @Published var bottomCard = ""
-    @Published var cardDescription = ""
+    @Published var cardId = UUID()
     @Published var cardDateLowerCard = ""
     @Published var cardDateUpperCar = ""
     @Published var cardResponseIsLeft = false
-    @Published var indexOfCard = UserDefaults.standard.integer(forKey: "indexOfQuestion")
-    init(){
+    @Published var indexOfCard = 0
+    var selectedTheme: String
+    var allEvents: [Event]
+    var questionViewModel: QuestionViewModel
+    init (selectedTheme: String, questionViewModel: QuestionViewModel) {
+        self.selectedTheme = selectedTheme
+        self.allEvents = Bundle.main.decode([Event].self, from: selectedTheme)
+        //questionViewModel = QuestionViewModel(allEvents: self.allEvents)
+        self.questionViewModel = questionViewModel
         initialize()
     }
     func initialize() {
-        print("indexOfCard: \(indexOfCard)")
-        let allCards = cardViewModel.events
+        indexOfCard = questionViewModel.index
+        let allCards = questionViewModel.allEvents
         var leftOrRightCard = ["L", "R"]
         var indexOfUpperCard = Int()
         var indexOfLowerCard = Int()
         let numberOfCards = allCards.count
-        
-
             switch indexOfCard {
             case 0,1,2:
                 indexOfUpperCard = indexOfCard
@@ -52,6 +56,7 @@ class CardSequence: ObservableObject{
         cardDateUpperCar = allCards[indexOfUpperCard].date
         cardDateLowerCard = allCards[indexOfLowerCard].date
         bottomCard = allCards[indexOfLowerCard].timeLine
+        cardId = allCards[indexOfLowerCard].id
         }
     
 }

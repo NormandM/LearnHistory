@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>084a2ff0-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>10000 Av</string>
+		<key>question</key>
+		<string>Quand la Mésopotamie est-elle passée d&apos;une vie de chasses de cueillettes à l&apos;agriculture ?</string>
+		<key>correctTAnswer</key>
+		<string>10000 Av</string>
+		<key>incorrectAnswer1</key>
+		<string>15000 Av</string>
+		<key>incorrectAnswer2</key>
+		<string>20000 Av</string>
+		<key>incorrectAnswer3</key>
+		<string>5000 Av</string>
+		<key>wikiSearchWord</key>
+		<string>Mésopotamie</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Mésopotamie est située dans le système fluvial Tigre-Euphrate.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>L&apos;agriculture apparaît en Mésopotamie.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>New item</key>
+		<string></string>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a32f2-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>6000 Av</string>
+		<key>question</key>
+		<string>Quelle est la plus ancienne civilisation connue de la Mésopotamie ?</string>
+		<key>correctTAnswer</key>
+		<string>Sumer</string>
+		<key>incorrectAnswer1</key>
+		<string>Égypte</string>
+		<key>incorrectAnswer2</key>
+		<string>Babylonien</string>
+		<key>incorrectAnswer3</key>
+		<string>Assyrien</string>
+		<key>wikiSearchWord</key>
+		<string>Sumer</string>
+		<key>questionTrueOrFalse</key>
+		<string>Sumer était située dans le nord de la Mésopotamie.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Émergence de la civilisation sumérienne.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a3414-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>5400 Av</string>
+		<key>question</key>
+		<string>Quelle ville est considérée comme la plus ancienne de la civilisation sumérienne ?</string>
+		<key>correctTAnswer</key>
+		<string>Eridu</string>
+		<key>incorrectAnswer1</key>
+		<string>Babylone</string>
+		<key>incorrectAnswer2</key>
+		<string>Thèbes</string>
+		<key>incorrectAnswer3</key>
+		<string>Persépolis</string>
+		<key>wikiSearchWord</key>
+		<string>Eridu</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les ruines d’Eridu se trouvent sur un vaste espace, à une vingtaine de kilomètres au sud-ouest d’Ur.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Fondation d&apos;Eridu.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a3522-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>3400 Av</string>
+		<key>question</key>
+		<string>Inventé par les Sumériens, c&apos;est le premier système d&apos;écriture. Comment s&apos;appelle-t-il ?</string>
+		<key>correctTAnswer</key>
+		<string>Cunéiforme</string>
+		<key>incorrectAnswer1</key>
+		<string>Hiéroglyphes</string>
+		<key>incorrectAnswer2</key>
+		<string>Sémitique</string>
+		<key>incorrectAnswer3</key>
+		<string>Linéaire</string>
+		<key>wikiSearchWord</key>
+		<string>Cunéiforme</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Sumériens écrivaient sur du papyrus.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Création de l&apos;écriture cunéiforme.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a3630-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>3100 Av</string>
+		<key>question</key>
+		<string>Dans quelle ville le légendaire le roi Gilgamesh est-il réputé avoir régné au 27e siècle avant J.-C. ?</string>
+		<key>correctTAnswer</key>
+		<string>Uruk</string>
+		<key>incorrectAnswer1</key>
+		<string>Ur</string>
+		<key>incorrectAnswer2</key>
+		<string>Babylone</string>
+		<key>incorrectAnswer3</key>
+		<string>Akkad</string>
+		<key>wikiSearchWord</key>
+		<string>Uruk</string>
+		<key>questionTrueOrFalse</key>
+		<string>Uruk a joué un rôle de premier plan dans l&apos;urbanisation précoce de Sumer au milieu du IVe millénaire avant J.-C.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>La ville d&apos;Uruk atteint 40000 habitants</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a3734-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>2400 Av</string>
+		<key>question</key>
+		<string>Quelles sont les deux nations qui ont résulté de la chute de l&apos;empire akkadien ?</string>
+		<key>correctTAnswer</key>
+		<string>Assyrie et Babylonie </string>
+		<key>incorrectAnswer1</key>
+		<string>Elam et Gutium</string>
+		<key>incorrectAnswer2</key>
+		<string>Achéménide et Sumer</string>
+		<key>incorrectAnswer3</key>
+		<string>Sumer et Elam</string>
+		<key>wikiSearchWord</key>
+		<string>Empire Akkadien</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;empire akkadien atteint son apogée politique en 1000 av. J.-C.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>La langue akkadienne remplace le sumérien comme langue principale.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a382e-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>2334–2279 Av</string>
+		<key>question</key>
+		<string>Il fut le fondateur du premier empire : L&apos;empire akkadien. Qui est-il ?</string>
+		<key>correctTAnswer</key>
+		<string>Sargon d&apos;Akkad</string>
+		<key>incorrectAnswer1</key>
+		<string>Darius</string>
+		<key>incorrectAnswer2</key>
+		<string>Cyrius</string>
+		<key>incorrectAnswer3</key>
+		<string>Homère</string>
+		<key>wikiSearchWord</key>
+		<string>Sargon d&apos;Akkad</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;empire de Sargon d&apos;Akkad comprenait la majeure partie de la Mésopotamie et certaines parties du Levant.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Règne de Sargon d&apos;Akkad</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a3a2c-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>2100-1200 Av</string>
+		<key>question</key>
+		<string>Quel est le nom de ce poème épique considéré comme la première œuvre littéraire?</string>
+		<key>correctTAnswer</key>
+		<string>Epopée de Gilgamesh</string>
+		<key>incorrectAnswer1</key>
+		<string>Epopée d&apos;Emmerkar</string>
+		<key>incorrectAnswer2</key>
+		<string>Épopée d&apos;Arata</string>
+		<key>incorrectAnswer3</key>
+		<string>Epopée d&apos;Aga</string>
+		<key>wikiSearchWord</key>
+		<string>Épopée de Gilgamesh</string>
+		<key>questionTrueOrFalse</key>
+		<string>Dans l&apos;épopée de Gilgamesh, ce dernier entreprend un long voyage pour découvrir le secret de la vie éternelle.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>L&apos;Epopée de Gilgamesh est écrite.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a3b30-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>2100 Av</string>
+		<key>question</key>
+		<string>Comment se nomment les temples construits par les Sumériens qu’ils pensaient habités par leurs dieux?</string>
+		<key>correctTAnswer</key>
+		<string>Ziggourat</string>
+		<key>incorrectAnswer1</key>
+		<string>Pyramide</string>
+		<key>incorrectAnswer2</key>
+		<string>Pagode</string>
+		<key>incorrectAnswer3</key>
+		<string>Sanctuaire</string>
+		<key>wikiSearchWord</key>
+		<string>Ziggourat</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le récit biblique de la tour de Babel est inspiré par la ziggurat de Babylone.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Construction de la grande ziggourat d&apos;Ur.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a3c34-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>2000 Av</string>
+		<key>question</key>
+		<string>Selon la Bible, quelle ville de Mésopotamie est le lieu de naissance d&apos;Abraham ?</string>
+		<key>correctTAnswer</key>
+		<string>Ur</string>
+		<key>incorrectAnswer1</key>
+		<string>Babylone</string>
+		<key>incorrectAnswer2</key>
+		<string>Uruk</string>
+		<key>incorrectAnswer3</key>
+		<string>Assur</string>
+		<key>wikiSearchWord</key>
+		<string>Ur (Mésopotamie)</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ur ou Uruk est une prononciation différente du nom d&apos;une même ville.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Les Elamites s&apos;emparent d&apos;Ur. </string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a3d2e-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>1894 Av</string>
+		<key>question</key>
+		<string>Après la destruction de la 3e dynastie d&apos;Ur, quel peuple a dominé la Mésopotamie ?</string>
+		<key>correctTAnswer</key>
+		<string>Empire babylonien</string>
+		<key>incorrectAnswer1</key>
+		<string>Akkadiens</string>
+		<key>incorrectAnswer2</key>
+		<string>Assyriens</string>
+		<key>incorrectAnswer3</key>
+		<string>Égyptiens</string>
+		<key>wikiSearchWord</key>
+		<string>Première dynastie de Babylone</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;ancien empire de Babylone a régné de 1894 à 1595 avant Jésus-Christ.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Émergence de l&apos;ancien empire babylonien.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a3efa-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>1792 Av</string>
+		<key>question</key>
+		<string>Ce roi babylonien est surtout connu pour avoir publié un code de lois. Qui est-il ?</string>
+		<key>correctTAnswer</key>
+		<string>Hammurabi</string>
+		<key>incorrectAnswer1</key>
+		<string>Gilgamesh</string>
+		<key>incorrectAnswer2</key>
+		<string>Sargon</string>
+		<key>incorrectAnswer3</key>
+		<string>Ur-Nammu</string>
+		<key>wikiSearchWord</key>
+		<string>Hammurabi</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le règne de Hammurabi est l&apos;un des plus longs de l&apos;antiquité du Proche-Orient.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Le roi Hammurabi monte sur le trône de Babylone.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a3ffe-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>1595 Av</string>
+		<key>question</key>
+		<string>Ils sont venus d&apos;Anatolie et ont saccagé Babylone en 1584 avant J.-C. Qui sont-ils ?</string>
+		<key>correctTAnswer</key>
+		<string>Les Hittites</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Perses</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Phéniciens</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Turcs</string>
+		<key>wikiSearchWord</key>
+		<string>Les Hittites</string>
+		<key>questionTrueOrFalse</key>
+		<string>Au XIVe av, les Hittites réussissent à faire passer la majeure partie de la Syrie sous leur coupe</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Les Hittites mettent Babylone à sac.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a40f8-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>911 Av</string>
+		<key>question</key>
+		<string>En Mésopotamie qui étaient connus comme des guerriers impitoyables ayant régné du 14e au 7e siècle av.?</string>
+		<key>correctTAnswer</key>
+		<string>Les Assyriens</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Égyptiens</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Hittites</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Romains</string>
+		<key>wikiSearchWord</key>
+		<string>Assyrie</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;empire assyrien tombe à la fin du 7e siècle avant J.-C., conquis par les Babyloniens.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Émergence de l&apos;empire néo-assyrien.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a41f2-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>631 Av</string>
+		<key>question</key>
+		<string>Qui est considéré comme le dernier grand roi d&apos;Assyrie ?</string>
+		<key>correctTAnswer</key>
+		<string>Ashurbanipal</string>
+		<key>incorrectAnswer1</key>
+		<string>Sargon</string>
+		<key>incorrectAnswer2</key>
+		<string>Hammourabi</string>
+		<key>incorrectAnswer3</key>
+		<string>Gilgamesh</string>
+		<key>wikiSearchWord</key>
+		<string>Assurbanipal</string>
+		<key>questionTrueOrFalse</key>
+		<string>La sculpture assyrienne atteignit son apogée sous le règne d’ Ashurbanipal.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Mort d&apos;Assurbanipal</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a4440-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>612 Av</string>
+		<key>question</key>
+		<string>Quel a été le dernier empire mésopotamien à être dirigé par des Mésopotamiens ?</string>
+		<key>correctTAnswer</key>
+		<string>Les Néo-Babyloniens</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Assyriens</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Akkadiens</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Sumériens</string>
+		<key>wikiSearchWord</key>
+		<string>Empire néo-babylonien</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;empire néo-babylonien a duré plus de 400 ans.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Chute de l&apos;empire néo-assyrien.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a454e-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>587 Av</string>
+		<key>question</key>
+		<string>Quel roi néo-babylonien a détruit le royaume de Juda et sa capitale, Jérusalem ?</string>
+		<key>correctTAnswer</key>
+		<string>Nabuchodonosor</string>
+		<key>incorrectAnswer1</key>
+		<string>Gilgamesh</string>
+		<key>incorrectAnswer2</key>
+		<string>Hammurabi</string>
+		<key>incorrectAnswer3</key>
+		<string>Sargon II</string>
+		<key>wikiSearchWord</key>
+		<string>Nabuchodonosor II</string>
+		<key>questionTrueOrFalse</key>
+		<string>On se souvient de Nabuchodonosor comme d&apos;un grand roi bâtisseur, mais il a eu peu de succès militaires.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Nabuchodonosor détruit le royaume de Juda.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a4648-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>539 Av</string>
+		<key>question</key>
+		<string>Qui a conquis l&apos;empire néo-babylonien en 539 avant J.-C. ?</string>
+		<key>correctTAnswer</key>
+		<string>Les Achéménides</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Grecs</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Romains</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Hittites</string>
+		<key>wikiSearchWord</key>
+		<string>Les Achéménides</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;Empire achéménide s&apos;effondre, vaincu par Alexandre le Grand, en 330 av. J.-C</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>L&apos;empire perse achéménide conquiert l&apos;empire néo-babylonien.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a474c-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>484 Av</string>
+		<key>question</key>
+		<string>En 484 av., les Babyloniens se sont révoltés contre ce roi de l&apos;empire perse. Qui est ce roi ?</string>
+		<key>correctTAnswer</key>
+		<string>Xerxès I</string>
+		<key>incorrectAnswer1</key>
+		<string>Cyrus le Grand</string>
+		<key>incorrectAnswer2</key>
+		<string>Darius I</string>
+		<key>incorrectAnswer3</key>
+		<string>Artaxerxès II </string>
+		<key>wikiSearchWord</key>
+		<string>Xerxès Ier</string>
+		<key>questionTrueOrFalse</key>
+		<string>Xerxès I est aussi appelé Xerxès le Grand.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Les Babyloniens se révoltent à nouveau contre Xerxès.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a4850-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>321 Av</string>
+		<key>question</key>
+		<string>Après la division de l&apos;empire d&apos;Alexandre le Grand, qui a reçu la région de Babylone ?</string>
+		<key>correctTAnswer</key>
+		<string>Séleucos</string>
+		<key>incorrectAnswer1</key>
+		<string>Ptolémée</string>
+		<key>incorrectAnswer2</key>
+		<string>Cassandre</string>
+		<key>incorrectAnswer3</key>
+		<string>Antigonus</string>
+		<key>wikiSearchWord</key>
+		<string>Empire séleucide</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;empire séleucide ne s&apos;est jamais étendu en dehors de la Mésopotamie.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Séleucos reçoit la région mésopotamienne de Babylone.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a4a26-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>129 Av</string>
+		<key>question</key>
+		<string>Qui est ce peuple venant de l&apos;Iran qui s’est emparé de la Mésopotamie en 129 av.</string>
+		<key>correctTAnswer</key>
+		<string>Les Parthes</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Hittites</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Assyriens</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Turcs</string>
+		<key>wikiSearchWord</key>
+		<string>Mithridate Ier de Parthie</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mithridate Ier est le roi parthe qui a conquis la Mésopotamie.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Les Parthes battent les Séleucides et s&apos;emparent de la Mésopotamie.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a4b20-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>75</string>
+		<key>question</key>
+		<string>Quel support était utilisé pour écrire en cunéiforme ?</string>
+		<key>correctTAnswer</key>
+		<string>Tablettes d&apos;argile</string>
+		<key>incorrectAnswer1</key>
+		<string>Papyrus</string>
+		<key>incorrectAnswer2</key>
+		<string>Papier</string>
+		<key>incorrectAnswer3</key>
+		<string>Les tablettes de pierre</string>
+		<key>wikiSearchWord</key>
+		<string>Cunéiforme</string>
+		<key>questionTrueOrFalse</key>
+		<string>Seule la langue sumérienne s’est servie de l’écriture cunéiforme.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Dernière tablette cunéiforme datable</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a4c10-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>224</string>
+		<key>question</key>
+		<string>Qui sont les Néo-Perses qui ont succédé à l&apos;Empire parthe en Mésopotamie ?</string>
+		<key>correctTAnswer</key>
+		<string>L&apos;empire sassanide</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Arabes</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;empire Ottoman</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Turcs</string>
+		<key>wikiSearchWord</key>
+		<string>L&apos;empire sassanide</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;empire sassanide est la dynastie impériale perse qui a existé le plus longtemps.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Les Sasaniens renversent les Parthes.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>084a4d0a-b77e-11ec-b909-0242ac120002</string>
+		<key>date</key>
+		<string>651</string>
+		<key>question</key>
+		<string>Au 7e siècle, ils ont conquis une grande partie du monde, dont la Mésopotamie. Qui sont-ils?</string>
+		<key>correctTAnswer</key>
+		<string>Les musulmans</string>
+		<key>incorrectAnswer1</key>
+		<string>L&apos;empire ottoman</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;empire bysantin</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Vandales</string>
+		<key>wikiSearchWord</key>
+		<string>Expansion de l&apos;islam</string>
+		<key>questionTrueOrFalse</key>
+		<string>La conquête musulmane de la Mésopotamie a été lente et a pris plus de cent ans.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>La conquête musulmane de la Mésopotamie.</string>
+		<key>theme</key>
+		<string>Mésopotamie antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+</array>
+</plist>
