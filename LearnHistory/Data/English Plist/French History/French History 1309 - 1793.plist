@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Avignon</string>
+		<key>date</key>
+		<string>1309-1376</string>
+		<key>id</key>
+		<string>8D14389A-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Rome</string>
+		<key>incorrectAnswer2</key>
+		<string>Paris</string>
+		<key>incorrectAnswer3</key>
+		<string>Lyon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>From 1309 to 1376 seven successive popes resided in this French city.</string>
+		<key>questionTrueOrFalse</key>
+		<string>During this same period, a pope had also been appointed in Rome. So there were two popes.</string>
+		<key>theme</key>
+		<string>French History 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>The pope moves to Avignon.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Avignon Papacy</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>France</string>
+		<key>date</key>
+		<string>1453</string>
+		<key>id</key>
+		<string>8D143994-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>England</string>
+		<key>incorrectAnswer2</key>
+		<string>Spain</string>
+		<key>incorrectAnswer3</key>
+		<string>Italy</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Who won the Hundred Years&apos; War that lasted from 1337–1453?</string>
+		<key>questionTrueOrFalse</key>
+		<string>There was no truce for the duration of the Hundred Years&apos; War.</string>
+		<key>theme</key>
+		<string>French History 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>End of the Hundred Years War.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Hundred Years&apos; War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Francis I</string>
+		<key>date</key>
+		<string>1515</string>
+		<key>id</key>
+		<string>8D143AA2-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Louis XIV</string>
+		<key>incorrectAnswer2</key>
+		<string>Louis XV</string>
+		<key>incorrectAnswer3</key>
+		<string>Henry iV</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>Which king of France fostered the emergence of the French Renaissance by attracting many Italian artists to work for him, including Leonardo da Vinci?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Francis I formed a Franco-Ottoman alliance with the Muslim sultan Suleiman the Magnificent, a controversial move for a Christian king at the time.</string>
+		<key>theme</key>
+		<string>French History 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Francis I crowned king of France.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Francis I of France</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Huguenots</string>
+		<key>date</key>
+		<string>1572</string>
+		<key>id</key>
+		<string>8D143EBC-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Baptists</string>
+		<key>incorrectAnswer2</key>
+		<string>Evangelicals</string>
+		<key>incorrectAnswer3</key>
+		<string>Puritans</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>These French Calvinist Protestants were the victims of the St. Bartholomew&apos;s Day massacre. What was their name?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Traditionally, the massacre is believed to have been instigated by Queen Catherine de&apos; Medici, the mother of King Charles IX.</string>
+		<key>theme</key>
+		<string>French History 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>St. Bartholomew&apos;s Day massacre.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>St. Bartholomew&apos;s Day massacre</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bourbons</string>
+		<key>date</key>
+		<string>1589</string>
+		<key>id</key>
+		<string>8D143B9C-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Merovingian</string>
+		<key>incorrectAnswer2</key>
+		<string>Carolingian</string>
+		<key>incorrectAnswer3</key>
+		<string>Valois</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>Henri IV was the first king of what dynasty?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Henry IV never converted to Catholicism</string>
+		<key>theme</key>
+		<string>French History 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Henri IV crowned king of France.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Henri IV</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Louis XIV</string>
+		<key>date</key>
+		<string>1682</string>
+		<key>id</key>
+		<string>8D143FCA-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Louis XV</string>
+		<key>incorrectAnswer2</key>
+		<string>Francois I</string>
+		<key>incorrectAnswer3</key>
+		<string>Henri IV</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>He was known has the Sun King (Le roi Soleil). Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Louis XIV promulgated the Edict of Nantes, granting the Huguenots, substantial rights.</string>
+		<key>theme</key>
+		<string>French History 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Louis XIV moves to Versailles. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Louis XIV</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Louis XIV</string>
+		<key>date</key>
+		<string>1715</string>
+		<key>id</key>
+		<string>8D1440D8-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Louis XV</string>
+		<key>incorrectAnswer2</key>
+		<string>Francois I</string>
+		<key>incorrectAnswer3</key>
+		<string>Henri IV</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>This French King built the Versailles Palace and moved the seat of his court there. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Louis XiV reign lasted 72 years, the longest recorded of any monarch of a sovereign country in history.</string>
+		<key>theme</key>
+		<string>French History 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Death of Louis XIV.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Louis XIV</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Austria</string>
+		<key>date</key>
+		<string>1755</string>
+		<key>id</key>
+		<string>8D1441F0-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>France</string>
+		<key>incorrectAnswer2</key>
+		<string>Prussia</string>
+		<key>incorrectAnswer3</key>
+		<string>Spain</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>In which country was Queen Marie Antoinette born?</string>
+		<key>questionTrueOrFalse</key>
+		<string>She became dauphine of France at age 14 upon her marriage.</string>
+		<key>theme</key>
+		<string>French History 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Marie Antoinette married LouisXVI.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Marie Antoinette</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1789</string>
+		<key>date</key>
+		<string>1789</string>
+		<key>id</key>
+		<string>8D1442F4-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>1790</string>
+		<key>incorrectAnswer2</key>
+		<string>1800</string>
+		<key>incorrectAnswer3</key>
+		<string>1780</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>The year the French Revolution started by the storming of the Bastille. What year is it?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Bastille was a political prison seen by the revolutionaries as a symbol of the monarchy&apos;s abuse of power.</string>
+		<key>theme</key>
+		<string>French History 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Storming of the Bastille.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Storming of the Bastille</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Marie Antoinette</string>
+		<key>date</key>
+		<string>1793</string>
+		<key>id</key>
+		<string>8D1445E2-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Catherine de&apos; Medici</string>
+		<key>incorrectAnswer2</key>
+		<string>Mary Tudor</string>
+		<key>incorrectAnswer3</key>
+		<string>Margaret of Valois</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>She was the queen of France and was guillotined during the French Revolution. Who is she?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Before the revolution Marie-Antoinette was liked by the population.</string>
+		<key>theme</key>
+		<string>French History 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Marie Antoinette is guillotined.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Marie Antoinette</string>
+	</dict>
+</array>
+</plist>

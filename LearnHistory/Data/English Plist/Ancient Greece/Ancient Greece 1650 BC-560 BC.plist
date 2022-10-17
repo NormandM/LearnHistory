@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Mycenaean</string>
+		<key>date</key>
+		<string>1650 BC-1100 BC</string>
+		<key>id</key>
+		<string>8aecee0c-199e-11ed-861d-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Classical</string>
+		<key>incorrectAnswer2</key>
+		<string>Hellenistic</string>
+		<key>incorrectAnswer3</key>
+		<string>Primitive</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>0</integer>
+		<key>question</key>
+		<string>What is the name of the phase of Greek civilization that extends from 1650 to 1100 BC at the end of the Bronze Age?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Trojan war takes place during the Mycenaean era.</string>
+		<key>theme</key>
+		<string>Ancient Greece 1650 BC-560 BC</string>
+		<key>timeLine</key>
+		<string>Mycenaean civilization</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Mycenaean Greece</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Minoan civilization</string>
+		<key>date</key>
+		<string>1600 BC</string>
+		<key>id</key>
+		<string>64885A04-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Rome</string>
+		<key>incorrectAnswer2</key>
+		<string>Egypt</string>
+		<key>incorrectAnswer3</key>
+		<string>The Francs</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>What civilization represents the first advanced society in Europe?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Minoan civilization flourished on the island of Crete.</string>
+		<key>theme</key>
+		<string>Ancient Greece 1650 BC-560 BC</string>
+		<key>timeLine</key>
+		<string>The Minoan catastrophic volcanic eruption.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>The Minoan civilization</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Trojan war</string>
+		<key>date</key>
+		<string>1200 BC</string>
+		<key>id</key>
+		<string>64885C0C-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Dorian invasion</string>
+		<key>incorrectAnswer2</key>
+		<string>Punic wars</string>
+		<key>incorrectAnswer3</key>
+		<string>Meliac war</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>What mythical war was caused by the abduction of Helen of Sparta</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Odyssey is the story of the Trojan war.</string>
+		<key>theme</key>
+		<string>Ancient Greece 1650 BC-560 BC</string>
+		<key>timeLine</key>
+		<string>Thre Trojan war</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Trojan war</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Bronze Age collapse</string>
+		<key>date</key>
+		<string>1150  BC</string>
+		<key>id</key>
+		<string>64885D4C-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Volcano eruption</string>
+		<key>incorrectAnswer2</key>
+		<string>Too many wars</string>
+		<key>incorrectAnswer3</key>
+		<string>The flood</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>What caused the Greek Dark Ages ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Mycenaean civilization survived the Greek dark ages.</string>
+		<key>theme</key>
+		<string>Ancient Greece 1650 BC-560 BC</string>
+		<key>timeLine</key>
+		<string>Bronze Age collapse</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Greek Dark Ages</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Homer</string>
+		<key>date</key>
+		<string>800 BC</string>
+		<key>id</key>
+		<string>64885F18-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Virgil</string>
+		<key>incorrectAnswer2</key>
+		<string>Aristotle</string>
+		<key>incorrectAnswer3</key>
+		<string>Plato</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Who wrote the Iliad and Odyssey?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Homeric epics had little influence on ancient Greek culture and education.</string>
+		<key>theme</key>
+		<string>Ancient Greece 1650 BC-560 BC</string>
+		<key>timeLine</key>
+		<string>Homer writes the Iliad and the Odyssey.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Homer</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Pythia</string>
+		<key>date</key>
+		<string>800-700 BC</string>
+		<key>id</key>
+		<string>64886030-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hera</string>
+		<key>incorrectAnswer2</key>
+		<string>Aphrodite</string>
+		<key>incorrectAnswer3</key>
+		<string>Helen</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>What was the name of the high priestess of the Temple of Apollo at Delphi?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Alexander the Great went to Delphi to consult the Pythia.</string>
+		<key>theme</key>
+		<string>Ancient Greece 1650 BC-560 BC</string>
+		<key>timeLine</key>
+		<string>The Pythia is established</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Pythia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>776 BC</string>
+		<key>date</key>
+		<string>776 BC</string>
+		<key>id</key>
+		<string>64886148-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>555 BC</string>
+		<key>incorrectAnswer2</key>
+		<string>896 BC</string>
+		<key>incorrectAnswer3</key>
+		<string>344 BC</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>What was the year of the first Olympic Games?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Olympic Games stopped being celebrated when Greece came under Roman rule.</string>
+		<key>theme</key>
+		<string>Ancient Greece 1650 BC-560 BC</string>
+		<key>timeLine</key>
+		<string>First Olympic Games</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Ancient Olympic Games</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Tyrants</string>
+		<key>date</key>
+		<string>660 BC</string>
+		<key>id</key>
+		<string>6488640E-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Kings</string>
+		<key>incorrectAnswer2</key>
+		<string>Generals</string>
+		<key>incorrectAnswer3</key>
+		<string>Emirs</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Who ruled the Greek Cities before the establishment of democracy?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Tyrants were known to govern by consensus.</string>
+		<key>theme</key>
+		<string>Ancient Greece 1650 BC-560 BC</string>
+		<key>timeLine</key>
+		<string>Pheidon is tyrant in Argos.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Tyrant</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Draco</string>
+		<key>date</key>
+		<string>622 BC</string>
+		<key>id</key>
+		<string>64886544-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Solon</string>
+		<key>incorrectAnswer2</key>
+		<string>Socrate</string>
+		<key>incorrectAnswer3</key>
+		<string>Plato</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>Who established laws characterized by their harshness for the city state of Athens?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Draco replaced the prevailing system of oral law and blood feud by a written code.</string>
+		<key>theme</key>
+		<string>Ancient Greece 1650 BC-560 BC</string>
+		<key>timeLine</key>
+		<string>Draco established his legal code</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Draconian constitution</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Solon</string>
+		<key>date</key>
+		<string>560 BC</string>
+		<key>id</key>
+		<string>64886666-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Draco</string>
+		<key>incorrectAnswer2</key>
+		<string>Socrate</string>
+		<key>incorrectAnswer3</key>
+		<string>Plato</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Cleisthenes is regarded as the founder of Athenian democracy, but who laid the foundation before him?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Solon’s work and writing only survive in fragments.</string>
+		<key>theme</key>
+		<string>Ancient Greece 1650 BC-560 BC</string>
+		<key>timeLine</key>
+		<string>Death of Solon</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Solon</string>
+	</dict>
+</array>
+</plist>

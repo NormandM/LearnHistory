@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>28609784-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>753 A.C.</string>
+		<key>question</key>
+		<string>¿Quién fue el legendario fundador y primer rey de Roma?</string>
+		<key>correctTAnswer</key>
+		<string>Rómulo</string>
+		<key>incorrectAnswer1</key>
+		<string>Remus</string>
+		<key>incorrectAnswer2</key>
+		<string>Eneas</string>
+		<key>incorrectAnswer3</key>
+		<string>Cesar</string>
+		<key>wikiSearchWord</key>
+		<string>Rómulo y Remo</string>
+		<key>questionTrueOrFalse</key>
+		<string>Remus era el hermano gemelo de Rómulo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Fundación legendaria de Roma por Rómulo.</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>286099fa-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>509 A.C.</string>
+		<key>question</key>
+		<string>¿En qué año se estableció la República Romana?</string>
+		<key>correctTAnswer</key>
+		<string>509 A.C.</string>
+		<key>incorrectAnswer1</key>
+		<string>409 A.C.</string>
+		<key>incorrectAnswer2</key>
+		<string>609 A.C.</string>
+		<key>incorrectAnswer3</key>
+		<string>309 A.C.</string>
+		<key>wikiSearchWord</key>
+		<string>República romana</string>
+		<key>questionTrueOrFalse</key>
+		<string>No hubo guerras de conquista durante la época de la República Romana.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Establecimiento de la República Romana</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>28609b3a-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>390 A.C.</string>
+		<key>question</key>
+		<string>¿Qué pueblo invadió Roma en el año 390 a.C.?</string>
+		<key>correctTAnswer</key>
+		<string>Senones</string>
+		<key>incorrectAnswer1</key>
+		<string>Griegos</string>
+		<key>incorrectAnswer2</key>
+		<string>Egipcios</string>
+		<key>incorrectAnswer3</key>
+		<string>Los godos</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla del Alia</string>
+		<key>questionTrueOrFalse</key>
+		<string>Brennus lideraba la tribu gala que había invadido el norte de Italia y la República Romana. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Primer saqueo galo de Roma tras la victoria en la batalla de Allia.</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>28609c5c-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>264 – 241 A.C.</string>
+		<key>question</key>
+		<string>¿Qué otra potencia se enfrentó a Roma en la primera guerra púnica?</string>
+		<key>correctTAnswer</key>
+		<string>Cartago</string>
+		<key>incorrectAnswer1</key>
+		<string>Celtas</string>
+		<key>incorrectAnswer2</key>
+		<string>Griegos</string>
+		<key>incorrectAnswer3</key>
+		<string>Persia</string>
+		<key>wikiSearchWord</key>
+		<string>Primera guerra púnica</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cartago ganó esta primera guerra.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Primera Guerra Púnica Roma conquista Sicilia</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>28609d92-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>218 – 201 A.C.</string>
+		<key>question</key>
+		<string>¿Qué gran general invadió Italia cruzando los Alpes con elefantes de guerra?</string>
+		<key>correctTAnswer</key>
+		<string>Aníbal</string>
+		<key>incorrectAnswer1</key>
+		<string>Atila el Huno</string>
+		<key>incorrectAnswer2</key>
+		<string>Alarico el Visigodo</string>
+		<key>incorrectAnswer3</key>
+		<string>Ciro el Grande</string>
+		<key>wikiSearchWord</key>
+		<string>Aníbal</string>
+		<key>questionTrueOrFalse</key>
+		<string>Aníbal fue finalmente derrotado en la batalla de Zama, terminando la guerra con la victoria romana.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Segunda guerra púnica contra Aníbal</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>28609eaa-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>149 – 146 A.C.</string>
+		<key>question</key>
+		<string>¿Qué gran general romano destruyó la ciudad de Cartago en la tercera guerra púnica?</string>
+		<key>correctTAnswer</key>
+		<string>Escipión Aemiliano</string>
+		<key>incorrectAnswer1</key>
+		<string>Julio César</string>
+		<key>incorrectAnswer2</key>
+		<string>Cayo Mario</string>
+		<key>incorrectAnswer3</key>
+		<string>Pompeyo el Grande</string>
+		<key>wikiSearchWord</key>
+		<string>Tercera guerra púnica</string>
+		<key>questionTrueOrFalse</key>
+		<string>Aunque fue derrotada en esta tercera guerra púnica, Cartago sobrevivió como nación.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Tercera Guerra Púnica Destrucción de Cartago.</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>28609fc2-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>146 A.C.</string>
+		<key>question</key>
+		<string>¿Qué batalla marcó el inicio de la dominación romana de Grecia?</string>
+		<key>correctTAnswer</key>
+		<string>Batalla de Corinto</string>
+		<key>incorrectAnswer1</key>
+		<string>La batalla de Maratón</string>
+		<key>incorrectAnswer2</key>
+		<string>La batalla de las Termópilas</string>
+		<key>incorrectAnswer3</key>
+		<string>Batalla del Olimpo</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Corinto</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tras la batalla de Corinto, la ciudad fue completamente destruida.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Guerra Aquea Destrucción de Corinto, Grecia se convierte en territorio romano</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2860a0e4-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>60 – 59 A.C.</string>
+		<key>question</key>
+		<string>El Primer Triunvirato fue una alianza de César, Pompeyo y un tercer líder. ¿Quién era éste?</string>
+		<key>correctTAnswer</key>
+		<string>Craso</string>
+		<key>incorrectAnswer1</key>
+		<string>Escipión</string>
+		<key>incorrectAnswer2</key>
+		<string>Sulla</string>
+		<key>incorrectAnswer3</key>
+		<string>Agripa</string>
+		<key>wikiSearchWord</key>
+		<string>Craso</string>
+		<key>questionTrueOrFalse</key>
+		<string>La principal debilidad de Craso era su falta de dinero.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Primer Triunvirato (Craso, Pompeyo, César)</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2860a68e-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>58 – 50 A.C.</string>
+		<key>question</key>
+		<string>¿Qué batalla decisiva del año 52 a.C. completó la victoria romana sobre la Galia?</string>
+		<key>correctTAnswer</key>
+		<string>Batalla de Alesia</string>
+		<key>incorrectAnswer1</key>
+		<string>Batalla de Gergovia</string>
+		<key>incorrectAnswer2</key>
+		<string>Batalla de los Vosgos</string>
+		<key>incorrectAnswer3</key>
+		<string>Batalla de Corinto</string>
+		<key>wikiSearchWord</key>
+		<string>Vercingétorix</string>
+		<key>questionTrueOrFalse</key>
+		<string>Vercingétorix unió a la mayoría de las tribus galas con el objetivo de enfrentarse a Julio César.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Conquista de la Galia por Julio César</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2860a7ce-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>49 — 45 A.C.</string>
+		<key>question</key>
+		<string>En la guerra civil romana del 49-45 a.C., ¿qué general representaba la principal oposición de César? </string>
+		<key>correctTAnswer</key>
+		<string>Pompeyo</string>
+		<key>incorrectAnswer1</key>
+		<string>Bruto</string>
+		<key>incorrectAnswer2</key>
+		<string>Craso</string>
+		<key>incorrectAnswer3</key>
+		<string>Escipión</string>
+		<key>wikiSearchWord</key>
+		<string>Segunda guerra civil de la República romana</string>
+		<key>questionTrueOrFalse</key>
+		<string>Pompeyo huyó a Egipto y fue asesinado al llegar.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>César cruza el Rubicón y marcha hacia Roma</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2860a8e6-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>32 – 30 A.C.</string>
+		<key>question</key>
+		<string>¿Qué general romano se opuso a Octavio en la última guerra civil de la República?</string>
+		<key>correctTAnswer</key>
+		<string>Marco Antonio</string>
+		<key>incorrectAnswer1</key>
+		<string>Pompeyo</string>
+		<key>incorrectAnswer2</key>
+		<string>César</string>
+		<key>incorrectAnswer3</key>
+		<string>Craso</string>
+		<key>wikiSearchWord</key>
+		<string>Muerte de Cleopatra</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tras la batalla de Actium, tanto Antonio como Cleopatra se vieron obligados a suicidarse.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Guerra final de la República Romana (Octavio contra Antonio y Cleopatra)</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2860aa12-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>27 A.C.– 14 </string>
+		<key>question</key>
+		<string>¿Quién fue el primer emperador romano?</string>
+		<key>correctTAnswer</key>
+		<string>César Augusto (Octavio)</string>
+		<key>incorrectAnswer1</key>
+		<string>Julio César</string>
+		<key>incorrectAnswer2</key>
+		<string>Claudio</string>
+		<key>incorrectAnswer3</key>
+		<string>Nerón</string>
+		<key>wikiSearchWord</key>
+		<string>Augusto</string>
+		<key>questionTrueOrFalse</key>
+		<string>El reinado de Augusto inició una era de guerras civiles.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Gobierno imperial de Augusto César (Octavio)</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2860ab2a-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>43               </string>
+		<key>question</key>
+		<string>¿Con qué emperador comenzó la conquista y ocupación de Gran Bretaña? </string>
+		<key>correctTAnswer</key>
+		<string>Claudio</string>
+		<key>incorrectAnswer1</key>
+		<string>Julio César</string>
+		<key>incorrectAnswer2</key>
+		<string>Calígula</string>
+		<key>incorrectAnswer3</key>
+		<string>Nerón</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista romana de Britania</string>
+		<key>questionTrueOrFalse</key>
+		<string>En la isla de Bretaña, los romanos conquistaron fácilmente las tribus de Escocia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Comienza la conquista de Gran Bretaña bajo el emperador Claudio</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2860ac42-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>64</string>
+		<key>question</key>
+		<string>¿A quién culpó Nerón del gran incendio de Roma en el año 64?</string>
+		<key>correctTAnswer</key>
+		<string>Cristianos</string>
+		<key>incorrectAnswer1</key>
+		<string>Los plebeyos</string>
+		<key>incorrectAnswer2</key>
+		<string>Los inmigrantes</string>
+		<key>incorrectAnswer3</key>
+		<string>Los judíos</string>
+		<key>wikiSearchWord</key>
+		<string>Gran incendio de Roma</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Gran Incendio de Roma duró 5 días.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Gran incendio de Roma El emperador Nerón culpa a los cristianos</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2860ad46-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>69</string>
+		<key>question</key>
+		<string>¿En el año 69 d.C., cuántos emperadores se sucedieron durante la primera guerra civil del imperio?</string>
+		<key>correctTAnswer</key>
+		<string>4</string>
+		<key>incorrectAnswer1</key>
+		<string>6</string>
+		<key>incorrectAnswer2</key>
+		<string>2</string>
+		<key>incorrectAnswer3</key>
+		<string>5</string>
+		<key>wikiSearchWord</key>
+		<string>Año de los cuatro emperadores</string>
+		<key>questionTrueOrFalse</key>
+		<string>El 69 d.C. fue llamado &quot;El año de los cuatro emperadores&quot;.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Año de los 4 emperadores</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2860ae54-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>122</string>
+		<key>question</key>
+		<string>¿En el año 122, qué emperador construyó la muralla que separa la Britania romana de Caledonia?</string>
+		<key>correctTAnswer</key>
+		<string>Adriano</string>
+		<key>incorrectAnswer1</key>
+		<string>Cómodo</string>
+		<key>incorrectAnswer2</key>
+		<string>Trajano</string>
+		<key>incorrectAnswer3</key>
+		<string>Marco Aurelio</string>
+		<key>wikiSearchWord</key>
+		<string>Muro de Adriano</string>
+		<key>questionTrueOrFalse</key>
+		<string>La muralla de Adriano no cubría toda la anchura de la isla.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Construcción del Muro de Adriano en Britania</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2860b386-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>161 – 180 </string>
+		<key>question</key>
+		<string>Fue el último de los gobernantes conocidos como los Cinco Buenos Emperadores. ¿Quién es?</string>
+		<key>correctTAnswer</key>
+		<string>Marco Aurelio</string>
+		<key>incorrectAnswer1</key>
+		<string>Cómodo</string>
+		<key>incorrectAnswer2</key>
+		<string>Adriano</string>
+		<key>incorrectAnswer3</key>
+		<string>Trajano</string>
+		<key>wikiSearchWord</key>
+		<string>Marco Aurelio</string>
+		<key>questionTrueOrFalse</key>
+		<string>Marco Aurelio está considerado como una de las figuras más representativas de la filosofía estoica.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Época de los &quot;cinco buenos emperadores&quot; (Nerva, Trajano, Adriano, Antonino Pío, Marco Aurelio)</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2860b4a8-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>312 – 337 </string>
+		<key>question</key>
+		<string>¿Quién fue el primer emperador romano que se convirtió al cristianismo?</string>
+		<key>correctTAnswer</key>
+		<string>Constantino el Grande</string>
+		<key>incorrectAnswer1</key>
+		<string>Marco Aurelio</string>
+		<key>incorrectAnswer2</key>
+		<string>Claudio</string>
+		<key>incorrectAnswer3</key>
+		<string>Calígula</string>
+		<key>wikiSearchWord</key>
+		<string>Constantino I</string>
+		<key>questionTrueOrFalse</key>
+		<string>Constantino construyó una nueva residencia imperial en la ciudad de Bizancio y la rebautizó como Constantinopla.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Reinado de Constantino el Grande</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2860b5ca-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>376</string>
+		<key>question</key>
+		<string>En el año 376, un gran número de godos entró en el Imperio Romano. ¿De quienes huían?</string>
+		<key>correctTAnswer</key>
+		<string>Los hunos</string>
+		<key>incorrectAnswer1</key>
+		<string>Los vándalos</string>
+		<key>incorrectAnswer2</key>
+		<string>Los mongoles</string>
+		<key>incorrectAnswer3</key>
+		<string>Los celtas</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Adrianópolis</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los godos pierden la batalla de Adrianópolis.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Los visigodos derrotan a los romanos en la batalla de Adrianópolis en los Balcanes</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2860b6d8-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>410</string>
+		<key>question</key>
+		<string>¿Qué rey condujo a los visigodos al saqueo de Roma el 24 de agosto del año 410?</string>
+		<key>correctTAnswer</key>
+		<string>Alarico</string>
+		<key>incorrectAnswer1</key>
+		<string>Atila</string>
+		<key>incorrectAnswer2</key>
+		<string>Vercingetorix</string>
+		<key>incorrectAnswer3</key>
+		<string>Odoacro</string>
+		<key>wikiSearchWord</key>
+		<string>Saqueo de Roma (410)</string>
+		<key>questionTrueOrFalse</key>
+		<string>El saqueo de Roma no fue una victoria decisiva en la guerra para los visigodos</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Los visigodos, liderados por Alarico, saquean Roma</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2860b818-c705-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>476</string>
+		<key>question</key>
+		<string>¿Cuál es el año de la caída del Imperio Romano de Occidente?</string>
+		<key>correctTAnswer</key>
+		<string>476 D.C.</string>
+		<key>incorrectAnswer1</key>
+		<string>276 D.C.</string>
+		<key>incorrectAnswer2</key>
+		<string>376 D.C.</string>
+		<key>incorrectAnswer3</key>
+		<string>576 D.C.</string>
+		<key>wikiSearchWord</key>
+		<string>Caída del Imperio romano de Occidente</string>
+		<key>questionTrueOrFalse</key>
+		<string>Aunque su legitimidad sobrevivió durante varios siglos más el Imperio de Occidente nunca tuvo la fuerza para levantarse de nuevo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Cae el Imperio Romano de Occidente</string>
+		<key>theme</key>
+		<string>La antigua Roma</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+</array>
+</plist>

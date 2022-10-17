@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>7d084302-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1607</string>
+		<key>question</key>
+		<string>¿Dónde se ubicó el primer asentamiento inglés permanente en Norteamérica?</string>
+		<key>correctTAnswer</key>
+		<string>Jamestown, Virginia</string>
+		<key>incorrectAnswer1</key>
+		<string>Philadelphia</string>
+		<key>incorrectAnswer2</key>
+		<string>Boston</string>
+		<key>incorrectAnswer3</key>
+		<string>Washington</string>
+		<key>wikiSearchWord</key>
+		<string>Jamestown (Virginia)</string>
+		<key>questionTrueOrFalse</key>
+		<string>No hubo otros intentos de asentamiento antes de Jamestown.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Jamestown es el primer asentamiento inglés permanente en Norteamérica.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d08453c-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1620</string>
+		<key>question</key>
+		<string>¿Cuál de estos grupos religiosos no se estableció en Norteamérica en el siglo XVII? (Peregrinos, Anglicanos, Quacker, Puritanos)</string>
+		<key>correctTAnswer</key>
+		<string>Anglicanos</string>
+		<key>incorrectAnswer1</key>
+		<string>Peregrinos</string>
+		<key>incorrectAnswer2</key>
+		<string>Quacker</string>
+		<key>incorrectAnswer3</key>
+		<string>Puritanos</string>
+		<key>wikiSearchWord</key>
+		<string>Padres peregrinos</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los peregrinos fueron los colonos ingleses que llegaron a Norteamérica en el Mayflower y establecieron la colonia de Plymouth.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Los peregrinos llegan a Norteamérica en el Mayflower.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d084672-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1763</string>
+		<key>question</key>
+		<string>Francia perdió esta guerra contra Gran Bretaña en 1763 y la mayor parte de su territorio en América del Norte. ¿Cómo se llamó esta guerra?</string>
+		<key>correctTAnswer</key>
+		<string>Guerra de los Siete Años</string>
+		<key>incorrectAnswer1</key>
+		<string>Guerra de los Treinta Años</string>
+		<key>incorrectAnswer2</key>
+		<string>Guerra de las Rosas</string>
+		<key>incorrectAnswer3</key>
+		<string>Guerra de la Independencia</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de los Siete Años</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra terminó con el Tratado de París entre Francia, España y Gran Bretaña.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Fin de la Guerra de los Siete Años.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d084794-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1774</string>
+		<key>question</key>
+		<string>¿Cómo se llamaron una serie de leyes punitivas aprobadas por el Parlamento británico en 1774 tras el Motín del Té de Boston?</string>
+		<key>correctTAnswer</key>
+		<string>Leyes intolerables</string>
+		<key>incorrectAnswer1</key>
+		<string>La ley punitiva </string>
+		<key>incorrectAnswer2</key>
+		<string>La ley de supremacía británica</string>
+		<key>incorrectAnswer3</key>
+		<string>La ley de orden público</string>
+		<key>wikiSearchWord</key>
+		<string>Leyes intolerables</string>
+		<key>questionTrueOrFalse</key>
+		<string> La Leyes intolerables aceleraron los procesos que culminaron en la Guerra de Independencia de los Estados Unidos.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Se aprueban las Leyes Intolerables.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d084a64-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1776</string>
+		<key>question</key>
+		<string>¿Quién escribió la Declaración de Independencia, adoptada por el Segundo Congreso el 4 de julio de 1776?</string>
+		<key>correctTAnswer</key>
+		<string>Thomas Jefferson</string>
+		<key>incorrectAnswer1</key>
+		<string>George Washington</string>
+		<key>incorrectAnswer2</key>
+		<string>Abraham Lincoln</string>
+		<key>incorrectAnswer3</key>
+		<string>Paul Revere</string>
+		<key>wikiSearchWord</key>
+		<string>Thomas Jefferson</string>
+		<key>questionTrueOrFalse</key>
+		<string>Jefferson estaba en contra de la separación de la Iglesia y el Estado</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Thomas Jefferson escribe el primer borrador de la Declaración de Independencia.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d084b72-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>4 de julio 1776</string>
+		<key>question</key>
+		<string>¿Cuántos Estados firmaron inicialmente la Declaración de Independencia?</string>
+		<key>correctTAnswer</key>
+		<string>13</string>
+		<key>incorrectAnswer1</key>
+		<string>6</string>
+		<key>incorrectAnswer2</key>
+		<string>24</string>
+		<key>incorrectAnswer3</key>
+		<string>50</string>
+		<key>wikiSearchWord</key>
+		<string>Declaración de Independencia de los Estados Unidos</string>
+		<key>questionTrueOrFalse</key>
+		<string>No se introdujeron cambios en el borrador inicial de la Declaración de Independencia de Jefferson.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Declaración de Independencia.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d084c80-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1777</string>
+		<key>question</key>
+		<string>¿Qué batalla se considera un punto de inflexión de la Revolución Americana?</string>
+		<key>correctTAnswer</key>
+		<string>Batallas de Saratoga</string>
+		<key>incorrectAnswer1</key>
+		<string>Batalla de Washington</string>
+		<key>incorrectAnswer2</key>
+		<string>Batalla de Lexington</string>
+		<key>incorrectAnswer3</key>
+		<string>Batalla de Quebec</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Saratoga</string>
+		<key>questionTrueOrFalse</key>
+		<string>El general británico John Burgoyne dirigía las fuerzas británicas en la batalla de Saratoga.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Batalla de Saratoga</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d084d7a-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1783</string>
+		<key>question</key>
+		<string>¿En qué año se firmó el Tratado de París por el que se reconocía la independencia de Estados Unidos?</string>
+		<key>correctTAnswer</key>
+		<string>1783</string>
+		<key>incorrectAnswer1</key>
+		<string>1780</string>
+		<key>incorrectAnswer2</key>
+		<string>1778</string>
+		<key>incorrectAnswer3</key>
+		<string>1785</string>
+		<key>wikiSearchWord</key>
+		<string>Tratado de París (1783)</string>
+		<key>questionTrueOrFalse</key>
+		<string>La evidencia de que la distribución de fuerzas, con el predominio inglés en el mar, hacía imposible un desenlace militar, condujo al cese de las hostilidades.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Fin de la Revolución Americana. Firma del Tratado de París.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d084e88-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1789</string>
+		<key>question</key>
+		<string>¿Cuándo entró en vigor la Constitución de Estados Unidos?</string>
+		<key>correctTAnswer</key>
+		<string>1789</string>
+		<key>incorrectAnswer1</key>
+		<string>1785</string>
+		<key>incorrectAnswer2</key>
+		<string>1775</string>
+		<key>incorrectAnswer3</key>
+		<string>1780</string>
+		<key>wikiSearchWord</key>
+		<string>Constitución de los Estados Unidos</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Constitución de los Estados Unidos es la constitución federal más antigua que se encuentra en vigor actualmente en el mundo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string> La Constitución de los Estados Unidos entra en vigor.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d084f96-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1789</string>
+		<key>question</key>
+		<string>¿Quién fue el primer presidente electo de los Estados Unidos?</string>
+		<key>correctTAnswer</key>
+		<string>George Washington</string>
+		<key>incorrectAnswer1</key>
+		<string>Thomas Jefferson</string>
+		<key>incorrectAnswer2</key>
+		<string>John Adams</string>
+		<key>incorrectAnswer3</key>
+		<string>Alexander Hamilton</string>
+		<key>wikiSearchWord</key>
+		<string>George Washington</string>
+		<key>questionTrueOrFalse</key>
+		<string>Washington fue elegido para un solo mandato.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>George Washington es elegido presidente por primera vez.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d085090-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1789-1995</string>
+		<key>question</key>
+		<string>¿Cuál de estos estadistas nunca fue presidente? (Thomas Jefferson, John Adams, Alexander Hamilton, James Madison)</string>
+		<key>correctTAnswer</key>
+		<string>Alexander Hamilton</string>
+		<key>incorrectAnswer1</key>
+		<string>Thomas Jefferson</string>
+		<key>incorrectAnswer2</key>
+		<string>John Adams</string>
+		<key>incorrectAnswer3</key>
+		<string>James Madison</string>
+		<key>wikiSearchWord</key>
+		<string>Alexander Hamilton</string>
+		<key>questionTrueOrFalse</key>
+		<string>Alexander Hamilton fue el fundador del Partido Federalista.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Alexander Hamilton es Secretario del Tesoro de los Estados Unidos.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d085194-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1812</string>
+		<key>question</key>
+		<string>¿En 1812 los Estados Unidos declararon la guerra a qué país?</string>
+		<key>correctTAnswer</key>
+		<string>Gran Bretaña</string>
+		<key>incorrectAnswer1</key>
+		<string>Francia</string>
+		<key>incorrectAnswer2</key>
+		<string>España</string>
+		<key>incorrectAnswer3</key>
+		<string>Países Bajos</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra anglo-estadounidense de 1812</string>
+		<key>questionTrueOrFalse</key>
+		<string>En la guerra de 1812 , los pueblos indígenas de Norteamérica apoyaban a los Estados Unidos.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>La segunda guerra de Estados Unidos con Gran Bretaña.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d085572-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1846-48</string>
+		<key>question</key>
+		<string>¿Cuál fue la causa principal de la guerra mexicano-estadounidense de 1846-48?</string>
+		<key>correctTAnswer</key>
+		<string>La anexión de la República de Texas por parte de Estados Unidos</string>
+		<key>incorrectAnswer1</key>
+		<string>La Guerra de Independencia de México</string>
+		<key>incorrectAnswer2</key>
+		<string>Inestabilidad política en México</string>
+		<key>incorrectAnswer3</key>
+		<string>Reivindicaciones territoriales</string>
+		<key>wikiSearchWord</key>
+		<string>Intervención estadounidense en México</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra mexicano-estadounidense hizo que México cediera más de la mitad de su territorio a Estados Unidos.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Guerra mexicano-estadounidense.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d085694-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1854</string>
+		<key>question</key>
+		<string>¿Qué partido político se fundó en 1854, en oposición a la esclavitud?</string>
+		<key>correctTAnswer</key>
+		<string>Republican</string>
+		<key>incorrectAnswer1</key>
+		<string>Democrats</string>
+		<key>incorrectAnswer2</key>
+		<string>Whigs</string>
+		<key>incorrectAnswer3</key>
+		<string>Black Panthers</string>
+		<key>wikiSearchWord</key>
+		<string>Partido Republicano (Estados Unidos)</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Republican Party es también conocido como GOP, de Grand Old Party, «Gran Partido Viejo».</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Los opositores a la esclavitud crean el Partido Republicano.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d08578e-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1861</string>
+		<key>question</key>
+		<string>¿Quién fue el primer Presidente de los Estados Unidos elegido por el Partido Republicano?</string>
+		<key>correctTAnswer</key>
+		<string>Abraham Lincoln</string>
+		<key>incorrectAnswer1</key>
+		<string>Ulysses S. Grant</string>
+		<key>incorrectAnswer2</key>
+		<string>Andrew Johnson</string>
+		<key>incorrectAnswer3</key>
+		<string>Ronald Reagan</string>
+		<key>wikiSearchWord</key>
+		<string>Abraham Lincoln</string>
+		<key>questionTrueOrFalse</key>
+		<string>Lincoln no fue reelegido como presidente.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Lincoln es elegido presidente.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d085888-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1861-1865</string>
+		<key>question</key>
+		<string>¿Cuántos estados se separaron de la Unión para formar los Estados Confederados?</string>
+		<key>correctTAnswer</key>
+		<string>11</string>
+		<key>incorrectAnswer1</key>
+		<string>7</string>
+		<key>incorrectAnswer2</key>
+		<string>4</string>
+		<key>incorrectAnswer3</key>
+		<string>13</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de Secesión</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Guerra Civil sigue siendo el conflicto militar más mortífero de la historia de Estados Unidos.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Guerra Civil Americana.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d08598c-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1865</string>
+		<key>question</key>
+		<string>La Decimotercera Enmienda fue ratificada y proclamada en 1865. ¿Cuál fue su propósito?</string>
+		<key>correctTAnswer</key>
+		<string>Para ilegalizar la esclavitud</string>
+		<key>incorrectAnswer1</key>
+		<string>Para garantizar la libertad de religión</string>
+		<key>incorrectAnswer2</key>
+		<string>Concedió a las mujeres el derecho al voto</string>
+		<key>incorrectAnswer3</key>
+		<string>Proscribió la prostitución</string>
+		<key>wikiSearchWord</key>
+		<string>Decimotercera Enmienda a la Constitución de los Estados Unidos</string>
+		<key>questionTrueOrFalse</key>
+		<string>En el momento de la ratificación de la Decimotercera Enmienda en 1865, ningún estado seguía teniendo esclavitud.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Proclamación de la Decimotercera Enmienda.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d085a90-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1876</string>
+		<key>question</key>
+		<string>¿Quién fue el general que dirigió las tropas estadounidenses en la &quot;Batalla de Little Bighorn&quot;?</string>
+		<key>correctTAnswer</key>
+		<string>Custer</string>
+		<key>incorrectAnswer1</key>
+		<string>Grant</string>
+		<key>incorrectAnswer2</key>
+		<string>Lee</string>
+		<key>incorrectAnswer3</key>
+		<string>Sherman</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Little Bighorn</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Batalla de Little Bighorn resultó en una victoria aplastante de la coalición india.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>La batalla de Little Bighorn.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d085b9e-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1898</string>
+		<key>question</key>
+		<string>¿Qué territorios ganó Estados Unidos en la guerra hispano-estadounidense de 1898?</string>
+		<key>correctTAnswer</key>
+		<string>Puerto Rico, Guam y las Islas Filipinas</string>
+		<key>incorrectAnswer1</key>
+		<string>Puerto Rico</string>
+		<key>incorrectAnswer2</key>
+		<string>Guam</string>
+		<key>incorrectAnswer3</key>
+		<string>Las Islas Filipinas</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra hispano-estadounidense</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra hispanoamericana duró 10 años.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Guerra hispano-estadounidense</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d085e28-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1908</string>
+		<key>question</key>
+		<string> ¿Cuál se considera el primer automóvil asequible, que puso los viajes en coche al alcance de la clase media estadounidense?</string>
+		<key>correctTAnswer</key>
+		<string>Ford Model T</string>
+		<key>incorrectAnswer1</key>
+		<string>Volkswagen Beetle</string>
+		<key>incorrectAnswer2</key>
+		<string>Alfa Romeo</string>
+		<key>incorrectAnswer3</key>
+		<string>Citroën</string>
+		<key>wikiSearchWord</key>
+		<string>Ford T</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Ford Modelo T era un coche caro al principio.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Producción del Ford Modelo T.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d085f2c-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1917</string>
+		<key>question</key>
+		<string>¿En qué año entró Estados Unidos en la Primera Guerra Mundial?</string>
+		<key>correctTAnswer</key>
+		<string>1917</string>
+		<key>incorrectAnswer1</key>
+		<string>1915</string>
+		<key>incorrectAnswer2</key>
+		<string>1914</string>
+		<key>incorrectAnswer3</key>
+		<string>1916</string>
+		<key>wikiSearchWord</key>
+		<string>Ofensiva de Meuse-Argonne</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Ofensiva de Meuse-Argonne fue la ofensiva final de la Primera Guerra Mundial, siendo la mayor operación y victoria de la Fuerza Expedicionaria Estadounidense en esa guerra.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string> Los Estados Unidos entran en la Primera Guerra Mundial.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d086026-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1920</string>
+		<key>question</key>
+		<string>La Decimonovena Enmienda fue ratificada y proclamada en 1920. ¿Cuál era su objetivo?</string>
+		<key>correctTAnswer</key>
+		<string>Dar a las mujeres el derecho al voto</string>
+		<key>incorrectAnswer1</key>
+		<string>Hacer ilegal la esclavitud</string>
+		<key>incorrectAnswer2</key>
+		<string>Proscribir la prostitución</string>
+		<key>incorrectAnswer3</key>
+		<string>Garantizar la libertad de religión</string>
+		<key>wikiSearchWord</key>
+		<string>Decimonovena Enmienda a la Constitución de los Estados Unidos</string>
+		<key>questionTrueOrFalse</key>
+		<string>Antes de 1776, las mujeres tenían voto en varias de las colonias de lo que sería Estados Unidos</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Proclamación de la Decimonovena Enmienda.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d08612a-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1929 - 1939</string>
+		<key>question</key>
+		<string>¿Qué gran novela americana está ambientada en la Gran Depresión (1929 - 1939)?</string>
+		<key>correctTAnswer</key>
+		<string>The Grapes of Wrath</string>
+		<key>incorrectAnswer1</key>
+		<string>The Great Gatsby</string>
+		<key>incorrectAnswer2</key>
+		<string>To Kill a Mockingbird</string>
+		<key>incorrectAnswer3</key>
+		<string>The Catcher in the Rye</string>
+		<key>wikiSearchWord</key>
+		<string>Gran Depresión</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Gran Depresión fue, ante todo, una crisis bursátil.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>La Gran Depresión</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d086224-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1933</string>
+		<key>question</key>
+		<string>¿Cómo se llamaron las políticas de Franklin Delano Roosevelt destinadas a aliviar la miseria de la Gran Depresión?</string>
+		<key>correctTAnswer</key>
+		<string>El New Deal</string>
+		<key>incorrectAnswer1</key>
+		<string>El programa de asistencia social</string>
+		<key>incorrectAnswer2</key>
+		<string>Justicia social para todos</string>
+		<key>incorrectAnswer3</key>
+		<string>El programa Nacional de Asistencia</string>
+		<key>wikiSearchWord</key>
+		<string>New Deal</string>
+		<key>questionTrueOrFalse</key>
+		<string>Numerosos programas del New Deal todavía permanecen activos</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>El New Deal</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d086328-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1941</string>
+		<key>question</key>
+		<string>¿Qué acontecimiento provocó la entrada de Estados Unidos en la Segunda Guerra Mundial?</string>
+		<key>correctTAnswer</key>
+		<string>El ataque a Pearl Harbor</string>
+		<key>incorrectAnswer1</key>
+		<string>La invasión de Hitler a Polonia</string>
+		<key>incorrectAnswer2</key>
+		<string>La invasión de Francia por parte de Hitler</string>
+		<key>incorrectAnswer3</key>
+		<string>El bombardeo del Reino Unido</string>
+		<key>wikiSearchWord</key>
+		<string>Ataque a Pearl Harbor</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los Estados Unidos sabían de antemano que los japoneses iban a atacar.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Ataque a Pearl Harbor</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d08642c-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1945</string>
+		<key>question</key>
+		<string>¿Sobre qué ciudades lanzó Estados Unidos la bomba atómica?</string>
+		<key>correctTAnswer</key>
+		<string>Hiroshima y Nagasaki</string>
+		<key>incorrectAnswer1</key>
+		<string>Hiroshima y Tokyo</string>
+		<key>incorrectAnswer2</key>
+		<string>Hiroshima y Osaka</string>
+		<key>incorrectAnswer3</key>
+		<string>Hisoshima</string>
+		<key>wikiSearchWord</key>
+		<string>Bombardeos atómicos de Hiroshima y Nagasaki</string>
+		<key>questionTrueOrFalse</key>
+		<string>Seis días después de la detonación sobre Nagasaki, el 15 de agosto, el Imperio de Japón anunció su rendición incondicional a los «Aliados»</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Bombardeos atómicos de Hiroshima y Nagasaki</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d086666-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1950-1953</string>
+		<key>question</key>
+		<string>¿Cuántos años duró la Guerra de Corea?</string>
+		<key>correctTAnswer</key>
+		<string>3</string>
+		<key>incorrectAnswer1</key>
+		<string>4</string>
+		<key>incorrectAnswer2</key>
+		<string>6</string>
+		<key>incorrectAnswer3</key>
+		<string>5</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de Corea</string>
+		<key>questionTrueOrFalse</key>
+		<string>Nunca se firmó un tratado de paz, y las dos Coreas siguen técnicamente en guerra.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Guerra de Corea</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d086774-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1955 -1956</string>
+		<key>question</key>
+		<string>¿Qué mujer se negó en 1955 a dejar su asiento en un autobús segregado?</string>
+		<key>correctTAnswer</key>
+		<string>Rosa Parks</string>
+		<key>incorrectAnswer1</key>
+		<string>Flo Kennedy</string>
+		<key>incorrectAnswer2</key>
+		<string>Fannie Lou Hamer</string>
+		<key>incorrectAnswer3</key>
+		<string>Septima Clark</string>
+		<key>wikiSearchWord</key>
+		<string>Rosa Parks</string>
+		<key>questionTrueOrFalse</key>
+		<string>Se la reconoce Rosa Parks como «la primera dama de los derechos civiles.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Boicot a los autobuses de Montgomery.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d086864-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1963-1969</string>
+		<key>question</key>
+		<string> ¿Cuál de los siguientes hombres no fue asesinado? (John F. Kennedy, Martin Luther King Jr., Lyndon B. Johnson, Robert F. Kennedy)</string>
+		<key>correctTAnswer</key>
+		<string>Lyndon B. Johnson</string>
+		<key>incorrectAnswer1</key>
+		<string>Robert F. Kennedy</string>
+		<key>incorrectAnswer2</key>
+		<string>John F. Kennedy</string>
+		<key>incorrectAnswer3</key>
+		<string>Martin Luther King Jr.</string>
+		<key>wikiSearchWord</key>
+		<string>Asesinato de John F. Kennedy</string>
+		<key>questionTrueOrFalse</key>
+		<string>John F. Kennedy fue el primer presidente de Estados Unidos en ser asesinado.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Asesinato de John F. Kennedy</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7d086968-3b88-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1969</string>
+		<key>question</key>
+		<string>¿En qué año el Apolo 11 aterrizó en la Luna convirtiendo a Neil Armstrong en el primer ser humano en pisar su superficie?</string>
+		<key>correctTAnswer</key>
+		<string>1969</string>
+		<key>incorrectAnswer1</key>
+		<string>1966</string>
+		<key>incorrectAnswer2</key>
+		<string>1972</string>
+		<key>incorrectAnswer3</key>
+		<string>1980</string>
+		<key>wikiSearchWord</key>
+		<string>Apolo 11</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tres astronautas aterrizaron en la Luna: Neil Armstrong, Buzz Aldrin y Michael Collins.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Neil Armstrong camina sobre la luna.</string>
+		<key>theme</key>
+		<string>Estados Unidos</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+	</dict>
+</array>
+</plist>

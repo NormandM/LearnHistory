@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Babylonian Empire</string>
+		<key>date</key>
+		<string>1894 BC</string>
+		<key>id</key>
+		<string>6b682f02-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Akkadians</string>
+		<key>incorrectAnswer2</key>
+		<string>Assyrians</string>
+		<key>incorrectAnswer3</key>
+		<string>Egyptians</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>After the destruction of the 3rd  Dynasty of Ur, who became leader of Mesopotamia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Old Babylonian Empire reigned from 1894 to 1595 BC.</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 1894 BC-651 AD</string>
+		<key>timeLine</key>
+		<string>Emergence of the Old Babylonian Empire.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Old Babylonian Empire</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hammurabi</string>
+		<key>date</key>
+		<string>1792 BC</string>
+		<key>id</key>
+		<string>6b6831a0-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Gilgamesh</string>
+		<key>incorrectAnswer2</key>
+		<string>Sargon</string>
+		<key>incorrectAnswer3</key>
+		<string>Ur-Nammu</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>This Babylonian king is best known for publishing a code of laws. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Code of Hammurabi and the Law of Moses in the Torah contain numerous similarities.</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 1894 BC-651 AD</string>
+		<key>timeLine</key>
+		<string>King Hammurabi takes the throne of Babylon.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Hammurabi</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Hittites</string>
+		<key>date</key>
+		<string>1595 BC</string>
+		<key>id</key>
+		<string>6b68b17a-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Persians</string>
+		<key>incorrectAnswer2</key>
+		<string>The Phoenicians</string>
+		<key>incorrectAnswer3</key>
+		<string>The Turks</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>They came from Anatolia and sacked Babylonia in 1584 BC. Who are they?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Kassites gained control of Babylonia after the Hittite sacked the city.</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 1894 BC-651 AD</string>
+		<key>timeLine</key>
+		<string>The Hittite sack Babylonia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Kassites</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ashurbanipal</string>
+		<key>date</key>
+		<string>631 BC</string>
+		<key>id</key>
+		<string>6b68b72e-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Sargon</string>
+		<key>incorrectAnswer2</key>
+		<string>Hammurabi</string>
+		<key>incorrectAnswer3</key>
+		<string>Gilgamesh</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Who is remembered as the last great king of Assyria?</string>
+		<key>questionTrueOrFalse</key>
+		<string>the Library of Ashurbanipal was not surpassed until the construction of the Library of Alexandria</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 1894 BC-651 AD</string>
+		<key>timeLine</key>
+		<string>Death of Ashurbanipal</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Ashurbanipal</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Nebuchadnezzar the Great</string>
+		<key>date</key>
+		<string>587 BC</string>
+		<key>id</key>
+		<string>6b68bb5c-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Gilgamesh</string>
+		<key>incorrectAnswer2</key>
+		<string>Hammurabi</string>
+		<key>incorrectAnswer3</key>
+		<string>Sargon II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>Which Neo-Babylonian king destroyed the Kingdom of Judah, and its capital, Jerusalem?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Nebuchadnezzar is remembered as a great builder king, but he had few military successes.</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 1894 BC-651 AD</string>
+		<key>timeLine</key>
+		<string>Nebuchadnezzar destroys the Kingdom of Judah.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Nebuchadnezzar II</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Achaemenids</string>
+		<key>date</key>
+		<string>539 BC</string>
+		<key>id</key>
+		<string>6b68bce2-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Greeks</string>
+		<key>incorrectAnswer2</key>
+		<string>The Romans</string>
+		<key>incorrectAnswer3</key>
+		<string>The Hittites</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Who conquered the Neo-Babylonian Empire in 539 BC?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Cyrus the Great entered Babylonia in peace without being engaged in any battle</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 1894 BC-651 AD</string>
+		<key>timeLine</key>
+		<string>The Persian Achaemenid Empire conquers the Neo-Babylonian Empire.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>The Achaemenids</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Xerxes I</string>
+		<key>date</key>
+		<string>484 BC</string>
+		<key>id</key>
+		<string>6b68c124-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cyrus the Great</string>
+		<key>incorrectAnswer2</key>
+		<string>Darius I</string>
+		<key>incorrectAnswer3</key>
+		<string>Artaxerxes II </string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>In 484 BC, the Babylonians revolted against this king of the Persian Achaemenid Empire. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>As a consequence of these revolts, Babylon is destroyed by Xerxes.</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 1894 BC-651 AD</string>
+		<key>timeLine</key>
+		<string>Babylonians revolt again Xerxes.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Babylonian revolts (484 BC)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Seleucus</string>
+		<key>date</key>
+		<string>321 BC</string>
+		<key>id</key>
+		<string>6b68c2dc-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ptolemy</string>
+		<key>incorrectAnswer2</key>
+		<string>Cassander</string>
+		<key>incorrectAnswer3</key>
+		<string>Antigonus</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Following the division of Alexander the Great’s Empire, who  received region of Babylonia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Seleucus empire never expanded outside Mesopotamia.</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 1894 BC-651 AD</string>
+		<key>timeLine</key>
+		<string>Seleucus receives the Mesopotamian region of Babylonia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Seleucid Empire</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Parthians</string>
+		<key>date</key>
+		<string>129 BC</string>
+		<key>id</key>
+		<string>6b68c5c0-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Hittites</string>
+		<key>incorrectAnswer2</key>
+		<string>The Assyrians</string>
+		<key>incorrectAnswer3</key>
+		<string>The Turks</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>They came from the region of Iran and seized Mesopotamia from the Seleucids in 129 BC. Who are they?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mithridates I is the Parthian king that conquered Mesopotamia.</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 1894 BC-651 AD</string>
+		<key>timeLine</key>
+		<string>The Parthian defeat the Seleucid and seize Mesopotamia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Mithridates I of Parthia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Muslims</string>
+		<key>date</key>
+		<string>651 AD</string>
+		<key>id</key>
+		<string>6b68ca8e-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Ottoman empire</string>
+		<key>incorrectAnswer2</key>
+		<string>The Bysantine Empire</string>
+		<key>incorrectAnswer3</key>
+		<string>The Vandals</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>Who, in the 7th century, conquered a large part of the world, Mesopotamia being one of the first?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Muslim conquest of Mesopotamia was slow and took more than a hundred years.</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 1894 BC-651 AD</string>
+		<key>timeLine</key>
+		<string>The Muslim Conquest of Mesopotamia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Early Muslim conquests</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Robespierre</string>
+		<key>date</key>
+		<string>1794</string>
+		<key>id</key>
+		<string>b31abe80-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Jean-Paul Marat</string>
+		<key>incorrectAnswer2</key>
+		<string>Georges Danton</string>
+		<key>incorrectAnswer3</key>
+		<string>Napoléon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>En 1794, fue derrocado, ejecutado y el Reinado del Terror terminó. ¿Quién era?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Robespierre fue una de las principales figuras de la Revolución Francesa.</string>
+		<key>theme</key>
+		<string>Francia 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>Robespierre es guillotinado</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Robespierre</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Austerlitz</string>
+		<key>date</key>
+		<string>1805</string>
+		<key>id</key>
+		<string>b31ac0c4-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Marengo</string>
+		<key>incorrectAnswer2</key>
+		<string>Ulm</string>
+		<key>incorrectAnswer3</key>
+		<string>Waterloo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>¿Qué batalla se considera la mayor victoria de Napoleón?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La batalla de Austerlitz también se conoce como la batalla de los tres emperadores.</string>
+		<key>theme</key>
+		<string>Francia 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>La batalla de Austerlitz</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>La batalla de Austerlitz</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Moscú</string>
+		<key>date</key>
+		<string>1812</string>
+		<key>id</key>
+		<string>b31ac682-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Viena</string>
+		<key>incorrectAnswer2</key>
+		<string>Pekín</string>
+		<key>incorrectAnswer3</key>
+		<string>Berlin</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>¿Cuál fue la ciudad más oriental ocupada por Napoleón en septiembre de 1812?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Después de invadir Moscú, los franceses pudieron reabastecerse para continuar el ataque.</string>
+		<key>theme</key>
+		<string>Francia 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>Napoleón invade Moscú</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Invasión napoleónica de Rusia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Waterloo</string>
+		<key>date</key>
+		<string>1815</string>
+		<key>id</key>
+		<string>b31ac89e-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Austerlitz</string>
+		<key>incorrectAnswer2</key>
+		<string>Iena</string>
+		<key>incorrectAnswer3</key>
+		<string>Marengo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>¿Cómo se llama la batalla de la  última derrota de Napoleón el 18 de junio de 1815?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Waterloo no fue la última batalla de Napoleón, sino que hubo otras batallas antes de su rendición.</string>
+		<key>theme</key>
+		<string>Francia 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>La batalla de Waterloo</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Waterloo</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Su sobrino</string>
+		<key>date</key>
+		<string>1852</string>
+		<key>id</key>
+		<string>b31acaba-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Su hermano</string>
+		<key>incorrectAnswer2</key>
+		<string>Su hijo</string>
+		<key>incorrectAnswer3</key>
+		<string>Su nieto</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>En 1852, Napoleón III fue coronado emperador. ¿Cuál era su relación con Napoleón I?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Napoleón III fue el último monarca de Francia.</string>
+		<key>theme</key>
+		<string>Francia 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>Napoleón III es coronado emperador</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Napoleón III</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La belle époque</string>
+		<key>date</key>
+		<string>1871-1914</string>
+		<key>id</key>
+		<string>b31acc9a-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La vida es bella</string>
+		<key>incorrectAnswer2</key>
+		<string>Los tiempos de oro</string>
+		<key>incorrectAnswer3</key>
+		<string>Le bonheur</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>¿Cómo se llama el periodo entre 1871 y 1914 caracterizado por el optimismo y la paz?</string>
+		<key>questionTrueOrFalse</key>
+		<string>A pesar de la prosperidad, la &quot;Belle Époque&quot; fue un periodo en el que Francia experimentó un declive en su poder político mundial.</string>
+		<key>theme</key>
+		<string>Francia 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>La belle époque</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>La belle époque</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1889</string>
+		<key>date</key>
+		<string>1889</string>
+		<key>id</key>
+		<string>b31ace48-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>1900</string>
+		<key>incorrectAnswer2</key>
+		<string>1882</string>
+		<key>incorrectAnswer3</key>
+		<string>1775</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>¿En qué año se inauguró la Torre Eiffel?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Torre Eiffel siguió siendo el monumento más alto del mundo durante 41 años.</string>
+		<key>theme</key>
+		<string>Francia 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>Inauguración de la Torre Eiffel</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Torre Eiffel</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Dreyfus</string>
+		<key>date</key>
+		<string>1894</string>
+		<key>id</key>
+		<string>b31ad00a-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Zola</string>
+		<key>incorrectAnswer2</key>
+		<string>Proust</string>
+		<key>incorrectAnswer3</key>
+		<string>Picard</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>¿Quién era este oficial francés de origen judío condenado falsamente por traición?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los dreyfusards eran opositores a Dreyfus. </string>
+		<key>theme</key>
+		<string>Francia 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>Dreyfus es condenado</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>El caso Dreyfus</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Verdun</string>
+		<key>date</key>
+		<string>18-12-1916</string>
+		<key>id</key>
+		<string>b31ad1ea-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Marne</string>
+		<key>incorrectAnswer2</key>
+		<string>Somme</string>
+		<key>incorrectAnswer3</key>
+		<string>Gallipoli</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>¿En qué ciudad perdieron los franceses 400.000 hombres en la Primera Guerra Mundial?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La batalla duró 302 días, la más larga y una de las más costosas de la historia de la humanidad.</string>
+		<key>theme</key>
+		<string>Francia 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>Batalla de Verdún</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Verdún</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Philippe Pétain</string>
+		<key>date</key>
+		<string>1940</string>
+		<key>id</key>
+		<string>b31ad3b6-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Charles de Gaulle</string>
+		<key>incorrectAnswer2</key>
+		<string>Gastón Billotte</string>
+		<key>incorrectAnswer3</key>
+		<string>Marcel Deslaurens</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>31</integer>
+		<key>question</key>
+		<string>Héroe de la 1a Guerra Mundial, fue culpable de traición después de la 2a. ¿Cómo se llama?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Pétain condujo al ejército francés a la victoria en la batalla de Verdún, que duró diez meses.</string>
+		<key>theme</key>
+		<string>Francia 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>Pétain firma el armisticio con Alemania</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Philippe Pétain</string>
+	</dict>
+</array>
+</plist>

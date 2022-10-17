@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Anne Boleyn</string>
+		<key>date</key>
+		<string>1528</string>
+		<key>id</key>
+		<string>eec89ffc-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Elizabeth</string>
+		<key>incorrectAnswer2</key>
+		<string>Marie</string>
+		<key>incorrectAnswer3</key>
+		<string>Aliénor d&apos;Aquitaine</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Henri VIII fait appel au pape pour annuler son mariage. Qui voulait-il épouser à la place ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ann Boleyn est la dernière épouse d&apos;Henri VIII</string>
+		<key>theme</key>
+		<string>Angleterre 1528-1837</string>
+		<key>timeLine</key>
+		<string>Henri VIII fait appel au pape pour annuler son mariage.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Anne Boleyn</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>6</string>
+		<key>date</key>
+		<string>1543</string>
+		<key>id</key>
+		<string>eec8a1dc-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>4</string>
+		<key>incorrectAnswer2</key>
+		<string>8</string>
+		<key>incorrectAnswer3</key>
+		<string>3</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>Combien de fois Henri VIII s&apos;est-il marié ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Henri VIII était déjà protestant lorsqu&apos;il a lancé la réforme de l&apos;Angleterre ?</string>
+		<key>theme</key>
+		<string>Angleterre 1528-1837</string>
+		<key>timeLine</key>
+		<string>Henri VIII épouse Catherine Parr, son sixième mariage.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Henri VIII</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Marie Tudor</string>
+		<key>date</key>
+		<string>1553</string>
+		<key>id</key>
+		<string>eec8a3a8-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Elizabeth I</string>
+		<key>incorrectAnswer2</key>
+		<string>Catherine d&apos;Aragon</string>
+		<key>incorrectAnswer3</key>
+		<string>Aliénor d&apos;Aquitaine</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>Elle fut la première femme à être couronnée monarque d&apos;Angleterre à part entière&quot; Qui est-elle ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Marie Tudor était également connue sous le nom de Bloody Mary.</string>
+		<key>theme</key>
+		<string>Angleterre 1528-1837</string>
+		<key>timeLine</key>
+		<string>Marie Tudor devient reine d&apos;Angleterre.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Marie Ire (reine d&apos;Angleterre)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Marie Stuart</string>
+		<key>date</key>
+		<string>1587</string>
+		<key>id</key>
+		<string>eec8a57e-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Jeanne de Navarre</string>
+		<key>incorrectAnswer2</key>
+		<string>Marguerite d&apos;Anjou</string>
+		<key>incorrectAnswer3</key>
+		<string>Catherine de Valois</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>Elle était reine d&apos;Écosse et a été exécutée après avoir été reconnue coupable de trahison. Qui est-elle ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Marie Stuart a passé dix-huit ans et demi en captivité avant d&apos;être décapitée.</string>
+		<key>theme</key>
+		<string>Angleterre 1528-1837</string>
+		<key>timeLine</key>
+		<string>Marie Stuart (Marie Ier d&apos;Écosse) est exécutée.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Marie, reine d&apos;Écosse</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Royaliste et parlementaire</string>
+		<key>date</key>
+		<string>1642</string>
+		<key>id</key>
+		<string>eec8a704-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Irlande et Angleterre</string>
+		<key>incorrectAnswer2</key>
+		<string>Irlande et Ecosse</string>
+		<key>incorrectAnswer3</key>
+		<string>Ecosse et Irlande</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>En 1642, une guerre civile commence. Qui étaient les parties impliquées dans cette guerre ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerre s&apos;est terminée par la victoire des royalistes à la bataille de Worcester le 3 septembre 1651.</string>
+		<key>theme</key>
+		<string>Angleterre 1528-1837</string>
+		<key>timeLine</key>
+		<string>Début de la guerre civile anglaise</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Première révolution anglaise</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Charles Ier</string>
+		<key>date</key>
+		<string>1649</string>
+		<key>id</key>
+		<string>eec8aab0-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Louis XVI</string>
+		<key>incorrectAnswer2</key>
+		<string>Edward</string>
+		<key>incorrectAnswer3</key>
+		<string>Edgar</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>Après l&apos;exécution de ce roi d&apos;Angleterre, la monarchie a été abolie. Qui est-il ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le roi Charles Ier a refusé les demandes de ses ravisseurs en faveur d&apos;une monarchie constitutionnelle.</string>
+		<key>theme</key>
+		<string>Angleterre 1528-1837</string>
+		<key>timeLine</key>
+		<string>Le roi Charles Ier est exécuté pour haute trahison.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Charles Ier d&apos;Angleterre</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Oliver Cromwell</string>
+		<key>date</key>
+		<string>1653</string>
+		<key>id</key>
+		<string>eec8acb8-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Henry Ireton</string>
+		<key>incorrectAnswer2</key>
+		<string>John Pym</string>
+		<key>incorrectAnswer3</key>
+		<string>Jean Hampden</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>À partir de 1653, il règne en tant que Lord Protecteur de l&apos;Angleterre. Qui est-il ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cromwell ne fait pas partie des signataires de l&apos;arrêt de mort de Charles Ier.</string>
+		<key>theme</key>
+		<string>Angleterre 1528-1837</string>
+		<key>timeLine</key>
+		<string>Cromwell est nommé Lord Protecteur.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Oliver Cromwell</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Guillaume d&apos;Orange</string>
+		<key>date</key>
+		<string>1688</string>
+		<key>id</key>
+		<string>eec8ae70-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Charles II</string>
+		<key>incorrectAnswer2</key>
+		<string>Jacques II</string>
+		<key>incorrectAnswer3</key>
+		<string>Guillaume II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>Qui est devenu roi après la Glorieuse Révolution et le renversement du roi Jacques II ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Glorieuse Révolution a duré plus de 10 ans.</string>
+		<key>theme</key>
+		<string>Angleterre 1528-1837</string>
+		<key>timeLine</key>
+		<string>La Glorieuse Révolution</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>La Glorieuse Révolution</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bataille de Trafalgar</string>
+		<key>date</key>
+		<string>1805</string>
+		<key>id</key>
+		<string>eec8b082-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Bataille de Waterloo</string>
+		<key>incorrectAnswer2</key>
+		<string>Bataille d&apos;Iena</string>
+		<key>incorrectAnswer3</key>
+		<string>Bataille d&apos;Austerlitz</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>En 1805, Lord Nelson vainc Napoléon. Quel était le nom de la bataille ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Nelson y trouve la mort, mais la victoire des Britanniques est totale.</string>
+		<key>theme</key>
+		<string>Angleterre 1528-1837</string>
+		<key>timeLine</key>
+		<string>Bataille de Trafalgar</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de Trafalgar</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La reine Victoria</string>
+		<key>date</key>
+		<string>1837</string>
+		<key>id</key>
+		<string>eec8b3d4-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La reine Elizabeth I</string>
+		<key>incorrectAnswer2</key>
+		<string>La reine Marie</string>
+		<key>incorrectAnswer3</key>
+		<string>Reine Elizabeth II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>En 1837, elle devient reine à l&apos;âge de 18 ans. Qui est-elle ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Après la mort d&apos;Albert en 1861, Victoria sombra dans une profonde dépression et se retira de la vie publique.</string>
+		<key>theme</key>
+		<string>Angleterre 1528-1837</string>
+		<key>timeLine</key>
+		<string>Victoria devient reine</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>La reine Victoria</string>
+	</dict>
+</array>
+</plist>

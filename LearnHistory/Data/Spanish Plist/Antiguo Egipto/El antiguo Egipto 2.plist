@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>d9fed1ec-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>3200 A.C.</string>
+		<key>question</key>
+		<string>¿Cuál era el sistema de escritura formal utilizado en el antiguo Egipto?</string>
+		<key>correctTAnswer</key>
+		<string>Jeroglíficos</string>
+		<key>incorrectAnswer1</key>
+		<string>Cuneiforme</string>
+		<key>incorrectAnswer2</key>
+		<string>Alfabeto antiguo</string>
+		<key>incorrectAnswer3</key>
+		<string>Imágenes</string>
+		<key>wikiSearchWord</key>
+		<string>Jeroglíficos egipcios</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los jeroglíficos fueron utilizados hasta el siglo IV.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Se utiliza por primera vez la escritura jeroglífica.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fed502-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>3100 A.C.</string>
+		<key>question</key>
+		<string>¿Quién fue el primer rey que unificó Egipto?</string>
+		<key>correctTAnswer</key>
+		<string>Narmer</string>
+		<key>incorrectAnswer1</key>
+		<string>Khufu</string>
+		<key>incorrectAnswer2</key>
+		<string>Tutmosis</string>
+		<key>incorrectAnswer3</key>
+		<string>Amenhotep</string>
+		<key>wikiSearchWord</key>
+		<string>Narmer</string>
+		<key>questionTrueOrFalse</key>
+		<string>Narmer es el fundador de la primera dinastía.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Primera unificación del Alto y Bajo Egipto.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fed660-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>3100 A.C.</string>
+		<key>question</key>
+		<string>¿Durante qué periodo del antiguo Egipto se construyeron las pirámides?</string>
+		<key>correctTAnswer</key>
+		<string>Reino antiguo</string>
+		<key>incorrectAnswer1</key>
+		<string>El Reino Medio </string>
+		<key>incorrectAnswer2</key>
+		<string>El Nuevo Reino </string>
+		<key>incorrectAnswer3</key>
+		<string>El periodo intermedio </string>
+		<key>wikiSearchWord</key>
+		<string>Reino antiguo</string>
+		<key>questionTrueOrFalse</key>
+		<string>En el reino antiguo aparece la divinización absoluta del faraón y un poder político fuertemente centralizado.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Comienzo del Reino Antiguo.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9feda0c-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>2780 A.C.</string>
+		<key>question</key>
+		<string>¿Qué se utilizaba para enterrar a los muertos antes de la pirámide escalonada?</string>
+		<key>correctTAnswer</key>
+		<string>La mastaba </string>
+		<key>incorrectAnswer1</key>
+		<string>Cuevas</string>
+		<key>incorrectAnswer2</key>
+		<string>Areneros</string>
+		<key>incorrectAnswer3</key>
+		<string>El sarcófago</string>
+		<key>wikiSearchWord</key>
+		<string>Mastaba</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los reyes nunca fueron enterrados en mastabas.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Primeras mastabas</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fedb92-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>2670–2650 A.C.</string>
+		<key>question</key>
+		<string>¿Quién fue el primer faraón que construyó una pirámide escalonada?</string>
+		<key>correctTAnswer</key>
+		<string>Zoser</string>
+		<key>incorrectAnswer1</key>
+		<string>Narmer</string>
+		<key>incorrectAnswer2</key>
+		<string>Snerefu</string>
+		<key>incorrectAnswer3</key>
+		<string>Khufu</string>
+		<key>wikiSearchWord</key>
+		<string>Pirámide escalonada de Zoser</string>
+		<key>questionTrueOrFalse</key>
+		<string>El arquitecto de la pirámide de Zoser fue Imhotep.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Pirámide de Zoser</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fedcdc-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>2600 A.C.</string>
+		<key>question</key>
+		<string>¿Qué faraón del Reino Antiguo construyó tres pirámides durante su reinado?</string>
+		<key>correctTAnswer</key>
+		<string>Seneferu</string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Narmer</string>
+		<key>incorrectAnswer3</key>
+		<string>Neferefre</string>
+		<key>wikiSearchWord</key>
+		<string>Pirámide Acodada</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Pirámide Acodada construida por Seneferu, ha desaparecido.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>La pirámide curva de Dahshur.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fede30-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>2600 A.C.</string>
+		<key>question</key>
+		<string>Se han encontrado vasos canopos junto a las tumbas. ¿Qué contenían?</string>
+		<key>correctTAnswer</key>
+		<string>Órganos internos</string>
+		<key>incorrectAnswer1</key>
+		<string>Alimentos</string>
+		<key>incorrectAnswer2</key>
+		<string>Agua</string>
+		<key>incorrectAnswer3</key>
+		<string>Joyería</string>
+		<key>wikiSearchWord</key>
+		<string>Vaso canopo</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las vísceras se guardaron todas en un único recipiente canopo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Se desarrollan los primeros vasos canopos.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fedf7a-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>2566 A.C.</string>
+		<key>question</key>
+		<string>¿Cuál es la más antigua de las siete maravillas del mundo antiguo?</string>
+		<key>correctTAnswer</key>
+		<string>Gran Pirámide de Guiza</string>
+		<key>incorrectAnswer1</key>
+		<string>La Esfinge</string>
+		<key>incorrectAnswer2</key>
+		<string>Faro de Alejandría</string>
+		<key>incorrectAnswer3</key>
+		<string>Valle de los Reyes</string>
+		<key>wikiSearchWord</key>
+		<string>Gran Pirámide de Guiza</string>
+		<key>questionTrueOrFalse</key>
+		<string>El arquitecto de la pirámide de Keops es Imhotep.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Gran Pirámide de Guiza</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fee0c4-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string> 2558–2532 A.C.</string>
+		<key>question</key>
+		<string>¿En qué periodo de la historia egipcia se construyó la Gran Esfinge?</string>
+		<key>correctTAnswer</key>
+		<string>Antiguo Reino</string>
+		<key>incorrectAnswer1</key>
+		<string>Nuevo Reino</string>
+		<key>incorrectAnswer2</key>
+		<string>Reino Medio</string>
+		<key>incorrectAnswer3</key>
+		<string>Primer periodo intermedio</string>
+		<key>wikiSearchWord</key>
+		<string>Gran Esfinge de Guiza</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Esfinge fue esculpida c. s. xxvi a. C., formando parte del complejo funerario del rey, durante la dinastía IV de Egipto.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>La Esfinge está construida.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fee3d0-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>2300 A.C.</string>
+		<key>question</key>
+		<string>¿Quién conquistó a los egipcios y fue conquistado por los egipcios?</string>
+		<key>correctTAnswer</key>
+		<string>Los nubios</string>
+		<key>incorrectAnswer1</key>
+		<string>Los hititas</string>
+		<key>incorrectAnswer2</key>
+		<string>Los griegos</string>
+		<key>incorrectAnswer3</key>
+		<string>Los romanos</string>
+		<key>wikiSearchWord</key>
+		<string>Nubios</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los nubios fundaron una dinastía que gobernó el Alto y Bajo Egipto en el siglo VIII a.C..</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Los nubios se mencionan por primera vez.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fee8ee-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>2181–2055 A.C.</string>
+		<key>question</key>
+		<string>¿Cómo se llama el periodo que siguió al declive del Reino Antiguo?</string>
+		<key>correctTAnswer</key>
+		<string>El primer periodo intermedio</string>
+		<key>incorrectAnswer1</key>
+		<string>La Edad Media</string>
+		<key>incorrectAnswer2</key>
+		<string>El Reino Medio </string>
+		<key>incorrectAnswer3</key>
+		<string> El Nuevo Reino </string>
+		<key>wikiSearchWord</key>
+		<string>Primer periodo intermedio de Egipto</string>
+		<key>questionTrueOrFalse</key>
+		<string>El territorio egipcio permanece unificado durante el Primer Periodo Intermedio.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Primer periodo intermedio</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9feea56-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>2040 to 1782 A.C.</string>
+		<key>question</key>
+		<string>¿Qué es lo que mejor describe al Reino Medio?</string>
+		<key>correctTAnswer</key>
+		<string>Un periodo de reunificación</string>
+		<key>incorrectAnswer1</key>
+		<string>Un periodo de guerra y conflicto.</string>
+		<key>incorrectAnswer2</key>
+		<string>La edad de los constructores de pirámides.</string>
+		<key>incorrectAnswer3</key>
+		<string>La decadencia de Egipto</string>
+		<key>wikiSearchWord</key>
+		<string>Mentuhotep II</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mentuhotep II fue el fundador del Imperio Medio de Egipto.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Reino Medio de Egipto</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9feeba0-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1650 – 1550 A.C.</string>
+		<key>question</key>
+		<string>¿Quiénes eran los extranjeros que gobernaban Egipto durante el segundo período intermedio?</string>
+		<key>correctTAnswer</key>
+		<string>Los hicsos</string>
+		<key>incorrectAnswer1</key>
+		<string>Los hititas </string>
+		<key>incorrectAnswer2</key>
+		<string>Los fenicios</string>
+		<key>incorrectAnswer3</key>
+		<string>Los griegos</string>
+		<key>wikiSearchWord</key>
+		<string>Segundo periodo intermedio de Egipto</string>
+		<key>questionTrueOrFalse</key>
+		<string>Fue una época en que el poder estuvo bajo un solo faraón.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Segundo periodo intermedio</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9feecc2-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1600 A.C.</string>
+		<key>question</key>
+		<string>¿De qué actividad es el papiro de Edwin Smith el documento más antiguo que se conoce?</string>
+		<key>correctTAnswer</key>
+		<string>Tratado de cirugía</string>
+		<key>incorrectAnswer1</key>
+		<string>Astronomía</string>
+		<key>incorrectAnswer2</key>
+		<string>Física</string>
+		<key>incorrectAnswer3</key>
+		<string>Arquitectura</string>
+		<key>wikiSearchWord</key>
+		<string>Papiro Edwin Smith</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Papiro Edwin Smith contiene tratamientos para heridas de guerra y descripciones anatómicas.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>El papiro de Edwin Smith</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fee1f0-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1550 A.C.</string>
+		<key>question</key>
+		<string>¿Qué documento se colocó en el ataúd del difunto?</string>
+		<key>correctTAnswer</key>
+		<string>Libro de los muertos</string>
+		<key>incorrectAnswer1</key>
+		<string>Libro de jeroglíficos</string>
+		<key>incorrectAnswer2</key>
+		<string>Libro del Más Allá</string>
+		<key>incorrectAnswer3</key>
+		<string>Libro de los vivos</string>
+		<key>wikiSearchWord</key>
+		<string>Libro de los muertos</string>
+		<key>questionTrueOrFalse</key>
+		<string>El propósito del Libro de los Muertos es ayudar a un difunto a cruzar el inframundo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>El Libro de los Muertos se utiliza por primera vez.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9feedda-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1507–1458 A.C.</string>
+		<key>question</key>
+		<string>¿Cuál es el nombre de una faraona de la XVIII dinastía del Reino Nuevo?</string>
+		<key>correctTAnswer</key>
+		<string>Hatshepsut</string>
+		<key>incorrectAnswer1</key>
+		<string>Nefertiti</string>
+		<key>incorrectAnswer2</key>
+		<string>Twosret</string>
+		<key>incorrectAnswer3</key>
+		<string>Neithikret</string>
+		<key>wikiSearchWord</key>
+		<string>Hatshepsut</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hatshepsut Fue la segunda mujer faraón históricamente confirmada después de Sobekneferu.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Hatshepsut</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9feef10-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1481-1425 A.C.</string>
+		<key>question</key>
+		<string>¿Qué faraón creó el mayor imperio que ha conocido Egipto?</string>
+		<key>correctTAnswer</key>
+		<string>Tutmosis III</string>
+		<key>incorrectAnswer1</key>
+		<string>Ramsés II</string>
+		<key>incorrectAnswer2</key>
+		<string>Tutankamón</string>
+		<key>incorrectAnswer3</key>
+		<string>Djoser</string>
+		<key>wikiSearchWord</key>
+		<string>Tutmosis III</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tutmosis III fue uno de los monarcas más importantes y poderosos de los tres mil años de civilización faraónica.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Tutmosis III</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fef050-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1370 – 1330 A.C.</string>
+		<key>question</key>
+		<string>Su busto es una de las obras más copiadas del antiguo Egipto. ¿Quién es ella?</string>
+		<key>correctTAnswer</key>
+		<string>Nefertiti</string>
+		<key>incorrectAnswer1</key>
+		<string>Cleopatra</string>
+		<key>incorrectAnswer2</key>
+		<string>Hatshepsut</string>
+		<key>incorrectAnswer3</key>
+		<string>Twosret</string>
+		<key>wikiSearchWord</key>
+		<string>Nefertiti</string>
+		<key>questionTrueOrFalse</key>
+		<string>Nefertiti fue la gran esposa real del faraón Akenatón.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Nefertiti</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fef186-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1351–1334 A.C.</string>
+		<key>question</key>
+		<string>¿Qué faraón estableció el monoteísmo por primera vez en la historia?</string>
+		<key>correctTAnswer</key>
+		<string>Akenatón</string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Ramsés II</string>
+		<key>incorrectAnswer3</key>
+		<string>Tutankamón</string>
+		<key>wikiSearchWord</key>
+		<string>Akenatón</string>
+		<key>questionTrueOrFalse</key>
+		<string>Akenatón está considerado por muchos arqueólogos como uno de los faraones menos interesante.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Akenatón</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fef5fa-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1341 -  1323 A.C.</string>
+		<key>question</key>
+		<string>Howard Carter descubrió su tumba casi intacta en 1922. ¿Quién es él?</string>
+		<key>correctTAnswer</key>
+		<string>Tutankamón</string>
+		<key>incorrectAnswer1</key>
+		<string>Ramsés II</string>
+		<key>incorrectAnswer2</key>
+		<string>Akenatón</string>
+		<key>incorrectAnswer3</key>
+		<string>Djoser</string>
+		<key>wikiSearchWord</key>
+		<string>Tutankamón</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tutankamón murió de viejo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Tutankamón</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fef71c-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1303–1213 A.C.</string>
+		<key>question</key>
+		<string>¿Quién fue considerado el faraón más grande y poderoso del Reino Nuevo?</string>
+		<key>correctTAnswer</key>
+		<string>Ramsés II</string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Akenatón</string>
+		<key>incorrectAnswer3</key>
+		<string>Tutankamón</string>
+		<key>wikiSearchWord</key>
+		<string>Ramsés II</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ramsés II nunca hizo una campaña militar.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Ramsés II</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fef83e-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1250 A.C.</string>
+		<key>question</key>
+		<string>¿Qué estructuras se creía que atraían los rayos del sol, permitiendo las resurrecciones?</string>
+		<key>correctTAnswer</key>
+		<string>El Obelisco</string>
+		<key>incorrectAnswer1</key>
+		<string>La pirámide</string>
+		<key>incorrectAnswer2</key>
+		<string>El templo</string>
+		<key>incorrectAnswer3</key>
+		<string>La columna </string>
+		<key>wikiSearchWord</key>
+		<string>Obelisco de Luxor</string>
+		<key>questionTrueOrFalse</key>
+		<string>El obelisco de Luxor se encuentra en el centro de la Plaza de la Concordia de París.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Obeliscos de Luxor</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fef974-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>305 A.C.</string>
+		<key>question</key>
+		<string>¿Qué antiguo general de Alejandro se proclamó faraón de Egipto?</string>
+		<key>correctTAnswer</key>
+		<string>Ptolomeo I</string>
+		<key>incorrectAnswer1</key>
+		<string>Cassandra</string>
+		<key>incorrectAnswer2</key>
+		<string>Seleuco I Nicator</string>
+		<key>incorrectAnswer3</key>
+		<string>Lisímaco </string>
+		<key>wikiSearchWord</key>
+		<string>Dinastía ptolemaica</string>
+		<key>questionTrueOrFalse</key>
+		<string>La familia de Ptolomeo gobernó Egipto hasta la conquista romana en el año 30 a.C.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Fundación de la dinastía ptolemaica.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fefaaa-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>304 – 282 A.C.</string>
+		<key>question</key>
+		<string>¿Qué gobernante del antiguo Egipto creó la Biblioteca Real?</string>
+		<key>correctTAnswer</key>
+		<string>Ptolomeo I Soter</string>
+		<key>incorrectAnswer1</key>
+		<string>Alejandro Magno</string>
+		<key>incorrectAnswer2</key>
+		<string>Cleopatra</string>
+		<key>incorrectAnswer3</key>
+		<string>Tutankamón</string>
+		<key>wikiSearchWord</key>
+		<string>Ptolomeo I</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ptolomeo I nunca asimiló ningunos aspectos de la cultura egipcia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Reinado de Ptolomeo I</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fefbd6-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>284-246 A.C.</string>
+		<key>question</key>
+		<string>Una de las 7 maravillas era la Gran Pirámide, ¿cuál otra tenía Egipto?</string>
+		<key>correctTAnswer</key>
+		<string>El Faro de Alejandría</string>
+		<key>incorrectAnswer1</key>
+		<string>El Valle de los Reyes</string>
+		<key>incorrectAnswer2</key>
+		<string>El Valle de las Reinas</string>
+		<key>incorrectAnswer3</key>
+		<string>Templo de Luxor</string>
+		<key>wikiSearchWord</key>
+		<string>El Faro de Alejandría</string>
+		<key>questionTrueOrFalse</key>
+		<string>A día de hoy, el faro de Alejandría sigue existiendo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Construcción del Faros de Alejandría.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fefd02-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>285–246 A.C.</string>
+		<key>question</key>
+		<string>¿En qué ciudad egipcia se encontraba la mayor biblioteca de la antigüedad?</string>
+		<key>correctTAnswer</key>
+		<string>Alexandria</string>
+		<key>incorrectAnswer1</key>
+		<string>Memphis</string>
+		<key>incorrectAnswer2</key>
+		<string>Tebas</string>
+		<key>incorrectAnswer3</key>
+		<string>El Cairo</string>
+		<key>wikiSearchWord</key>
+		<string>Biblioteca de Alejandría</string>
+		<key>questionTrueOrFalse</key>
+		<string>La biblioteca de Alejandría sobrevivió hasta el siglo X.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Creación de la Biblioteca de Alejandría</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9fefe24-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>196 A.C.</string>
+		<key>question</key>
+		<string>¿Qué artefacto permitió descifrar los jeroglíficos egipcios?</string>
+		<key>correctTAnswer</key>
+		<string>La piedra Rosetta</string>
+		<key>incorrectAnswer1</key>
+		<string>El libro de los muertos</string>
+		<key>incorrectAnswer2</key>
+		<string>El libro de los jeroglíficos</string>
+		<key>incorrectAnswer3</key>
+		<string>Traducciones de Heródoto</string>
+		<key>wikiSearchWord</key>
+		<string>Piedra Rosetta</string>
+		<key>questionTrueOrFalse</key>
+		<string>El antiguo egipcio con jeroglíficos y el latín se pueden encontrar en la Piedra Rosetta.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Creación de la Piedra Rosetta</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9ff0388-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>69-30 A.C.</string>
+		<key>question</key>
+		<string>¿Quién fue el último gobernante de la dinastía ptolemaica?</string>
+		<key>correctTAnswer</key>
+		<string>Cleopatra VII</string>
+		<key>incorrectAnswer1</key>
+		<string>César</string>
+		<key>incorrectAnswer2</key>
+		<string>Ptolomeo XIV</string>
+		<key>incorrectAnswer3</key>
+		<string>Marco Antonio</string>
+		<key>wikiSearchWord</key>
+		<string>Cleopatra VII</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cleopatra tuvo un hijo con César: Cesarión</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Cleopatra</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>46df83d2-2d53-11ed-a261-0242ac120002</string>
+		<key>date</key>
+		<string>1798–1801</string>
+		<key>question</key>
+		<string>Su expedición militar a Egipto marcó el inicio de la egiptología. ¿Quién era?</string>
+		<key>correctTAnswer</key>
+		<string>Napoleón</string>
+		<key>incorrectAnswer1</key>
+		<string>César</string>
+		<key>incorrectAnswer2</key>
+		<string>Ptolomeo</string>
+		<key>incorrectAnswer3</key>
+		<string>Marco Antonio</string>
+		<key>wikiSearchWord</key>
+		<string>Campaña napoleónica en Egipto y Siria</string>
+		<key>questionTrueOrFalse</key>
+		<string>Gracias a la campaña napoleónica en Egipto, Europa pudo redescubrir las maravillas de la antigüedad faraónica..</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Campaña francesa en Egipto</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>d9ff04e6-c01e-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1824</string>
+		<key>question</key>
+		<string>¿Quién fue el primero en traducir los jeroglíficos egipcios?</string>
+		<key>correctTAnswer</key>
+		<string>Jean-François Champollion</string>
+		<key>incorrectAnswer1</key>
+		<string>César</string>
+		<key>incorrectAnswer2</key>
+		<string>Ptolomeo</string>
+		<key>incorrectAnswer3</key>
+		<string>Napoleón</string>
+		<key>wikiSearchWord</key>
+		<string>Jean-François Champollion</string>
+		<key>questionTrueOrFalse</key>
+		<string>Champollion mostró cómo el sistema de escritura egipcio era una combinación de signos fonéticos e ideográficos.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Champollion descifra los jeroglíficos egipcios.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>31</integer>
+	</dict>
+</array>
+</plist>

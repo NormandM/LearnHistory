@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Los adivasis </string>
+		<key>date</key>
+		<string>30000 A.C.</string>
+		<key>id</key>
+		<string>346d5a3c-deaa-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Los Hmong</string>
+		<key>incorrectAnswer2</key>
+		<string>Los Mlabri</string>
+		<key>incorrectAnswer3</key>
+		<string>El Giraavaru</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>¿Cómo se llama a los primeros habitantes, los aborígenes de la India?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los adivadis constituyen aproximadamente el 7 % de la población total del país.</string>
+		<key>theme</key>
+		<string>India 30000 A.C. - 232 A.C.</string>
+		<key>timeLine</key>
+		<string>Los adivadis representan el 100% de la población</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Adivasi</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La civilización del valle del Indo</string>
+		<key>date</key>
+		<string>3300 A.C.</string>
+		<key>id</key>
+		<string>346d5ce4-deaa-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Los partos</string>
+		<key>incorrectAnswer2</key>
+		<string>La civilización Kanva</string>
+		<key>incorrectAnswer3</key>
+		<string>Las Senas</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>¿Cuál de las primeras civilizaciones, junto con Egipto y Mesopotamia, fue una de las más avanzadas?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Al igual que las civilizaciones de Mesopotamia y Egipto, valle del Indo dependía de su río.</string>
+		<key>theme</key>
+		<string>India 30000 A.C. - 232 A.C.</string>
+		<key>timeLine</key>
+		<string>Nacimiento de la civilización del Valle del Indo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Cultura del valle del Indo</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Sistemas de drenaje</string>
+		<key>date</key>
+		<string>2600 A.C.</string>
+		<key>id</key>
+		<string>346d5eba-deaa-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Papel</string>
+		<key>incorrectAnswer2</key>
+		<string>La pólvora</string>
+		<key>incorrectAnswer3</key>
+		<string>La brújula</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>¿Qué tecnología desarrolló por primera vez la civilización del Valle del Indo?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La civilización del Valle del Indo nunca se extinguió.</string>
+		<key>theme</key>
+		<string>India 30000 A.C. - 232 A.C.</string>
+		<key>timeLine</key>
+		<string>Primeros sistemas de drenaje en el Valle del Indo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Cultura del valle del Indo</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Los Vedas</string>
+		<key>date</key>
+		<string>1500–1000 A.C.</string>
+		<key>id</key>
+		<string>346d605e-deaa-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>El karma</string>
+		<key>incorrectAnswer2</key>
+		<string>El Tipitaka</string>
+		<key>incorrectAnswer3</key>
+		<string>Los agamas</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Estos textos son las escrituras más antiguas del hinduismo. ¿Cómo se llaman?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hay seis textos Vedas.</string>
+		<key>theme</key>
+		<string>India 30000 A.C. - 232 A.C.</string>
+		<key>timeLine</key>
+		<string>Se componen los textos sagrados del Rig Veda.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Vedas</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>El periodo védico</string>
+		<key>date</key>
+		<string>1500 – 500 A.C.</string>
+		<key>id</key>
+		<string>346d6446-deaa-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Período del Valle del Indo</string>
+		<key>incorrectAnswer2</key>
+		<string>Segunda urbanización</string>
+		<key>incorrectAnswer3</key>
+		<string>Período clásico </string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>¿En qué período la sociedad india vio surgir una jerarquía de clases sociales?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El periodo védico abarca el periodo entre el final de la civilización del Valle del Indo y la segunda urbanización.</string>
+		<key>theme</key>
+		<string>India 30000 A.C. - 232 A.C.</string>
+		<key>timeLine</key>
+		<string>El periodo védico</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Periodo védico</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>4</string>
+		<key>date</key>
+		<string>1500 A.C.</string>
+		<key>id</key>
+		<string>346d65cc-deaa-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>6</string>
+		<key>incorrectAnswer2</key>
+		<string>12</string>
+		<key>incorrectAnswer3</key>
+		<string>100</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>El Varṇa jerarquiza la sociedad india en cuántas clases?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Brahmán es la varna de los aborígenes y de los proveedores de servicios/servidores.</string>
+		<key>theme</key>
+		<string>India 30000 A.C. - 232 A.C.</string>
+		<key>timeLine</key>
+		<string>Aparecen los varnas</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Brahmán (casta)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Jainismo </string>
+		<key>date</key>
+		<string>600 A.C.</string>
+		<key>id</key>
+		<string>346d6734-deaa-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Zoroastrismo</string>
+		<key>incorrectAnswer2</key>
+		<string>Sijismo</string>
+		<key>incorrectAnswer3</key>
+		<string>Bahai</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Qué religión india enseña la no violencia (ahimsa, literalmente &quot;no daño&quot;) a todos los seres vivos?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El jainismo pregona una vía salvadora filosófica no centrada en el culto de ningún dios.</string>
+		<key>theme</key>
+		<string>India 30000 A.C. - 232 A.C.</string>
+		<key>timeLine</key>
+		<string>Fundación del jainismo</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Jainismo</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Budismo</string>
+		<key>date</key>
+		<string>500 A.C.</string>
+		<key>id</key>
+		<string>346d6874-deaa-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Jainismo</string>
+		<key>incorrectAnswer2</key>
+		<string>Hinduismo</string>
+		<key>incorrectAnswer3</key>
+		<string>Islam</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>¿Qué religión se originó en la India y se convirtió en una de las mayores religiones del mundo?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El budismo sigue siendo una de las principales religiones de la India.</string>
+		<key>theme</key>
+		<string>India 30000 A.C. - 232 A.C.</string>
+		<key>timeLine</key>
+		<string>Fundación del budismo</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Historia del budismo en la India</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Imperio Maurya</string>
+		<key>date</key>
+		<string>321 to 185 A.C.</string>
+		<key>id</key>
+		<string>346d69b4-deaa-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Imperio sasánida</string>
+		<key>incorrectAnswer2</key>
+		<string>Imperio Parto</string>
+		<key>incorrectAnswer3</key>
+		<string>Imperio caldeo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Chandragupta Mauryalaying unió por primera vez la mayor parte de la India. ¿Cómo se llamó su imperio?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Chandragupta abdicó de su trono y se hizo monje jainista.</string>
+		<key>theme</key>
+		<string>India 30000 A.C. - 232 A.C.</string>
+		<key>timeLine</key>
+		<string>Imperio Maurya</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Chandragupta Maurya</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ashoka</string>
+		<key>date</key>
+		<string>268 to 232 A.C.</string>
+		<key>id</key>
+		<string>346d6acc-deaa-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Srutayush</string>
+		<key>incorrectAnswer2</key>
+		<string>Subahu</string>
+		<key>incorrectAnswer3</key>
+		<string>Guhasiva</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>¿Quién es considerado el mayor emperador de la India?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ashoka se convirtió al budismo.</string>
+		<key>theme</key>
+		<string>India 30000 A.C. - 232 A.C.</string>
+		<key>timeLine</key>
+		<string>Reinado de Ashoka</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Ashoka</string>
+	</dict>
+</array>
+</plist>

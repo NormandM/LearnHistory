@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Polymathe</string>
+		<key>date</key>
+		<string>384 Av</string>
+		<key>id</key>
+		<string>135fcd36-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Philosophe</string>
+		<key>incorrectAnswer2</key>
+		<string>Médecin</string>
+		<key>incorrectAnswer3</key>
+		<string>Poète</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Quel mot décrit le mieux les domaines d&apos;intérêt et d&apos;étude d&apos;Aristote ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Aristote est l&apos;un des penseurs les plus influents que le monde occidental ait connus.</string>
+		<key>theme</key>
+		<string>Grèce antique 384 AV-146 AV</string>
+		<key>timeLine</key>
+		<string>Naissance d&apos;Aristote</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Aristote</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Euclide</string>
+		<key>date</key>
+		<string>350 Av</string>
+		<key>id</key>
+		<string>135fce4e-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Socrate</string>
+		<key>incorrectAnswer2</key>
+		<string>Pythagore</string>
+		<key>incorrectAnswer3</key>
+		<string>Zénon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Quel mathématicien grec est considéré comme le fondateur de la géométrie ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Éléments d&apos;Euclide sont l&apos;un des ouvrages les plus influents de l&apos;histoire des mathématiques.</string>
+		<key>theme</key>
+		<string>Grèce antique 384 AV-146 AV</string>
+		<key>timeLine</key>
+		<string>Naissance d&apos;Euclide</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Euclide</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Platon</string>
+		<key>date</key>
+		<string>347 Av</string>
+		<key>id</key>
+		<string>135fcf5c-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pythagore</string>
+		<key>incorrectAnswer2</key>
+		<string>Hérodote</string>
+		<key>incorrectAnswer3</key>
+		<string>Zénon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>Son professeur était Socrate et son élève le plus célèbre était Aristote. Qui était-il?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Comme pour son maître Socrate, Platon n&apos;a jamais mis par écrit aucun de ses enseignements.</string>
+		<key>theme</key>
+		<string>Grèce antique 384 AV-146 AV</string>
+		<key>timeLine</key>
+		<string>Décès de Platon</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Platon</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Inde</string>
+		<key>date</key>
+		<string>356 Av</string>
+		<key>id</key>
+		<string>135fd074-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Chine</string>
+		<key>incorrectAnswer2</key>
+		<string>Anétolie</string>
+		<key>incorrectAnswer3</key>
+		<string>Perse</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>Quel pays constituait la limite orientale de l&apos;empire d&apos;Alexandre le Grand ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Alexandre le Grand est mort à l&apos;âge de 44 ans.</string>
+		<key>theme</key>
+		<string>Grèce antique 384 AV-146 AV</string>
+		<key>timeLine</key>
+		<string>Naissance d&apos;Alexandre le Grand</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Alexandre le Grand</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Thèbes</string>
+		<key>date</key>
+		<string>335 Av</string>
+		<key>id</key>
+		<string>135fd84e-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Sparte</string>
+		<key>incorrectAnswer2</key>
+		<string>Corinthe</string>
+		<key>incorrectAnswer3</key>
+		<string>Athènes</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>Quelle cité grecque a menacé de se rebeller quand Alexandre est devenu roi et a été détruite par lui ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Lorsqu&apos;Alexandre succède à son père, il est rapidement accepté comme le nouvel hégémon de la Grèce.</string>
+		<key>theme</key>
+		<string>Grèce antique 384 AV-146 AV</string>
+		<key>timeLine</key>
+		<string>La bataille d&apos;Alexandre contre Thèbes</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de Thèbes</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bucéphale</string>
+		<key>date</key>
+		<string>326 Av</string>
+		<key>id</key>
+		<string>135fd9c0-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Minotaure</string>
+		<key>incorrectAnswer2</key>
+		<string>Godolphin</string>
+		<key>incorrectAnswer3</key>
+		<string>Marengo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>Quel est le nom du célèbre cheval d&apos;Alexandre ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Une ville en Inde a été nommée en l&apos;honneur de Bucéphale.</string>
+		<key>theme</key>
+		<string>Grèce antique 384 AV-146 AV</string>
+		<key>timeLine</key>
+		<string> Bucéphale meurt après la bataille de l&apos;Hydaspe</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Bucéphale</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Macédoine</string>
+		<key>date</key>
+		<string>323 Av</string>
+		<key>id</key>
+		<string>135fdae2-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Athènes</string>
+		<key>incorrectAnswer2</key>
+		<string>Rome</string>
+		<key>incorrectAnswer3</key>
+		<string>Égypte</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>Où est né Alexandre le Grand ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Alexandre le Grand a fondé plus de vingt villes qui portent son nom.</string>
+		<key>theme</key>
+		<string>Grèce antique 384 AV-146 AV</string>
+		<key>timeLine</key>
+		<string>Décès d&apos;Alexandre le Grand</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Alexandre le Grand</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Eratosthène</string>
+		<key>date</key>
+		<string>276 Av</string>
+		<key>id</key>
+		<string>135fdc54-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pythagore</string>
+		<key>incorrectAnswer2</key>
+		<string>Archimède</string>
+		<key>incorrectAnswer3</key>
+		<string>Zénon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>Il est la première personne connue à avoir calculé la circonférence de la Terre. Qui est-il ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ératosthène devient le bibliothécaire en chef de la bibliothèque d&apos;Alexandrie.</string>
+		<key>theme</key>
+		<string>Grèce antique 384 AV-146 AV</string>
+		<key>timeLine</key>
+		<string>Naissance d&apos;Eratosthène</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Eratosthène</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Eurêka</string>
+		<key>date</key>
+		<string>212 Av</string>
+		<key>id</key>
+		<string>135fdd80-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Je l&apos;ai eu !</string>
+		<key>incorrectAnswer2</key>
+		<string>Veni, vidi, vici</string>
+		<key>incorrectAnswer3</key>
+		<string>Enfin !</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>Quelle est la célèbre exclamation attribuée à Archimède ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Archimède est originaire de Syracuse, en Sicile.</string>
+		<key>theme</key>
+		<string>Grèce antique 384 AV-146 AV</string>
+		<key>timeLine</key>
+		<string>Mort d&apos;Archimède</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Archimède</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Corinthe</string>
+		<key>date</key>
+		<string>146 Av</string>
+		<key>id</key>
+		<string>135fde8e-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Athènes</string>
+		<key>incorrectAnswer2</key>
+		<string>Sparte</string>
+		<key>incorrectAnswer3</key>
+		<string>Thèbes</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>Quelle défaite a conduit à la domination romaine de la Grèce ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La bataille de Corinthe a été livrée par César.</string>
+		<key>theme</key>
+		<string>Grèce antique 384 AV-146 AV</string>
+		<key>timeLine</key>
+		<string>La bataille de Corinthe. Domination romaine.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>bataille de Leucopétra</string>
+	</dict>
+</array>
+</plist>

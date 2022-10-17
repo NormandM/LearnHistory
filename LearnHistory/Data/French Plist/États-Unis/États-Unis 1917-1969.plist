@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1917</string>
+		<key>date</key>
+		<string>1917</string>
+		<key>id</key>
+		<string>6cd42bb8-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>1915</string>
+		<key>incorrectAnswer2</key>
+		<string>1914</string>
+		<key>incorrectAnswer3</key>
+		<string>1916</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>En quelle année les États-Unis sont-ils entrés dans la Première Guerre mondiale ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Lors de l&apos;armistice, le 11 novembre 1918, environ 2 millions de soldats américains étaient en France</string>
+		<key>theme</key>
+		<string>États-Unis 1917-1969</string>
+		<key>timeLine</key>
+		<string>Les États-Unis entrent dans la Première Guerre mondiale.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>États-Unis dans la Première Guerre mondiale</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Donner le droit de vote aux femmes.</string>
+		<key>date</key>
+		<string>1920</string>
+		<key>id</key>
+		<string>6cd42cc6-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Rendre l&apos;esclavage illégal.</string>
+		<key>incorrectAnswer2</key>
+		<string>Garantir la liberté de religion.</string>
+		<key>incorrectAnswer3</key>
+		<string>Rendit la prostitution illégale</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>Le dix-neuvième amendement a été ratifié et proclamé en 1920. Quel était son but ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Dans certains états, le droit de vote des femmes ne fut pas reconnu.</string>
+		<key>theme</key>
+		<string>États-Unis 1917-1969</string>
+		<key>timeLine</key>
+		<string>Proclamation du dix-neuvième amendement.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Dix-neuvième amendement de la Constitution des États-Unis</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Grapes of Wrath</string>
+		<key>date</key>
+		<string>1929 - 1939</string>
+		<key>id</key>
+		<string>6cd42da2-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Great Gatsby</string>
+		<key>incorrectAnswer2</key>
+		<string>To Kill a Mockingbird</string>
+		<key>incorrectAnswer3</key>
+		<string>The Catcher in the Rye</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>Quel grand roman américain se déroule pendant la Grande Dépression (1929 - 1939) ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Grande Dépression était avant tout un krach boursier.</string>
+		<key>theme</key>
+		<string>États-Unis 1917-1969</string>
+		<key>timeLine</key>
+		<string>La Grande Dépression</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Krach de 1929</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The New Deal</string>
+		<key>date</key>
+		<string>1933</string>
+		<key>id</key>
+		<string>6cd43004-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>National Assistance Program</string>
+		<key>incorrectAnswer2</key>
+		<string>Welfare</string>
+		<key>incorrectAnswer3</key>
+		<string>Justice for all</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>Comment s&apos;appelaient les politiques de Franklin Delano Roosevelt visant à soulager la misère de la Grande Dépression ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>De nombreux programmes du New Deal restent toujours actifs.</string>
+		<key>theme</key>
+		<string>États-Unis 1917-1969</string>
+		<key>timeLine</key>
+		<string>Le  New Deal.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>New Deal</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>L&apos;attaque de Pearl Harbor</string>
+		<key>date</key>
+		<string>1941</string>
+		<key>id</key>
+		<string>6cd430f4-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>L&apos;invasion de la Pologne par Hitler.</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;invasion de la France par Hitler.</string>
+		<key>incorrectAnswer3</key>
+		<string>Le Blitz sur le Royaume-Uni.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>Quel événement a provoqué l&apos;entrée des États-Unis dans la Seconde Guerre mondiale ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les États-Unis savaient à l&apos;avance que les Japonais allaient attaquer.</string>
+		<key>theme</key>
+		<string>États-Unis 1917-1969</string>
+		<key>timeLine</key>
+		<string>Attaque de Pearl Harbor</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Attaque de Pearl Harbor</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hiroshima et Nagasaki</string>
+		<key>date</key>
+		<string>1945</string>
+		<key>id</key>
+		<string>6cd431d0-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hiroshima et Tokyo</string>
+		<key>incorrectAnswer2</key>
+		<string>Hiroshima et Osaka</string>
+		<key>incorrectAnswer3</key>
+		<string>Hisoshima</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>Sur quelles villes les États-Unis ont-ils largué la bombe atomique ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le Japon s&apos;est rendu aux Alliés le 14 août 1945.</string>
+		<key>theme</key>
+		<string>États-Unis 1917-1969</string>
+		<key>timeLine</key>
+		<string>Bombardements atomiques d&apos;Hiroshima et de Nagasa</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Bombardements atomiques d&apos;Hiroshima et de Nagasaki</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>3</string>
+		<key>date</key>
+		<string>1950-1953</string>
+		<key>id</key>
+		<string>6cd432c0-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>4</string>
+		<key>incorrectAnswer2</key>
+		<string>6</string>
+		<key>incorrectAnswer3</key>
+		<string>5</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>Combien d&apos;années a duré la guerre de Corée ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Aucun traité de paix n&apos;a jamais été signé, et les deux Corées sont techniquement toujours en guerre.</string>
+		<key>theme</key>
+		<string>États-Unis 1917-1969</string>
+		<key>timeLine</key>
+		<string>Guerre de Corée</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre de Corée</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Rosa Parks</string>
+		<key>date</key>
+		<string>1955 -1956</string>
+		<key>id</key>
+		<string>6cd434fa-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Flo Kennedy</string>
+		<key>incorrectAnswer2</key>
+		<string>Fannie Lou Hamer</string>
+		<key>incorrectAnswer3</key>
+		<string>Septima Clark</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>En 1955, quelle femme a refusé de quitter son siège dans un bus ségrégationniste ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Rosa Parks fut surnommée « mère du mouvement des droits civiques » par le Congrès américain.</string>
+		<key>theme</key>
+		<string>États-Unis 1917-1969</string>
+		<key>timeLine</key>
+		<string>Boycott des bus de Montgomery</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Rosa Parks</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Lyndon B. Johnson</string>
+		<key>date</key>
+		<string>1963-1969</string>
+		<key>id</key>
+		<string>6cd43612-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Robert F. Kennedy</string>
+		<key>incorrectAnswer2</key>
+		<string>John F. Kennedy</string>
+		<key>incorrectAnswer3</key>
+		<string>Martin Luther King Jr.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>Lequel des hommes suivants n&apos;a pas été assassiné ?  (Lyndon B. Johnson, Robert F. Kennedy, John F. Kennedy, Martin Luther King Jr.)</string>
+		<key>questionTrueOrFalse</key>
+		<string>Lee Harvey Oswald a été reconnu coupable de l&apos;assassinat de Kennedy et est mort en prison.</string>
+		<key>theme</key>
+		<string>États-Unis 1917-1969</string>
+		<key>timeLine</key>
+		<string>Assassinat de John F. Kennedy</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Assassinat de John F. Kennedy</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1969</string>
+		<key>date</key>
+		<string>1969</string>
+		<key>id</key>
+		<string>6cd436f8-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>1966</string>
+		<key>incorrectAnswer2</key>
+		<string>1972</string>
+		<key>incorrectAnswer3</key>
+		<string>1980</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>En quelle année Apollo 11 s&apos;est-il posé sur la lune, faisant de Neil Armstrong le premier humain à marcher sur sa surface ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Trois astronautes se sont posés sur la lune : Neil Armstrong, Buzz Aldrin et Michael Collins.</string>
+		<key>theme</key>
+		<string>États-Unis 1917-1969</string>
+		<key>timeLine</key>
+		<string>Neil Armstrong marche sur la lune.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Apollo 11</string>
+	</dict>
+</array>
+</plist>

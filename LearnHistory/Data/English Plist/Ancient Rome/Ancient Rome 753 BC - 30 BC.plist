@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Romulus</string>
+		<key>date</key>
+		<string>753 BC</string>
+		<key>id</key>
+		<string>5ee32ea6-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Remus</string>
+		<key>incorrectAnswer2</key>
+		<string>Aeneas</string>
+		<key>incorrectAnswer3</key>
+		<string>Cesar</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>Who was the legendary founder and first king of Rome?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Remus was killed by his twin brother Romulus.</string>
+		<key>theme</key>
+		<string>Ancient Rome 753 BC - 30 BC</string>
+		<key>timeLine</key>
+		<string>Legendary founding of Rome by Romulus.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Romulus and Remus</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>509 B.C.</string>
+		<key>date</key>
+		<string>509 BC</string>
+		<key>id</key>
+		<string>5ee33112-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>409 B.C.</string>
+		<key>incorrectAnswer2</key>
+		<string>609 B.C.</string>
+		<key>incorrectAnswer3</key>
+		<string>309 B.C.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>In what year was the Roman Republic established?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The patricians designated the people without real power.</string>
+		<key>theme</key>
+		<string>Ancient Rome 753 BC - 30 BC</string>
+		<key>timeLine</key>
+		<string>Establishment of the Roman Republic</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Roman Republic</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Senones</string>
+		<key>date</key>
+		<string>390 BC</string>
+		<key>id</key>
+		<string>5ee33266-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Greeks</string>
+		<key>incorrectAnswer2</key>
+		<string>Egyptians</string>
+		<key>incorrectAnswer3</key>
+		<string>Goths</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Which people invaded Rome in 390 BC?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Brennus led the Gallic tribe who had invaded Northern Italy and the Roman Republic. </string>
+		<key>theme</key>
+		<string>Ancient Rome 753 BC - 30 BC</string>
+		<key>timeLine</key>
+		<string>1st Gallic sack of Rome after victory at the Battle of Allia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Battle of the Allia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Carthage</string>
+		<key>date</key>
+		<string>264 – 241 BC</string>
+		<key>id</key>
+		<string>5ee333b0-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Celts</string>
+		<key>incorrectAnswer2</key>
+		<string>Greeks</string>
+		<key>incorrectAnswer3</key>
+		<string>Persia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>The first Punic war was fought between Rome and what other power?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Carthage won this first war.</string>
+		<key>theme</key>
+		<string>Ancient Rome 753 BC - 30 BC</string>
+		<key>timeLine</key>
+		<string>First Punic War Rome conquers Sicily</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>First Punic War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hannibal</string>
+		<key>date</key>
+		<string>218 – 201 BC</string>
+		<key>id</key>
+		<string>5ee334dc-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Attila the Hun</string>
+		<key>incorrectAnswer2</key>
+		<string>Alaric the Visigoth</string>
+		<key>incorrectAnswer3</key>
+		<string>Cyrus the Great</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>What great general invaded Italy by crossing the Alps with war elephants ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hannibal was eventually defeated at the Battle of Zama, ending the war in Roman victory.</string>
+		<key>theme</key>
+		<string>Ancient Rome 753 BC - 30 BC</string>
+		<key>timeLine</key>
+		<string>Second Punic War  Against Hannibal</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Hannibal</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Battle of Corinth</string>
+		<key>date</key>
+		<string>146 BC</string>
+		<key>id</key>
+		<string>5ee33752-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Battle of Marathon</string>
+		<key>incorrectAnswer2</key>
+		<string>The Battle of Thermopylae</string>
+		<key>incorrectAnswer3</key>
+		<string>Battle of Mount Olympus</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>What battle marked the beginning of the Roman domination of Greece?</string>
+		<key>questionTrueOrFalse</key>
+		<string>After the battle of Corinth the city was completely destroyed.</string>
+		<key>theme</key>
+		<string>Ancient Rome 753 BC - 30 BC</string>
+		<key>timeLine</key>
+		<string>Achaean War  Destruction of Corinth, Greece becomes Roman territory</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Battle of Corinth (146 BC)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Crassus</string>
+		<key>date</key>
+		<string>60 – 59 BC</string>
+		<key>id</key>
+		<string>5ee33874-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Scipio</string>
+		<key>incorrectAnswer2</key>
+		<string>Sulla</string>
+		<key>incorrectAnswer3</key>
+		<string>Agrippa</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>The First Triumvirate was an alliance of Caesar, Pompey and a third leader. Who was he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Crassus&apos; main weakness was his lack of money.</string>
+		<key>theme</key>
+		<string>Ancient Rome 753 BC - 30 BC</string>
+		<key>timeLine</key>
+		<string>First Triumvirate (Crassus, Pompey, Caesar)</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>First Triumvirate</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Battle of Alesia</string>
+		<key>date</key>
+		<string>58 – 50 BC</string>
+		<key>id</key>
+		<string>5ee33c2a-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Battle at Gergovia</string>
+		<key>incorrectAnswer2</key>
+		<string>Battle of Vosges</string>
+		<key>incorrectAnswer3</key>
+		<string>Battle of Corinth</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Which decisive battle in 52 BC completed the Roman victory over Gaul?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Gallic chieftain Vercingetorix&apos;s attempt to unite the Gauls under a single banner.</string>
+		<key>theme</key>
+		<string>Ancient Rome 753 BC - 30 BC</string>
+		<key>timeLine</key>
+		<string>Julius Caesar’s conquest of Gaul</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Gallic Wars</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Pompey</string>
+		<key>date</key>
+		<string>49 — 45 BC</string>
+		<key>id</key>
+		<string>5ee33d6a-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Brutus</string>
+		<key>incorrectAnswer2</key>
+		<string>Crassus</string>
+		<key>incorrectAnswer3</key>
+		<string>Scipio</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>In the Roman Civil war of 49–45 BC what General represented Caesar’s main opposition? </string>
+		<key>questionTrueOrFalse</key>
+		<string>Pompey fled to Egypt and was killed upon arrival.</string>
+		<key>theme</key>
+		<string>Ancient Rome 753 BC - 30 BC</string>
+		<key>timeLine</key>
+		<string>Caesar crosses the Rubicon and marches on Rome</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Caesar&apos;s Civil War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Mark Antony</string>
+		<key>date</key>
+		<string>32 – 30 BC</string>
+		<key>id</key>
+		<string>5ee33e96-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pompey</string>
+		<key>incorrectAnswer2</key>
+		<string>Caesar</string>
+		<key>incorrectAnswer3</key>
+		<string>Crassus</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>The last civil war of the Roman Republic involved Octavian and what Roman general?</string>
+		<key>questionTrueOrFalse</key>
+		<string>After the battle of Actium, both Antony and Cleopatra were forced to commit suicide.</string>
+		<key>theme</key>
+		<string>Ancient Rome 753 BC - 30 BC</string>
+		<key>timeLine</key>
+		<string>Final War of the Roman Republic (Octavian vs Antony &amp; Cleopatra).</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>War of Actium</string>
+	</dict>
+</array>
+</plist>

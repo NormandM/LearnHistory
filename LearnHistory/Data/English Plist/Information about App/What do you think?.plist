@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>cf827986-41aa-11ed-b878-0242ac120002</string>
+		<key>date</key>
+		<string>z</string>
+		<key>question</key>
+		<string>What do you think?</string>
+		<key>correctTAnswer</key>
+		<string>a</string>
+		<key>incorrectAnswer1</key>
+		<string>b</string>
+		<key>incorrectAnswer2</key>
+		<string>c</string>
+		<key>incorrectAnswer3</key>
+		<string>d</string>
+		<key>wikiSearchWord</key>
+		<string>e</string>
+		<key>questionTrueOrFalse</key>
+		<string>f</string>
+		<key>trueOrFalseAnswer</key>
+		<string>g</string>
+		<key>timeLine</key>
+		<string>h</string>
+		<key>theme</key>
+		<string>What do you think?</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>1</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>1</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>1</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>1</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+</array>
+</plist>

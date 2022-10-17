@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Xia</string>
+		<key>date</key>
+		<string> 2070 – c. 1600 BC</string>
+		<key>id</key>
+		<string>d2054eea-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Zhou</string>
+		<key>incorrectAnswer2</key>
+		<string>Jin</string>
+		<key>incorrectAnswer3</key>
+		<string>Han</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>Which dynasty is considered the first ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>According to tradition, the Xia dynasty was established by the legendary Yu the Great</string>
+		<key>theme</key>
+		<string>China 2070 BC-130 BC</string>
+		<key>timeLine</key>
+		<string>The Xia dynasty </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Xia dynasty</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1200 BC</string>
+		<key>date</key>
+		<string>1200 BC</string>
+		<key>id</key>
+		<string>d205523c-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>3200 BC</string>
+		<key>incorrectAnswer2</key>
+		<string>2200 BC</string>
+		<key>incorrectAnswer3</key>
+		<string>1200 BC</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>When did Chinese writing appear?</string>
+		<key>questionTrueOrFalse</key>
+		<string>It was under the Shang dynasty that Chinese writing was born.</string>
+		<key>theme</key>
+		<string>China 2070 BC-130 BC</string>
+		<key>timeLine</key>
+		<string>Chinese writing appear</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Written Chinese</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Zhou </string>
+		<key>date</key>
+		<string>1050 BC</string>
+		<key>id</key>
+		<string>d2055426-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Qin</string>
+		<key>incorrectAnswer2</key>
+		<string>Shan</string>
+		<key>incorrectAnswer3</key>
+		<string>Han</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Which Chinese dynasty lasted the longest?</string>
+		<key>questionTrueOrFalse</key>
+		<string>During the Zhou dynasty, centralized power increased.</string>
+		<key>theme</key>
+		<string>China 2070 BC-130 BC</string>
+		<key>timeLine</key>
+		<string>Zhou dynasty rise to power.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Zhou dynasty</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Legalism</string>
+		<key>date</key>
+		<string>600-221  BC</string>
+		<key>id</key>
+		<string>d20555ca-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Yoga</string>
+		<key>incorrectAnswer2</key>
+		<string>Jainism</string>
+		<key>incorrectAnswer3</key>
+		<string>Shinto</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>During the Zhou dynasty three great philosophies were created. Confucianism, Daoism and … What is the third one?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Chinese society has now forgotten Confucianism</string>
+		<key>theme</key>
+		<string>China 2070 BC-130 BC</string>
+		<key>timeLine</key>
+		<string>Period of the Hundred Schools of Thought</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Chinese philosophy</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Compass</string>
+		<key>date</key>
+		<string>300 BC</string>
+		<key>id</key>
+		<string>d2055b4c-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Wheel</string>
+		<key>incorrectAnswer2</key>
+		<string>Aqueducts</string>
+		<key>incorrectAnswer3</key>
+		<string>The nail</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>Paper, gun powder and printing are three inventions of ancient China. Name a fourth one.</string>
+		<key>questionTrueOrFalse</key>
+		<string>The first compasses were made of lodestone</string>
+		<key>theme</key>
+		<string>China 2070 BC-130 BC</string>
+		<key>timeLine</key>
+		<string>Invention of the compass</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>History of the compass</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Legalism </string>
+		<key>date</key>
+		<string>221–207 BC</string>
+		<key>id</key>
+		<string>d2055cfa-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Confucianism</string>
+		<key>incorrectAnswer2</key>
+		<string>Daoism</string>
+		<key>incorrectAnswer3</key>
+		<string>Buddhism</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Which Chinese  philosophy, considers that humans were born evil ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Legalism rose to prominence again in the twentieth century.</string>
+		<key>theme</key>
+		<string>China 2070 BC-130 BC</string>
+		<key>timeLine</key>
+		<string>Legalism is developed by the philosopher Han Feizi. (Qin Dynasty)</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Legalism (Chinese philosophy)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Qin</string>
+		<key>date</key>
+		<string>221-207 BC</string>
+		<key>id</key>
+		<string>d2055e9e-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Zhou </string>
+		<key>incorrectAnswer2</key>
+		<string>Shan</string>
+		<key>incorrectAnswer3</key>
+		<string>Han</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>Which dynasty unified China for the first time as an empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Qin dynasty lasted more than a hundred years.</string>
+		<key>theme</key>
+		<string>China 2070 BC-130 BC</string>
+		<key>timeLine</key>
+		<string>The Qin Dynasty</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Qin dynasty</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Han</string>
+		<key>date</key>
+		<string>206 BC - 220 C.E.</string>
+		<key>id</key>
+		<string>d20562fe-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Jin</string>
+		<key>incorrectAnswer2</key>
+		<string>Tang</string>
+		<key>incorrectAnswer3</key>
+		<string>Ming</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Under which dynasty did China  greatly expanded its territory stretching from Vietnam in the south to Korea?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Han dynasty is considered a golden age in Chinese history</string>
+		<key>theme</key>
+		<string>China 2070 BC-130 BC</string>
+		<key>timeLine</key>
+		<string>The Han Dynasty</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Han dynasty</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Buddhism</string>
+		<key>date</key>
+		<string>202 B.C.</string>
+		<key>id</key>
+		<string>d205616e-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Daoism</string>
+		<key>incorrectAnswer2</key>
+		<string>Yoga</string>
+		<key>incorrectAnswer3</key>
+		<string>Jainism</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Which religion, originally from India, became an important religion in China?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Outside religion, Buddhism had little influence in Chinese culture.</string>
+		<key>theme</key>
+		<string>China 2070 BC-130 BC</string>
+		<key>timeLine</key>
+		<string>Buddhism appears in China</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Chinese Buddhism</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Silk Road</string>
+		<key>date</key>
+		<string>130 B.C.</string>
+		<key>id</key>
+		<string>d20564ac-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Confucianism</string>
+		<key>incorrectAnswer2</key>
+		<string>Invention of paper</string>
+		<key>incorrectAnswer3</key>
+		<string>Invention of gun powder</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>What played a central role in facilitating economic, cultural and political, interactions between the East and West ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Silk Road existed for 1,500 years.</string>
+		<key>theme</key>
+		<string>China 2070 BC-130 BC</string>
+		<key>timeLine</key>
+		<string>The Han Dynasty in China officially opens trade with the West </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Silk Road</string>
+	</dict>
+</array>
+</plist>

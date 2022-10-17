@@ -17,4 +17,7 @@ enum QuestionSection {
     case showCardView
     case showCoinMangementView
     case showNoCoinsView
+    case showCoinsAtZero
+    case menuPage
+    case noInternetConnection
 }

@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>a12cc8bc-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>30000 AV.</string>
+		<key>question</key>
+		<string>Comment appelle-t-on les premiers habitants, les aborigènes de l&apos;Inde ?</string>
+		<key>correctTAnswer</key>
+		<string>Les Adivasis</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Hmong</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Mlabri</string>
+		<key>incorrectAnswer3</key>
+		<string>Le Giraavaru</string>
+		<key>wikiSearchWord</key>
+		<string>Adivasis</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ils représentent 8,6 % de la population du pays en 2018, soit plus de 100 millions de personnes.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Les adivadis représentent 100% de la population</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12ccac4-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>3300 AV.</string>
+		<key>question</key>
+		<string>Quelle civilisation indienne était, avec l&apos;Egypte et la Mésopotamie, l&apos;une des plus avancées ?</string>
+		<key>correctTAnswer</key>
+		<string>La civilisation de la vallée de l&apos;Indus</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Parthes</string>
+		<key>incorrectAnswer2</key>
+		<string>La civilisation Kanva</string>
+		<key>incorrectAnswer3</key>
+		<string>Le Senas</string>
+		<key>wikiSearchWord</key>
+		<string>Civilisation de la vallée de l&apos;Indus</string>
+		<key>questionTrueOrFalse</key>
+		<string>La civilisation de l&apos;Indus est également connue sous le nom de civilisation Harappan.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Naissance de la civilisation de la vallée de l&apos;Indus.</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12ccbfa-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>2600 AV.</string>
+		<key>question</key>
+		<string>Quelle technologie a été développée en premier par la civilisation de la vallée de l&apos;Indus ?</string>
+		<key>correctTAnswer</key>
+		<string>Systèmes de drainage</string>
+		<key>incorrectAnswer1</key>
+		<string>Le papier</string>
+		<key>incorrectAnswer2</key>
+		<string>La poudre à canon</string>
+		<key>incorrectAnswer3</key>
+		<string>La boussole</string>
+		<key>wikiSearchWord</key>
+		<string>Civilisation de la vallée de l&apos;Indus</string>
+		<key>questionTrueOrFalse</key>
+		<string>La civilisation de la vallée de l&apos;Indus ne s&apos;est jamais éteinte.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Les premiers systèmes de drainage de la vallée de l&apos;Indus.</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12ccd12-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1500–1000 AV.</string>
+		<key>question</key>
+		<string>Ces textes sont les plus anciennes écritures de l&apos;hindouisme. Comment sont-ils appelés ?</string>
+		<key>correctTAnswer</key>
+		<string>Les Védas</string>
+		<key>incorrectAnswer1</key>
+		<string>Le Karma</string>
+		<key>incorrectAnswer2</key>
+		<string>Le Tipitaka</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Agamas</string>
+		<key>wikiSearchWord</key>
+		<string>Veda</string>
+		<key>questionTrueOrFalse</key>
+		<string>Il existe six Vedas</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Les textes sacrés du Rig Veda sont composés.</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12ccff6-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1500 – 500 AV.</string>
+		<key>question</key>
+		<string>A quelle période la société indienne voit-elle l&apos;émergence d&apos;une hiérarchie des classes sociales ?</string>
+		<key>correctTAnswer</key>
+		<string>La période védique</string>
+		<key>incorrectAnswer1</key>
+		<string>La période de la vallée de l&apos;Indus</string>
+		<key>incorrectAnswer2</key>
+		<string>Deuxième urbanisation</string>
+		<key>incorrectAnswer3</key>
+		<string>Période classique </string>
+		<key>wikiSearchWord</key>
+		<string>Période védique</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Période védique est la période de l’histoire de l&apos;Inde où les textes hindouistes canoniques, tels que les quatre védas ont été composés.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>La période védique</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12cd10e-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1500 AV.</string>
+		<key>question</key>
+		<string>Le Varṇa hiérarchise la société indienne en combien de classes ?</string>
+		<key>correctTAnswer</key>
+		<string>4</string>
+		<key>incorrectAnswer1</key>
+		<string>6</string>
+		<key>incorrectAnswer2</key>
+		<string>12</string>
+		<key>incorrectAnswer3</key>
+		<string>100</string>
+		<key>wikiSearchWord</key>
+		<string>Brahmane</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le brahmane est la varna des prestataires de services/serviteurs.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Les varnas apparaissent</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12cd21c-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>600 AV.</string>
+		<key>question</key>
+		<string>Quelle religion indienne enseigne la non-violence (ahimsa, littéralement &quot;non-blessure&quot;) à tous les êtres vivants ?</string>
+		<key>correctTAnswer</key>
+		<string>Jaïnisme </string>
+		<key>incorrectAnswer1</key>
+		<string>Le zoroastrisme</string>
+		<key>incorrectAnswer2</key>
+		<string>Le sikhisme</string>
+		<key>incorrectAnswer3</key>
+		<string>Bahai</string>
+		<key>wikiSearchWord</key>
+		<string>Jaïnisme </string>
+		<key>questionTrueOrFalse</key>
+		<string>Le but de la vie pour les jaïns est le même que pour l&apos;hindouisme, le bouddhisme: l&apos;adepte doit atteindre l&apos;illumination menant à la fin des transmigrations de son âme </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Fondation du jaïnisme</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12cd320-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>500 AV.</string>
+		<key>question</key>
+		<string>Quelle religion est née en Inde et est devenue l&apos;une des plus grandes religions du monde ?</string>
+		<key>correctTAnswer</key>
+		<string>Bouddhisme</string>
+		<key>incorrectAnswer1</key>
+		<string>Jaïnisme</string>
+		<key>incorrectAnswer2</key>
+		<string>Hindouisme</string>
+		<key>incorrectAnswer3</key>
+		<string>Islam</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire du bouddhisme en Inde</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le bouddhisme est toujours l&apos;une des principales religions de l&apos;Inde.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Fondation du bouddhisme</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12cd41a-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>321 to 185 AV.</string>
+		<key>question</key>
+		<string>Chandragupta Mauryalaying a unifié la majeure partie de l&apos;Inde pour la première fois. Comment s&apos;appelait son empire ?</string>
+		<key>correctTAnswer</key>
+		<string>Empire Maurya</string>
+		<key>incorrectAnswer1</key>
+		<string>Empire sassanide</string>
+		<key>incorrectAnswer2</key>
+		<string>Empire parthe</string>
+		<key>incorrectAnswer3</key>
+		<string>Empire chaldéen</string>
+		<key>wikiSearchWord</key>
+		<string>Empire maurya</string>
+		<key>questionTrueOrFalse</key>
+		<string> Empire maurya est vu comme le premier grand empire de l&apos;histoire indienne</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Empire Maurya</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12cd528-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>268 to 232 AV.</string>
+		<key>question</key>
+		<string>Qui est considéré comme le plus grand empereur de l&apos;Inde ?</string>
+		<key>correctTAnswer</key>
+		<string>Ashoka</string>
+		<key>incorrectAnswer1</key>
+		<string>Srutayush</string>
+		<key>incorrectAnswer2</key>
+		<string>Subahu</string>
+		<key>incorrectAnswer3</key>
+		<string>Guhasiva</string>
+		<key>wikiSearchWord</key>
+		<string>Ashoka</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ashoka se convertit au bouddhisme.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Règne d&apos;Ashoka</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12cd62c-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>319 to 467</string>
+		<key>question</key>
+		<string>Quelle période est considérée comme l&apos;âge d&apos;or de l&apos;Inde ?</string>
+		<key>correctTAnswer</key>
+		<string> L&apos;empire Gupta</string>
+		<key>incorrectAnswer1</key>
+		<string>Arrivée des Perses et des Grecs</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;ère Sangam</string>
+		<key>incorrectAnswer3</key>
+		<string>Inde médiévale</string>
+		<key>wikiSearchWord</key>
+		<string>Empire Gupta</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les arts sont négligés à l&apos;époque des Gupta.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Empire Gupta</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12cd730-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>711</string>
+		<key>question</key>
+		<string>En quelle année les Arabes sont-ils arrivés en Inde en conquérant le Sind ?</string>
+		<key>correctTAnswer</key>
+		<string>711</string>
+		<key>incorrectAnswer1</key>
+		<string>605</string>
+		<key>incorrectAnswer2</key>
+		<string>900</string>
+		<key>incorrectAnswer3</key>
+		<string>1200</string>
+		<key>wikiSearchWord</key>
+		<string>Islam en Inde</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;islam est la deuxième religion de l&apos;Inde.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Les Arabes conquièrent le Sind</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12cd97e-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1206–1526</string>
+		<key>question</key>
+		<string>Quel est le nom de l&apos;empire islamique qui s&apos;est étendu sur une grande partie de l&apos;Asie du Sud pendant 320 ans (1206-1526) ?</string>
+		<key>correctTAnswer</key>
+		<string>Le sultanat de Delhi</string>
+		<key>incorrectAnswer1</key>
+		<string>L&apos;empire Gupta</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;empire Maratha</string>
+		<key>incorrectAnswer3</key>
+		<string>L&apos;empire Khilji</string>
+		<key>wikiSearchWord</key>
+		<string>Sultanat de Delhi</string>
+		<key>questionTrueOrFalse</key>
+		<string>Plusieurs dynasties turco-afghanes règnent successivement sur le sultanat de Delhi</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Le sultanat de Delhi</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12cda82-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1498</string>
+		<key>question</key>
+		<string>Son premier voyage vers l&apos;Inde en passant par le Cap de Bonne Espérance fut le premier à relier l&apos;Europe et l&apos;Inde par une route océanique. Qui est-il ?</string>
+		<key>correctTAnswer</key>
+		<string>Vasco de Gama</string>
+		<key>incorrectAnswer1</key>
+		<string>Ferdinand Magellan</string>
+		<key>incorrectAnswer2</key>
+		<string>Diogo Cão</string>
+		<key>incorrectAnswer3</key>
+		<string>Bartolomeu Dias</string>
+		<key>wikiSearchWord</key>
+		<string>Vasco da Gama</string>
+		<key>questionTrueOrFalse</key>
+		<string> Vasco de Gama est un grand navigateur portugais.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Vasco da Gama arrive en Inde.</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12cdb86-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1526</string>
+		<key>question</key>
+		<string>Cet empire musulman a régné sur l&apos;Inde pendant plus de 300 ans (1526-1857) ? Quel était son nom ?</string>
+		<key>correctTAnswer</key>
+		<string>L&apos;empire moghol</string>
+		<key>incorrectAnswer1</key>
+		<string>L&apos;empire Gupta</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;empire Chola</string>
+		<key>incorrectAnswer3</key>
+		<string>L&apos;empire Maratha</string>
+		<key>wikiSearchWord</key>
+		<string>Empire moghol</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;empire moghol a généré une faible expansion économique.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Fondation de l&apos;empire moghol.</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12cdc94-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1600</string>
+		<key>question</key>
+		<string>Quel est le nom de la société à laquelle la reine Elizabeth I a accordé le monopole du commerce entre l&apos;Angleterre et l&apos;Inde ?</string>
+		<key>correctTAnswer</key>
+		<string>Compagnie britannique des Indes orientales</string>
+		<key>incorrectAnswer1</key>
+		<string>Compagnie des Indes</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Indes orientales anglaises</string>
+		<key>incorrectAnswer3</key>
+		<string>Compagnie du commerce oriental</string>
+		<key>wikiSearchWord</key>
+		<string>Compagnie britannique des Indes orientales</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Compagnie britannique des Indes orientales a monopolisé le commerce entre l&apos;Angleterre et l&apos;Inde pendant 100 ans.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Création de la Compagnie des Indes orientales</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12cdd8e-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1643</string>
+		<key>question</key>
+		<string>Quel bâtiment l&apos;empereur moghol Shah Jahan a-t-il commandé pour abriter le tombeau de son épouse préférée ?</string>
+		<key>correctTAnswer</key>
+		<string>Le Taj Mahal</string>
+		<key>incorrectAnswer1</key>
+		<string>Temple Meenakshi</string>
+		<key>incorrectAnswer2</key>
+		<string>Palais de Mysore,</string>
+		<key>incorrectAnswer3</key>
+		<string>Hawa Mahal</string>
+		<key>wikiSearchWord</key>
+		<string>Taj Mahal</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le Taj Mahal est considéré comme un joyau de l&apos;architecture hindou en Inde.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Construction du Taj Mahal</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12cdeb0-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1857</string>
+		<key>question</key>
+		<string>Qu&apos;est-ce qui a déclenché la rébellion indienne de 1857 ?</string>
+		<key>correctTAnswer</key>
+		<string>Taxes foncières sévères, L&apos;oppression britannique, Graisse dans les cartouches de poudre à fusil.</string>
+		<key>incorrectAnswer1</key>
+		<string>Taxes foncières sévères</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;oppression britannique</string>
+		<key>incorrectAnswer3</key>
+		<string>Graisse dans les cartouches de poudre à fusil.</string>
+		<key>wikiSearchWord</key>
+		<string>Révolte des cipayes</string>
+		<key>questionTrueOrFalse</key>
+		<string>La rébellion indienne de 1857 a conduit à la dissolution de la Compagnie des Indes orientales en 1874.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Rébellion indienne contre la domination britannique.</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12cdfbe-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1858 à 1947</string>
+		<key>question</key>
+		<string>Comment s&apos;appelait le règne de la Couronne britannique sur le sous-continent indien (1858 à 1947) ?</string>
+		<key>correctTAnswer</key>
+		<string>Le Raj britannique</string>
+		<key>incorrectAnswer1</key>
+		<string>Inde britannique</string>
+		<key>incorrectAnswer2</key>
+		<string>La domination indienne</string>
+		<key>incorrectAnswer3</key>
+		<string>Inde orientale britannique</string>
+		<key>wikiSearchWord</key>
+		<string>Raj britannique</string>
+		<key>questionTrueOrFalse</key>
+		<string>En 1876, la reine Victoria a été proclamée impératrice des Indes.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Le Raj britannique</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12ce0d6-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1947</string>
+		<key>question</key>
+		<string>Quels pays sont nés de la partition de l&apos;Inde ?</string>
+		<key>correctTAnswer</key>
+		<string>L&apos;Inde, le Pakistan et le Bangladesh</string>
+		<key>incorrectAnswer1</key>
+		<string>Bangladesh et Pakistan</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;Inde et le Pakistan</string>
+		<key>incorrectAnswer3</key>
+		<string>Inde et Bangladesh</string>
+		<key>wikiSearchWord</key>
+		<string>Partition des Indes</string>
+		<key>questionTrueOrFalse</key>
+		<string>La partition initiale a déplacé entre 12.5 millions de personnes.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>La partition de l&apos;Inde</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>a12ce356-ddf9-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1948</string>
+		<key>question</key>
+		<string>Il a utilisé la résistance non violente qui a conduit l&apos;Inde à l&apos;indépendance de la domination britannique. Qui est-il ?</string>
+		<key>correctTAnswer</key>
+		<string>Le Mahatma Gandhi</string>
+		<key>incorrectAnswer1</key>
+		<string>Nehru</string>
+		<key>incorrectAnswer2</key>
+		<string>Ambedkar</string>
+		<key>incorrectAnswer3</key>
+		<string>Kalam</string>
+		<key>wikiSearchWord</key>
+		<string>Mohandas Karamchand Gandhi</string>
+		<key>questionTrueOrFalse</key>
+		<string>Gandhi a vécu toute sa vie en Inde.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Assassinat de Gandhi</string>
+		<key>theme</key>
+		<string>Inde</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+</array>
+</plist>

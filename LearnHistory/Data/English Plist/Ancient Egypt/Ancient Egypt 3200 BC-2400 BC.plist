@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hieroglyphs</string>
+		<key>date</key>
+		<string>3200 BC</string>
+		<key>id</key>
+		<string>018BA4E6-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cuneiform</string>
+		<key>incorrectAnswer2</key>
+		<string>Ancient Alphabet</string>
+		<key>incorrectAnswer3</key>
+		<string>Pictures</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>What was the formal writing system used in Ancient Egypt?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The knowledge to read Hieroglyphs was never lost.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 3200 BC-2400 BC</string>
+		<key>timeLine</key>
+		<string>Hieroglyphic writing is first used.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Egyptian hieroglyphs</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Narmer</string>
+		<key>date</key>
+		<string>3100 BC</string>
+		<key>id</key>
+		<string>018BAA90-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Khufu</string>
+		<key>incorrectAnswer2</key>
+		<string>Thutmose</string>
+		<key>incorrectAnswer3</key>
+		<string>Amenhotep</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Who is the first king to unify Egypt?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Narmer the founder of the First Dynasty.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 3200 BC-2400 BC</string>
+		<key>timeLine</key>
+		<string>First unification of Upper and Lower Egypt.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Narmer</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Old Kingdom </string>
+		<key>date</key>
+		<string>3100 BC</string>
+		<key>id</key>
+		<string>018BABEE-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Middle Kingdom </string>
+		<key>incorrectAnswer2</key>
+		<string>The New Kingdom </string>
+		<key>incorrectAnswer3</key>
+		<string>The Intermediate Period </string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>During which Ancient Egyptian period were the pyramids constructed?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Old Kingdom is also known as the « Age of the Pyramids ».</string>
+		<key>theme</key>
+		<string>Ancient Egypt 3200 BC-2400 BC</string>
+		<key>timeLine</key>
+		<string>The Old Kingdom begins.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Old Kingdom of Egypt</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The mastaba </string>
+		<key>date</key>
+		<string>2780 BC</string>
+		<key>id</key>
+		<string>018BAD1A-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Caves</string>
+		<key>incorrectAnswer2</key>
+		<string>Sand-pits</string>
+		<key>incorrectAnswer3</key>
+		<string>The sarcophagus</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>What was used to bury the dead, before the step pyramid?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Kings were never buried in mastabas.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 3200 BC-2400 BC</string>
+		<key>timeLine</key>
+		<string>First mastabas</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Mastaba</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Djoser</string>
+		<key>date</key>
+		<string>2670–2650 BC</string>
+		<key>id</key>
+		<string>018BAE3C-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Narmer</string>
+		<key>incorrectAnswer2</key>
+		<string>Snerefu</string>
+		<key>incorrectAnswer3</key>
+		<string>Khufu</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>Who was the first Pharaoh to build a step pyramid?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The architect of the Pyramid of Djoser was Imhotep.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 3200 BC-2400 BC</string>
+		<key>timeLine</key>
+		<string>Pyramid of Djoser</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Pyramid of Djoser</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Sneferu </string>
+		<key>date</key>
+		<string>2600 BC</string>
+		<key>id</key>
+		<string>018BAF5E-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Narmer</string>
+		<key>incorrectAnswer3</key>
+		<string>Neferefre</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>This Pharaoh from the Old Kingdom built three pyramids during his reign. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Bent Pyramid of Dahshur is the first pyramid ever built.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 3200 BC-2400 BC</string>
+		<key>timeLine</key>
+		<string>The Bent Pyramid of Dahshur</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>The Bent Pyramid of Dahshur</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Internal organs</string>
+		<key>date</key>
+		<string>2600 BC</string>
+		<key>id</key>
+		<string>018BB08A-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Food</string>
+		<key>incorrectAnswer2</key>
+		<string>Water</string>
+		<key>incorrectAnswer3</key>
+		<string>Jewelry</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Canopic jars were found next to tombs. What was contained in these vessels?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The viscera were all kept in a single canopic jar.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 3200 BC-2400 BC</string>
+		<key>timeLine</key>
+		<string>The first canopic jars are developed.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Canopic jar</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Great Pyramid of Giza</string>
+		<key>date</key>
+		<string>2566 BC</string>
+		<key>id</key>
+		<string>018BB1A2-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Sphinx</string>
+		<key>incorrectAnswer2</key>
+		<string>Lighthouse of Alexandria</string>
+		<key>incorrectAnswer3</key>
+		<string>Valley of the Kings</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>What is the oldest of the Seven Wonders of the Ancient World ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The height of the Great Pyramid of Giza never changed with time.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 3200 BC-2400 BC</string>
+		<key>timeLine</key>
+		<string>Great Pyramid of Giza</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Pyramid of Khufu</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Old Kingdom</string>
+		<key>date</key>
+		<string> 2558–2532 BC</string>
+		<key>id</key>
+		<string>018BB486-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>New Kingdom</string>
+		<key>incorrectAnswer2</key>
+		<string>Middle Kingdom</string>
+		<key>incorrectAnswer3</key>
+		<string>First intermediate period</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>During which period of Egyptian history was the Great Sphinx constructed?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Sphinx is the oldest known monumental sculpture in Egypt.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 3200 BC-2400 BC</string>
+		<key>timeLine</key>
+		<string>The Sphinx is constructed.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Great Sphinx of Giza</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Nubians</string>
+		<key>date</key>
+		<string>2300 BC</string>
+		<key>id</key>
+		<string>018BB6CA-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Hittites</string>
+		<key>incorrectAnswer2</key>
+		<string>The Greeks</string>
+		<key>incorrectAnswer3</key>
+		<string>The Romans</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>Who conquered the Egyptians and were conquered by the Egyptians?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Nubia was conquered by the New Kingdom of Egypt under Pharaoh Thutmose I around 1500 BC.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 3200 BC-2400 BC</string>
+		<key>timeLine</key>
+		<string>Nubians first mentioned by Egyptian trading accounts.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Nubia</string>
+	</dict>
+</array>
+</plist>

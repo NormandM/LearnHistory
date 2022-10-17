@@ -1,0 +1,64 @@
+[    {
+    "id": "cdec0296-bb53-11ec-8422-0242ac120002",
+    "name": "Histoire antique",
+    "themes": [
+        {
+            "id": "cdec03c2-bb53-11ec-8422-0242ac120002",
+            "themeTitle": "Grèce antique"
+        },
+        {
+            "id": "cdec087c-bb53-11ec-8422-0242ac120002",
+            "themeTitle": "Égypte antique"
+        },
+        {
+            "id": "cdec09c6-bb53-11ec-8422-0242ac120002",
+            "themeTitle": "Mésopotamie"
+        },
+        {
+            "id": "3869ec28-c59f-11ec-9d64-0242ac120002",
+            "themeTitle": "Rome antique"
+        }
+
+    ]
+},
+    {
+        "id": "cdebfcce-bb53-11ec-8422-0242ac120002",
+        "name": "Europe",
+        "themes": [
+            {
+                "id": "cdebff30-bb53-11ec-8422-0242ac120002",
+                "themeTitle": "France"
+            },
+            {
+                "id": "cdec0156-bb53-11ec-8422-0242ac120002",
+                "themeTitle": "Angleterre"
+            }
+            
+        ]
+    },
+
+    {
+        "id": "507d5de4-d860-11ec-9d64-0242ac120002",
+        "name": "Asie",
+        "themes": [
+            {
+                "id": "585e11f2-d860-11ec-9d64-0242ac120002",
+                "themeTitle": "Chine"
+            },
+            {
+                "id": "058ca7dc-dde1-11ec-9d64-0242ac120002",
+                "themeTitle": "Inde"
+            }
+        ]
+    },
+    {
+        "id": "7fc8e4dc-3b8f-11ed-a261-0242ac120002",
+        "name": "Les Amériques",
+        "themes": [
+            {
+                "id": "7fc8e6f8-3b8f-11ed-a261-0242ac120002",
+                "themeTitle": "États-Unis"
+            }
+        ]
+    }
+]

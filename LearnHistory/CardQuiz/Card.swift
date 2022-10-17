@@ -17,12 +17,10 @@ struct Card: View {
     var clearColor: Bool
     var cardText: String
     var responseButton: AnswerButton?
-    @State var answer: String?
     var index: Int
     var fontColorIsClear: Bool
     var onEnded: ((CGPoint,Int, String) -> Void)?
     var onChanged: ((CGPoint) -> DragState)?
-   // var onChanged: (() -> Void)? = nil
     var removal: (() -> Void)? = nil
     var gradientSelection: Gradient
     var fontColor: Color?
@@ -42,7 +40,7 @@ struct Card: View {
                     .lineLimit(nil)
                     .foregroundColor(fontColorIsClear ? .clear : fontColor ?? .black)
             
-                    .padding(10)
+                    .padding(5)
                 responseButton
             }
         }
@@ -92,6 +90,7 @@ struct CardBack: View {
                 }
                 
             }
+            .foregroundColor(.black)
 
             
             

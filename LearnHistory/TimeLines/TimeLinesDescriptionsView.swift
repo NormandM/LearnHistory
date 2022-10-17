@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct TimeLinesDescriptionsView: View {
-    @Environment(\.presentationMode) var mode: Binding<PresentationMode>
+    @Environment(\.dismiss) private var dismiss
     @State private var questionSection = QuestionSection.multipleChoiceQuestionNotAnswered
     @ObservedObject var monitor = NetworkMonitor()
     @State private var showAlertSheet = false
@@ -26,7 +26,7 @@ struct TimeLinesDescriptionsView: View {
                         title: Text("No Internet Connection"),
                         message: Text("Sorry, no information can be displayed"),
                         dismissButton: .default(Text("Ok"), action:  {
-                            self.mode.wrappedValue.dismiss()
+                            dismiss()
                         })
                     )
                 }
@@ -34,14 +34,13 @@ struct TimeLinesDescriptionsView: View {
         }
         .navigationBarBackButtonHidden(true)
         .navigationBarItems(leading: Button(action : {
-            self.mode.wrappedValue.dismiss()
+            dismiss()
         }){
             Image(systemName: "chevron.backward")
                 .foregroundColor(.white)
         })
         .onAppear{
             if !monitor.isConnected {
-                print("is not connected")
                 showAlertSheet = true
                 imageIsLoading = false
             }else{

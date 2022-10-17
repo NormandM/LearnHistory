@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Cnut</string>
+		<key>date</key>
+		<string>1016</string>
+		<key>id</key>
+		<string>0A9457F0-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ragnar</string>
+		<key>incorrectAnswer2</key>
+		<string>Sigfred</string>
+		<key>incorrectAnswer3</key>
+		<string>Harald</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>He was a Danish prince that became king of England in 1016. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cnut becam King of England but was never king of Denmark</string>
+		<key>theme</key>
+		<string>British History 1016-1509</string>
+		<key>timeLine</key>
+		<string>King Cnut of Denmark captures the English Crown</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Cnut</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>William the Conqueror</string>
+		<key>date</key>
+		<string>1066</string>
+		<key>id</key>
+		<string>0A945908-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Robert the Great</string>
+		<key>incorrectAnswer2</key>
+		<string>Francis I</string>
+		<key>incorrectAnswer3</key>
+		<string>Louis XIII</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>In 1086, his army invade Britain. What is the name of the Duke of Normandy who led the invasion?</string>
+		<key>questionTrueOrFalse</key>
+		<string>William the Conqueror never ruled Britain after the invasion</string>
+		<key>theme</key>
+		<string>British History 1016-1509</string>
+		<key>timeLine</key>
+		<string>The Norman conquest under William the Conqueror</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Norman Conquest</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Eleanor of Aquitaine</string>
+		<key>date</key>
+		<string>1154</string>
+		<key>id</key>
+		<string>0A945A02-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Marie Antoinette</string>
+		<key>incorrectAnswer2</key>
+		<string>Mary I</string>
+		<key>incorrectAnswer3</key>
+		<string>Elizabeth I</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>She was successively Queen of France and Queen of England. Who is she?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Despite the fact that she was Queen of France and England, she never had real power</string>
+		<key>theme</key>
+		<string>British History 1016-1509</string>
+		<key>timeLine</key>
+		<string>Eleanor of Aquitaine becomes Queen Consort of England</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Eleanor of Aquitaine</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Oxford</string>
+		<key>date</key>
+		<string>1167</string>
+		<key>id</key>
+		<string>0A945B06-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cambridge</string>
+		<key>incorrectAnswer2</key>
+		<string>St Andrews</string>
+		<key>incorrectAnswer3</key>
+		<string>Glasgow</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>Founded in 1167 it is the first English language university</string>
+		<key>questionTrueOrFalse</key>
+		<string>Oxford is the world&apos;s second-oldest university in continuous operation.</string>
+		<key>theme</key>
+		<string>British History 1016-1509</string>
+		<key>timeLine</key>
+		<string>Oxford University established</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Oxford university</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>King John</string>
+		<key>date</key>
+		<string>1204</string>
+		<key>id</key>
+		<string>0A945C00-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>King Richard I</string>
+		<key>incorrectAnswer2</key>
+		<string>King Henry III</string>
+		<key>incorrectAnswer3</key>
+		<string>King Edward I</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>He lost Duchy of Normandy and most of his other French lands to Philip II of France. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The baronial revolt at the end of John&apos;s reign led to the sealing of Magna Carta</string>
+		<key>theme</key>
+		<string>British History 1016-1509</string>
+		<key>timeLine</key>
+		<string>King John loses the province of Normandy to France</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>John, King of England</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Magna Carta</string>
+		<key>date</key>
+		<string>1215</string>
+		<key>id</key>
+		<string>0A945CFA-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The bill of rights</string>
+		<key>incorrectAnswer2</key>
+		<string>Thr Constitution</string>
+		<key>incorrectAnswer3</key>
+		<string>The freedom bill</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>Signed in 1215, it established the rights of individual against the power of the King. What is it called?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Magna Carta was drafted by Archbishop of Canterbury Stephen Langton to make peace between the unpopular king and a group of rebel barons</string>
+		<key>theme</key>
+		<string>British History 1016-1509</string>
+		<key>timeLine</key>
+		<string>Magna Carta is signed</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Magna Carta</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>50%</string>
+		<key>date</key>
+		<string>1349</string>
+		<key>id</key>
+		<string>0A945DFE-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>10%</string>
+		<key>incorrectAnswer2</key>
+		<string>20%</string>
+		<key>incorrectAnswer3</key>
+		<string>70%</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>IIn 1349-50, the Black Death killed what percentage of the English population?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Despite the Black Death the Hundred Years War continues uninterrupted</string>
+		<key>theme</key>
+		<string>British History 1016-1509</string>
+		<key>timeLine</key>
+		<string>The Black Death kills half the population</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>The Black Death</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>France</string>
+		<key>date</key>
+		<string>1453</string>
+		<key>id</key>
+		<string>0A9460CE-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>England</string>
+		<key>incorrectAnswer2</key>
+		<string>I was a draw</string>
+		<key>incorrectAnswer3</key>
+		<string>Spain</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Which country won the Hundred Years&apos; War?</string>
+		<key>questionTrueOrFalse</key>
+		<string>There were no truces during the Hundred Years&apos; War</string>
+		<key>theme</key>
+		<string>British History 1016-1509</string>
+		<key>timeLine</key>
+		<string>End of the Hundred Years&apos; War</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Hundred Years&apos; War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Wars of the Roses</string>
+		<key>date</key>
+		<string>1455</string>
+		<key>id</key>
+		<string>0a9461dc-86c2-11ec-a8a3-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The hundred yeras war</string>
+		<key>incorrectAnswer2</key>
+		<string>The 30 years war</string>
+		<key>incorrectAnswer3</key>
+		<string>The Civil wars</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>What is the name of a series of civil wars in the 15th century between two rival branches of Plantagenet?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Henry VII marries Elizabeth of York, uniting the two houses and ending the Wars of the Roses</string>
+		<key>theme</key>
+		<string>British History 1016-1509</string>
+		<key>timeLine</key>
+		<string>The Wars of the Roses begin</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Wars of the Roses</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Catherine of Aragon</string>
+		<key>date</key>
+		<string>1509</string>
+		<key>id</key>
+		<string>0A9462D6-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Isabella</string>
+		<key>incorrectAnswer2</key>
+		<string>Marie Antoinette</string>
+		<key>incorrectAnswer3</key>
+		<string>Eleanor of Aquitaine</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Two months after he became king, Henry VIII married his brother&apos;s widow. What was her name?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Catherine of Aragon was French</string>
+		<key>theme</key>
+		<string>British History 1016-1509</string>
+		<key>timeLine</key>
+		<string>Henry VIII becomes king.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Catherine of Aragon</string>
+	</dict>
+</array>
+</plist>

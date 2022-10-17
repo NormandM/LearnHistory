@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct StatisticsView: View {
-    @Environment(\.presentationMode) var mode: Binding<PresentationMode>
+    @Environment(\.dismiss) private var dismiss
     var selectedTheme: String
     init(selectedTheme: String) {
         self.selectedTheme = selectedTheme
@@ -20,7 +20,7 @@ struct StatisticsView: View {
             .navigationBarTitle(selectedTheme)
             .navigationBarBackButtonHidden(true)
             .navigationBarItems(leading: Button(action : {
-                self.mode.wrappedValue.dismiss()
+                dismiss()
             }){
                 Image(systemName: "chevron.backward")
                     .foregroundColor(.white)

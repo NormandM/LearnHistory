@@ -10,16 +10,16 @@ import ActivityIndicatorView
 import AVFoundation
 var audioPlayer:AVAudioPlayer!
 struct StudyView: View {
-    @Environment(\.presentationMode) var mode: Binding<PresentationMode>
+    @Environment(\.dismiss) private var dismiss
     @ObservedObject var monitor = NetworkMonitor()
     @Environment(\.managedObjectContext) var moc
     @FetchRequest var fetchRequest: FetchedResults<HistoricalEvent>
     @State private var cardFrames = [CGRect](repeating: .zero, count: 3)
-    var deviceHeight: CGFloat {
-        UIScreen.main.bounds.height
+    var soundPlayer = SoundPlayer.shared
+    var deviceWidth: CGFloat {
+        UIScreen.main.bounds.width
     }
     @State private var selectedTheme: String
-    var soundPlayer = SoundPlayer.shared
     @State private var cardIsDropped = false
     @State private var cardDisplaced = CardDisplaced.cardNotDisplaced
     @State private var answer = "See answer".localized
@@ -55,11 +55,16 @@ struct StudyView: View {
     @State private var  indexLowerStack = Int()
     @State private var  indexUpperStack = Int()
     @State private var  allEvents = [Event]()
+    @State private var repeatButtonIsVisible = false
+    let columns = [
+        GridItem(.flexible())
+    ]
     init (selectedTheme: String) {
         self._selectedTheme = State(wrappedValue: selectedTheme)
         _fetchRequest = FetchRequest<HistoricalEvent>(sortDescriptors: [
             NSSortDescriptor(keyPath: \HistoricalEvent.order, ascending: true)
         ],predicate: NSPredicate(format: "theme == %@", selectedTheme))
+        
     }
     var questionSection = QuestionSection.multipleChoiceQuestionAnsweredCorrectly
     var body: some View {
@@ -69,24 +74,23 @@ struct StudyView: View {
             GeometryReader { geo in
                 NavigationLink(destination: StatisticsView(selectedTheme: selectedTheme), isActive: $seeStats) { EmptyView() }
                 if !seeMoreInfo {
-                    
                     VStack {
-                        HStack {
+                        Spacer()
+                        if repeatButtonIsVisible{
                             NMRoundButton(buttonText: "Start\nOver".localized, buttonAction: buttonAction)
-                                .padding(.bottom)
-                                .opacity(questionCardCount == 0 ? 1.0 : 0.0)
-                            if optionViewIsVisible  {OptionView(optionButtonActionAllCards: optionButtonActionAllCards, optionBurronActionWrongCards: optionButtonActionWrongCards)}
+                        }else if optionViewIsVisible{
+                            OptionView(optionButtonActionAllCards: optionButtonActionAllCards, optionBurronActionWrongCards: optionButtonActionWrongCards)
                         }
                         Spacer()
                         HStack {
                             Spacer()
-                            LazyVGrid(columns: [GridItem()]){
+                            LazyVGrid(columns: columns, spacing: 5){
                                 ForEach((0..<3)){cardIndex in
                                     switch cardIndex{
                                     case 0:
                                         ZStack {
                                             Card(clearColor: cardColor(cardIndex: cardIndex), cardText: upperCardQuestion, index: cardIndex, fontColorIsClear: false, onEnded: cardDropped, gradientSelection: green, fontWeight: .light, fontType: .subheadline.italic())
-                                                .frame(height: geo.size.height * 0.18)
+                                                .frame(height: screenWidth > 600 ? geo.size.height * 0.18 : geo.size.height * 0.21)
                                                 .allowsHitTesting(false)
                                                 .overlay(GeometryReader { geo in
                                                     Color.clear
@@ -107,7 +111,7 @@ struct StudyView: View {
                                     case 1:
                                         ZStack {
                                             Card(clearColor: cardColor(cardIndex: cardIndex), cardText: loweCardQuestion, index: cardIndex, fontColorIsClear: false, onEnded: cardDropped, gradientSelection: red,  fontWeight: .light, fontType: .subheadline.italic())
-                                                .frame(height: geo.size.height * 0.18)
+                                                .frame(height: screenWidth > 600 ? geo.size.height * 0.18 : geo.size.height * 0.21 )
                                                 .allowsHitTesting(false)
                                                 .overlay(GeometryReader { geo in
                                                     Color.clear
@@ -117,7 +121,10 @@ struct StudyView: View {
                                                             }
                                                         }
                                                 })
-                                                .padding()
+                                                .onAppear{
+                                                    screenWidth = geo.size.width + 50}
+                                                .padding(.leading)
+                                                .padding(.trailing)
                                             Text(String(lowerCardCount))
                                                 .foregroundColor(ColorReference.lightGreen)
                                                 .font(.custom("Custom", size: 120, relativeTo: .largeTitle))
@@ -128,16 +135,22 @@ struct StudyView: View {
                                             Card(clearColor: cardColor(cardIndex: cardIndex), cardText: question, responseButton: AnswerButton(question: $answer, showAnswer: showAnswer, answerButtonPressed: $answerButtonPressed),  index: cardIndex, fontColorIsClear: fontColorIsClear, onEnded: cardDropped, onChanged: cardMoved, gradientSelection: gradient,fontWeight: .semibold, fontType: Font.subheadline)
                                             
                                                 .allowsHitTesting(questionCardCount == 0 ? false : true)
-                                                .frame(height: geo.size.height * 0.18)
+                                                .frame(height: screenWidth > 600 ? geo.size.height * 0.18 : geo.size.height * 0.21 )
                                                 .padding(.leading)
                                                 .padding(.trailing)
+                                                .onAppear{
+                                                    screenWidth = geo.size.width + 50}
+                                            
                                             Text(String(questionCardCount))
                                                 .multilineTextAlignment(.center)
                                                 .foregroundColor(ColorReference.lightGreen)
                                                 .font(.custom("Custom", size: 120, relativeTo: .largeTitle))
                                                 .opacity(numberIsClear ? 0.0 : 0.4)
                                                 .onChange(of: questionCardCount) { count in
-                                                    if count == 0 {fontColorIsClear = true}
+                                                    if count == 0 {
+                                                        fontColorIsClear = true
+                                                        repeatButtonIsVisible = true
+                                                    }
                                                 }
                                             
                                         }
@@ -148,27 +161,33 @@ struct StudyView: View {
                                     }
                                 }
                             }
-                            .frame(width: screenWidth > 600 ?  700 : nil)
-                            .frame(height: deviceHeight * 0.4)
+                            .frame(width: deviceWidth > 700 ? deviceWidth * 0.6 : nil , alignment: .center)
                             Spacer()
                         }
                         Spacer()
-                        HStack {
-                            NMRoundButton(buttonText: "Read\nMore".localized, buttonAction: buttonActionReadMore)
-                                .padding(.trailing)
-                            NMRoundButton(buttonText: "See\nStats".localized, buttonAction: seeStatistics)
-                                .padding(.leading)
-                            
-                        }
-                        .padding(.top)
+                        NMRoundButton(buttonText: "Read\nMore".localized, buttonAction: buttonActionReadMore)
+                            .padding(.trailing)
+                            .opacity(questionCardCount == 0 ? 0.0 : 1.0)
+                        
+                        Spacer()
                         
                     }
-                    .navigationTitle("MEMO CARDS: ".localized + selectedTheme)
+                    .toolbar {
+                        ToolbarItem(placement: .principal) {
+                            VStack {
+                                Text("MEMO CARDS: ".localized)
+                                    .font(.headline)
+                                Text(selectedTheme)
+                                    .font(.headline)
+                                    .italic()
+                            }
+                        }
+                    }
                     .navigationBarTitleDisplayMode(.inline)
                     .foregroundColor(.white)
                     .navigationBarBackButtonHidden(true)
                     .navigationBarItems(leading: Button(action : {
-                        self.mode.wrappedValue.dismiss()
+                      dismiss()
                     }){
                         Image(systemName: "chevron.backward")
                             .foregroundColor(.white)
@@ -176,19 +195,25 @@ struct StudyView: View {
                     
                     Spacer()
                 }else{
-                    VStack {
-                        WiKiView(imageIsLoading: $imageIsLoading, wikiSearch: wikiSearchWord, questionSection: questionSection)
-                            .frame(width: geo.size.width, height: geo.size.height * 0.8, alignment: .center)
-                        
-                        Button{
-                            seeMoreInfo = false
-                        }label:{
-                            Image(systemName: "arrow.left")
-                                .font(.title)
+                    if !monitor.isConnected {
+                        noInternetForWikiView(selectedTheme: selectedTheme, seeMoreInfo: $seeMoreInfo)
+                    }else{
+                        VStack {
+                            WiKiView(imageIsLoading: $imageIsLoading, wikiSearch: wikiSearchWord, questionSection: questionSection)
+                                .frame(width: geo.size.width, height: geo.size.height * 0.8, alignment: .center)
+                            
+                            Button{
+                                seeMoreInfo = false
+                            }label:{
+                                Image(systemName: "arrow.left")
+                                    .font(.title)
+                            }
+                            .buttonStyle(ArrowButton())
+                            
                         }
-                        .buttonStyle(ArrowButton())
-                        
+                            
                     }
+
                 }
             }
             .onAppear{
@@ -218,6 +243,7 @@ struct StudyView: View {
         }
     }
     func actionAfterDrop() {
+        
         if questionCardCount == 1{
             answer = ""
         } else{
@@ -237,10 +263,10 @@ struct StudyView: View {
             
         }) {
             if match == 0 || match == 1 {
-                print(DragState.good)
+                
                 return .good
             }else{
-                print(DragState.bad)
+                
                 return .bad
             }
         }
@@ -279,11 +305,17 @@ struct StudyView: View {
         answer = correctAnswer
     }
     func buttonAction() {
+        repeatButtonIsVisible = false
         if lowerCardCount == 0 {
             optionUseAllcards = true
         }else{
             optionViewIsVisible = true
         }
+        if questionCardCount == 0 && lowerCardCount == 0{
+            optionUseAllcards = true
+            initialize()
+        }
+        
         
     }
     func buttonActionReadMore() {
@@ -323,7 +355,10 @@ struct StudyView: View {
             return
         }
         indexOfQuestion += 1
-        if questionCardCount == 0 {UserDefaults.standard.set(nil, forKey: "indexOfQuestion")}
+        if questionCardCount == 0 {
+            UserDefaults.standard.set(nil, forKey: "indexOfQuestion")
+            
+        }
         initialize()
     }
     func initialize() {
@@ -379,14 +414,16 @@ struct StudyView: View {
                     try? moc.save()
                 }
             }
+            
         }else if cardIsDropped && !UserDefaults.standard.bool(forKey: "isGoodAnswer"){
             id = allEvents[indexLowerStack].id
             for event in fetchRequest {
                 if event.wrappedId == id {
                     event.numberOfBadAnswers = event.numberOfBadAnswers + 1
-                    try? moc.save()
+                    
                 }
             }
+            try? moc.save()
         }
         func initialiseArray() {
             for n in 0..<numberOfEvents {

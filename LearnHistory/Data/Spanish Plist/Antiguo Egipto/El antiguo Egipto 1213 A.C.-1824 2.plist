@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ramsés II</string>
+		<key>date</key>
+		<string>1303–1213 A.C.</string>
+		<key>id</key>
+		<string>d9fef71c-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Akenatón</string>
+		<key>incorrectAnswer3</key>
+		<string>Tutankamón</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>¿Quién fue considerado el faraón más grande y poderoso del Reino Nuevo?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ramsés II nunca hizo una campaña militar.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 1213 A.C.-1824</string>
+		<key>timeLine</key>
+		<string>Ramsés II</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Ramsés II</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>El Obelisco</string>
+		<key>date</key>
+		<string>1250 A.C.</string>
+		<key>id</key>
+		<string>d9fef83e-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La pirámide</string>
+		<key>incorrectAnswer2</key>
+		<string>El templo</string>
+		<key>incorrectAnswer3</key>
+		<string>La columna </string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>¿Qué estructuras se creía que atraían los rayos del sol, permitiendo las resurrecciones?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El obelisco de Luxor se encuentra en el centro de la Plaza de la Concordia de París.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 1213 A.C.-1824</string>
+		<key>timeLine</key>
+		<string>Obeliscos de Luxor</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Obelisco de Luxor</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ptolomeo I</string>
+		<key>date</key>
+		<string>305 A.C.</string>
+		<key>id</key>
+		<string>d9fef974-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cassandra</string>
+		<key>incorrectAnswer2</key>
+		<string>Seleuco I Nicator</string>
+		<key>incorrectAnswer3</key>
+		<string>Lisímaco </string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>¿Qué antiguo general de Alejandro se proclamó faraón de Egipto?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La familia de Ptolomeo gobernó Egipto hasta la conquista romana en el año 30 a.C.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 1213 A.C.-1824</string>
+		<key>timeLine</key>
+		<string>Fundación de la dinastía ptolemaica.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Dinastía ptolemaica</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ptolomeo I Soter</string>
+		<key>date</key>
+		<string>304 – 282 A.C.</string>
+		<key>id</key>
+		<string>d9fefaaa-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Alejandro Magno</string>
+		<key>incorrectAnswer2</key>
+		<string>Cleopatra</string>
+		<key>incorrectAnswer3</key>
+		<string>Tutankamón</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>¿Qué gobernante del antiguo Egipto creó la Biblioteca Real?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ptolomeo I nunca asimiló ningunos aspectos de la cultura egipcia.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 1213 A.C.-1824</string>
+		<key>timeLine</key>
+		<string>Reinado de Ptolomeo I</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Ptolomeo I</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>El Faro de Alejandría</string>
+		<key>date</key>
+		<string>284-246 A.C.</string>
+		<key>id</key>
+		<string>d9fefbd6-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>El Valle de los Reyes</string>
+		<key>incorrectAnswer2</key>
+		<string>El Valle de las Reinas</string>
+		<key>incorrectAnswer3</key>
+		<string>Templo de Luxor</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>Una de las 7 maravillas era la Gran Pirámide, ¿cuál otra tenía Egipto?</string>
+		<key>questionTrueOrFalse</key>
+		<string>A día de hoy, el faro de Alejandría sigue existiendo.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 1213 A.C.-1824</string>
+		<key>timeLine</key>
+		<string>Construcción del Faros de Alejandría.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>El Faro de Alejandría</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Alexandria</string>
+		<key>date</key>
+		<string>285–246 A.C.</string>
+		<key>id</key>
+		<string>d9fefd02-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Memphis</string>
+		<key>incorrectAnswer2</key>
+		<string>Tebas</string>
+		<key>incorrectAnswer3</key>
+		<string>El Cairo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>¿En qué ciudad egipcia se encontraba la mayor biblioteca de la antigüedad?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La biblioteca de Alejandría sobrevivió hasta el siglo X.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 1213 A.C.-1824</string>
+		<key>timeLine</key>
+		<string>Creación de la Biblioteca de Alejandría</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Biblioteca de Alejandría</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La piedra Rosetta</string>
+		<key>date</key>
+		<string>196 A.C.</string>
+		<key>id</key>
+		<string>d9fefe24-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>El libro de los muertos</string>
+		<key>incorrectAnswer2</key>
+		<string>El libro de los jeroglíficos</string>
+		<key>incorrectAnswer3</key>
+		<string>Traducciones de Heródoto</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>¿Qué artefacto permitió descifrar los jeroglíficos egipcios?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El antiguo egipcio con jeroglíficos y el latín se pueden encontrar en la Piedra Rosetta.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 1213 A.C.-1824</string>
+		<key>timeLine</key>
+		<string>Creación de la Piedra Rosetta</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Piedra Rosetta</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Cleopatra VII</string>
+		<key>date</key>
+		<string>69-30 A.C.</string>
+		<key>id</key>
+		<string>d9ff0388-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>César</string>
+		<key>incorrectAnswer2</key>
+		<string>Ptolomeo XIV</string>
+		<key>incorrectAnswer3</key>
+		<string>Marco Antonio</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>¿Quién fue el último gobernante de la dinastía ptolemaica?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cleopatra tuvo un hijo con César: Cesarión</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 1213 A.C.-1824</string>
+		<key>timeLine</key>
+		<string>Cleopatra</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Cleopatra VII</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Napoleón</string>
+		<key>date</key>
+		<string>1798–1801</string>
+		<key>id</key>
+		<string>46df8670-2d53-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>César</string>
+		<key>incorrectAnswer2</key>
+		<string>Ptolomeo</string>
+		<key>incorrectAnswer3</key>
+		<string>Marco Antonio</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>Su expedición militar a Egipto marcó el inicio de la egiptología. ¿Quién era?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Gracias a la campaña napoleónica en Egipto, Europa pudo redescubrir las maravillas de la antigüedad faraónica..</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 1213 A.C.-1824</string>
+		<key>timeLine</key>
+		<string>Campaña francesa en Egipto</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Campaña napoleónica en Egipto y Siria</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Jean-François Champollion</string>
+		<key>date</key>
+		<string>1824</string>
+		<key>id</key>
+		<string>46df877e-2d53-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>César</string>
+		<key>incorrectAnswer2</key>
+		<string>Ptolomeo</string>
+		<key>incorrectAnswer3</key>
+		<string>Napoleón</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>31</integer>
+		<key>question</key>
+		<string>¿Quién fue el primero en traducir los jeroglíficos egipcios?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Champollion mostró cómo el sistema de escritura egipcio era una combinación de signos fonéticos e ideográficos.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 1213 A.C.-1824</string>
+		<key>timeLine</key>
+		<string>Champollion descifra los jeroglíficos egipcios.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Jean-François Champollion</string>
+	</dict>
+</array>
+</plist>

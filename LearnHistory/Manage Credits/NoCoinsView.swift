@@ -12,16 +12,15 @@ struct NoCoinsView: View {
     var deviceHeight: CGFloat {
         UIScreen.main.bounds.height
     }
-    @FetchRequest var fetchRequest: FetchedResults<HistoricalEvent>
+    @FetchRequest var fetchRequest: FetchedResults<HistoricalEventDetail>
     var selectedTheme: String
     @Binding var questionSection: QuestionSection
     @Binding var hintButtonIsVisible: Bool
-    @State private var showAlertQuizExit = false
     @Binding var fromNoCoinsView: Bool
     init (selectedTheme: String, questionSection: Binding<QuestionSection>, hintButtonIsVisible: Binding<Bool>, fromNoCoinsView: Binding<Bool>){
         self.selectedTheme = selectedTheme
-        _fetchRequest = FetchRequest<HistoricalEvent>(sortDescriptors: [
-            NSSortDescriptor(keyPath: \HistoricalEvent.order, ascending: true)])
+        _fetchRequest = FetchRequest<HistoricalEventDetail>(sortDescriptors: [
+            NSSortDescriptor(keyPath: \HistoricalEventDetail.order, ascending: true)])
         _questionSection = questionSection
         _hintButtonIsVisible = hintButtonIsVisible
         _fromNoCoinsView = fromNoCoinsView
@@ -79,6 +78,7 @@ struct NoCoinsView: View {
                         
                     },
                            label: {
+                        
                         Text("Exit the Quiz")
                             .fontWeight(.bold)
                             .italic()
@@ -94,6 +94,7 @@ struct NoCoinsView: View {
                 }
                 .padding()
             }
+            
         }
         .navigationBarHidden(true)
 

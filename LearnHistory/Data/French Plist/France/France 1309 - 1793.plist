@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Avignon</string>
+		<key>date</key>
+		<string>1309-1376</string>
+		<key>id</key>
+		<string>51d93352-b51f-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Rome</string>
+		<key>incorrectAnswer2</key>
+		<string>Paris</string>
+		<key>incorrectAnswer3</key>
+		<string>Lyon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>De 1309 à 1376, sept papes successifs ont résidé dans cette ville française.</string>
+		<key>questionTrueOrFalse</key>
+		<string>Pendant cette même période, un pape avait également été nommé à Rome. Il y avait donc deux papes.</string>
+		<key>theme</key>
+		<string>France 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Le pape s&apos;installe à Avignon.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Papauté d’Avignon</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>France</string>
+		<key>date</key>
+		<string>1453</string>
+		<key>id</key>
+		<string>51d934c4-b51f-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Angleterre</string>
+		<key>incorrectAnswer2</key>
+		<string>Espagne</string>
+		<key>incorrectAnswer3</key>
+		<string>Italie</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Qui a remporté la guerre de Cent Ans qui a duré de 1337 à 1453 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Il n&apos;y a pas eu de trêve pendant toute la durée de la guerre de Cent Ans.</string>
+		<key>theme</key>
+		<string>France 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Fin de la guerre de Cent Ans.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre de Cent Ans</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>François Ier</string>
+		<key>date</key>
+		<string>1515</string>
+		<key>id</key>
+		<string>51d935dc-b51f-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Louis XIV</string>
+		<key>incorrectAnswer2</key>
+		<string>Louis XV</string>
+		<key>incorrectAnswer3</key>
+		<string>Henri iV</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>Quel roi a favorisé la Renaissance française en attirant des artistes italiens, dont Léonard de Vinci?</string>
+		<key>questionTrueOrFalse</key>
+		<string>François Ier est considéré comme le roi emblématique de la période de la Renaissance française.</string>
+		<key>theme</key>
+		<string>France 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>François Ier est couronné roi de France.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>François Ier (roi de France)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Huguenots</string>
+		<key>date</key>
+		<string>1572</string>
+		<key>id</key>
+		<string>51d936f4-b51f-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Baptistes</string>
+		<key>incorrectAnswer2</key>
+		<string>Évangéliques</string>
+		<key>incorrectAnswer3</key>
+		<string>Puritains</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Comment s’appellent les calvinistes français victimes du massacre de la Saint-Barthélemy?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La tradition veut que le massacre ait été encouragé par la reine Catherine de Médicis, mère du roi Charles IX.</string>
+		<key>theme</key>
+		<string>France 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Massacre de la Saint-Barthélemy.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Massacre de la Saint-Barthélemy</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bourbons</string>
+		<key>date</key>
+		<string>1589</string>
+		<key>id</key>
+		<string>51d9380c-b51f-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Mérovingiens</string>
+		<key>incorrectAnswer2</key>
+		<string>Carolingiens</string>
+		<key>incorrectAnswer3</key>
+		<string>Valois</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>Henri IV était le premier roi de quelle dynastie ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Henri IV ne s&apos;est jamais converti au catholicisme</string>
+		<key>theme</key>
+		<string>France 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Henri IV est couronné roi de France.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Henri IV (roi de France)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Louis XIV</string>
+		<key>date</key>
+		<string>1682</string>
+		<key>id</key>
+		<string>51d9397e-b51f-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Louis XV</string>
+		<key>incorrectAnswer2</key>
+		<string>François Ier</string>
+		<key>incorrectAnswer3</key>
+		<string>Henri IV</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>Il était connu sous le nom de Roi Soleil. Qui est-il ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Louis XIV promulgue l&apos;édit de Nantes, qui accorde aux huguenots des droits substantiels.</string>
+		<key>theme</key>
+		<string>France 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Louis XIV s&apos;installe à Versailles. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Louis XIV</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Louis XIV</string>
+		<key>date</key>
+		<string>1715</string>
+		<key>id</key>
+		<string>51d93d66-b51f-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Louis XV</string>
+		<key>incorrectAnswer2</key>
+		<string>François Ier</string>
+		<key>incorrectAnswer3</key>
+		<string>Henri IV</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Ce roi français a construit le château de Versailles et y a installé le siège de sa cour. Qui est-il ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Son règne d’une durée de 72 ans est l&apos;un des plus longs de l&apos;histoire d&apos;Europe.</string>
+		<key>theme</key>
+		<string>France 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Décès de Louis XIV.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Louis XIV</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Autriche</string>
+		<key>date</key>
+		<string>1755</string>
+		<key>id</key>
+		<string>51d93e9c-b51f-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>France</string>
+		<key>incorrectAnswer2</key>
+		<string>Prusse</string>
+		<key>incorrectAnswer3</key>
+		<string>Espagne</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>Dans quel pays est née la reine Marie-Antoinette ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Elle devient dauphine de France à l&apos;âge de 14 ans lors de son mariage.</string>
+		<key>theme</key>
+		<string>France 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Marie-Antoinette épouse LouisXVI.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Marie Antoinette</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1789</string>
+		<key>date</key>
+		<string>1789</string>
+		<key>id</key>
+		<string>51d93fdc-b51f-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>1790</string>
+		<key>incorrectAnswer2</key>
+		<string>1800</string>
+		<key>incorrectAnswer3</key>
+		<string>1780</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>En quelle année survient la prise de La Bastille et le début de la Révolution française?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La reddition de la Bastille fit l&apos;effet d&apos;un séisme en France comme en Europe et jusqu&apos;en Russie impériale</string>
+		<key>theme</key>
+		<string>France 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Prise de la Bastille.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>La prise de la bastille</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Marie-Antoinette</string>
+		<key>date</key>
+		<string>1793</string>
+		<key>id</key>
+		<string>51d9414e-b51f-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Catherine de Médicis</string>
+		<key>incorrectAnswer2</key>
+		<string>Marie Tudor</string>
+		<key>incorrectAnswer3</key>
+		<string>Marguerite de Valois</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Elle était la reine de France et a été guillotinée pendant la Révolution française. Qui est-elle ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Avant la révolution, Marie-Antoinette était appréciée de la population.</string>
+		<key>theme</key>
+		<string>France 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Marie-Antoinette est guillotinée.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Marie Antoinette</string>
+	</dict>
+</array>
+</plist>

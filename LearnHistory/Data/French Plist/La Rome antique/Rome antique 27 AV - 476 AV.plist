@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>César Auguste (Octave)</string>
+		<key>date</key>
+		<string>27 AV – 14</string>
+		<key>id</key>
+		<string>73127506-c654-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Jules César</string>
+		<key>incorrectAnswer2</key>
+		<string>Claude</string>
+		<key>incorrectAnswer3</key>
+		<string>Néron</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>Qui fut le premier empereur romain ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le règne d&apos;Auguste marque le début d&apos;une ère de guerres civiles.</string>
+		<key>theme</key>
+		<string>Rome antique 27 AV - 476 AV</string>
+		<key>timeLine</key>
+		<string>Règne impériale d&apos;Auguste César (Octave)</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Auguste</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Claude</string>
+		<key>date</key>
+		<string>43           </string>
+		<key>id</key>
+		<string>731278bc-c654-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Jules César</string>
+		<key>incorrectAnswer2</key>
+		<string>Caligula</string>
+		<key>incorrectAnswer3</key>
+		<string>Néron</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>La conquête et l&apos;occupation romaines de la Grande-Bretagne ont commencé sous quel empereur ? </string>
+		<key>questionTrueOrFalse</key>
+		<string>Sur l&apos;île de Grande-Bretagne, les Romains ont facilement conquis les tribus d&apos;Écosse.</string>
+		<key>theme</key>
+		<string>Rome antique 27 AV - 476 AV</string>
+		<key>timeLine</key>
+		<string>La conquête de la Grande-Bretagne commence sous l&apos;empereur Claude.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Conquête romaine de la Grande-Bretagne</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les Chrétiens</string>
+		<key>date</key>
+		<string>64</string>
+		<key>id</key>
+		<string>73127aa6-c654-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Les plébéiens</string>
+		<key>incorrectAnswer2</key>
+		<string>Les immigrés</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Juifs</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>Qui Néron a-t-il accusé du Grand Incendie de Rome en 64 après J.-C. ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le grand incendie de Rome a duré 6 jours.</string>
+		<key>theme</key>
+		<string>Rome antique 27 AV - 476 AV</string>
+		<key>timeLine</key>
+		<string>Grand incendie de Rome L&apos;empereur Néron rejette la faute sur les chrétiens.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Grand incendie de Rome</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>4</string>
+		<key>date</key>
+		<string>69</string>
+		<key>id</key>
+		<string>73127fc4-c654-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>6</string>
+		<key>incorrectAnswer2</key>
+		<string>2</string>
+		<key>incorrectAnswer3</key>
+		<string>5</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>En 69 après J.-C., combien d&apos;empereurs se sont succédé au cours de la première guerre civile de l&apos;empire ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;année 69 a été appelée &quot;l&apos;année des quatre empereurs&quot;.</string>
+		<key>theme</key>
+		<string>Rome antique 27 AV - 476 AV</string>
+		<key>timeLine</key>
+		<string>L&apos;année des 4 empereurs</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Année des quatre empereurs</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hadrien</string>
+		<key>date</key>
+		<string>122</string>
+		<key>id</key>
+		<string>731281cc-c654-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Commode</string>
+		<key>incorrectAnswer2</key>
+		<string>Trajan</string>
+		<key>incorrectAnswer3</key>
+		<string>Marcus Aurelius</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>En 122 après J.-C., quel empereur a construit le mur séparant la Bretagne romaine et la Calédonie ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le mur d&apos;Hadrien ne couvrait pas toute la largeur de l&apos;île.</string>
+		<key>theme</key>
+		<string>Rome antique 27 AV - 476 AV</string>
+		<key>timeLine</key>
+		<string>Construction du mur d&apos;Hadrien en Bretagne.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Mur d&apos;Hadrien</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Marc Aurèle</string>
+		<key>date</key>
+		<string>161 – 180</string>
+		<key>id</key>
+		<string>731283a2-c654-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Commodus</string>
+		<key>incorrectAnswer2</key>
+		<string>Hadrien</string>
+		<key>incorrectAnswer3</key>
+		<string>Trajan</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>Il était le dernier des souverains connus sous le nom des cinq bons empereurs. Qui est-il ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le successeur de Marc Aurèle, son fils Commode, poursuit la Pax Romana.</string>
+		<key>theme</key>
+		<string>Rome antique 27 AV - 476 AV</string>
+		<key>timeLine</key>
+		<string>Époque des &quot;cinq bons empereurs&quot; (Nerva, Trajan, Hadrien, Antoninus Pius, Marc Aurèle)</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Marc Aurèle</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Constantin le Grand</string>
+		<key>date</key>
+		<string>312 – 337</string>
+		<key>id</key>
+		<string>73128550-c654-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Marcus Aurelius</string>
+		<key>incorrectAnswer2</key>
+		<string>Claude</string>
+		<key>incorrectAnswer3</key>
+		<string>Caligula</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Qui fut le premier empereur romain à se convertir au christianisme ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Constantin construit une nouvelle résidence impériale dans la ville de Byzance et la rebaptise Constantinople.</string>
+		<key>theme</key>
+		<string>Rome antique 27 AV - 476 AV</string>
+		<key>timeLine</key>
+		<string>Règne de Constantin le Grand</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Constantin Ier (empereur romain)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les Huns</string>
+		<key>date</key>
+		<string>376</string>
+		<key>id</key>
+		<string>73128726-c654-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Vandales</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Mongols</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Celtes</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>En 376, un grand nombre de Goths sont entrés dans l&apos;Empire romain. Qui fuyaient-ils ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Goths perdent la bataille d&apos;Adrianople.</string>
+		<key>theme</key>
+		<string>Rome antique 27 AV - 476 AV</string>
+		<key>timeLine</key>
+		<string>Les Wisigoths battent les Romains à la bataille d&apos;Adrianipole, dans les Balkans.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille d&apos;Andrinople (378)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Alaric</string>
+		<key>date</key>
+		<string>410</string>
+		<key>id</key>
+		<string>731288e8-c654-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Attila</string>
+		<key>incorrectAnswer2</key>
+		<string>Vercingétorix</string>
+		<key>incorrectAnswer3</key>
+		<string>Odoacer</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Quel roi a mené les Wisigoths à la mise à sac de Rome le 24 août 410 après J.-C. ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le sac de Rome en 410 est la première fois depuis près de 800 ans que Rome tombe aux mains d&apos;un ennemi étranger.</string>
+		<key>theme</key>
+		<string>Rome antique 27 AV - 476 AV</string>
+		<key>timeLine</key>
+		<string>Les Wisigoths, menés par Alaric, mettent Rome à sac.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Sac de Rome (410))</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>476</string>
+		<key>date</key>
+		<string>476</string>
+		<key>id</key>
+		<string>73128ab4-c654-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>276</string>
+		<key>incorrectAnswer2</key>
+		<string>376</string>
+		<key>incorrectAnswer3</key>
+		<string>576</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Quelle est l&apos;année de la chute de l&apos;Empire romain d&apos;Occident ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Bien que l&apos;Empire romain d&apos;Occident soit tombé, l&apos;Empire romain d&apos;Orient, ou Empire byzantin, a survécu.</string>
+		<key>theme</key>
+		<string>Rome antique 27 AV - 476 AV</string>
+		<key>timeLine</key>
+		<string>Chute de l&apos;Empire Romain d’Occident. L’empire Byzantin survit.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Empire byzantin</string>
+	</dict>
+</array>
+</plist>

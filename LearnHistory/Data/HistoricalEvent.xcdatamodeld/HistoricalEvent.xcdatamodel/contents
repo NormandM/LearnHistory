@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="20086" systemVersion="21E258" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="20086" systemVersion="21F79" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
     <entity name="HistoricalEvent" representedClassName="HistoricalEvent" syncable="YES">
+        <attribute name="correctTAnswer" optional="YES" attributeType="String"/>
+        <attribute name="date" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="incorrectAnswer1" optional="YES" attributeType="String"/>
+        <attribute name="incorrectAnswer2" optional="YES" attributeType="String"/>
+        <attribute name="incorrectAnswer3" optional="YES" attributeType="String"/>
+        <attribute name="numberOfBadAnswers" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="numberOfBadAnswersQuiz" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="numberOfGoodAnswers" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="numberOfGoodAnswersQuiz" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="order" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="question" optional="YES" attributeType="String"/>
+        <attribute name="questionTrueOrFalse" optional="YES" attributeType="String"/>
+        <attribute name="theme" optional="YES" attributeType="String"/>
+        <attribute name="timeLine" optional="YES" attributeType="String"/>
+        <attribute name="trueOrFalseAnswer" optional="YES" attributeType="String"/>
+        <attribute name="wikiSearchWord" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="HistoricalEventDetail" representedClassName="HistoricalEventDetail" syncable="YES">
         <attribute name="correctTAnswer" optional="YES" attributeType="String"/>
         <attribute name="date" optional="YES" attributeType="String"/>
         <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
@@ -21,5 +40,6 @@
     </entity>
     <elements>
         <element name="HistoricalEvent" positionX="-54" positionY="-9" width="128" height="14"/>
+        <element name="HistoricalEventDetail" positionX="-54" positionY="-18" width="128" height="14"/>
     </elements>
 </model>

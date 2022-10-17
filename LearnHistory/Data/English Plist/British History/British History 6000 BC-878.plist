@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>6000 BC</string>
+		<key>date</key>
+		<string>6000 BC</string>
+		<key>id</key>
+		<string>0A94481E-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>2000 BC</string>
+		<key>incorrectAnswer2</key>
+		<string>12000 BC</string>
+		<key>incorrectAnswer3</key>
+		<string>100000 BC</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>When did the British Isles separate from the European continent?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Doggerland was an area of land, now submerged beneath the southern North Sea, that connected Great Britain to continental Europe</string>
+		<key>theme</key>
+		<string>British History 6000 BC-878</string>
+		<key>timeLine</key>
+		<string> British Isles separate from the European continen</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Doggerland</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Celts</string>
+		<key>date</key>
+		<string>500 BC</string>
+		<key>id</key>
+		<string>0A944A62-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Greeks</string>
+		<key>incorrectAnswer2</key>
+		<string>The Romans</string>
+		<key>incorrectAnswer3</key>
+		<string>The Goths</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>They begin to colonize Great Britain from 500 BC. Who are they?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Celts and the Romans were never at war </string>
+		<key>theme</key>
+		<string>British History 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>Celts begin to colonize the British Isles</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Celts</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Cesar</string>
+		<key>date</key>
+		<string>55 BC</string>
+		<key>id</key>
+		<string>0A944E22-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Alexander The Great</string>
+		<key>incorrectAnswer2</key>
+		<string>Hannibal</string>
+		<key>incorrectAnswer3</key>
+		<string>Cyrus the Great</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Which great generall was the first to Invade Great Britain?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cesar invades Britain in 55 BC and 54 BC</string>
+		<key>theme</key>
+		<string>British History 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>First Roman raids on Britain under Julius Caesar</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Julius Caesar</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Claudius</string>
+		<key>date</key>
+		<string>43</string>
+		<key>id</key>
+		<string>0A944F3A-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cesar</string>
+		<key>incorrectAnswer2</key>
+		<string>Augustus</string>
+		<key>incorrectAnswer3</key>
+		<string>Caligula</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>The occupation of Great Britain by the Romans began during his reign. Who is this Roman emperor?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Caligula assembled 200,000 men at the Channel on the continent, only to have them gather seashells</string>
+		<key>theme</key>
+		<string>British History 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>Beginning of Roman rule of Britain</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Roman Britain</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Boudica</string>
+		<key>date</key>
+		<string>61</string>
+		<key>id</key>
+		<string>0A94503E-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Eurydice</string>
+		<key>incorrectAnswer2</key>
+		<string>Clodia</string>
+		<key>incorrectAnswer3</key>
+		<string>Berenice</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>She led an insurrection against the Romans after they flogged her and raped her daughters. Who is she?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Boudica lost her first battle in Camulodunum</string>
+		<key>theme</key>
+		<string>British History 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>Boudica led uprising against the Roman Empire</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Boudica</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Germanic</string>
+		<key>date</key>
+		<string>450</string>
+		<key>id</key>
+		<string>0A94514C-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>English language and culture</string>
+		<key>incorrectAnswer2</key>
+		<string>Gaelic language and culture</string>
+		<key>incorrectAnswer3</key>
+		<string>Viking language and culture</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>What new language and culture was introduce to the Britain by the Anglo-Saxons?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Germanization of England occurred from the third centurie, before the end of Roman rule in Britain</string>
+		<key>theme</key>
+		<string>British History 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>Anglo-Saxon settlement of Britain begins</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Anglo-Saxon settlement of Britain</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Saint Augustine</string>
+		<key>date</key>
+		<string>597</string>
+		<key>id</key>
+		<string>0A94525A-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Saint Patrick</string>
+		<key>incorrectAnswer2</key>
+		<string>Saint George</string>
+		<key>incorrectAnswer3</key>
+		<string>Saint Andrew</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Who became the first Archbishop of Canterbury in the year 597?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Saint Augustine was sent to Christianize King Æthelberht and his Kingdom of Kent from Anglo-Saxon paganism</string>
+		<key>theme</key>
+		<string>British History 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>St Augustine brings Christianity to England from Rome</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Augustine of Canterbury</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bede</string>
+		<key>date</key>
+		<string>731</string>
+		<key>id</key>
+		<string>0A94535E-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Arthur</string>
+		<key>incorrectAnswer2</key>
+		<string>Shakespeare</string>
+		<key>incorrectAnswer3</key>
+		<string>St. Augustine</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>Who wrote “The Ecclesiastical History of the English People” ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Ecclesiastical History of the English People was written in English.</string>
+		<key>theme</key>
+		<string>British History 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>Bede writes “The Ecclesiastical History of the English People” </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Ecclesiastical History of the English People</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>11th century</string>
+		<key>date</key>
+		<string>792</string>
+		<key>id</key>
+		<string>0A945476-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>9th century</string>
+		<key>incorrectAnswer2</key>
+		<string>15th century</string>
+		<key>incorrectAnswer3</key>
+		<string>13th century</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Viking activity in Britains began in the 8th century and continued until what century?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Norse raiders sacked many cities but never sacked Christian monasteries.</string>
+		<key>theme</key>
+		<string>British History 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>Viking raids of Britain begin</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Viking activity in the British Isles</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Edington</string>
+		<key>date</key>
+		<string>878</string>
+		<key>id</key>
+		<string>0A9456EC-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Buttington</string>
+		<key>incorrectAnswer2</key>
+		<string>Tettenhall</string>
+		<key>incorrectAnswer3</key>
+		<string>Bedanford</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>What was the name of Alfred the Great’s decisive victory against the Vikings in 878?</string>
+		<key>questionTrueOrFalse</key>
+		<string>In 878 Alfred made an agreement with the Vikings, dividing England between Anglo-Saxon territory and the Viking-ruled Danelaw.</string>
+		<key>theme</key>
+		<string>British History 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>Battle of Edington</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Alfred the Great</string>
+	</dict>
+</array>
+</plist>

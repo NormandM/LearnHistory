@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>10000 BC</string>
+		<key>date</key>
+		<string>10000 BC</string>
+		<key>id</key>
+		<string>6b680770-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>15000 BC</string>
+		<key>incorrectAnswer2</key>
+		<string>20000 BC</string>
+		<key>incorrectAnswer3</key>
+		<string>5000 BC</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>When did Mesopotamia go from a lifestyle of hunting and gathering to agriculture and settlement?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mesopotamia is situated within the Tigris–Euphrates river system</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 10000 BC-2000 BC</string>
+		<key>timeLine</key>
+		<string>Agriculture first appears in Mesopotamia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Mesopotamia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Sumer</string>
+		<key>date</key>
+		<string>6000 BC</string>
+		<key>id</key>
+		<string>6b680afe-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Egypt</string>
+		<key>incorrectAnswer2</key>
+		<string>Babylonian</string>
+		<key>incorrectAnswer3</key>
+		<string>Assyrian</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>What is the earliest known civilization of Mesopotamia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Sumer was located in the north of Mesopotamia.</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 10000 BC-2000 BC</string>
+		<key>timeLine</key>
+		<string>Emergence of Sumerian civilization.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Sumer</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Eridu</string>
+		<key>date</key>
+		<string>5400 BC</string>
+		<key>id</key>
+		<string>6b680ee6-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Babylon</string>
+		<key>incorrectAnswer2</key>
+		<string>Thebes</string>
+		<key>incorrectAnswer3</key>
+		<string>Persepolis</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>What city is considered the earliest of Sumerian civilization?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The buildings in Eridu were made of mud brick.</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 10000 BC-2000 BC</string>
+		<key>timeLine</key>
+		<string>Fondation of Eridu.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Eridu</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Cuneiform</string>
+		<key>date</key>
+		<string>3400 BC</string>
+		<key>id</key>
+		<string>6b681184-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hieroglyphs</string>
+		<key>incorrectAnswer2</key>
+		<string>Semitic</string>
+		<key>incorrectAnswer3</key>
+		<string>Linear</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Invented by the Sumerian, it is the first writing system. What is it called?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Sumerians wrote on papyrus.</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 10000 BC-2000 BC</string>
+		<key>timeLine</key>
+		<string>Cuneiform writing is created.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Cuneiform</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Uruk</string>
+		<key>date</key>
+		<string>3100 BC</string>
+		<key>id</key>
+		<string>6b6813f0-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ur</string>
+		<key>incorrectAnswer2</key>
+		<string>Babylone</string>
+		<key>incorrectAnswer3</key>
+		<string>Akkad</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>Which city is the legendary King Gilgamesh reputed to have ruled in the 27th century BC?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Uruk played a leading role in the early urbanization of Sumer in the mid-4th millennium BC</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 10000 BC-2000 BC</string>
+		<key>timeLine</key>
+		<string>City of Uruk reaches 40000 residents</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Uruk</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Assyria and Babylonia </string>
+		<key>date</key>
+		<string>2400 BC</string>
+		<key>id</key>
+		<string>6b681cce-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Elam and Gutium</string>
+		<key>incorrectAnswer2</key>
+		<string> Achaemenid and Sumer</string>
+		<key>incorrectAnswer3</key>
+		<string>Sumer and Elam</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>What are the two nations that resulted from the fall of the Akkadian Empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Akkadian Empire reached its political peak in 1000 BC.</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 10000 BC-2000 BC</string>
+		<key>timeLine</key>
+		<string>The Akkadian language replaces Sumerian as the main language.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Akkadian Empire</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Sargon of Akkad</string>
+		<key>date</key>
+		<string>2334–2279 BC</string>
+		<key>id</key>
+		<string>6b6823f4-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Darius</string>
+		<key>incorrectAnswer2</key>
+		<string>Cyrius</string>
+		<key>incorrectAnswer3</key>
+		<string>Homer</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>He was the founder of the first empire: The Akkadian Empire. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Sargon of Akkad’s empire included most of Mesopotamia and parts of the Levant.</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 10000 BC-2000 BC</string>
+		<key>timeLine</key>
+		<string>Sargon of Akkad reign</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Sargon of Akkad</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Epic of Gilgamesh</string>
+		<key>date</key>
+		<string>2100-1200 BC</string>
+		<key>id</key>
+		<string>6b682714-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Epic of Emmerkar</string>
+		<key>incorrectAnswer2</key>
+		<string>Epic of Arata</string>
+		<key>incorrectAnswer3</key>
+		<string>Epic of Aga</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>It is regarded as the earliest surviving notable literature. What is the name of this epic poem?</string>
+		<key>questionTrueOrFalse</key>
+		<string>In the Epic of Gilgamesh, Gilgamesh undertakes a long journey to discover the secret of eternal life.</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 10000 BC-2000 BC</string>
+		<key>timeLine</key>
+		<string>The Epic of Gilgamesh is written.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Epic of Gilgamesh</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ziggurat</string>
+		<key>date</key>
+		<string>2100 BC</string>
+		<key>id</key>
+		<string>6b68298a-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pyramid</string>
+		<key>incorrectAnswer2</key>
+		<string>Pagoda</string>
+		<key>incorrectAnswer3</key>
+		<string>Shrine</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>The Sumerians built these temples and believed that the Gods lived in them. What were they called?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Everybody, not only priests were admitted in Ziggurats.</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 10000 BC-2000 BC</string>
+		<key>timeLine</key>
+		<string>Construction of the great Ziggurat of Ur.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Ziggurat</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ur</string>
+		<key>date</key>
+		<string>2000 BC</string>
+		<key>id</key>
+		<string>6b682bd8-b160-11ec-b909-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Babylon</string>
+		<key>incorrectAnswer2</key>
+		<string>Uruk</string>
+		<key>incorrectAnswer3</key>
+		<string>Assur</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>According to the Bible, which city in Mesopotamia is Abraham&apos;s birthplace?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ur or Uruk is a different pronunciation of the name of a same city.</string>
+		<key>theme</key>
+		<string>Ancient Mesopotamia 10000 BC-2000 BC</string>
+		<key>timeLine</key>
+		<string>The Elamites capture Ur. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Ur</string>
+	</dict>
+</array>
+</plist>

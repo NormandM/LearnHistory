@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Neanderthal</string>
+		<key>date</key>
+		<string>40000 A.C.</string>
+		<key>id</key>
+		<string>b31a9478-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Homo erectus</string>
+		<key>incorrectAnswer2</key>
+		<string>Cromañones</string>
+		<key>incorrectAnswer3</key>
+		<string>Homo sapiens</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>¿Cómo se llama la especie del género Homo que vivió en Francia y se extinguió hace 40.000 años?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Nunca hubo mestizaje entre neandertales y homo sapiens.</string>
+		<key>theme</key>
+		<string>Francia 40000 aC - 843</string>
+		<key>timeLine</key>
+		<string>Extinción del neandertal</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Mestizaje entre humanos arcaicos y modernos</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Los celtas</string>
+		<key>date</key>
+		<string>800 A.C.</string>
+		<key>id</key>
+		<string>b31a9702-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Los godos</string>
+		<key>incorrectAnswer2</key>
+		<string>Los hunos</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Vandales</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>¿Qué pueblo comenzó a inmigrar a Francia alrededor del año 800 a.C.?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los Celtas eran un cierto número de pueblos interrelacionados entre ellos que inicialmente habitaban en Europa Centra.</string>
+		<key>theme</key>
+		<string>Francia 40000 aC - 843</string>
+		<key>timeLine</key>
+		<string>Los celtas emigran a Francia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Celtas</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Celtas/Senones</string>
+		<key>date</key>
+		<string>390 A.C.</string>
+		<key>id</key>
+		<string>b31a9be4-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Los godos</string>
+		<key>incorrectAnswer2</key>
+		<string>Los hunos</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Vandales</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Desde la Galia, invadieron Roma en el año 390 a.C. al ganar la batalla de Allia. ¿Quiénes eran?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los senones que invadieron el norte de Italia y Roma estaban dirigidos por Breno.</string>
+		<key>theme</key>
+		<string>Francia 40000 aC - 843</string>
+		<key>timeLine</key>
+		<string>Los celtas invaden Roma.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Breno (siglo IV a. C.)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Lutecia</string>
+		<key>date</key>
+		<string>52 A.C.</string>
+		<key>id</key>
+		<string>b31a9d60-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Lugdunum</string>
+		<key>incorrectAnswer2</key>
+		<string>Avignon</string>
+		<key>incorrectAnswer3</key>
+		<string>Lyon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>¿Cuál fue el primer nombre de la ciudad de París, fundada en el año 52 a.C.?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Lutecia nunca fue conquistada por los romanos.</string>
+		<key>theme</key>
+		<string>Francia 40000 aC - 843</string>
+		<key>timeLine</key>
+		<string>Fundación de Lutecia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Lutecia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>César</string>
+		<key>date</key>
+		<string>51 A.C.</string>
+		<key>id</key>
+		<string>b31a9eb4-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pompeyo</string>
+		<key>incorrectAnswer2</key>
+		<string>Crassus</string>
+		<key>incorrectAnswer3</key>
+		<string>Marc-Antoine</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>Ganó la Guerra de las Galias en el año 51 a.C. ¿Cómo se llamaba?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra de las Galias culminó con la batalla de Alesia en 52 a. C., donde los romanos pusieron fin a la resistencia de los galos.</string>
+		<key>theme</key>
+		<string>Francia 40000 aC - 843</string>
+		<key>timeLine</key>
+		<string>César gana la Guerra de las Galias.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de las Galias</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Clodoveo I </string>
+		<key>date</key>
+		<string>481</string>
+		<key>id</key>
+		<string>b31aa008-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Luis I</string>
+		<key>incorrectAnswer2</key>
+		<string>Francisco I</string>
+		<key>incorrectAnswer3</key>
+		<string>Henri Ier</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>¿Cómo se llamaba el primer rey franco que unió a todas las tribus francas?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Clodoveo estableció la ciudad de París como la capital de su nuevo Reino Franco.</string>
+		<key>theme</key>
+		<string>Francia 40000 aC - 843</string>
+		<key>timeLine</key>
+		<string>Clodoveo I se convierte en rey de los francos.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Clodoveo I </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Merovingios</string>
+		<key>date</key>
+		<string>511</string>
+		<key>id</key>
+		<string>b31aa35a-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Carolingia</string>
+		<key>incorrectAnswer2</key>
+		<string>Casa de Capet</string>
+		<key>incorrectAnswer3</key>
+		<string>Robertien</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>¿A qué dinastía pertenecía Clodoveo?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La palabra &quot;merovingio&quot; deriva del nombre del rey Meroveo, un antepasado semimítico de Clodoveo.</string>
+		<key>theme</key>
+		<string>Francia 40000 aC - 843</string>
+		<key>timeLine</key>
+		<string>Muerte de Clodoveo I.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Merovingios</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Carlos Martel</string>
+		<key>date</key>
+		<string>732</string>
+		<key>id</key>
+		<string>b31aa4b8-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Carlomagno</string>
+		<key>incorrectAnswer2</key>
+		<string>Luis X</string>
+		<key>incorrectAnswer3</key>
+		<string>Pépin</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>En 732, derrotó a los musulmanes en Poitiers, deteniendo la invasión árabe. ¿Quién era?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Uno de los hijos de Carlos Martel, fue Pipino el Breve (llamado &quot;el Breve&quot; o Pipino III).</string>
+		<key>theme</key>
+		<string>Francia 40000 aC - 843</string>
+		<key>timeLine</key>
+		<string>La invasión musulmana se detuvo en Poitier.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Carlos Martel</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Carolingia</string>
+		<key>date</key>
+		<string>800</string>
+		<key>id</key>
+		<string>b31aa5f8-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Merovingios</string>
+		<key>incorrectAnswer2</key>
+		<string>Robertian</string>
+		<key>incorrectAnswer3</key>
+		<string>Maison de Valois</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>¿A qué dinastía pertenecía Carlomagno?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Carlomagno  ue el primer emperador reconocido que gobernó Europa Occidental desde la caída del Imperio Romano de Occidente.</string>
+		<key>theme</key>
+		<string>Francia 40000 aC - 843</string>
+		<key>timeLine</key>
+		<string>Carlomagno se convirtió en emperador.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Carlomagno</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Tratado de Verdún</string>
+		<key>date</key>
+		<string>843</string>
+		<key>id</key>
+		<string>b31aa7ba-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Tratado de París</string>
+		<key>incorrectAnswer2</key>
+		<string>Tratado de Caen</string>
+		<key>incorrectAnswer3</key>
+		<string>Traité de Bonn</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>¿Qué tratado firmado en 843 inició la disolución del imperio de Carlomagno?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Por el Tratado de Verdún, los nietos de Carlomagno se repartieron sus territorios.</string>
+		<key>theme</key>
+		<string>Francia 40000 aC - 843</string>
+		<key>timeLine</key>
+		<string>Se firma el Tratado de Verdún.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Tratado de Verdún</string>
+	</dict>
+</array>
+</plist>

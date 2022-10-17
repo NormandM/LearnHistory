@@ -44,7 +44,7 @@ struct IntroductionTitlesView: View {
                             
                         
                     })
-                    Text("Events and Dates")
+                    Text("Start here")
                         .font(.caption)
                         .foregroundColor(ColorReference.lightGreen)
                     Spacer()

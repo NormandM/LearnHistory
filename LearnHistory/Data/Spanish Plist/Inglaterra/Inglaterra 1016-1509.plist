@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Canuto</string>
+		<key>date</key>
+		<string>1016</string>
+		<key>id</key>
+		<string>EEC8868E-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ragnar</string>
+		<key>incorrectAnswer2</key>
+		<string>Sigfred</string>
+		<key>incorrectAnswer3</key>
+		<string>Harald</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>Fue un príncipe danés y rey de Inglaterra en 1016. ¿Quién es él?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Canuto llegó a ser rey de Inglaterra pero nunca fue rey de Dinamarca.</string>
+		<key>theme</key>
+		<string>Inglaterra 1016-1509</string>
+		<key>timeLine</key>
+		<string>El rey Canuto de Dinamarca se apodera de la corona inglesa.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Canuto II de Dinamarca</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Guillermo el Conquistador</string>
+		<key>date</key>
+		<string>1066</string>
+		<key>id</key>
+		<string>EEC889FE-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Roberto el Grande</string>
+		<key>incorrectAnswer2</key>
+		<string>Francisco I</string>
+		<key>incorrectAnswer3</key>
+		<string>Luis XIII</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>¿Cómo se llama el duque de Normandía que invadió Inglaterra en 1086?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Guillermo el Conquistador nunca gobernó Inglaterra después de la invasión.</string>
+		<key>theme</key>
+		<string>Inglaterra 1016-1509</string>
+		<key>timeLine</key>
+		<string>Conquista normanda bajo Guillermo el Conquistador</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista normanda de Inglaterra</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Leonor de Aquitania</string>
+		<key>date</key>
+		<string>1154</string>
+		<key>id</key>
+		<string>EEC88C42-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>María Antonieta</string>
+		<key>incorrectAnswer2</key>
+		<string>María I</string>
+		<key>incorrectAnswer3</key>
+		<string>Isabel I</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Fue sucesivamente Reina de Francia y Reina de Inglaterra. ¿Quién es ella?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Aunque fue reina de Francia e Inglaterra, nunca tuvo un poder real</string>
+		<key>theme</key>
+		<string>Inglaterra 1016-1509</string>
+		<key>timeLine</key>
+		<string>Leonor de Aquitania se convierte en reina consorte de Inglaterra.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Leonor de Aquitania</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Oxford</string>
+		<key>date</key>
+		<string>1167</string>
+		<key>id</key>
+		<string>EEC88E04-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cambridge</string>
+		<key>incorrectAnswer2</key>
+		<string>San Andrés</string>
+		<key>incorrectAnswer3</key>
+		<string>Glasgow</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>Fundada en 1167, fue la primera universidad de lengua inglesa.</string>
+		<key>questionTrueOrFalse</key>
+		<string>En Oxford, hay evidencias de una institución de enseñanza ya en 1096.</string>
+		<key>theme</key>
+		<string>Inglaterra 1016-1509</string>
+		<key>timeLine</key>
+		<string>Creación de la Universidad de Oxford</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Universidad de Oxford</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Rey Juan</string>
+		<key>date</key>
+		<string>1204</string>
+		<key>id</key>
+		<string>EEC88FE4-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Rey Ricardo I</string>
+		<key>incorrectAnswer2</key>
+		<string>Rey Enrique III</string>
+		<key>incorrectAnswer3</key>
+		<string>Rey Eduardo I</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>¿Qué rey perdió la mayor parte de las tierras francesas a manos de Francia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La revuelta de los barones al final del reinado de Juan condujo al sellado de la Carta Magna</string>
+		<key>theme</key>
+		<string>Inglaterra 1016-1509</string>
+		<key>timeLine</key>
+		<string>El rey Juan pierde la provincia de Normandía a manos de Francia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Juan, rey de Inglaterra</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Carta Magna</string>
+		<key>date</key>
+		<string>1215</string>
+		<key>id</key>
+		<string>EEC8934A-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La Carta de Derechos</string>
+		<key>incorrectAnswer2</key>
+		<string>La Constitución</string>
+		<key>incorrectAnswer3</key>
+		<string>La Ley de la Libertad</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>En 1215, estableció los derechos del individuo frente al rey ¿Cómo se llama?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Carta Magna se redactó para lograr la paz entre el impopular rey y un grupo de barones rebeldes.</string>
+		<key>theme</key>
+		<string>Inglaterra 1016-1509</string>
+		<key>timeLine</key>
+		<string>Firma de la Carta Magna</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Carta Magna</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>50%</string>
+		<key>date</key>
+		<string>1349</string>
+		<key>id</key>
+		<string>EEC89548-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>10%</string>
+		<key>incorrectAnswer2</key>
+		<string>20%</string>
+		<key>incorrectAnswer3</key>
+		<string>70%</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>¿En 1349-50, la Peste Negra mató a qué porcentaje de la población inglesa?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Sólo hubo una pandemia de peste.</string>
+		<key>theme</key>
+		<string>Inglaterra 1016-1509</string>
+		<key>timeLine</key>
+		<string>La peste negra mata a la mitad de la población</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>La peste negra</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Francia</string>
+		<key>date</key>
+		<string>1453</string>
+		<key>id</key>
+		<string>EEC89728-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Inglaterra</string>
+		<key>incorrectAnswer2</key>
+		<string>He chupado</string>
+		<key>incorrectAnswer3</key>
+		<string>España</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>¿Qué país ganó la Guerra de los Cien Años?</string>
+		<key>questionTrueOrFalse</key>
+		<string>No hubo treguas durante la Guerra de los Cien Años</string>
+		<key>theme</key>
+		<string>Inglaterra 1016-1509</string>
+		<key>timeLine</key>
+		<string>Fin de la Guerra de los Cien Años</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de los Cien Años</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Guerra de las Rosas</string>
+		<key>date</key>
+		<string>1455</string>
+		<key>id</key>
+		<string>EEC898EA-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La Guerra de los Cien Años</string>
+		<key>incorrectAnswer2</key>
+		<string>La guerra de los 30 años</string>
+		<key>incorrectAnswer3</key>
+		<string>Las guerras civiles</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>¿Cómo se llaman las guerras del siglo XV entre dos ramas de los Plantagenet?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El choque de las dos líneas, procedentes de la Casa de Plantagenet, marcó el fin de ésta y su sustitución por la Casa de Tudor.</string>
+		<key>theme</key>
+		<string>Inglaterra 1016-1509</string>
+		<key>timeLine</key>
+		<string>Inicio de la Guerra de las Rosas</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de las Dos Rosas</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Catalina de Aragón</string>
+		<key>date</key>
+		<string>1509</string>
+		<key>id</key>
+		<string>EEC89DEA-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Isabella</string>
+		<key>incorrectAnswer2</key>
+		<string>María Antonieta</string>
+		<key>incorrectAnswer3</key>
+		<string>Leonor de Aquitania</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Enrique VIII se casó con la viuda de su hermano. ¿Cómo se llamaba?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Catalina de Aragón era francesa</string>
+		<key>theme</key>
+		<string>Inglaterra 1016-1509</string>
+		<key>timeLine</key>
+		<string>Catalina de Aragón se casa con Enrique VIII.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Catalina de Aragón</string>
+	</dict>
+</array>
+</plist>

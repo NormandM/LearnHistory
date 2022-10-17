@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Xia</string>
+		<key>date</key>
+		<string>2070 - 600 A.C.</string>
+		<key>id</key>
+		<string>4ed825f6-d878-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Zhou</string>
+		<key>incorrectAnswer2</key>
+		<string>Jin</string>
+		<key>incorrectAnswer3</key>
+		<string>JHan</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>¿Qué dinastía china se considera la primera?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hubo 17 reyes de la dinastia Xia.</string>
+		<key>theme</key>
+		<string>La China 2070 A.C.-130 A.C.</string>
+		<key>timeLine</key>
+		<string>La dinastía Xia</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Dinastía Xia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1200 A.C.</string>
+		<key>date</key>
+		<string>1200 AC</string>
+		<key>id</key>
+		<string>4ed82a4c-d878-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>3200 A.C.</string>
+		<key>incorrectAnswer2</key>
+		<string>2200 A.D.</string>
+		<key>incorrectAnswer3</key>
+		<string>200 A.C.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>¿Cuándo apareció la escritura china?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los chinos con educación conocen alrededor de 4.000 caracteres.</string>
+		<key>theme</key>
+		<string>La China 2070 A.C.-130 A.C.</string>
+		<key>timeLine</key>
+		<string>Aparece la escritura china</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Chino escrito</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Zhou</string>
+		<key>date</key>
+		<string>1050 A.C.</string>
+		<key>id</key>
+		<string>4ed82b5a-d878-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Qin</string>
+		<key>incorrectAnswer2</key>
+		<string>Shan</string>
+		<key>incorrectAnswer3</key>
+		<string>Han</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>¿Qué dinastía china duró más tiempo?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Durante la dinastía Zhou, el poder se volvió cada vez más centralizado</string>
+		<key>theme</key>
+		<string>La China 2070 A.C.-130 A.C.</string>
+		<key>timeLine</key>
+		<string>La dinastía Zhou llega al poder.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Dinastía Zhou</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Legalismo</string>
+		<key>date</key>
+		<string>600-221 A.C.</string>
+		<key>id</key>
+		<string>4ed82c54-d878-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Yoga</string>
+		<key>incorrectAnswer2</key>
+		<string>Jainismo</string>
+		<key>incorrectAnswer3</key>
+		<string>Shinto</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Durante la dinastía Zhou se crearon tres grandes filosofías. El confucianismo, el taoísmo y... ¿Cuál es el tercero?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La sociedad china ha olvidado el confucianismo</string>
+		<key>theme</key>
+		<string>La China 2070 A.C.-130 A.C.</string>
+		<key>timeLine</key>
+		<string>Período de las cien escuelas de pensamiento</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Filosofía china</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La brújula</string>
+		<key>date</key>
+		<string>300 A.C.</string>
+		<key>id</key>
+		<string>4ed82e34-d878-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La rueda</string>
+		<key>incorrectAnswer2</key>
+		<string>Acueductos</string>
+		<key>incorrectAnswer3</key>
+		<string>El clavo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>El papel, la pólvora y la imprenta son tres inventos de la antigua China. Nombra un cuarto.</string>
+		<key>questionTrueOrFalse</key>
+		<string>El papel, la imprenta, la brújula y la pólvora son inventos chinos que ayudaron a construir el Occidente moderno.</string>
+		<key>theme</key>
+		<string>La China 2070 A.C.-130 A.C.</string>
+		<key>timeLine</key>
+		<string>Invención de la brújula</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Cuatro Grandes Inventos</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Legalismo</string>
+		<key>date</key>
+		<string>221-207 A.C.</string>
+		<key>id</key>
+		<string>4ed82f10-d878-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Confucianismo</string>
+		<key>incorrectAnswer2</key>
+		<string>Daoísmo</string>
+		<key>incorrectAnswer3</key>
+		<string>Budismo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>¿Qué filosofía china considera que el hombre nace malo?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El legalismo se opone al confucianismo.</string>
+		<key>theme</key>
+		<string>La China 2070 A.C.-130 A.C.</string>
+		<key>timeLine</key>
+		<string>El legalismo es desarrollado por el filósofo Han Feizi (dinastía Qin)</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Legalismo (filosofía china)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Qin</string>
+		<key>date</key>
+		<string>221-207 A.C.</string>
+		<key>id</key>
+		<string>4ed83000-d878-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Zhou</string>
+		<key>incorrectAnswer2</key>
+		<string>Shan</string>
+		<key>incorrectAnswer3</key>
+		<string>Han</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>¿Qué dinastía unificó China por primera vez como imperio?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La dinastía Qin duró más de 100 años.</string>
+		<key>theme</key>
+		<string>La China 2070 A.C.-130 A.C.</string>
+		<key>timeLine</key>
+		<string>La dinastía Qin</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Dinastía Qin</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Han</string>
+		<key>date</key>
+		<string>206 A.C. - 220AD</string>
+		<key>id</key>
+		<string>4ed830f0-d878-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Jin</string>
+		<key>incorrectAnswer2</key>
+		<string>Tang</string>
+		<key>incorrectAnswer3</key>
+		<string>Ming</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>¿Bajo qué dinastía China amplió considerablemente su territorio, desde Vietnam en el sur hasta Corea?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los logros intelectuales, artísticos y literarios florecieron durante la dinastía Han</string>
+		<key>theme</key>
+		<string>La China 2070 A.C.-130 A.C.</string>
+		<key>timeLine</key>
+		<string>La dinastía Han</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Dinastía Han</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Budismo</string>
+		<key>date</key>
+		<string>202 A.C.</string>
+		<key>id</key>
+		<string>4ed8333e-d878-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Taoísmo</string>
+		<key>incorrectAnswer2</key>
+		<string>Yoga</string>
+		<key>incorrectAnswer3</key>
+		<string>Jainismo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>¿Qué religión se originó en la India y se convirtió en una religión importante en China?</string>
+		<key>questionTrueOrFalse</key>
+		<string> El budismo desempeñó un papel muy importante en la formación de la mentalidad de la gente china</string>
+		<key>theme</key>
+		<string>La China 2070 A.C.-130 A.C.</string>
+		<key>timeLine</key>
+		<string>El budismo aparece en China</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Budismo chino</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La Ruta de la Seda</string>
+		<key>date</key>
+		<string>130 A.C.</string>
+		<key>id</key>
+		<string>4ed83424-d878-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Confucianismo</string>
+		<key>incorrectAnswer2</key>
+		<string>La invención del papel</string>
+		<key>incorrectAnswer3</key>
+		<string>Invención de la pólvora</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>¿Qué es lo que ha facilitado las interacciones económicas, culturales y políticas entre Oriente y Occidente?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Ruta de la Seda era una extensa red de rutas comerciales terrestres y marítimas, abiertas por China desde al menos el siglo I a. C</string>
+		<key>theme</key>
+		<string>La China 2070 A.C.-130 A.C.</string>
+		<key>timeLine</key>
+		<string>La dinastía Han de China abre oficialmente el comercio con Occidente</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Ruta de la Seda</string>
+	</dict>
+</array>
+</plist>

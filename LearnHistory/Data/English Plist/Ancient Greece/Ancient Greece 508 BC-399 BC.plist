@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Cleisthenes</string>
+		<key>date</key>
+		<string>508 BC</string>
+		<key>id</key>
+		<string>6488677E-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Solon</string>
+		<key>incorrectAnswer2</key>
+		<string>Socrate</string>
+		<key>incorrectAnswer3</key>
+		<string>Aristotle</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Who is considered as &quot;the father of Athenian democracy” ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cleisthenes actions did not reduce the power of the nobility over Athenian politics.</string>
+		<key>theme</key>
+		<string>Ancient Greece 508 BC-399 BC</string>
+		<key>timeLine</key>
+		<string>Cleisthenes  reforms the constitution of Athens on the path to democracy.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Cleisthenes</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Ionian Revolt</string>
+		<key>date</key>
+		<string>499-493 BC</string>
+		<key>id</key>
+		<string>64886896-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Peloponnesian War</string>
+		<key>incorrectAnswer2</key>
+		<string>The first Punic war</string>
+		<key>incorrectAnswer3</key>
+		<string>the Battle of Marathon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>What constituted the first major conflict between Greece and the Persian Empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Athens did not defend the Ionians during the revolt.</string>
+		<key>theme</key>
+		<string>Ancient Greece 508 BC-399 BC</string>
+		<key>timeLine</key>
+		<string>The Ionian Revolt</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>The Ionian Revolt</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Darius the Great</string>
+		<key>date</key>
+		<string>492-490 BC</string>
+		<key>id</key>
+		<string>64886ABC-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cyrius</string>
+		<key>incorrectAnswer2</key>
+		<string>Xerxes</string>
+		<key>incorrectAnswer3</key>
+		<string>Hannibal</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>Who is the Persian king who first invaded Greece?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Persian won this first war.</string>
+		<key>theme</key>
+		<string>Ancient Greece 508 BC-399 BC</string>
+		<key>timeLine</key>
+		<string>First Persian invasion of Greece</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>First Persian invasion of Greece</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Thermopylae</string>
+		<key>date</key>
+		<string>480-479 BC</string>
+		<key>id</key>
+		<string>64886C4C-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Gibraltar</string>
+		<key>incorrectAnswer2</key>
+		<string>Skinakas</string>
+		<key>incorrectAnswer3</key>
+		<string>Katara</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>During the 2nd Persian invasion, what was called the pass defended by a small Spartan force?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Persian lost the battle of Thermopylae.</string>
+		<key>theme</key>
+		<string>Ancient Greece 508 BC-399 BC</string>
+		<key>timeLine</key>
+		<string>The second Persian invasion of Greece</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>The second Persian invasion of Greece</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Delian</string>
+		<key>date</key>
+		<string>478 BC</string>
+		<key>id</key>
+		<string>64886DDC-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Athenian</string>
+		<key>incorrectAnswer2</key>
+		<string>Pericles</string>
+		<key>incorrectAnswer3</key>
+		<string>Peloponnesian</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>What is the name of the league,  formed by Athens, during its Golden Age?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Only the city of Athens was part of this league</string>
+		<key>theme</key>
+		<string>Ancient Greece 508 BC-399 BC</string>
+		<key>timeLine</key>
+		<string>Foundation of the Delian League</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Delian League</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hippocrates</string>
+		<key>date</key>
+		<string>460 BC</string>
+		<key>id</key>
+		<string>64886F58-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Aristotle</string>
+		<key>incorrectAnswer2</key>
+		<string>Plato</string>
+		<key>incorrectAnswer3</key>
+		<string>Socrates</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Who is considered one of the most outstanding figures in the history of medicine?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hippocrates is considered the father of medicine.</string>
+		<key>theme</key>
+		<string>Ancient Greece 508 BC-399 BC</string>
+		<key>timeLine</key>
+		<string>Hippocrates is born</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Hippocrates</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Athenes and Sparta</string>
+		<key>date</key>
+		<string>445 BC</string>
+		<key>id</key>
+		<string>64887070-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Athenes and Thebes</string>
+		<key>incorrectAnswer2</key>
+		<string>Argo and Sparta</string>
+		<key>incorrectAnswer3</key>
+		<string>Thebes and Argo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>Which were the two main enemy  cities in the first Peloponnesian War?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Peloponnesian League was led by Athens.</string>
+		<key>theme</key>
+		<string>Ancient Greece 508 BC-399 BC</string>
+		<key>timeLine</key>
+		<string>End of the First Peloponnesian War.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Peloponnesian War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Athena</string>
+		<key>date</key>
+		<string>438 BC</string>
+		<key>id</key>
+		<string>648871F6-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Zeus</string>
+		<key>incorrectAnswer2</key>
+		<string>Hera</string>
+		<key>incorrectAnswer3</key>
+		<string>Apollo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>Built on the Athenian Acropolis, to what god or goddess is the Parthenon  dedicated?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Parthenon was also used as a Christian church and a mosque.</string>
+		<key>theme</key>
+		<string>Ancient Greece 508 BC-399 BC</string>
+		<key>timeLine</key>
+		<string>The Parthenon is completed.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Parthenon</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Sparta</string>
+		<key>date</key>
+		<string>404 BC</string>
+		<key>id</key>
+		<string>6488730E-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Athenes</string>
+		<key>incorrectAnswer2</key>
+		<string>Thebes</string>
+		<key>incorrectAnswer3</key>
+		<string>Argo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Who won the peloponnesian war?</string>
+		<key>questionTrueOrFalse</key>
+		<string>After the war, Sparta becomes the leading power of Greece.</string>
+		<key>theme</key>
+		<string>Ancient Greece 508 BC-399 BC</string>
+		<key>timeLine</key>
+		<string>End of Peloponnesian War.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Peloponnesian War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Socrates</string>
+		<key>date</key>
+		<string>399 BC</string>
+		<key>id</key>
+		<string>648874F8-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Plato</string>
+		<key>incorrectAnswer2</key>
+		<string>Aristotle</string>
+		<key>incorrectAnswer3</key>
+		<string>Pythagoras</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>What Greek philosopher from Athens is considered the founder of Western philosophy?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Socrates left no written documents of his philosophical concepts.</string>
+		<key>theme</key>
+		<string>Ancient Greece 508 BC-399 BC</string>
+		<key>timeLine</key>
+		<string>Death of Socrates</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Socrates</string>
+	</dict>
+</array>
+</plist>

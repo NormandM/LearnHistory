@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ana Bolena</string>
+		<key>date</key>
+		<string>1528</string>
+		<key>id</key>
+		<string>EEC89FFC-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Elizabeth</string>
+		<key>incorrectAnswer2</key>
+		<string>Marie</string>
+		<key>incorrectAnswer3</key>
+		<string>Leonor de Aquitania</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Enrique VIII quizo anulara su matrimonio. ¿Con quién quería casarse?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ana Bolena fue la última esposa de Enrique VIII</string>
+		<key>theme</key>
+		<string>Inglaterra 1528-1837</string>
+		<key>timeLine</key>
+		<string>Enrique VIII apela al Papa para que anule su matrimonio.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Ana Bolena</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>6</string>
+		<key>date</key>
+		<string>1543</string>
+		<key>id</key>
+		<string>EEC8A1DC-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>4</string>
+		<key>incorrectAnswer2</key>
+		<string>8</string>
+		<key>incorrectAnswer3</key>
+		<string>3</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>¿Cuántas veces se casó Enrique VIII?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Enrique VIII ya era protestante cuando inició la reforma de Inglaterra</string>
+		<key>theme</key>
+		<string>Inglaterra 1528-1837</string>
+		<key>timeLine</key>
+		<string>Enrique VIII se casa con Catalina Parr, su sexto matrimonio.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Enrique VIII</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>María Tudor</string>
+		<key>date</key>
+		<string>1553</string>
+		<key>id</key>
+		<string>EEC8A3A8-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Isabel I</string>
+		<key>incorrectAnswer2</key>
+		<string>Catalina de Aragón</string>
+		<key>incorrectAnswer3</key>
+		<string>Leonor de Aquitania</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>Fue la primera mujer monarca de Inglaterra por derecho propio&quot; ¿Quién es?</string>
+		<key>questionTrueOrFalse</key>
+		<string>María Tudor también era conocida como Bloody Mary.</string>
+		<key>theme</key>
+		<string>Inglaterra 1528-1837</string>
+		<key>timeLine</key>
+		<string>María Tudor se convierte en reina de Inglaterra.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>María I (Reina de Inglaterra)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>María Estuardo</string>
+		<key>date</key>
+		<string>1587</string>
+		<key>id</key>
+		<string>EEC8A57E-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Juana de Navarra</string>
+		<key>incorrectAnswer2</key>
+		<string>Margarita de Anjou</string>
+		<key>incorrectAnswer3</key>
+		<string>Catalina de Valois</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>Fue reina de Escocia y fue ejecutada. ¿Quién es ella?</string>
+		<key>questionTrueOrFalse</key>
+		<string>María Estuardo pasó dieciocho años y medio en cautiverio antes de ser decapitada.</string>
+		<key>theme</key>
+		<string>Inglaterra 1528-1837</string>
+		<key>timeLine</key>
+		<string>María Estuardo (María I de Escocia) es ejecutada.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>María I de Escocia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Realistas y parlamentarios</string>
+		<key>date</key>
+		<string>1642</string>
+		<key>id</key>
+		<string>EEC8A704-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Irlanda e Inglaterra</string>
+		<key>incorrectAnswer2</key>
+		<string>Irlanda y Escocia</string>
+		<key>incorrectAnswer3</key>
+		<string>Escocia e Irlanda</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>En 1642 comenzó una guerra civil. ¿Quiénes fueron las partes implicadas?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra terminó con la victoria de los realistas en la batalla de Worcester el 3 de septiembre de 1651.</string>
+		<key>theme</key>
+		<string>Inglaterra 1528-1837</string>
+		<key>timeLine</key>
+		<string>Comienza la Guerra Civil inglesa</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Primera revolución inglesa</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Carlos I</string>
+		<key>date</key>
+		<string>1649</string>
+		<key>id</key>
+		<string>EEC8AAB0-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Luis XVI</string>
+		<key>incorrectAnswer2</key>
+		<string>Edward</string>
+		<key>incorrectAnswer3</key>
+		<string>Edgar</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>Tras la ejecución de este rey de Inglaterra, la monarquía fue abolida. ¿Quién era?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Carlos I era también rey de Escocia.</string>
+		<key>theme</key>
+		<string>Inglaterra 1528-1837</string>
+		<key>timeLine</key>
+		<string>El rey Carlos I es ejecutado por alta traición.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Carlos I de Inglaterra</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Oliver Cromwell</string>
+		<key>date</key>
+		<string>1653</string>
+		<key>id</key>
+		<string>EEC8ACB8-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Henry Ireton</string>
+		<key>incorrectAnswer2</key>
+		<string>John Pym</string>
+		<key>incorrectAnswer3</key>
+		<string>John Hampden</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>Desde 1653 reinó como Lord Protector de Inglaterra. ¿Quién era?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cromwell no estaba entre los firmantes de la sentencia de muerte de Carlos I.</string>
+		<key>theme</key>
+		<string>Inglaterra 1528-1837</string>
+		<key>timeLine</key>
+		<string>Cromwell es nombrado Lord Protector.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Oliver Cromwell</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Guillermo de Orange</string>
+		<key>date</key>
+		<string>1688</string>
+		<key>id</key>
+		<string>EEC8AE70-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Carlos II</string>
+		<key>incorrectAnswer2</key>
+		<string>Jaime II</string>
+		<key>incorrectAnswer3</key>
+		<string>Guillermo II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>¿Quién se convirtió en rey tras la Revolución Gloriosa?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Revolución Gloriosa duró más de 10 años.</string>
+		<key>theme</key>
+		<string>Inglaterra 1528-1837</string>
+		<key>timeLine</key>
+		<string>La Revolución Gloriosa</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>La Revolución Gloriosa</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Batalla de Trafalgar</string>
+		<key>date</key>
+		<string>1805</string>
+		<key>id</key>
+		<string>EEC8B082-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Batalla de Waterloo</string>
+		<key>incorrectAnswer2</key>
+		<string>Batalla de Iena</string>
+		<key>incorrectAnswer3</key>
+		<string>Batalla de Austerlitz</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>En 1805, Lord Nelson derrotó a Napoleón. ¿Cómo se llamaba la batalla?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Nelson murió, pero la victoria británica fue total.</string>
+		<key>theme</key>
+		<string>Inglaterra 1528-1837</string>
+		<key>timeLine</key>
+		<string>Batalla de Trafalgar</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Trafalgar</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Reina Victoria</string>
+		<key>date</key>
+		<string>1837</string>
+		<key>id</key>
+		<string>EEC8B3D4-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La reina Isabel I</string>
+		<key>incorrectAnswer2</key>
+		<string>Reina María</string>
+		<key>incorrectAnswer3</key>
+		<string>La reina Isabel II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>En 1837, se convirtió en reina a la edad de 18 años. ¿Quién es ella?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tras la muerte de Alberto en 1861, Victoria cayó en una profunda depresión y se retiró de la vida pública.</string>
+		<key>theme</key>
+		<string>Inglaterra 1528-1837</string>
+		<key>timeLine</key>
+		<string>Victoria se convierte en reina</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Victoria del Reino Unido</string>
+	</dict>
+</array>
+</plist>

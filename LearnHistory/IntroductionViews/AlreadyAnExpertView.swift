@@ -8,12 +8,9 @@
 import SwiftUI
 
 struct AlreadyAnExpertView: View {
-    @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
+    @Environment(\.dismiss) private var dismiss
     var deviceHeight: CGFloat {
         UIScreen.main.bounds.height
-    }
-    var deviceWidth: CGFloat {
-        UIScreen.main.bounds.width
     }
     var theme: String
     @Binding var startOver: Bool
@@ -28,19 +25,25 @@ struct AlreadyAnExpertView: View {
                     .frame(height: deviceHeight * 0.3)
                 Spacer()
                 Text("You are already an expert in")
+                    .padding()
+                    .foregroundColor(.black)
                     .font(.title)
+                    .multilineTextAlignment(.center)
                 VStack {
                     Text("The History of ")
+                        .foregroundColor(.black)
                         .font(.title)
-                        .padding(.bottom)
                     Text(theme)
                         .font(.title)
                         .fontWeight(.bold)
                         .foregroundColor(ColorReference.darkGreen)
                 }
+                .multilineTextAlignment(.center)
+                .preferredColorScheme(.dark)
                 Spacer()
                 Text("Do you want to start over?")
                     .font(.headline)
+                    .foregroundColor(.black)
                 Spacer()
                 HStack{
                     Spacer()
@@ -50,20 +53,19 @@ struct AlreadyAnExpertView: View {
                     Spacer()
                 }
                 Spacer()
-                
-
             }
- 
+            .navigationBarBackButtonHidden(true)
         }
     }
     func buttonAction() {
         withAnimation {
             startOver = true
+            print(UserDefaults.standard.double(forKey: theme))
         }
         
     }
     func buttonAction2() {
-        presentationMode.wrappedValue.dismiss()
+        dismiss()
     }
     
 }

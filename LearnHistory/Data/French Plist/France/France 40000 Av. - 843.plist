@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>L&apos;Homme de Néandertal</string>
+		<key>date</key>
+		<string>40000 AV</string>
+		<key>id</key>
+		<string>c5581842-0926-11ed-861d-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Homo erectus</string>
+		<key>incorrectAnswer2</key>
+		<string>Cro-Magnons</string>
+		<key>incorrectAnswer3</key>
+		<string>Homo sapiens</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>Comment s’appelle cette espèce du genre Homo qui vivait en France et qui est disparu il y a 40000 ans?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Il n&apos;y a jamais eu de croisement entre Neandertal et Homo sapiens.</string>
+		<key>theme</key>
+		<string>France 40000 Av. - 843</string>
+		<key>timeLine</key>
+		<string>L&apos;Homme de Néandertal disparait.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Néandertalien</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les Celtes</string>
+		<key>date</key>
+		<string>800 AV</string>
+		<key>id</key>
+		<string>c5581aea-0926-11ed-861d-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Goths</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Huns</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Vandales</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Quel peuple a commencé à immigrer en France vers 800 av. J.-C.?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Au 1er siècle de notre ère, la plupart des territoires celtes faisaient partie de l&apos;Empire romain.</string>
+		<key>theme</key>
+		<string>France 40000 Av. - 843</string>
+		<key>timeLine</key>
+		<string>Les Celtes immigrent en France.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Celtes</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les Celtes/Sénons</string>
+		<key>date</key>
+		<string>390 AV</string>
+		<key>id</key>
+		<string>c5581bee-0926-11ed-861d-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Goths</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Huns</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Vandales</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Depuis la Gaule, ils ont envahi Rome en 390 avant J.-C. en gagnant la bataille d&apos;Allia. Qui sont-ils ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Senons qui ont envahi le nord de l&apos;Italie et Rome étaient dirigés par Brennus.</string>
+		<key>theme</key>
+		<string>France 40000 Av. - 843</string>
+		<key>timeLine</key>
+		<string>Les Celtes envahissent Rome.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>bataille de l&apos;Allia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Lutèce</string>
+		<key>date</key>
+		<string>52 AV</string>
+		<key>id</key>
+		<string>c5581ce8-0926-11ed-861d-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Lugdunum</string>
+		<key>incorrectAnswer2</key>
+		<string>Avignon</string>
+		<key>incorrectAnswer3</key>
+		<string>Lyon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Quel était le premier nom de la ville de Paris, fondée en 52 avant J.-C. ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Lutèce n&apos;a jamais été conquise par les Romains.</string>
+		<key>theme</key>
+		<string>France 40000 Av. - 843</string>
+		<key>timeLine</key>
+		<string>Fondation de Lutèce.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Lutèce</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>César</string>
+		<key>date</key>
+		<string>51 AV</string>
+		<key>id</key>
+		<string>c5581e82-0926-11ed-861d-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pompée</string>
+		<key>incorrectAnswer2</key>
+		<string>Crassus</string>
+		<key>incorrectAnswer3</key>
+		<string>Marc-Antoine</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>Il a gagné la guerre des Gaules en 51 av. J.-C. . Quel était son nom ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Octave  accède au pouvoir après avoir vaincu ses adversaires lors de la dernière guerre civile de la République romaine.</string>
+		<key>theme</key>
+		<string>France 40000 Av. - 843</string>
+		<key>timeLine</key>
+		<string>César gagne la guerre des Gaules.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Jules César</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Clovis I</string>
+		<key>date</key>
+		<string>481</string>
+		<key>id</key>
+		<string>c5581f72-0926-11ed-861d-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Louis Ier</string>
+		<key>incorrectAnswer2</key>
+		<string>François Ier</string>
+		<key>incorrectAnswer3</key>
+		<string>Henri Ier</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>Quel est le nom du premier roi des Francs à avoir uni toutes les tribus franques ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Clovis a succédé à son père, Childéric Ier, comme roi des Francs saliens en 481.</string>
+		<key>theme</key>
+		<string>France 40000 Av. - 843</string>
+		<key>timeLine</key>
+		<string>Clovis Ier devient roi des Francs.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Clovis I</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Mérovingiens</string>
+		<key>date</key>
+		<string>511</string>
+		<key>id</key>
+		<string>c55820f8-0926-11ed-861d-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Carolingien</string>
+		<key>incorrectAnswer2</key>
+		<string>Maison des Capet</string>
+		<key>incorrectAnswer3</key>
+		<string>Robertien</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>A quelle dynastie appartenait Clovis ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le mot « Mérovingien » provient du nom du roi Mérovée, un ancêtre semi-mythique de Clovis.</string>
+		<key>theme</key>
+		<string>France 40000 Av. - 843</string>
+		<key>timeLine</key>
+		<string>Mort de Clovis Ier.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Mérovingiens</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Charles Martel</string>
+		<key>date</key>
+		<string>732</string>
+		<key>id</key>
+		<string>c55821de-0926-11ed-861d-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Charlemagne</string>
+		<key>incorrectAnswer2</key>
+		<string>Louis X</string>
+		<key>incorrectAnswer3</key>
+		<string>Pépin</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>En 732, il bat les musulmans à Poitiers, stoppant l&apos;invasion arabe. Qui est-il ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Charles Martel appartient à la dynastie mérovingienne.</string>
+		<key>theme</key>
+		<string>France 40000 Av. - 843</string>
+		<key>timeLine</key>
+		<string>L&apos;invasion musulmane est arrêtée à Poitier.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Charles Martel</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Carolingien</string>
+		<key>date</key>
+		<string>800</string>
+		<key>id</key>
+		<string>c55822d8-0926-11ed-861d-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Mérovingiens</string>
+		<key>incorrectAnswer2</key>
+		<string>Robertien</string>
+		<key>incorrectAnswer3</key>
+		<string>Maison de Valois</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>A quelle dynastie appartient Charlemagne ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Charlemagne  est le premier empereur reconnu à régner sur l&apos;Europe occidentale depuis la chute de l&apos;Empire romain d&apos;Occident.</string>
+		<key>theme</key>
+		<string>France 40000 Av. - 843</string>
+		<key>timeLine</key>
+		<string>Charlemagne devient empereur.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Charlemagne</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Traité de Verdun</string>
+		<key>date</key>
+		<string>843</string>
+		<key>id</key>
+		<string>c5582454-0926-11ed-861d-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Traité de Paris</string>
+		<key>incorrectAnswer2</key>
+		<string>Traité de Caen</string>
+		<key>incorrectAnswer3</key>
+		<string>Traité de Bonn</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>Quel traité signé en 843 amorce la dissolution de l&apos;empire de Charlemagne?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Par le traité de Verdun, les petits-fils de Charlemagne, se partagent ses territoires.</string>
+		<key>theme</key>
+		<string>France 40000 Av. - 843</string>
+		<key>timeLine</key>
+		<string>Signature du traité de Verdun.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Traité de Verdun</string>
+	</dict>
+</array>
+</plist>

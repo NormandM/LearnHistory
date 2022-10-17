@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1917</string>
+		<key>date</key>
+		<string>1917</string>
+		<key>id</key>
+		<string>7d085f2c-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>1915</string>
+		<key>incorrectAnswer2</key>
+		<string>1914</string>
+		<key>incorrectAnswer3</key>
+		<string>1916</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>¿En qué año entró Estados Unidos en la Primera Guerra Mundial?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Ofensiva de Meuse-Argonne fue la ofensiva final de la Primera Guerra Mundial, siendo la mayor operación y victoria de la Fuerza Expedicionaria Estadounidense en esa guerra.</string>
+		<key>theme</key>
+		<string>Estados Unidos 1917-1969</string>
+		<key>timeLine</key>
+		<string> Los Estados Unidos entran en la Primera Guerra Mundial.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Ofensiva de Meuse-Argonne</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Dar a las mujeres el derecho al voto</string>
+		<key>date</key>
+		<string>1920</string>
+		<key>id</key>
+		<string>7d086026-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hacer ilegal la esclavitud</string>
+		<key>incorrectAnswer2</key>
+		<string>Proscribir la prostitución</string>
+		<key>incorrectAnswer3</key>
+		<string>Garantizar la libertad de religión</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>La Decimonovena Enmienda fue ratificada y proclamada en 1920. ¿Cuál era su objetivo?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Antes de 1776, las mujeres tenían voto en varias de las colonias de lo que sería Estados Unidos</string>
+		<key>theme</key>
+		<string>Estados Unidos 1917-1969</string>
+		<key>timeLine</key>
+		<string>Proclamación de la Decimonovena Enmienda.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Decimonovena Enmienda a la Constitución de los Estados Unidos</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Grapes of Wrath</string>
+		<key>date</key>
+		<string>1929 - 1939</string>
+		<key>id</key>
+		<string>7d08612a-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Great Gatsby</string>
+		<key>incorrectAnswer2</key>
+		<string>To Kill a Mockingbird</string>
+		<key>incorrectAnswer3</key>
+		<string>The Catcher in the Rye</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>¿Qué gran novela americana está ambientada en la Gran Depresión (1929 - 1939)?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Gran Depresión fue, ante todo, una crisis bursátil.</string>
+		<key>theme</key>
+		<string>Estados Unidos 1917-1969</string>
+		<key>timeLine</key>
+		<string>La Gran Depresión</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Gran Depresión</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>El New Deal</string>
+		<key>date</key>
+		<string>1933</string>
+		<key>id</key>
+		<string>7d086224-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>El programa de asistencia social</string>
+		<key>incorrectAnswer2</key>
+		<string>Justicia social para todos</string>
+		<key>incorrectAnswer3</key>
+		<string>El programa Nacional de Asistencia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>¿Cómo se llamaron las políticas de Franklin Delano Roosevelt destinadas a aliviar la miseria de la Gran Depresión?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Numerosos programas del New Deal todavía permanecen activos</string>
+		<key>theme</key>
+		<string>Estados Unidos 1917-1969</string>
+		<key>timeLine</key>
+		<string>El New Deal</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>New Deal</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>El ataque a Pearl Harbor</string>
+		<key>date</key>
+		<string>1941</string>
+		<key>id</key>
+		<string>7d086328-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La invasión de Hitler a Polonia</string>
+		<key>incorrectAnswer2</key>
+		<string>La invasión de Francia por parte de Hitler</string>
+		<key>incorrectAnswer3</key>
+		<string>El bombardeo del Reino Unido</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>¿Qué acontecimiento provocó la entrada de Estados Unidos en la Segunda Guerra Mundial?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los Estados Unidos sabían de antemano que los japoneses iban a atacar.</string>
+		<key>theme</key>
+		<string>Estados Unidos 1917-1969</string>
+		<key>timeLine</key>
+		<string>Ataque a Pearl Harbor</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Ataque a Pearl Harbor</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hiroshima and Nagasaki</string>
+		<key>date</key>
+		<string>1945</string>
+		<key>id</key>
+		<string>7d08642c-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hiroshima and Tokyo</string>
+		<key>incorrectAnswer2</key>
+		<string>Hiroshima and Osaka</string>
+		<key>incorrectAnswer3</key>
+		<string>Hisoshima</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>¿Sobre qué ciudades lanzó Estados Unidos la bomba atómica?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Seis días después de la detonación sobre Nagasaki, el 15 de agosto, el Imperio de Japón anunció su rendición incondicional a los «Aliados»</string>
+		<key>theme</key>
+		<string>Estados Unidos 1917-1969</string>
+		<key>timeLine</key>
+		<string>Bombardeos atómicos de Hiroshima y Nagasaki</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Bombardeos atómicos de Hiroshima y Nagasaki</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>3</string>
+		<key>date</key>
+		<string>1950-1953</string>
+		<key>id</key>
+		<string>7d086666-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>4</string>
+		<key>incorrectAnswer2</key>
+		<string>6</string>
+		<key>incorrectAnswer3</key>
+		<string>5</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>¿Cuántos años duró la Guerra de Corea?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Nunca se firmó un tratado de paz, y las dos Coreas siguen técnicamente en guerra.</string>
+		<key>theme</key>
+		<string>Estados Unidos 1917-1969</string>
+		<key>timeLine</key>
+		<string>Guerra de Corea</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de Corea</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Rosa Parks</string>
+		<key>date</key>
+		<string>1955 -1956</string>
+		<key>id</key>
+		<string>7d086774-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Flo Kennedy</string>
+		<key>incorrectAnswer2</key>
+		<string>Fannie Lou Hamer</string>
+		<key>incorrectAnswer3</key>
+		<string>Septima Clark</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>¿Qué mujer se negó en 1955 a dejar su asiento en un autobús segregado?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Se la reconoce Rosa Parks como «la primera dama de los derechos civiles.</string>
+		<key>theme</key>
+		<string>Estados Unidos 1917-1969</string>
+		<key>timeLine</key>
+		<string>Boicot a los autobuses de Montgomery.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Rosa Parks</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Lyndon B. Johnson</string>
+		<key>date</key>
+		<string>1963-1969</string>
+		<key>id</key>
+		<string>7d086864-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Robert F. Kennedy</string>
+		<key>incorrectAnswer2</key>
+		<string>John F. Kennedy</string>
+		<key>incorrectAnswer3</key>
+		<string>Martin Luther King Jr.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>En la década de 1960, ¿cuál de los siguientes hombres no fue asesinado?</string>
+		<key>questionTrueOrFalse</key>
+		<string>John F. Kennedy fue el primer presidente de Estados Unidos en ser asesinado.</string>
+		<key>theme</key>
+		<string>Estados Unidos 1917-1969</string>
+		<key>timeLine</key>
+		<string>Asesinato de John F. Kennedy</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Asesinato de John F. Kennedy</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1969</string>
+		<key>date</key>
+		<string>1969</string>
+		<key>id</key>
+		<string>7d086968-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>1966</string>
+		<key>incorrectAnswer2</key>
+		<string>1972</string>
+		<key>incorrectAnswer3</key>
+		<string>1980</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>¿En qué año el Apolo 11 aterrizó en la Luna convirtiendo a Neil Armstrong en el primer ser humano en pisar su superficie?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tres astronautas aterrizaron en la Luna: Neil Armstrong, Buzz Aldrin y Michael Collins.</string>
+		<key>theme</key>
+		<string>Estados Unidos 1917-1969</string>
+		<key>timeLine</key>
+		<string>Neil Armstrong camina sobre la luna.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Apolo 11</string>
+	</dict>
+</array>
+</plist>

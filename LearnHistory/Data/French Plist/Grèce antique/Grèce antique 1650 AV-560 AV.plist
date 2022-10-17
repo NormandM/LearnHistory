@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Mycénienne</string>
+		<key>date</key>
+		<string>1650 AV-1100 AV</string>
+		<key>id</key>
+		<string>74b482f2-199f-11ed-861d-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Classique</string>
+		<key>incorrectAnswer2</key>
+		<string>Hellénistique</string>
+		<key>incorrectAnswer3</key>
+		<string>Primitive</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>0</integer>
+		<key>question</key>
+		<string>Comment s&apos;appelle la phase de la civilisation grecque qui s&apos;étend de 1650 à 1100 avant JC à la fin de l&apos;âge du bronze ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerre de Troie se déroule à l&apos;époque mycénienne.</string>
+		<key>theme</key>
+		<string>Grèce antique 1650 AV-560 AV</string>
+		<key>timeLine</key>
+		<string>Civilisation mycénienne</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Civilisation mycénienne</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La civilisation minoenne</string>
+		<key>date</key>
+		<string>1600 Av</string>
+		<key>id</key>
+		<string>135fb242-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Rome</string>
+		<key>incorrectAnswer2</key>
+		<string>Égypte</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Francs</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>Quelle civilisation représente la première société avancée en Europe ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La civilisation minoenne s&apos;est épanouie sur l&apos;île de Crète.</string>
+		<key>theme</key>
+		<string>Grèce antique 1650 AV-560 AV</string>
+		<key>timeLine</key>
+		<string>L&apos;éruption volcanique catastrophique des Minoens.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>La civilisation minoenne</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La guerre de Troie</string>
+		<key>date</key>
+		<string>1200 Av</string>
+		<key>id</key>
+		<string>135fb4ea-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Invasion dorienne</string>
+		<key>incorrectAnswer2</key>
+		<string>Guerres puniques</string>
+		<key>incorrectAnswer3</key>
+		<string>La guerre de Meliac</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Quelle guerre mythique a été provoquée par l&apos;enlèvement d&apos;Hélène de Sparte ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;Odyssée est l&apos;histoire de la guerre de Troie.</string>
+		<key>theme</key>
+		<string>Grèce antique 1650 AV-560 AV</string>
+		<key>timeLine</key>
+		<string>Guerre de Troie</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>La guerre de Troie</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Effondrement de l&apos;âge du bronze</string>
+		<key>date</key>
+		<string>1150  Av</string>
+		<key>id</key>
+		<string>135fb63e-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Éruption volcanique</string>
+		<key>incorrectAnswer2</key>
+		<string>Trop de guerres</string>
+		<key>incorrectAnswer3</key>
+		<string>Le déluge</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Quelle est la cause de l&apos;âge des ténèbres en Grèce ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La civilisation mycénienne a survécu à l&apos;effondrement de l&apos;âge de bronze.</string>
+		<key>theme</key>
+		<string>Grèce antique 1650 AV-560 AV</string>
+		<key>timeLine</key>
+		<string>Effondrement de l&apos;âge du bronze</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Effondrement de l&apos;âge du bronze</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Homère</string>
+		<key>date</key>
+		<string>800 Av</string>
+		<key>id</key>
+		<string>135fb760-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Virgile</string>
+		<key>incorrectAnswer2</key>
+		<string>Aristote</string>
+		<key>incorrectAnswer3</key>
+		<string>Platon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Qui a écrit l&apos;Iliade et l&apos;Odyssée ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les épopées homériques ont eu peu d&apos;influence sur la culture et l&apos;éducation de la Grèce antique.</string>
+		<key>theme</key>
+		<string>Grèce antique 1650 AV-560 AV</string>
+		<key>timeLine</key>
+		<string>Homère écrit l&apos;Iliade et l&apos;Odyssée.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Homère</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Pythie</string>
+		<key>date</key>
+		<string>800-700 Av</string>
+		<key>id</key>
+		<string>135fb882-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Héra</string>
+		<key>incorrectAnswer2</key>
+		<string>Aphrodite</string>
+		<key>incorrectAnswer3</key>
+		<string>Hélène</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>Quel était le nom de la grande prêtresse du temple d&apos;Apollon à Delphes ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Pythie tire son nom de Python.</string>
+		<key>theme</key>
+		<string>Grèce antique 1650 AV-560 AV</string>
+		<key>timeLine</key>
+		<string>Création de la Pythie</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Pythie</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>776 AV. J.-C.</string>
+		<key>date</key>
+		<string>776 Av</string>
+		<key>id</key>
+		<string>135fb9ae-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>555 AVANT J.-C.</string>
+		<key>incorrectAnswer2</key>
+		<string>896 AV. J.-C.</string>
+		<key>incorrectAnswer3</key>
+		<string>344 AV.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>En quelle année les premiers Jeux olympiques ont-ils eu lieu ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Jeux olympiques ont cessé d&apos;être célébrés lorsque la Grèce est passée sous la domination romaine.</string>
+		<key>theme</key>
+		<string>Grèce antique 1650 AV-560 AV</string>
+		<key>timeLine</key>
+		<string>Premiers Jeux olympiques</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Jeux olympiques antiques</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les tyrans</string>
+		<key>date</key>
+		<string>660 Av</string>
+		<key>id</key>
+		<string>135fbad0-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Rois</string>
+		<key>incorrectAnswer2</key>
+		<string>Généraux</string>
+		<key>incorrectAnswer3</key>
+		<string>Emirs</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Qui dirigeait les cités grecques avant l&apos;instauration de la démocratie ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les tyrans étaient connus pour gouverner par consensus.</string>
+		<key>theme</key>
+		<string>Grèce antique 1650 AV-560 AV</string>
+		<key>timeLine</key>
+		<string>Phéidon est tyran à Argos.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Tyran</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Dracon</string>
+		<key>date</key>
+		<string>622 Av</string>
+		<key>id</key>
+		<string>135fbbde-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Solon</string>
+		<key>incorrectAnswer2</key>
+		<string>Socrate</string>
+		<key>incorrectAnswer3</key>
+		<string>Platon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>Qui a établi des lois caractérisées par leur dureté pour la cité-État d&apos;Athènes ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Dracon appartenait à la classe des Eupatrides (les « bien nés »).</string>
+		<key>theme</key>
+		<string>Grèce antique 1650 AV-560 AV</string>
+		<key>timeLine</key>
+		<string>Draco établit son code juridique</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Dracon</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Solon</string>
+		<key>date</key>
+		<string>560 Av</string>
+		<key>id</key>
+		<string>135fbf3a-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Draco</string>
+		<key>incorrectAnswer2</key>
+		<string>Socrate</string>
+		<key>incorrectAnswer3</key>
+		<string>Platon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Cléisthène est vu comme le fondateur de la démocratie athénienne, mais qui en a jeté les bases ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Solon fait partie des Sept Sages de la Grèce. </string>
+		<key>theme</key>
+		<string>Grèce antique 1650 AV-560 AV</string>
+		<key>timeLine</key>
+		<string>Mort de Solon</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Solon</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>El primer periodo intermedio</string>
+		<key>date</key>
+		<string>2181–2055 A.C.</string>
+		<key>id</key>
+		<string>d9fee8ee-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La Edad Media</string>
+		<key>incorrectAnswer2</key>
+		<string>El Reino Medio </string>
+		<key>incorrectAnswer3</key>
+		<string> El Nuevo Reino </string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>¿Cómo se llama el periodo que siguió al declive del Reino Antiguo?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El territorio egipcio permanece unificado durante el Primer Periodo Intermedio.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 2300 A.C.-1323 A.C.</string>
+		<key>timeLine</key>
+		<string>Primer periodo intermedio</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Primer periodo intermedio de Egipto</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Un periodo de reunificación</string>
+		<key>date</key>
+		<string>2040 to 1782 A.C.</string>
+		<key>id</key>
+		<string>d9feea56-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Un periodo de guerra y conflicto.</string>
+		<key>incorrectAnswer2</key>
+		<string>La edad de los constructores de pirámides.</string>
+		<key>incorrectAnswer3</key>
+		<string>La decadencia de Egipto</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>¿Qué es lo que mejor describe al Reino Medio?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mentuhotep II fue el fundador del Imperio Medio de Egipto.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 2300 A.C.-1323 A.C.</string>
+		<key>timeLine</key>
+		<string>Reino Medio de Egipto</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Mentuhotep II</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Los hicsos</string>
+		<key>date</key>
+		<string>1650 – 1550 A.C.</string>
+		<key>id</key>
+		<string>d9feeba0-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Los hititas </string>
+		<key>incorrectAnswer2</key>
+		<string>Los fenicios</string>
+		<key>incorrectAnswer3</key>
+		<string>Los griegos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>¿Quiénes eran los extranjeros que gobernaban Egipto durante el segundo período intermedio?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Fue una época en que el poder estuvo bajo un solo faraón.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 2300 A.C.-1323 A.C.</string>
+		<key>timeLine</key>
+		<string>Segundo periodo intermedio</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Segundo periodo intermedio de Egipto</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Tratado de cirugía</string>
+		<key>date</key>
+		<string>1600 A.C.</string>
+		<key>id</key>
+		<string>d9feecc2-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Astronomía</string>
+		<key>incorrectAnswer2</key>
+		<string>Física</string>
+		<key>incorrectAnswer3</key>
+		<string>Arquitectura</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>¿De qué actividad es el papiro de Edwin Smith el documento más antiguo que se conoce?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Papiro Edwin Smith contiene tratamientos para heridas de guerra y descripciones anatómicas.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 2300 A.C.-1323 A.C.</string>
+		<key>timeLine</key>
+		<string>El papiro de Edwin Smith</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Papiro Edwin Smith</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Libro de los muertos</string>
+		<key>date</key>
+		<string>1550 A.C.</string>
+		<key>id</key>
+		<string>d9fee1f0-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Libro de jeroglíficos</string>
+		<key>incorrectAnswer2</key>
+		<string>Libro del Más Allá</string>
+		<key>incorrectAnswer3</key>
+		<string>Libro de los vivos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>¿Qué documento se colocó en el ataúd del difunto?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El propósito del Libro de los Muertos es ayudar a un difunto a cruzar el inframundo.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 2300 A.C.-1323 A.C.</string>
+		<key>timeLine</key>
+		<string>El Libro de los Muertos se utiliza por primera vez.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Libro de los muertos</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hatshepsut</string>
+		<key>date</key>
+		<string>1507–1458 A.C.</string>
+		<key>id</key>
+		<string>d9feedda-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Nefertiti</string>
+		<key>incorrectAnswer2</key>
+		<string>Twosret</string>
+		<key>incorrectAnswer3</key>
+		<string>Neithikret</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>¿Cuál es el nombre de una faraona de la XVIII dinastía del Reino Nuevo?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hatshepsut Fue la segunda mujer faraón históricamente confirmada después de Sobekneferu.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 2300 A.C.-1323 A.C.</string>
+		<key>timeLine</key>
+		<string>Hatshepsut</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Hatshepsut</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Tutmosis III</string>
+		<key>date</key>
+		<string>1481-1425 A.C.</string>
+		<key>id</key>
+		<string>d9feef10-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ramsés II</string>
+		<key>incorrectAnswer2</key>
+		<string>Tutankamón</string>
+		<key>incorrectAnswer3</key>
+		<string>Djoser</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>¿Qué faraón creó el mayor imperio que ha conocido Egipto?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tutmosis III fue uno de los monarcas más importantes y poderosos de los tres mil años de civilización faraónica.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 2300 A.C.-1323 A.C.</string>
+		<key>timeLine</key>
+		<string>Tutmosis III</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Tutmosis III</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Nefertiti</string>
+		<key>date</key>
+		<string>1370 – 1330 A.C.</string>
+		<key>id</key>
+		<string>d9fef050-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cleopatra</string>
+		<key>incorrectAnswer2</key>
+		<string>Hatshepsut</string>
+		<key>incorrectAnswer3</key>
+		<string>Twosret</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Su busto es una de las obras más copiadas del antiguo Egipto. ¿Quién es ella?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Nefertiti fue la gran esposa real del faraón Akenatón.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 2300 A.C.-1323 A.C.</string>
+		<key>timeLine</key>
+		<string>Nefertiti</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Nefertiti</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Akenatón</string>
+		<key>date</key>
+		<string>1351–1334 A.C.</string>
+		<key>id</key>
+		<string>d9fef186-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Ramsés II</string>
+		<key>incorrectAnswer3</key>
+		<string>Tutankamón</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>¿Qué faraón estableció el monoteísmo por primera vez en la historia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Akenatón está considerado por muchos arqueólogos como uno de los faraones menos interesante.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 2300 A.C.-1323 A.C.</string>
+		<key>timeLine</key>
+		<string>Akenatón</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Akenatón</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Tutankamón</string>
+		<key>date</key>
+		<string>1341 -  1323 A.C.</string>
+		<key>id</key>
+		<string>d9fef5fa-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ramsés II</string>
+		<key>incorrectAnswer2</key>
+		<string>Akenatón</string>
+		<key>incorrectAnswer3</key>
+		<string>Djoser</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>Howard Carter descubrió su tumba casi intacta en 1922. ¿Quién es él?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tutankamón murió de viejo.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto 2300 A.C.-1323 A.C.</string>
+		<key>timeLine</key>
+		<string>Tutankamón</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Tutankamón</string>
+	</dict>
+</array>
+</plist>

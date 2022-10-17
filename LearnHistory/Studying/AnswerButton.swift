@@ -10,9 +10,7 @@ import SwiftUI
 struct AnswerButton: View {
     @Binding var question: String
     var showAnswer: () -> Void
-    var fontColor: Color?
     var fontWeight: Font.Weight?
-    var fontType: Font?
     @Binding var answerButtonPressed: Bool
     var body: some View {
         Button{

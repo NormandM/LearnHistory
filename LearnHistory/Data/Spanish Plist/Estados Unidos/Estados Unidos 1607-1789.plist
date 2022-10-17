@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Jamestown, Virginia</string>
+		<key>date</key>
+		<string>1607</string>
+		<key>id</key>
+		<string>7d084302-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Philadelphia</string>
+		<key>incorrectAnswer2</key>
+		<string>Boston</string>
+		<key>incorrectAnswer3</key>
+		<string>Washington</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>¿Dónde se ubicó el primer asentamiento inglés permanente en Norteamérica?</string>
+		<key>questionTrueOrFalse</key>
+		<string>No hubo otros intentos de asentamiento antes de Jamestown.</string>
+		<key>theme</key>
+		<string>Estados Unidos 1607-1789</string>
+		<key>timeLine</key>
+		<string>Jamestown es el primer asentamiento inglés permanente en Norteamérica.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Jamestown (Virginia)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Anglicanos</string>
+		<key>date</key>
+		<string>1620</string>
+		<key>id</key>
+		<string>7d08453c-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Peregrinos</string>
+		<key>incorrectAnswer2</key>
+		<string>Quacker</string>
+		<key>incorrectAnswer3</key>
+		<string>Puritanos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>¿Cuál de estos grupos religiosos no se encuentra entre los que se establecieron en Norteamérica en el siglo XVII?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los peregrinos fueron los colonos ingleses que llegaron a Norteamérica en el Mayflower y establecieron la colonia de Plymouth.</string>
+		<key>theme</key>
+		<string>Estados Unidos 1607-1789</string>
+		<key>timeLine</key>
+		<string>Los peregrinos llegan a Norteamérica en el Mayflower.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Padres peregrinos</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Guerra de los Siete Años</string>
+		<key>date</key>
+		<string>1763</string>
+		<key>id</key>
+		<string>7d084672-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Guerra de los Treinta Años</string>
+		<key>incorrectAnswer2</key>
+		<string>Guerra de las Rosas</string>
+		<key>incorrectAnswer3</key>
+		<string>Guerra de la Independencia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Francia perdió esta guerra contra Gran Bretaña en 1763 y la mayor parte de su territorio en América del Norte. ¿Cómo se llamó esta guerra?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra terminó con el Tratado de París entre Francia, España y Gran Bretaña.</string>
+		<key>theme</key>
+		<string>Estados Unidos 1607-1789</string>
+		<key>timeLine</key>
+		<string>Fin de la Guerra de los Siete Años.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de los Siete Años</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Leyes intolerables</string>
+		<key>date</key>
+		<string>1774</string>
+		<key>id</key>
+		<string>7d084794-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La ley punitiva </string>
+		<key>incorrectAnswer2</key>
+		<string>La ley de supremacía británica</string>
+		<key>incorrectAnswer3</key>
+		<string>La ley de orden público</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>¿Cómo se llamaron una serie de leyes punitivas aprobadas por el Parlamento británico en 1774 tras el Motín del Té de Boston?</string>
+		<key>questionTrueOrFalse</key>
+		<string> La Leyes intolerables aceleraron los procesos que culminaron en la Guerra de Independencia de los Estados Unidos.</string>
+		<key>theme</key>
+		<string>Estados Unidos 1607-1789</string>
+		<key>timeLine</key>
+		<string>Se aprueban las Leyes Intolerables.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Leyes intolerables</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Thomas Jefferson</string>
+		<key>date</key>
+		<string>1776</string>
+		<key>id</key>
+		<string>7d084a64-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>George Washington</string>
+		<key>incorrectAnswer2</key>
+		<string>Abraham Lincoln</string>
+		<key>incorrectAnswer3</key>
+		<string>Paul Revere</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>¿Quién escribió la Declaración de Independencia, adoptada por el Segundo Congreso el 4 de julio de 1776?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Jefferson estaba en contra de la separación de la Iglesia y el Estado</string>
+		<key>theme</key>
+		<string>Estados Unidos 1607-1789</string>
+		<key>timeLine</key>
+		<string>Thomas Jefferson escribe el primer borrador de la Declaración de Independencia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Thomas Jefferson</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>13</string>
+		<key>date</key>
+		<string>4 de julio 1776</string>
+		<key>id</key>
+		<string>7d084b72-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>6</string>
+		<key>incorrectAnswer2</key>
+		<string>24</string>
+		<key>incorrectAnswer3</key>
+		<string>50</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>¿Cuántos Estados firmaron inicialmente la Declaración de Independencia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>No se introdujeron cambios en el borrador inicial de la Declaración de Independencia de Jefferson.</string>
+		<key>theme</key>
+		<string>Estados Unidos 1607-1789</string>
+		<key>timeLine</key>
+		<string>Declaración de Independencia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Declaración de Independencia de los Estados Unidos</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Batallas de Saratoga</string>
+		<key>date</key>
+		<string>1777</string>
+		<key>id</key>
+		<string>7d084c80-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Batalla de Washington</string>
+		<key>incorrectAnswer2</key>
+		<string>Batalla de Lexington</string>
+		<key>incorrectAnswer3</key>
+		<string>Batalla de Quebec</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>¿Qué batalla se considera un punto de inflexión de la Revolución Americana?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El general británico John Burgoyne dirigía las fuerzas británicas en la batalla de Saratoga.</string>
+		<key>theme</key>
+		<string>Estados Unidos 1607-1789</string>
+		<key>timeLine</key>
+		<string>Batalla de Saratoga</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Saratoga</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1783</string>
+		<key>date</key>
+		<string>1783</string>
+		<key>id</key>
+		<string>7d084d7a-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>1780</string>
+		<key>incorrectAnswer2</key>
+		<string>1778</string>
+		<key>incorrectAnswer3</key>
+		<string>1785</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>¿En qué año se firmó el Tratado de París por el que se reconocía la independencia de Estados Unidos?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La evidencia de que la distribución de fuerzas, con el predominio inglés en el mar, hacía imposible un desenlace militar, condujo al cese de las hostilidades.</string>
+		<key>theme</key>
+		<string>Estados Unidos 1607-1789</string>
+		<key>timeLine</key>
+		<string>Fin de la Revolución Americana. Firma del Tratado de París.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Tratado de París (1783)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1789</string>
+		<key>date</key>
+		<string>1789</string>
+		<key>id</key>
+		<string>7d084e88-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>1785</string>
+		<key>incorrectAnswer2</key>
+		<string>1775</string>
+		<key>incorrectAnswer3</key>
+		<string>1780</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>¿Cuándo entró en vigor la Constitución de Estados Unidos?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Constitución de los Estados Unidos es la constitución federal más antigua que se encuentra en vigor actualmente en el mundo.</string>
+		<key>theme</key>
+		<string>Estados Unidos 1607-1789</string>
+		<key>timeLine</key>
+		<string> La Constitución de los Estados Unidos entra en vigor.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Constitución de los Estados Unidos</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>George Washington</string>
+		<key>date</key>
+		<string>1789</string>
+		<key>id</key>
+		<string>7d084f96-3b88-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Thomas Jefferson</string>
+		<key>incorrectAnswer2</key>
+		<string>John Adams</string>
+		<key>incorrectAnswer3</key>
+		<string>Alexander Hamilton</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>¿Quién fue el primer presidente electo de los Estados Unidos?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Washington fue elegido para un solo mandato.</string>
+		<key>theme</key>
+		<string>Estados Unidos 1607-1789</string>
+		<key>timeLine</key>
+		<string>George Washington es elegido presidente por primera vez.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>George Washington</string>
+	</dict>
+</array>
+</plist>

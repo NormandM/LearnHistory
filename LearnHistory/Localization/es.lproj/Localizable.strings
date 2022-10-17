@@ -15,10 +15,10 @@
 "Before or After" = "Antes o después";
 
 /* No comment provided by engineer. */
-"Hints Coins available: %lld" = "monedas para pistas: %lld";
+"Hints Coins available: %lld" = "monedas para ayuda: %lld";
 "Coins available: %lld" = "Monedas disponibles : %lld";
 /* No comment provided by engineer. */
-"Hints cannot be displayed" = "No se puede mostrar la pista";
+"Hints cannot be displayed" = "No se puede mostrar la ayuda";
 
 /* No comment provided by engineer. */
 "History themes" = "Temas";
@@ -70,7 +70,7 @@
 "Use All Cards" = "Utilizar todas las tarjetas";
 
 /* No comment provided by engineer. */
-"Use incorrectly\nanswered cards" = "Utilizar las tarjetas\nmal contestadas";
+"Use incorrectly answered cards" = "Utilizar las tarjetas mal contestadas";
 
 /* No comment provided by engineer. */
 "Wrong" = "Incorrecto";
@@ -79,15 +79,16 @@
 "X" = "X";
 
 "Ancient Egypt" = "Antiguo Egipto";
-"Ancient Mesopotamia" = "Antigua Mesopotamia";
+"Mesopotamia " = "Mesopotamia";
 "Ancient Greece" = "Antigua Grecia";
 "British History" = "Inglaterra";
 "French History" = "Francia";
 "Europe" = "Europa";
-"Ancient Rome" = "La antigua Roma";
-"China" = "La China";
+"Ancient Rome" = "Antigua Roma";
+"China" = "China";
 "Ancient History" = "Historia antigua";
 "List.json" = "ListSpanish.json";
+"ListTitle.json" = "ListSpanishTitle.json";
 "en" = "es";
 "Start\nOver" = "Repita";
 "Read\nMore" = "Leer";
@@ -99,14 +100,14 @@
 "False" = "Falso";
 "Hints" = "Ayuda";
 "Before?\n\nDrop Card Here" = "¿Antes?\n\nPonga la tarjeta aquí";
-"After?\n\nDrop Card Here" = "¿Después?\n\nPonga la tarjeta aquí";
+"After?\n\nDrop Card Here" = "¿Después\n\nPonga la tarjeta aquí";
 "Great Job!" = "¡Bravo!";
 "You have finished" = "Ha terminado";
 "Your score is:" = "Su resultado es:";
-"Can you achieve 100% and become" = "¿Puede lograr el 100% y convertirse en";
+"Can you achieve 100%?" = "¿Puede lograr el 100%?";
 "and become" = "y convertirse en";
 "expert in " = "experto en";
-"Back\nto\nmenu" = "Volver\nal\nmenú";
+"Back" = "Volver";
 "Congratulation" = "Felicitaciones";
 "You are now an expert in" = "Ahora es usted un experto en";
 "in" = "en";
@@ -120,31 +121,58 @@
 "Are you sure you want to exit without finishing the Quiz?" = "¿Estás seguro de que quieres salir sin terminar el Quiz?";
 "It will reset the quiz" = "Reiniciará el quiz";
 "Exit" = "Salir";
-"To preserve the visual integrity and user experience of Learn History there are no adds." = "To preserve the visual integrity and user experience of Learn History there are no adds.";
-"CREDIT AVAILABLE: %lld coins" = "CREDIT AVAILABLE: %lld coins";
-"Need any coins?" = "Need any coins?";
-"200 coins for: " = "200 coins for: ";
-"You have finished the quiz:" = "You have finished the quiz";
-"Good Job!" = "Good Job!";
-"1 coin was added to your total" = "1 coin was added to your total";
+"To preserve the visual integrity and user experience there are no adds in Learn History+." = "Para preservar la integridad visual y la experiencia del usuario de Aprender la Historia no hay publicidad.";
+"CREDIT AVAILABLE: %lld coins" = "CRÉDITO DISPONIBLE: %lld coins";
+"Need any coins?" = "¿Necesitas monedas?";
+"200 coins for: " = "200 monedas para: ";
+"You have finished the quiz:" = "Has terminado la prueba:";
+"Good Job!" = "¡Bueno!";
+"1 coin was added to your total" = "Se ha añadido 1 moneda a su total";
 "Try again!" = "Try again!";
 "Good!" = "Good!";
-"2 coins was added to your total" = "2 coins was added to your total";
+"2 coins were added to your total" = "Se ha añadido 2 monedas a su total";
 "Very Good!" = "Very Good!";
-"3 coins was added to your total" = "3 coins was added to your total";
-"Great!" = "Great!";
-"4 coins was added to your total" = "4 coins was added to your total";
-"5 coins was added to your total" = "5 jetons ont été ajoutés";
-"This is your first try for the theme: %@" = "Ceci est votre premier essai pour le thème: %@";
+"3 coins were added to your total" = "Se ha añadido 3 monedas a su total";
+"Great!" = "¡Genial!";
+"4 coins were added to your total" = "Se ha añadido 4 monedas a su total";
+"5 coins were added to your total" = "Se ha añadido 5 monedas a su total";
+"This is your first try for the theme: %@" = "Este es su primer intento para el tema: %@";
 "You answered correctly, continue!" = "You answered correctly, continue!";
-"You are out of coins!" = "You are out of coins!";
-"Buy some coins" = "Buy some coins";
-"Exit the Quiz" = "Go back to Quiz";
-"Events and Dates" =  "Events and Dates";
-"Read and learn" = "Read and learn";
-"Test your knowledge" = "Testez vos connaissances";
-"You are already an expert in" = "You are already an expert in";
-"The History of " = "The History of ";
-"Do you want to start over?" = "Do you want to start over?";
+"You are out of coins!" = "No tienes monedas.";
+"Buy some coins" = "Compre monedas";
+"Exit the Quiz" = "Salir de la prueba";
+"Events and Dates" =  "Eventos y fechas";
+"Read and learn" = "Leer y aprender";
+"Test your knowledge" = "Pruebe sus conocimientos";
+"You are already an expert in" = "Usted ya es un experto en";
+"The History of " = "La historia de ";
+"Do you want to start over?" = "¿Quieres empezar de nuevo?";
 "Yes" = "Si";
 "No" = "No";
+"Round " = "Ronda ";
+"of " = "de ";
+"You have scored 100% in the quiz:" = "
+Has obtenido una puntuación del 100 % en la prueba:";
+"Congratulation you have mastered:" =  "Felicidades has dominado:";
+" Mastered!" = " ¡Dominado!";
+"10 coins were added to your total" = "Se ha añadido 10 monedas a su total";
+"There are no coins for hints!" = "¡No hay monedas para ayuda!";
+"Back to Quiz" = "Volver a la prueba";
+"Help me improve Learn History. Tell me what you think of the app. Any suggestions? Any topics you'd like me to add?" = "Ayúdame a mejorar Aprender la Historia. Dime qué te parece la aplicación. ¿Alguna sugerencia? ¿Algún tema que quieras que añada?";
+"ADDITIONAL INFORMATION" = "INFORMACIÓN ADICIONAL";
+"Leave your comments here" = "Deje sus comentarios aquí";
+"What do you think?" = "¿Qué opinas?";
+"Bibliography" = "Bibliografía";
+"Hint Buble2Eng" = "Hint Buble2Es";
+"No available image" = "No hay imagen disponible";
+"Do you enjoy LEARN HISTORY?\nBuy 200 coins for " = "¿Te gusta APRENDER LA HISTORIA?\nCompra 200 monedas por ";
+",\nit will last you forever!" = ",\n¡te durará para siempre!";
+"Start here" = "Comenzar aquí";
+"CREDIT: " = "CRÉDITO: ";
+"There is no\ninternet connection." = "No hay conexión a Internet.";
+"The information on this page cannot be displayed. You can however continue with the quiz." = "No se puede mostrar la información de esta página. Sin embargo, puede continuar con el quiz." ;
+"The information on this page cannot be displayed. You can however continue studying with Memo Cards." = "No se puede mostrar la información de esta página. Sin embargo, puede continuar a estudiar con las tarjetas de memoria.";
+"You are not connected to the internet" = "No está conectado a Internet";
+"You cannot make a purchase" = "No puede hacer una compra";
+"History Timelines" =  "Cronología";
+

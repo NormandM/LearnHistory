@@ -19,10 +19,9 @@ struct CoinManagementView: View {
         UIScreen.main.bounds.width
     }
     @Binding var questionSection: QuestionSection
+    @ObservedObject var monitor = NetworkMonitor()
     var iapManager = IAPManager()
-    @State private var isNotConnectedNoReason = false
     @State private var showingAlertNoConnection = false
-    @State private var showNoCoinsPurchased = false
     @State private var price = ""
     @ObservedObject var products = productsDB.shared
     @State private var stringCoin = String(UserDefaults.standard.integer(forKey: "coins"))
@@ -32,6 +31,7 @@ struct CoinManagementView: View {
     @Binding var nextButtonIsVisible: Bool
     @Binding var hintButtonIsVisible: Bool
     @Binding var fromNocoinsView: Bool
+    var lastQuizSection: QuestionSection
     let publisher = IAPManager.shared.purchasePublisher
     var body: some View {
             ZStack {
@@ -40,10 +40,13 @@ struct CoinManagementView: View {
                     Spacer()
                     HStack {
                         VStack {
-                            Text("CREDIT AVAILABLE: ".localized + "\(self.stringCoin)" + " coins".localized)
+                            Text("Need any coins?")
+                                .font(.headline)
+                            Text("CREDIT: ".localized + "\(self.stringCoin)" + " coins".localized)
                                 .foregroundColor(ColorReference.red)
                                 .font(.headline)
                                 .fontWeight(.heavy)
+                                .padding()
                             Text("To preserve the visual integrity and user experience there are no adds in Learn History+.")
                                 .font(.headline)
                                 .fontWeight(.medium)
@@ -54,19 +57,18 @@ struct CoinManagementView: View {
                                 .border(Color.black, width: 1)
                         }
                     }
-                    .frame(width: deviceHeight > deviceWidth ? deviceWidth * 0.85 : deviceWidth * 0.5, height: deviceHeight * 0.25)
+                    .frame(width: deviceHeight > deviceWidth ? deviceWidth * 0.85 : deviceWidth * 0.7)
                     .padding(.top)
-                    
+                    Spacer()
                     VStack{
                         VStack {
                         Text("Do you enjoy LEARN HISTORY?\nBuy 200 coins for ".localized + "\(self.price)".localized + ",\nit will last you forever!".localized)
                             .foregroundColor(.black)
                             .multilineTextAlignment(.center)
-                            .font(.headline)
-                            .padding(.bottom)
+                            .font(.footnote)
 
                         Button(action: {
-                            if self.isNotConnectedNoReason {
+                            if !monitor.isConnected {
                                 self.showingAlertNoConnection = true
                             }else{
                                 _ = IAPManager.shared.purchaseV5(product: self.products.items[0])
@@ -76,6 +78,10 @@ struct CoinManagementView: View {
                                 .resizable()
                                 .frame(width: deviceHeight * 0.12
                                        , height: deviceHeight * 0.12)
+                        }
+                        .alert(isPresented: self.$showingAlertNoConnection) {
+                            Alert(title: Text("You are not connected to the internet"), message: Text("You cannot make a purchase"), dismissButton: .default(Text("OK")){
+                                })
                         }
                             HStack{
                                 Text("200 coins for: ")
@@ -88,13 +94,23 @@ struct CoinManagementView: View {
                             .font(.caption)
                             
                         }
-                        .frame(width: deviceHeight > deviceWidth ? deviceWidth * 0.85 : deviceWidth * 0.5, height: deviceHeight * 0.40)
+                       .frame(width: deviceHeight > deviceWidth ? deviceWidth * 0.85 : deviceWidth * 0.7)
                         
                     }
-
+                    Spacer()
                         Button{
                             self.coins =  UserDefaults.standard.integer(forKey: "coins")
-                            questionSection = .multipleChoiceQuestionNotAnswered
+                            if coins < 0 {
+                                self.presentationMode.wrappedValue.dismiss()
+                            }
+                            if fromNocoinsView {
+                                questionSection = .multipleChoiceQuestionNotAnswered
+                            }else if lastQuizSection == .menuPage{
+                                self.presentationMode.wrappedValue.dismiss()
+                            }else{
+                                questionSection = lastQuizSection
+                            }
+                            
                             nextButtonIsVisible =  false
                             hintButtonIsVisible = true
                             fromNocoinsView = false
@@ -103,34 +119,15 @@ struct CoinManagementView: View {
                                 .font(.title)
                         }
                         .buttonStyle(ArrowButton())
-                        .opacity(questionSection == .multipleChoiceQuestionNotAnswered ? 0.0 : 1.0)
-                        .padding()
+                    Spacer()
                 }
             }
-            .alert(isPresented: self.$showingAlertNoConnection) {
-                Alert(title: Text("You are not connected to the internet"), message: Text("You cannot make a purchase"), dismissButton: .default(Text("OK")){
-                    })
-            }
-            .alert(isPresented: self.$showAlertPurchased) {
-                Alert(title: Text("200 coins were added to your credit"), message: Text("Back to the quiz!"), dismissButton: .default(Text("OK")){
-                    UserDefaults.standard.set(true, forKey: "coinsPurchased")
-                    self.coinsPurchased =  UserDefaults.standard.bool(forKey: "coinsPurchased")
-                    })
-            }
-
-            
             .onAppear{
-                print("price: \(self.price)")
-                print(self.products.items[0])
-                IAPManager.shared.startObserving()
-                self.price = IAPManager.shared.getPriceFormatted(for: self.products.items[0]) ?? ""
-                let reachability = Reachability()
-                let isConnected = reachability.isConnectedToNetwork()
-                IAPManager.shared.getProductsV5()
-                self.isNotConnectedNoReason = false
-                if !isConnected{
-                    self.isNotConnectedNoReason = true
-                    print("not connected")
+                if !monitor.isConnected{
+
+                }else{
+                    IAPManager.shared.startObserving()
+                    self.price = IAPManager.shared.getPriceFormatted(for: self.products.items[0]) ?? ""
                 }
             }
             .onDisappear{
@@ -143,32 +140,16 @@ struct CoinManagementView: View {
             UserDefaults.standard.set(true, forKey: "coinsPurchased")
             self.coinsPurchased =  UserDefaults.standard.bool(forKey: "coinsPurchased")
         })
-        .ignoresSafeArea()
-        .navigationTitle("Need any coins?")
-        .navigationBarTitleDisplayMode(.large)
         .navigationBarBackButtonHidden(true)
-        .navigationBarItems(leading: Button(action : {
-            presentationMode.wrappedValue.dismiss()
-
-        }){
-            if fromNocoinsView {
-                Text("")
-            }else{
-                Image(systemName: "chevron.left")
-                    .foregroundColor(.black)
-                    .padding()
-
-            }
-
-
-        })
+        .ignoresSafeArea()
     }
+    
     
 }
 
 struct CoinManagement_Previews: PreviewProvider {
     static var previews: some View {
-        CoinManagementView(questionSection: .constant(.showCoinMangementView), coins: .constant(10), nextButtonIsVisible: .constant(false), hintButtonIsVisible: .constant(false), fromNocoinsView: .constant(true))
+        CoinManagementView(questionSection: .constant(.showCoinMangementView), coins: .constant(10), nextButtonIsVisible: .constant(false), hintButtonIsVisible: .constant(false), fromNocoinsView: .constant(true), lastQuizSection: .multipleChoiceQuestionNotAnswered)
         
     }
 }

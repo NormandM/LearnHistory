@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Alexander Hamilton</string>
+		<key>date</key>
+		<string>1789-1995</string>
+		<key>id</key>
+		<string>881d0ebc-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Thomas Jefferson</string>
+		<key>incorrectAnswer2</key>
+		<string>John Adams</string>
+		<key>incorrectAnswer3</key>
+		<string>James Madison</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>Which of these statesmen was never president?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Alexander Hamilton was the founder of the Federalist Party.</string>
+		<key>theme</key>
+		<string>United States 1789-1908</string>
+		<key>timeLine</key>
+		<string>Alexander Hamilton is United States Secretary of the Treasury.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Alexander Hamilton</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Great Britain</string>
+		<key>date</key>
+		<string>1812</string>
+		<key>id</key>
+		<string>881d0ff2-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>France</string>
+		<key>incorrectAnswer2</key>
+		<string>Spain</string>
+		<key>incorrectAnswer3</key>
+		<string>The Netherlands</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>In 1812 the United States declared war on which country?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Early in the War of 1812, the United States had quick victories.</string>
+		<key>theme</key>
+		<string>United States 1789-1908</string>
+		<key>timeLine</key>
+		<string>The United States second war with Great Britain.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>War of 1812</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The United States annexation of the Republic of Texas</string>
+		<key>date</key>
+		<string>1846-48</string>
+		<key>id</key>
+		<string>881d110a-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Mexican War of Independence.</string>
+		<key>incorrectAnswer2</key>
+		<string>Political instability in Mexico</string>
+		<key>incorrectAnswer3</key>
+		<string>Territorial claims</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>What was the main cause of the Mexican-American war of 1846-48?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Most citizens of the Republic of Texas did not wish o be annexed by the United States.</string>
+		<key>theme</key>
+		<string>United States 1789-1908</string>
+		<key>timeLine</key>
+		<string>Mexican–American War.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Mexican–American War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Republican Party</string>
+		<key>date</key>
+		<string>1854</string>
+		<key>id</key>
+		<string>881d122c-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Democrats</string>
+		<key>incorrectAnswer2</key>
+		<string>The Whigs</string>
+		<key>incorrectAnswer3</key>
+		<string>The Black Panther Party</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>Which political party was founded in 1854, on opposition to the extension of slavery?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Republican Party had almost no presence in the Southern United States at its inception.</string>
+		<key>theme</key>
+		<string>United States 1789-1908</string>
+		<key>timeLine</key>
+		<string> Opponents of slavery, or abolitionists, set up Republican Party.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>History of the Republican Party (United States)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Abraham Lincoln</string>
+		<key>date</key>
+		<string>1861</string>
+		<key>id</key>
+		<string>881d1330-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ulysses S. Grant</string>
+		<key>incorrectAnswer2</key>
+		<string>Andrew Johnson</string>
+		<key>incorrectAnswer3</key>
+		<string>Ronald Reagan</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Who was the first President of the United States ever elected for the Republican Party?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Lincoln was not re-elected as president.</string>
+		<key>theme</key>
+		<string>United States 1789-1908</string>
+		<key>timeLine</key>
+		<string>Lincoln is elected President.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Abraham Lincoln</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>11</string>
+		<key>date</key>
+		<string>1861-1865</string>
+		<key>id</key>
+		<string>881d1448-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>7</string>
+		<key>incorrectAnswer2</key>
+		<string>4</string>
+		<key>incorrectAnswer3</key>
+		<string>13</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>How many states seceded from the Union to form the Confederate States?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Civil War remains the deadliest military conflict in American history.</string>
+		<key>theme</key>
+		<string>United States 1789-1908</string>
+		<key>timeLine</key>
+		<string>American Civil War.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>American Civil War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>To make slavery illegal</string>
+		<key>date</key>
+		<string>1865</string>
+		<key>id</key>
+		<string>881d1574-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>To guaranty freedom of religion</string>
+		<key>incorrectAnswer2</key>
+		<string>Gave women the right to vote</string>
+		<key>incorrectAnswer3</key>
+		<string>Outlawed prostitution</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>The Thirteenth Amendment was ratified and proclaimed in 1865. What was its purpose?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Slavery was not implicitly recognized in the original Constitution.</string>
+		<key>theme</key>
+		<string>United States 1789-1908</string>
+		<key>timeLine</key>
+		<string>Proclamation of the Thirteenth Amendment.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Thirteenth Amendment to the United States Constitution</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Custer</string>
+		<key>date</key>
+		<string>1876</string>
+		<key>id</key>
+		<string>881d1ace-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Grant</string>
+		<key>incorrectAnswer2</key>
+		<string>Lee</string>
+		<key>incorrectAnswer3</key>
+		<string>Sherman</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Who was the general who led the American troops in the &quot;Battle of Little Bighorn&quot;?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Battle of the Little Bighorn was an overwhelming victory for the Lakota, Northern Cheyenne, and Arapaho.</string>
+		<key>theme</key>
+		<string>United States 1789-1908</string>
+		<key>timeLine</key>
+		<string>Battle of the Little Bighorn.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Battle of the Little Bighorn</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Puerto Rico, Guam and The Philippine Islands</string>
+		<key>date</key>
+		<string>1898</string>
+		<key>id</key>
+		<string>881d1bfa-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Puerto Rico</string>
+		<key>incorrectAnswer2</key>
+		<string>Guam</string>
+		<key>incorrectAnswer3</key>
+		<string>The Philippine Islands</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>The U.S.A. won the Spanish–American War of 1898 and gained what territories?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hostilities of Spanish–American War the  began in the aftermath of the internal explosion of USS Maine in Havana Harbor in Cuba.</string>
+		<key>theme</key>
+		<string>United States 1789-1908</string>
+		<key>timeLine</key>
+		<string>Spanish–American War.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Spanish–American War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ford Model T</string>
+		<key>date</key>
+		<string>1908</string>
+		<key>id</key>
+		<string>881d1d12-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Volkswagen Beetle</string>
+		<key>incorrectAnswer2</key>
+		<string>Alfa Romeo</string>
+		<key>incorrectAnswer3</key>
+		<string>Citroën</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string> What is regarded as the first affordable automobile, which made car travel available to middle-class Americans ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Although the Ford Model T was very popular, it was not considered strong and reliable.</string>
+		<key>theme</key>
+		<string>United States 1789-1908</string>
+		<key>timeLine</key>
+		<string>Production of Ford Model T.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Ford Model T</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>8ac675e6-199f-11ed-861d-0242ac120002</string>
+		<key>date</key>
+		<string>1650 A.C.-1100 A.C.</string>
+		<key>question</key>
+		<string>¿Cómo se llama la fase de la civilización griega que se extiende desde 1650 hasta 1100 aC al final de la Edad del Bronce?</string>
+		<key>correctTAnswer</key>
+		<string>Micénica</string>
+		<key>incorrectAnswer1</key>
+		<string>Arcaica</string>
+		<key>incorrectAnswer2</key>
+		<string>Helenística</string>
+		<key>incorrectAnswer3</key>
+		<string>Primitiva</string>
+		<key>wikiSearchWord</key>
+		<string>Civilización micénica</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra de Troya tiene lugar durante la era micénica.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Civilización micénica</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91896152-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1600 A.C.</string>
+		<key>question</key>
+		<string>¿Qué civilización representa la primera sociedad avanzada de Europa?</string>
+		<key>correctTAnswer</key>
+		<string>La civilización minoica</string>
+		<key>incorrectAnswer1</key>
+		<string>Roma</string>
+		<key>incorrectAnswer2</key>
+		<string>Egipto</string>
+		<key>incorrectAnswer3</key>
+		<string>Los francos</string>
+		<key>wikiSearchWord</key>
+		<string>La civilización minoica</string>
+		<key>questionTrueOrFalse</key>
+		<string>La civilización minoica floreció en la isla de Creta.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>La catastrófica erupción volcánica de los minoicos.</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>9189642c-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1200 A.C.</string>
+		<key>question</key>
+		<string>¿Qué guerra mítica fue causada por el rapto de Helena de Esparta?</string>
+		<key>correctTAnswer</key>
+		<string>La guerra de Troya</string>
+		<key>incorrectAnswer1</key>
+		<string>Invasión de Dorian</string>
+		<key>incorrectAnswer2</key>
+		<string>Guerras púnicas</string>
+		<key>incorrectAnswer3</key>
+		<string>La guerra de los melíacos</string>
+		<key>wikiSearchWord</key>
+		<string>La guerra de Troya</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Odisea es la historia de la guerra de Troya.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Guerra de Troya</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>918965a8-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1150  A.C.</string>
+		<key>question</key>
+		<string>¿Qué causó la  Edad Oscura en Grecia?</string>
+		<key>correctTAnswer</key>
+		<string>Colapso de la Edad de Bronce</string>
+		<key>incorrectAnswer1</key>
+		<string>Erupción volcánica</string>
+		<key>incorrectAnswer2</key>
+		<string>Demasiadas guerras</string>
+		<key>incorrectAnswer3</key>
+		<string>El diluvio</string>
+		<key>wikiSearchWord</key>
+		<string>Colapso de la Edad de Bronce</string>
+		<key>questionTrueOrFalse</key>
+		<string>La civilización micénica sobrevivió al colapso de la Edad de Bronce.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Colapso de la Edad de Bronce</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>918966fc-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>800 A.C.</string>
+		<key>question</key>
+		<string>¿Quién escribió la Ilíada y la Odisea?</string>
+		<key>correctTAnswer</key>
+		<string>Homero</string>
+		<key>incorrectAnswer1</key>
+		<string>Virgil</string>
+		<key>incorrectAnswer2</key>
+		<string>Aristóteles</string>
+		<key>incorrectAnswer3</key>
+		<string>Platón</string>
+		<key>wikiSearchWord</key>
+		<string>Homero</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las epopeyas homéricas tuvieron poca influencia en la cultura y la educación de la Grecia antigua.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Homero escribe la Ilíada y la Odisea.</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91896a30-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>800-700 A.C.</string>
+		<key>question</key>
+		<string>¿Cómo se llamaba la gran sacerdotisa del templo de Apolo en Delfos?</string>
+		<key>correctTAnswer</key>
+		<string>Pita</string>
+		<key>incorrectAnswer1</key>
+		<string>Hera</string>
+		<key>incorrectAnswer2</key>
+		<string>Afrodita</string>
+		<key>incorrectAnswer3</key>
+		<string>Hélène</string>
+		<key>wikiSearchWord</key>
+		<string>Oráculo de Delfos</string>
+		<key>questionTrueOrFalse</key>
+		<string>El oráculo de Delfos, se encontraba en un gran recinto sagrado consagrado al dios Apolo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Creación de Pita</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91896b7a-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>776 A.C.</string>
+		<key>question</key>
+		<string>¿En qué año se celebraron los primeros Juegos Olímpicos?</string>
+		<key>correctTAnswer</key>
+		<string>776 A.C.</string>
+		<key>incorrectAnswer1</key>
+		<string>555 A.C.</string>
+		<key>incorrectAnswer2</key>
+		<string>896 A.C.</string>
+		<key>incorrectAnswer3</key>
+		<string>344 A.C.</string>
+		<key>wikiSearchWord</key>
+		<string>Juegos Olímpicos en la Antigüedad</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los Juegos Olímpicos dejaron de celebrarse cuando Grecia pasó a estar bajo dominio romano.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Primeros Juegos Olímpicos</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91896cb0-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>660 A.C.</string>
+		<key>question</key>
+		<string>¿Quién gobernaba las ciudades griegas antes de la instauración de la democracia?</string>
+		<key>correctTAnswer</key>
+		<string>Tiranos</string>
+		<key>incorrectAnswer1</key>
+		<string>Reyes</string>
+		<key>incorrectAnswer2</key>
+		<string>Generales</string>
+		<key>incorrectAnswer3</key>
+		<string>Emires</string>
+		<key>wikiSearchWord</key>
+		<string>Tiranía</string>
+		<key>questionTrueOrFalse</key>
+		<string>Se sabe que los tiranos gobiernan por consenso.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Feidón es tirano en Argos.</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91896dfa-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>622 A.C.</string>
+		<key>question</key>
+		<string>¿Quién estableció leyes severas para la ciudad-estado de Atenas?</string>
+		<key>correctTAnswer</key>
+		<string>Dracon</string>
+		<key>incorrectAnswer1</key>
+		<string>Solón</string>
+		<key>incorrectAnswer2</key>
+		<string>Sócrates</string>
+		<key>incorrectAnswer3</key>
+		<string>Platón</string>
+		<key>wikiSearchWord</key>
+		<string>Dracon</string>
+		<key>questionTrueOrFalse</key>
+		<string> A Dracón se le atribuye la primera codificación de las leyes de la ciudad.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Draco establece su código legal</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91896f44-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>560 A.C.</string>
+		<key>question</key>
+		<string>Cleístenes es considerado el fundador de la democracia ateniense, pero ¿quién puso los cimientos?</string>
+		<key>correctTAnswer</key>
+		<string>Solón</string>
+		<key>incorrectAnswer1</key>
+		<string>Draco</string>
+		<key>incorrectAnswer2</key>
+		<string>Sócrates</string>
+		<key>incorrectAnswer3</key>
+		<string>Platón</string>
+		<key>wikiSearchWord</key>
+		<string>Solón</string>
+		<key>questionTrueOrFalse</key>
+		<string>Solón era uno de los siete sabios de Grecia. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Muerte de Solón</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91897084-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>508 A.C.</string>
+		<key>question</key>
+		<string>¿Quién es considerado el &quot;padre de la democracia ateniense&quot;?</string>
+		<key>correctTAnswer</key>
+		<string>Clístenes</string>
+		<key>incorrectAnswer1</key>
+		<string>Solón</string>
+		<key>incorrectAnswer2</key>
+		<string>Sócrates</string>
+		<key>incorrectAnswer3</key>
+		<string>Aristóteles</string>
+		<key>wikiSearchWord</key>
+		<string>Clístenes de Atenas</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las acciones de Cleístenes no redujeron el poder de la nobleza sobre la política ateniense.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Cleístenes reforma la constitución de Atenas hacia la democracia.</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>918971d8-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>499-493 A.C.</string>
+		<key>question</key>
+		<string>¿Cuál fue el primer gran conflicto entre Grecia y el Imperio Persa?</string>
+		<key>correctTAnswer</key>
+		<string>La revuelta jónica</string>
+		<key>incorrectAnswer1</key>
+		<string>Guerra del Peloponeso</string>
+		<key>incorrectAnswer2</key>
+		<string>La Primera Guerra Púnica</string>
+		<key>incorrectAnswer3</key>
+		<string>la batalla de Maratón</string>
+		<key>wikiSearchWord</key>
+		<string>La revuelta jónica</string>
+		<key>questionTrueOrFalse</key>
+		<string>La revuelta jónica fue impulsada por Aristágoras, el tirano de Mileto, en el año 499 a. C.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>La revuelta jónica</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>9189732c-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>492-490 A.C.</string>
+		<key>question</key>
+		<string>¿Quién fue el rey persa que invadió por primera vez Grecia?</string>
+		<key>correctTAnswer</key>
+		<string>Darío el Grande</string>
+		<key>incorrectAnswer1</key>
+		<string>Cyrius</string>
+		<key>incorrectAnswer2</key>
+		<string>Xerxes</string>
+		<key>incorrectAnswer3</key>
+		<string>Hannibal</string>
+		<key>wikiSearchWord</key>
+		<string>Primera guerra médicas</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los persas ganaron esta primera guerra.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Primera invasión persa de Grecia</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91897d40-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>480-479 A.C.</string>
+		<key>question</key>
+		<string>Durante la segunda invasión persa, ¿cómo se llamaba el paso defendido por una pequeña fuerza espartana?</string>
+		<key>correctTAnswer</key>
+		<string>Thermopylae</string>
+		<key>incorrectAnswer1</key>
+		<string>Gibraltar</string>
+		<key>incorrectAnswer2</key>
+		<string>Skinakas</string>
+		<key>incorrectAnswer3</key>
+		<string>Katara</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de las Termópilas.</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los persas perdieron la batalla de las Termópilas.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Segunda invasión persa de Grecia</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91897ea8-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>478 A.C.</string>
+		<key>question</key>
+		<string>¿Cómo se llama la liga formada por Atenas durante su época dorada?</string>
+		<key>correctTAnswer</key>
+		<string>Delos</string>
+		<key>incorrectAnswer1</key>
+		<string>Atenienses</string>
+		<key>incorrectAnswer2</key>
+		<string>Pericles</string>
+		<key>incorrectAnswer3</key>
+		<string>Peloponeso</string>
+		<key>wikiSearchWord</key>
+		<string>Liga de Delos</string>
+		<key>questionTrueOrFalse</key>
+		<string>Sólo la ciudad de Atenas formaba parte de esta liga.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Fundación de Delos</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91897ffc-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>460 A.C.</string>
+		<key>question</key>
+		<string>¿Quién está considerado como una de las figuras más importantes de la historia de la medicina?</string>
+		<key>correctTAnswer</key>
+		<string>Hipócrates</string>
+		<key>incorrectAnswer1</key>
+		<string>Aristóteles</string>
+		<key>incorrectAnswer2</key>
+		<string>Platón</string>
+		<key>incorrectAnswer3</key>
+		<string>Sócrates</string>
+		<key>wikiSearchWord</key>
+		<string>Hipócrates</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hipócrates es considerado tradicionalmente el &quot;padre de la medicina&quot;.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Nacimiento de Hipócrates</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91898326-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>445 A.C.</string>
+		<key>question</key>
+		<string>¿Cuáles fueron las dos principales ciudades enemigas en la Primera Guerra del Peloponeso?</string>
+		<key>correctTAnswer</key>
+		<string>Atenas y Esparta</string>
+		<key>incorrectAnswer1</key>
+		<string>Atenas y Tebas</string>
+		<key>incorrectAnswer2</key>
+		<string>Argo y Esparta</string>
+		<key>incorrectAnswer3</key>
+		<string>Tebas y Argo</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra del Peloponeso</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Liga del Peloponeso estaba liderada por Atenas.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Fin de la primera guerra del Peloponeso.</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91898498-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>438 A.C.</string>
+		<key>question</key>
+		<string>Construido en la Acrópolis ateniense, ¿A qué dios o diosa está dedicado el Partenón?</string>
+		<key>correctTAnswer</key>
+		<string>Atenea</string>
+		<key>incorrectAnswer1</key>
+		<string>Zeus</string>
+		<key>incorrectAnswer2</key>
+		<string>Hera</string>
+		<key>incorrectAnswer3</key>
+		<string>Apollo</string>
+		<key>wikiSearchWord</key>
+		<string>Partenón</string>
+		<key>questionTrueOrFalse</key>
+		<string>En el siglo VI d. C., el Partenón se convierte en una iglesia cristiana.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>El Partenón está terminado.</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>918985d8-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>404 A.C.</string>
+		<key>question</key>
+		<string>¿Quién ganó la Guerra del Peloponeso?</string>
+		<key>correctTAnswer</key>
+		<string>Esparta</string>
+		<key>incorrectAnswer1</key>
+		<string>Atenas</string>
+		<key>incorrectAnswer2</key>
+		<string>Tebas</string>
+		<key>incorrectAnswer3</key>
+		<string>Argo</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra del Peloponeso</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tras la guerra, Esparta se convirtió en la primera potencia de Grecia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Fin de la Guerra del Peloponeso.</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>9189872c-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>399 A.C.</string>
+		<key>question</key>
+		<string>¿Qué filósofo griego de Atenas es considerado el fundador de la filosofía occidental?</string>
+		<key>correctTAnswer</key>
+		<string>Sócrates</string>
+		<key>incorrectAnswer1</key>
+		<string>Platón</string>
+		<key>incorrectAnswer2</key>
+		<string>Aristóteles</string>
+		<key>incorrectAnswer3</key>
+		<string>Pitágoras</string>
+		<key>wikiSearchWord</key>
+		<string>Sócrates</string>
+		<key>questionTrueOrFalse</key>
+		<string>Sócrates no dejó constancia escrita de sus conceptos filosóficos.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Muerte de Sócrates</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>918989f2-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>384 A.C.</string>
+		<key>question</key>
+		<string>¿Qué palabra describe mejor las áreas de interés y estudio de Aristóteles?</string>
+		<key>correctTAnswer</key>
+		<string>Polímata</string>
+		<key>incorrectAnswer1</key>
+		<string>Filósofo</string>
+		<key>incorrectAnswer2</key>
+		<string>Médico</string>
+		<key>incorrectAnswer3</key>
+		<string>Poeta</string>
+		<key>wikiSearchWord</key>
+		<string>Aristóteles</string>
+		<key>questionTrueOrFalse</key>
+		<string>Aristóteles es uno de los pensadores más influyentes que ha conocido el mundo occidental.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Nacimiento de Aristóteles</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91898b78-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>350 A.C.</string>
+		<key>question</key>
+		<string>¿Qué matemático griego es considerado el fundador de la geometría?</string>
+		<key>correctTAnswer</key>
+		<string>Euclides</string>
+		<key>incorrectAnswer1</key>
+		<string>Sócrates</string>
+		<key>incorrectAnswer2</key>
+		<string>Pitágoras</string>
+		<key>incorrectAnswer3</key>
+		<string>Zeno</string>
+		<key>wikiSearchWord</key>
+		<string>Euclides</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los Elementos de Euclides son una de las obras más influyentes de la historia de las matemáticas.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Nacimiento de Euclides</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91898d44-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>347 A.C.</string>
+		<key>question</key>
+		<string>Su maestro fue Sócrates y su alumno más famoso fue Aristóteles. ¿Quién es él?</string>
+		<key>correctTAnswer</key>
+		<string>Platón</string>
+		<key>incorrectAnswer1</key>
+		<string>Pitágoras</string>
+		<key>incorrectAnswer2</key>
+		<string>Herodotus</string>
+		<key>incorrectAnswer3</key>
+		<string>Zeno</string>
+		<key>wikiSearchWord</key>
+		<string>Platón</string>
+		<key>questionTrueOrFalse</key>
+		<string>Al igual que su maestro Sócrates, Platón nunca escribió ninguna de sus enseñanzas.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>La muerte de Platón</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91898eca-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>356 A.C.</string>
+		<key>question</key>
+		<string>¿Qué país era el límite oriental del imperio de Alejandro Magno?</string>
+		<key>correctTAnswer</key>
+		<string>India</string>
+		<key>incorrectAnswer1</key>
+		<string>China</string>
+		<key>incorrectAnswer2</key>
+		<string>Aetolia</string>
+		<key>incorrectAnswer3</key>
+		<string>Persia</string>
+		<key>wikiSearchWord</key>
+		<string>Alejandro Magno</string>
+		<key>questionTrueOrFalse</key>
+		<string>Alejandro Magno murió a los 44 años.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Nacimiento de Alejandro Magno</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>9189908c-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>335 A.C.</string>
+		<key>question</key>
+		<string>¿Qué ciudad griega amenazó con rebelarse cuando Alejandro se convirtió en rey y fue destruida por él?</string>
+		<key>correctTAnswer</key>
+		<string>Tebas</string>
+		<key>incorrectAnswer1</key>
+		<string>Esparta</string>
+		<key>incorrectAnswer2</key>
+		<string>Corith</string>
+		<key>incorrectAnswer3</key>
+		<string>Atenas</string>
+		<key>wikiSearchWord</key>
+		<string>Alejandro Magno</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cuando Alejandro sucedió a su padre, fue rápidamente aceptado como el nuevo hegemón de Grecia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>La batalla de Alejandro contra Tebas</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>9189921c-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>326 A.C.</string>
+		<key>question</key>
+		<string>¿Cómo se llama el famoso caballo de Alejandro?</string>
+		<key>correctTAnswer</key>
+		<string>Bucéfalo</string>
+		<key>incorrectAnswer1</key>
+		<string>Minotauro</string>
+		<key>incorrectAnswer2</key>
+		<string>Godolphin</string>
+		<key>incorrectAnswer3</key>
+		<string>Marengo</string>
+		<key>wikiSearchWord</key>
+		<string>Bucéfalo</string>
+		<key>questionTrueOrFalse</key>
+		<string>Una ciudad de la India recibió el nombre de Bucéfalo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string> Bucéfalo muere tras la batalla de Hydaspe</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91899424-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>323 A.C.</string>
+		<key>question</key>
+		<string>¿Dónde nació Alejandro Magno?</string>
+		<key>correctTAnswer</key>
+		<string>Macedonia</string>
+		<key>incorrectAnswer1</key>
+		<string>Atenas</string>
+		<key>incorrectAnswer2</key>
+		<string>Roma</string>
+		<key>incorrectAnswer3</key>
+		<string>Egipto</string>
+		<key>wikiSearchWord</key>
+		<string>Alejandro Magno</string>
+		<key>questionTrueOrFalse</key>
+		<string>Alejandro Magno fundó cincuenta ciudades que llevan su nombre.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Muerte de Alejandro Magno</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>918995d2-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>276 A.C.</string>
+		<key>question</key>
+		<string>Fue la primera persona conocida que calculó la circunferencia de la Tierra. ¿Quién era?</string>
+		<key>correctTAnswer</key>
+		<string>Eratóstenes</string>
+		<key>incorrectAnswer1</key>
+		<string>Pitágoras</string>
+		<key>incorrectAnswer2</key>
+		<string>Arquímedes</string>
+		<key>incorrectAnswer3</key>
+		<string>Zeno</string>
+		<key>wikiSearchWord</key>
+		<string>Eratóstenes</string>
+		<key>questionTrueOrFalse</key>
+		<string>Eratóstenes creó el primer mapa del mundo, incorporando paralelos y meridianos basados.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Nacimiento de Eratóstenes</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91899c80-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>212 A.C.</string>
+		<key>question</key>
+		<string>¿Cuál es la famosa exclamación atribuida a Arquímedes?</string>
+		<key>correctTAnswer</key>
+		<string>Eureka</string>
+		<key>incorrectAnswer1</key>
+		<string>¡Ya lo tengo!</string>
+		<key>incorrectAnswer2</key>
+		<string>Veni, vidi, vici</string>
+		<key>incorrectAnswer3</key>
+		<string>¡Por fin!</string>
+		<key>wikiSearchWord</key>
+		<string>Arquímedes</string>
+		<key>questionTrueOrFalse</key>
+		<string>Arquímedes era de Siracusa, Sicilia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Muerte de Arquímedes</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>91899e7e-c190-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>146 A.C.</string>
+		<key>question</key>
+		<string>¿Qué derrota llevó a la dominación romana de Grecia?</string>
+		<key>correctTAnswer</key>
+		<string>Corinto</string>
+		<key>incorrectAnswer1</key>
+		<string>Atenas</string>
+		<key>incorrectAnswer2</key>
+		<string>Esparta</string>
+		<key>incorrectAnswer3</key>
+		<string>Tebas</string>
+		<key>wikiSearchWord</key>
+		<string>La batalla de Corinto</string>
+		<key>questionTrueOrFalse</key>
+		<string>La batalla de Corinto fue librada por César.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Batalla de Corinto. La dominación romana.</string>
+		<key>theme</key>
+		<string>Antigua Grecia</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+	</dict>
+</array>
+</plist>

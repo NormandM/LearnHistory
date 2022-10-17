@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>3</string>
+		<key>date</key>
+		<string>220 à 280</string>
+		<key>id</key>
+		<string>462D5A5C-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>6</string>
+		<key>incorrectAnswer2</key>
+		<string>4</string>
+		<key>incorrectAnswer3</key>
+		<string>2</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>Après la chute de la dynastie Han, la Chine était divisée en combien de royaumes ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Peu d’importance est accordée à la  période des Trois Royaumes dans la tradition chinoise.</string>
+		<key>theme</key>
+		<string>Chine 220-1949</string>
+		<key>timeLine</key>
+		<string>Période desTrois Royaumes</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Trois Royaumes de Chine</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Tang</string>
+		<key>date</key>
+		<string>618 à 907</string>
+		<key>id</key>
+		<string>462D5B6A-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ming</string>
+		<key>incorrectAnswer2</key>
+		<string>Qin</string>
+		<key>incorrectAnswer3</key>
+		<string>Zhou</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Quelle dynastie est considérée comme un point culminant de la civilisation chinoise et un âge d&apos;or de la culture cosmopolite ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La capitale Tang à Chang&apos;an (l&apos;actuel Xi&apos;an) était alors la ville la plus peuplée du monde</string>
+		<key>theme</key>
+		<string>Chine 220-1949</string>
+		<key>timeLine</key>
+		<string>Dynastie Tang</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Dynastie Tang</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Song</string>
+		<key>date</key>
+		<string>960 - 1279 </string>
+		<key>id</key>
+		<string>462D5C78-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Qin</string>
+		<key>incorrectAnswer2</key>
+		<string>Ming</string>
+		<key>incorrectAnswer3</key>
+		<string>Han</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>Ils ont été les premiers au monde à émettre des billets de banque. De quelle dynastie chinoise s&apos;agit-il ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Bien que la technologie et la science aient prospéré sous les Song, la croissance démographique était faible.</string>
+		<key>theme</key>
+		<string>Chine 220-1949</string>
+		<key>timeLine</key>
+		<string>Dynastie Song</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Dynastie Song</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Gengis Khan</string>
+		<key>date</key>
+		<string>1162</string>
+		<key>id</key>
+		<string>462D5D7C-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Attila</string>
+		<key>incorrectAnswer2</key>
+		<string>Tamerlane</string>
+		<key>incorrectAnswer3</key>
+		<string>Ashoka</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Qui était le fondateur de l&apos;empire mongol, le plus grand empire contigu de l&apos;histoire ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Les Mongols considèrent Gengis Khan comme le père de leur nation.</string>
+		<key>theme</key>
+		<string>Chine 220-1949</string>
+		<key>timeLine</key>
+		<string>Naissance de Gengis Khan</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Genghis Khan</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Yuan</string>
+		<key>date</key>
+		<string>1271 à 1368</string>
+		<key>id</key>
+		<string>462D5E8A-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Khan</string>
+		<key>incorrectAnswer2</key>
+		<string>Tam</string>
+		<key>incorrectAnswer3</key>
+		<string>Ming</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>Comment s&apos;appelait l&apos;empire mongol qui a régné sur la Chine de 1271 à 1368 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Gengis Khan a régné sur la dynastie Yuan.</string>
+		<key>theme</key>
+		<string>Chine 220-1949</string>
+		<key>timeLine</key>
+		<string>La dynastie Yuan</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Dynastie Yuan</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La cité interdite</string>
+		<key>date</key>
+		<string>1406 à 1420</string>
+		<key>id</key>
+		<string>462D5F8E-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La grande Muraille</string>
+		<key>incorrectAnswer2</key>
+		<string>Armée de terre cuite</string>
+		<key>incorrectAnswer3</key>
+		<string>Place Tiananmen</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>Quelle construction remarquable a été construite sous la dynastie Ming ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> La Cité interdite s&apos;étend sur une superficie de 72 hectares et  fait partie des palais les plus anciens et les mieux conservés de Chine.</string>
+		<key>theme</key>
+		<string>Chine 220-1949</string>
+		<key>timeLine</key>
+		<string>Construction de la Cité Interdite</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Cité interdite</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Royaume-Uni</string>
+		<key>date</key>
+		<string>1839 à 1842</string>
+		<key>id</key>
+		<string>462D6254-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>France</string>
+		<key>incorrectAnswer2</key>
+		<string>Allemagne</string>
+		<key>incorrectAnswer3</key>
+		<string>Japon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Qui était l&apos;adversaire de la Chine lors de la première guerre de l&apos;opium ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Chinois ont vaincu le Royaume-Uni lors de la première guerre de l&apos;opium.</string>
+		<key>theme</key>
+		<string>Chine 220-1949</string>
+		<key>timeLine</key>
+		<string>Première guerre de l&apos;opium</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Première guerre de l&apos;opium</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Qing</string>
+		<key>date</key>
+		<string>1911</string>
+		<key>id</key>
+		<string>462D636C-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ming</string>
+		<key>incorrectAnswer2</key>
+		<string>Tang</string>
+		<key>incorrectAnswer3</key>
+		<string>Jin</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>Quelle dernière dynastie , la révolution Xinhai, a-t-elle renversée en 1912 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Révolution de 1911, ou Révolution Xinhai, a conduit à la création de la République de Chine.</string>
+		<key>theme</key>
+		<string>Chine 220-1949</string>
+		<key>timeLine</key>
+		<string>Révolution Xinhai</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Révolution chinoise de 1911</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Tchang Kaï-chek</string>
+		<key>date</key>
+		<string>1949</string>
+		<key>id</key>
+		<string>462D656A-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Mao Zedong</string>
+		<key>incorrectAnswer2</key>
+		<string>Zhou Enlai</string>
+		<key>incorrectAnswer3</key>
+		<string>Deng Xiaoping</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Qui est le dirigeant chinois qui s&apos;est enfui sur l&apos;île de Taiwan en prétendant être le gouvernement légitime de la Chine ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Après avoir fui vers l&apos;île de Taïwan, Chiang Kai-shek est retourné en Chine continentale.</string>
+		<key>theme</key>
+		<string>Chine 220-1949</string>
+		<key>timeLine</key>
+		<string>Chiang Kai-shek s&apos;enfuit à Taïwan</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Tchang Kaï-chek</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Mao Zedong</string>
+		<key>date</key>
+		<string>1949</string>
+		<key>id</key>
+		<string>462D666E-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Tchang Kaï-chek</string>
+		<key>incorrectAnswer2</key>
+		<string>Zhou Enlai</string>
+		<key>incorrectAnswer3</key>
+		<string>Deng Xiaoping</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>Qui était le fondateur de la République Populaire de Chine (RPC) ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mao Zedong a régné en tant que président du Parti communiste chinois depuis la création de la RPC en 1949 jusqu&apos;à sa mort en 1976.</string>
+		<key>theme</key>
+		<string>Chine 220-1949</string>
+		<key>timeLine</key>
+		<string>Mao Zedong a déclaré la création de la République populaire de Chine</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Mao Zedong</string>
+	</dict>
+</array>
+</plist>

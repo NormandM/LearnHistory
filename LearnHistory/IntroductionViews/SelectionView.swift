@@ -8,47 +8,79 @@
 import SwiftUI
 
 struct SelectionView: View {
-    @Environment(\.presentationMode) var mode: Binding<PresentationMode>
-    let listOfThemes = Bundle.main.decodeJson([HistorySection].self, from:"List.json".localized)
+    @Environment(\.dismiss) private var dismiss
+    let listOfThemes = Bundle.main.decodeJson([HistorySection].self, from:"ListTitle.json".localized)
     @State private var selection: String
+    @State private var isSectionFinished = false
     init(selection: String){
         self._selection = State(wrappedValue: selection)
-        UITableView.appearance().backgroundColor = .black
     }
 
     var body: some View {
-        List{
-            ForEach(listOfThemes) {section in
-                Section(header: SectionHeader(text:(section.name))){
-                    ForEach(section.themes) {theme in
-                        if selection == "MultipleChoiceQuizView"{
-                            NavigationLink(destination: MultipleChoiceQuizView(selectedTheme: theme.themeTitle)) {
-                                LineView(themeText: theme.themeTitle)
-                            }
-                        }else if selection == "StudyView" {
-                            NavigationLink(destination: StudyView(selectedTheme: theme.themeTitle)) {
-                                LineView(themeText: theme.themeTitle)
-                            }
-                        }else if selection == "TimeLinesDetailView"{
-                            NavigationLink(destination: TimeLinesDetailView(selectedTheme: theme.themeTitle)) {
-                                LineView(themeText: theme.themeTitle)
+        if #available(iOS 16.0, *) {
+            List{
+                ForEach(listOfThemes) {section in
+                    Section(header: SectionHeader(text:(section.name), isSectionFinished: false)){
+                        ForEach(section.themes) {theme in
+                            if selection == "StudyView" {
+                                NavigationLink(destination: StudyView(selectedTheme: theme.themeTitle)) {
+                                    LineView(themeText: theme.themeTitle, fromQuiz: false)
+                                }
+                            }else if selection == "TimeLinesDetailView"{
+                                NavigationLink(destination: TimeLinesDetailView(selectedTheme: theme.themeTitle)) {
+                                    LineView(themeText: theme.themeTitle, fromQuiz: false)
+                                }
                             }
                         }
                     }
+                    .listRowBackground(ColorReference.lightGreen)
                 }
-                .listRowBackground(ColorReference.lightGreen)
             }
+            .preferredColorScheme(.dark)
+            .navigationTitle("History themes")
+            .navigationBarTitleDisplayMode(.inline)
+            .scrollContentBackground(.hidden)
+            .background(Color.black)
+            .navigationBarBackButtonHidden(true)
+            .navigationBarItems(leading: Button(action : {
+                dismiss()
+            }){
+                Image(systemName: "chevron.left")
+                    .foregroundColor(.white)
+                    .padding()
+            })
+        } else {
+            List{
+                ForEach(listOfThemes) {section in
+                    Section(header: SectionHeader(text:(section.name), isSectionFinished: false)){
+                        ForEach(section.themes) {theme in
+                            if selection == "StudyView" {
+                                NavigationLink(destination: StudyView(selectedTheme: theme.themeTitle)) {
+                                    LineView(themeText: theme.themeTitle, fromQuiz: false)
+                                }
+                            }else if selection == "TimeLinesDetailView"{
+                                NavigationLink(destination: TimeLinesDetailView(selectedTheme: theme.themeTitle)) {
+                                    LineView(themeText: theme.themeTitle, fromQuiz: false)
+                                }
+                            }
+                        }
+                    }
+                    .listRowBackground(ColorReference.lightGreen)
+                }
+            }
+            .preferredColorScheme(.dark)
+            .navigationTitle("History themes")
+            .navigationBarTitleDisplayMode(.inline)
+            .background(Color.black)
+            .navigationBarBackButtonHidden(true)
+            .navigationBarItems(leading: Button(action : {
+                dismiss()
+            }){
+                Image(systemName: "chevron.left")
+                    .foregroundColor(.white)
+                    .padding()
+            })
         }
-        .navigationTitle("History themes")
-        .background(Color.black)
-        .navigationBarBackButtonHidden(true)
-        .navigationBarItems(leading: Button(action : {
-            self.mode.wrappedValue.dismiss()
-        }){
-            Image(systemName: "chevron.left")
-                .foregroundColor(.white)
-                .padding()
-        })
     }
 }
 

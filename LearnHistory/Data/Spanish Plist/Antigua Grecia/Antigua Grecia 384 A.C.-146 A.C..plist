@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Polímata</string>
+		<key>date</key>
+		<string>384 A.C.</string>
+		<key>id</key>
+		<string>918989f2-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Filósofo</string>
+		<key>incorrectAnswer2</key>
+		<string>Médico</string>
+		<key>incorrectAnswer3</key>
+		<string>Poeta</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>¿Qué palabra describe mejor las áreas de interés y estudio de Aristóteles?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Aristóteles es uno de los pensadores más influyentes que ha conocido el mundo occidental.</string>
+		<key>theme</key>
+		<string>Antigua Grecia 384 A.C.-146 A.C.</string>
+		<key>timeLine</key>
+		<string>Nacimiento de Aristóteles</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Aristóteles</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Euclides</string>
+		<key>date</key>
+		<string>350 A.C.</string>
+		<key>id</key>
+		<string>91898b78-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Sócrates</string>
+		<key>incorrectAnswer2</key>
+		<string>Pitágoras</string>
+		<key>incorrectAnswer3</key>
+		<string>Zeno</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>¿Qué matemático griego es considerado el fundador de la geometría?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los Elementos de Euclides son una de las obras más influyentes de la historia de las matemáticas.</string>
+		<key>theme</key>
+		<string>Antigua Grecia 384 A.C.-146 A.C.</string>
+		<key>timeLine</key>
+		<string>Nacimiento de Euclides</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Euclides</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Platón</string>
+		<key>date</key>
+		<string>347 A.C.</string>
+		<key>id</key>
+		<string>91898d44-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pitágoras</string>
+		<key>incorrectAnswer2</key>
+		<string>Herodotus</string>
+		<key>incorrectAnswer3</key>
+		<string>Zeno</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>Su maestro fue Sócrates y su alumno más famoso fue Aristóteles. ¿Quién es él?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Al igual que su maestro Sócrates, Platón nunca escribió ninguna de sus enseñanzas.</string>
+		<key>theme</key>
+		<string>Antigua Grecia 384 A.C.-146 A.C.</string>
+		<key>timeLine</key>
+		<string>La muerte de Platón</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Platón</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>India</string>
+		<key>date</key>
+		<string>356 A.C.</string>
+		<key>id</key>
+		<string>91898eca-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>China</string>
+		<key>incorrectAnswer2</key>
+		<string>Aetolia</string>
+		<key>incorrectAnswer3</key>
+		<string>Persia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>¿Qué país era el límite oriental del imperio de Alejandro Magno?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Alejandro Magno murió a los 44 años.</string>
+		<key>theme</key>
+		<string>Antigua Grecia 384 A.C.-146 A.C.</string>
+		<key>timeLine</key>
+		<string>Nacimiento de Alejandro Magno</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Alejandro Magno</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Tebas</string>
+		<key>date</key>
+		<string>335 A.C.</string>
+		<key>id</key>
+		<string>9189908c-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Esparta</string>
+		<key>incorrectAnswer2</key>
+		<string>Corith</string>
+		<key>incorrectAnswer3</key>
+		<string>Atenas</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>¿Qué ciudad griega amenazó con rebelarse cuando Alejandro se convirtió en rey y fue destruida por él?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cuando Alejandro sucedió a su padre, fue rápidamente aceptado como el nuevo hegemón de Grecia.</string>
+		<key>theme</key>
+		<string>Antigua Grecia 384 A.C.-146 A.C.</string>
+		<key>timeLine</key>
+		<string>La batalla de Alejandro contra Tebas</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Alejandro Magno</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bucéfalo</string>
+		<key>date</key>
+		<string>326 A.C.</string>
+		<key>id</key>
+		<string>9189921c-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Minotauro</string>
+		<key>incorrectAnswer2</key>
+		<string>Godolphin</string>
+		<key>incorrectAnswer3</key>
+		<string>Marengo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>¿Cómo se llama el famoso caballo de Alejandro?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Una ciudad de la India recibió el nombre de Bucéfalo.</string>
+		<key>theme</key>
+		<string>Antigua Grecia 384 A.C.-146 A.C.</string>
+		<key>timeLine</key>
+		<string> Bucéfalo muere tras la batalla de Hydaspe</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Bucéfalo</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Macedonia</string>
+		<key>date</key>
+		<string>323 A.C.</string>
+		<key>id</key>
+		<string>91899424-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Atenas</string>
+		<key>incorrectAnswer2</key>
+		<string>Roma</string>
+		<key>incorrectAnswer3</key>
+		<string>Egipto</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>¿Dónde nació Alejandro Magno?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Alejandro Magno fundó cincuenta ciudades que llevan su nombre.</string>
+		<key>theme</key>
+		<string>Antigua Grecia 384 A.C.-146 A.C.</string>
+		<key>timeLine</key>
+		<string>Muerte de Alejandro Magno</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Alejandro Magno</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Eratóstenes</string>
+		<key>date</key>
+		<string>276 A.C.</string>
+		<key>id</key>
+		<string>918995d2-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pitágoras</string>
+		<key>incorrectAnswer2</key>
+		<string>Arquímedes</string>
+		<key>incorrectAnswer3</key>
+		<string>Zeno</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>Fue la primera persona conocida que calculó la circunferencia de la Tierra. ¿Quién era?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Eratóstenes creó el primer mapa del mundo, incorporando paralelos y meridianos basados.</string>
+		<key>theme</key>
+		<string>Antigua Grecia 384 A.C.-146 A.C.</string>
+		<key>timeLine</key>
+		<string>Nacimiento de Eratóstenes</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Eratóstenes</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Eureka</string>
+		<key>date</key>
+		<string>212 A.C.</string>
+		<key>id</key>
+		<string>91899c80-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>¡Ya lo tengo!</string>
+		<key>incorrectAnswer2</key>
+		<string>Veni, vidi, vici</string>
+		<key>incorrectAnswer3</key>
+		<string>¡Por fin!</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>¿Cuál es la famosa exclamación atribuida a Arquímedes?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Arquímedes era de Siracusa, Sicilia.</string>
+		<key>theme</key>
+		<string>Antigua Grecia 384 A.C.-146 A.C.</string>
+		<key>timeLine</key>
+		<string>Muerte de Arquímedes</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Arquímedes</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Corinto</string>
+		<key>date</key>
+		<string>146 A.C.</string>
+		<key>id</key>
+		<string>91899e7e-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Atenas</string>
+		<key>incorrectAnswer2</key>
+		<string>Esparta</string>
+		<key>incorrectAnswer3</key>
+		<string>Tebas</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>¿Qué derrota llevó a la dominación romana de Grecia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La batalla de Corinto fue librada por César.</string>
+		<key>theme</key>
+		<string>Antigua Grecia 384 A.C.-146 A.C.</string>
+		<key>timeLine</key>
+		<string>Batalla de Corinto. La dominación romana.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>La batalla de Corinto</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Knut</string>
+		<key>date</key>
+		<string>1016</string>
+		<key>id</key>
+		<string>eec8868e-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ragnar</string>
+		<key>incorrectAnswer2</key>
+		<string>Sigfred</string>
+		<key>incorrectAnswer3</key>
+		<string>Harald</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>C&apos;était un prince danois qui est devenu roi d&apos;Angleterre en 1016. Qui est-il ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Knut est devenu roi d&apos;Angleterre mais n&apos;a jamais été roi du Danemark.</string>
+		<key>theme</key>
+		<string>Angleterre 1016-1509</string>
+		<key>timeLine</key>
+		<string>Le roi Cnut du Danemark s&apos;empare de la couronne d&apos;Angleterre.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Knut le Grand</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Guillaume le Conquérant</string>
+		<key>date</key>
+		<string>1066</string>
+		<key>id</key>
+		<string>eec889fe-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Robert le Grand</string>
+		<key>incorrectAnswer2</key>
+		<string>François Ier</string>
+		<key>incorrectAnswer3</key>
+		<string>Louis XIII</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>Quel est le nom du duc de Normandie qui a envahi l’Angleterre en 1086?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Guillaume le Conquérant n&apos;a jamais régné sur l&apos;Angleterre après l&apos;invasion.</string>
+		<key>theme</key>
+		<string>Angleterre 1016-1509</string>
+		<key>timeLine</key>
+		<string>La conquête normande sous Guillaume le Conquérant</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Conquête normande</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Aliénor d&apos;Aquitaine</string>
+		<key>date</key>
+		<string>1154</string>
+		<key>id</key>
+		<string>eec88c42-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Marie Antoinette</string>
+		<key>incorrectAnswer2</key>
+		<string>Marie I</string>
+		<key>incorrectAnswer3</key>
+		<string>Elizabeth I</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Elle fut successivement reine de France et reine d&apos;Angleterre. Qui est-elle ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Malgré le fait qu&apos;elle était reine de France et d&apos;Angleterre, elle n&apos;a jamais eu de réel pouvoir</string>
+		<key>theme</key>
+		<string>Angleterre 1016-1509</string>
+		<key>timeLine</key>
+		<string>Aliénor d&apos;Aquitaine devient reine consort d&apos;Angleterre.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Aliénor d&apos;Aquitaine</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Oxford</string>
+		<key>date</key>
+		<string>1167</string>
+		<key>id</key>
+		<string>eec88e04-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cambridge</string>
+		<key>incorrectAnswer2</key>
+		<string>St Andrews</string>
+		<key>incorrectAnswer3</key>
+		<string>Glasgow</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>Fondée en 1167, c&apos;est la première université de langue anglaise.</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le roi Henri, pour promouvoir l’Université d’Oxford, interdit aux étudiants anglais de suivre les cours de l’université de Paris.</string>
+		<key>theme</key>
+		<string>Angleterre 1016-1509</string>
+		<key>timeLine</key>
+		<string>Création de l&apos;université d&apos;Oxford</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Université d&apos;Oxford</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Roi Jean</string>
+		<key>date</key>
+		<string>1204</string>
+		<key>id</key>
+		<string>eec88fe4-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Le roi Richard Ier</string>
+		<key>incorrectAnswer2</key>
+		<string>Roi Henri III</string>
+		<key>incorrectAnswer3</key>
+		<string>Roi Edward I</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Quel roi a perdu la plupart terres françaises au profit de Philippe II de France?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La révolte baronniale à la fin du règne de Jean a conduit au scellement de la Magna Carta</string>
+		<key>theme</key>
+		<string>Angleterre 1016-1509</string>
+		<key>timeLine</key>
+		<string>Le roi Jean perd la province de Normandie au profit de la France.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Jean, roi d&apos;Angleterre</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Magna Carta</string>
+		<key>date</key>
+		<string>1215</string>
+		<key>id</key>
+		<string>eec8934a-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La déclaration des droits</string>
+		<key>incorrectAnswer2</key>
+		<string>Thr Constitution</string>
+		<key>incorrectAnswer3</key>
+		<string>La loi sur la liberté</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>Cette charte, signée en 1215, établit les droits de l&apos;individu contre le pouvoir du roi. Comment s&apos;appelle-t-elle ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Grande Charte a été rédigée pour faire la paix entre le roi impopulaire et un groupe de barons rebelles.</string>
+		<key>theme</key>
+		<string>Angleterre 1016-1509</string>
+		<key>timeLine</key>
+		<string>Signature de la Magna Carta</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Magna Carta</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>50%</string>
+		<key>date</key>
+		<string>1349</string>
+		<key>id</key>
+		<string>eec89548-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>10%</string>
+		<key>incorrectAnswer2</key>
+		<string>20%</string>
+		<key>incorrectAnswer3</key>
+		<string>70%</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>En 1349-50, la peste noire a tué quel pourcentage de la population anglaise ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Il n’y a eu qu’une pandémie de peste.</string>
+		<key>theme</key>
+		<string>Angleterre 1016-1509</string>
+		<key>timeLine</key>
+		<string>La peste noire tue la moitié de la population</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>La peste noire</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>France</string>
+		<key>date</key>
+		<string>1453</string>
+		<key>id</key>
+		<string>eec89728-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Angleterre</string>
+		<key>incorrectAnswer2</key>
+		<string>Norvège</string>
+		<key>incorrectAnswer3</key>
+		<string>Espagne</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Quel pays a gagné la guerre de Cent Ans ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Il n&apos;y a pas eu de trêves pendant la guerre de Cent Ans</string>
+		<key>theme</key>
+		<string>Angleterre 1016-1509</string>
+		<key>timeLine</key>
+		<string>Fin de la guerre de Cent Ans</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre de Cent Ans</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Guerre des Roses</string>
+		<key>date</key>
+		<string>1455</string>
+		<key>id</key>
+		<string>eec898ea-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La guerre de cent ans</string>
+		<key>incorrectAnswer2</key>
+		<string>La guerre de 30 ans</string>
+		<key>incorrectAnswer3</key>
+		<string>Les guerres civiles</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>Quel est le nom de guerres civiles au 15ème siècle entre deux branches des Plantagenêt ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;affrontement des deux lignées, issues de la maison Plantagenêt, signe la fin de celle-ci et son remplacement par la maison Tudor.</string>
+		<key>theme</key>
+		<string>Angleterre 1016-1509</string>
+		<key>timeLine</key>
+		<string>Début de la guerre des Roses</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre des Deux-Roses</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Catherine d&apos;Aragon</string>
+		<key>date</key>
+		<string>1509</string>
+		<key>id</key>
+		<string>eec89dea-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Isabella</string>
+		<key>incorrectAnswer2</key>
+		<string>Marie Antoinette</string>
+		<key>incorrectAnswer3</key>
+		<string>Aliénor d&apos;Aquitaine</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Deux mois après être devenu roi, Henri VIII a épousé la veuve de son frère. Quel était son nom ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Catherine d&apos;Aragon était française</string>
+		<key>theme</key>
+		<string>Angleterre 1016-1509</string>
+		<key>timeLine</key>
+		<string>Catherine d’Aragon marie Henri VIII.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Catherine d&apos;Aragon</string>
+	</dict>
+</array>
+</plist>

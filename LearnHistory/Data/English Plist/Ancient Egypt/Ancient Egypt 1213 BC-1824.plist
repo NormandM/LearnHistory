@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ramesses II</string>
+		<key>date</key>
+		<string>1303–1213 BC</string>
+		<key>id</key>
+		<string>018BC52A-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Akhenaten</string>
+		<key>incorrectAnswer3</key>
+		<string>Tutankhamun</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>Who was considered the greatest and most powerful pharaoh of the New Kingdom?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ramesses II never went on a military campaign.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 1213 BC-1824</string>
+		<key>timeLine</key>
+		<string>Ramesses II</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Ramesses II</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Obelisk</string>
+		<key>date</key>
+		<string>1250 BC</string>
+		<key>id</key>
+		<string>018BB5A8-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Pyramid</string>
+		<key>incorrectAnswer2</key>
+		<string>The temple</string>
+		<key>incorrectAnswer3</key>
+		<string>The column </string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>Which structures were believed to attract the rays of the sun, allowing resurrections?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ancient obelisks are monolithic; that is, they consist of a single stone</string>
+		<key>theme</key>
+		<string>Ancient Egypt 1213 BC-1824</string>
+		<key>timeLine</key>
+		<string>Luxor Obelisks</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Luxor Obelisk</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ptolemy I</string>
+		<key>date</key>
+		<string>305 BC</string>
+		<key>id</key>
+		<string>018BC62E-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cassander</string>
+		<key>incorrectAnswer2</key>
+		<string>Seleucus I Nicator</string>
+		<key>incorrectAnswer3</key>
+		<string>Lysimachus </string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>In 305 BC, this former Alexander the Great general, declared himself Pharaoh of Egypt. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ptolemy&apos;s family ruled Egypt until the Roman conquest of 30 BC</string>
+		<key>theme</key>
+		<string>Ancient Egypt 1213 BC-1824</string>
+		<key>timeLine</key>
+		<string>Foundation of the Ptolemaic dynasty.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Ptolemaic dynasty</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ptolemy I Soter</string>
+		<key>date</key>
+		<string>304 – 282 BC</string>
+		<key>id</key>
+		<string>018BC73C-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Alexander the Great</string>
+		<key>incorrectAnswer2</key>
+		<string>Cleopatra</string>
+		<key>incorrectAnswer3</key>
+		<string>Tutankhamun</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>Which ruler of ancient Egypt established the Royal Library?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ptolemy I Soter was born in Thebes.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 1213 BC-1824</string>
+		<key>timeLine</key>
+		<string>Reign of Ptolemy I Soter</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Ptolemy I Soter</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Lighthouse of Alexandria</string>
+		<key>date</key>
+		<string>284-246 BC</string>
+		<key>id</key>
+		<string>018BCA20-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Valley of the Kings</string>
+		<key>incorrectAnswer2</key>
+		<string>The Valley of the Queens</string>
+		<key>incorrectAnswer3</key>
+		<string>Luxor Temple</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>Egypt had two of the seven wonders of antiquity. One was the great pyramid, what was the other?</string>
+		<key>questionTrueOrFalse</key>
+		<string>To this day, the Lighthouse of Alexandria still exists.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 1213 BC-1824</string>
+		<key>timeLine</key>
+		<string>Construction of the Light House of Alexandria.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>The Lighthouse of Alexandria</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Alexandria</string>
+		<key>date</key>
+		<string>285–246 BC</string>
+		<key>id</key>
+		<string>018BCB2E-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Memphis</string>
+		<key>incorrectAnswer2</key>
+		<string>Thebes</string>
+		<key>incorrectAnswer3</key>
+		<string>Cairo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>In what Egyptian city was largest and most significant library of the ancient world?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Library of Alexandria was burned and cataclysmically destroyed.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 1213 BC-1824</string>
+		<key>timeLine</key>
+		<string>Library of Alexandria is established</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Library of Alexandria</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Rosetta Stone</string>
+		<key>date</key>
+		<string>196 BC</string>
+		<key>id</key>
+		<string>018BCC5A-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Book of the Dead</string>
+		<key>incorrectAnswer2</key>
+		<string>The book of hieroglyphs</string>
+		<key>incorrectAnswer3</key>
+		<string>Herodotus translations</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>What artifact allowed to decipher the Egyptian hieroglyphs?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ancient Egyptian using hieroglyphic and Latin can be found on the Rosetta Stone.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 1213 BC-1824</string>
+		<key>timeLine</key>
+		<string>Creation of  the Rosetta Stone</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Rosetta Stone</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Cleopatra VII</string>
+		<key>date</key>
+		<string>69-30 BC</string>
+		<key>id</key>
+		<string>018BCD72-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Caesar</string>
+		<key>incorrectAnswer2</key>
+		<string>Ptolemy XIV</string>
+		<key>incorrectAnswer3</key>
+		<string>Marcus Antonius</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>Who was the Last ruler of the Ptolemy dynasty?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cleopatra had a son with caesar: Caesarion</string>
+		<key>theme</key>
+		<string>Ancient Egypt 1213 BC-1824</string>
+		<key>timeLine</key>
+		<string>Cleopatra</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Cleopatra</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Napoleon</string>
+		<key>date</key>
+		<string>1798–1801</string>
+		<key>id</key>
+		<string>018BCE80-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Caesar</string>
+		<key>incorrectAnswer2</key>
+		<string>Ptolemy</string>
+		<key>incorrectAnswer3</key>
+		<string>Marcus Antonius</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>His military and scientific campaign in Egypt is considered the beginning of Egyptology. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Napoleon’s expedition in Egypt eventually led to the discovery of the Rosetta Stone.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 1213 BC-1824</string>
+		<key>timeLine</key>
+		<string>French campaign in Egypt</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>French campaign in Egypt and Syria</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Jean-François Champollion</string>
+		<key>date</key>
+		<string>1824</string>
+		<key>id</key>
+		<string>dde3678a-17f0-11ed-861d-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Alexander The Great</string>
+		<key>incorrectAnswer2</key>
+		<string>Ptolemy I Soter</string>
+		<key>incorrectAnswer3</key>
+		<string>Napoleon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>31</integer>
+		<key>question</key>
+		<string>Who was the first to translate the Egyptian hieroglyphs?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Champollion showed how Egyptian writing system was a combination of phonetic and ideographic signs.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 1213 BC-1824</string>
+		<key>timeLine</key>
+		<string>Champollion deciphers the Egyptian hieroglyphs.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Jean-François Champollion</string>
+	</dict>
+</array>
+</plist>

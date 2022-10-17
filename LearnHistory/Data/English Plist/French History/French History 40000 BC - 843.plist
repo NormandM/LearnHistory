@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Neanderthal</string>
+		<key>date</key>
+		<string>40000 years ago</string>
+		<key>id</key>
+		<string>8D142A1C-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Homo erectus</string>
+		<key>incorrectAnswer2</key>
+		<string>Cro-Magnons</string>
+		<key>incorrectAnswer3</key>
+		<string>Homo sapiens</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>They are archaic humans who lived in France and disappeared about 40000 years ago. What are they called?</string>
+		<key>questionTrueOrFalse</key>
+		<string>There has never been any interbreeding between Neanderthal and Homo sapiens.</string>
+		<key>theme</key>
+		<string>French History 40000 BC - 843</string>
+		<key>timeLine</key>
+		<string>Neanderthals disappeared.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Neanderthal</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Celts</string>
+		<key>date</key>
+		<string>800 BC</string>
+		<key>id</key>
+		<string>8D142C4C-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Goths</string>
+		<key>incorrectAnswer2</key>
+		<string>The Huns</string>
+		<key>incorrectAnswer3</key>
+		<string>The Vandals</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>They began to immigrate, in great numbers, into the region of modern France around 800 B.C. Who are they?</string>
+		<key>questionTrueOrFalse</key>
+		<string> By the 1st century AD, most Celtic territories had become part of the Roman Empire.</string>
+		<key>theme</key>
+		<string>French History 40000 BC - 843</string>
+		<key>timeLine</key>
+		<string>The Celts immigrate to France.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Celts</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Celts/Senones</string>
+		<key>date</key>
+		<string>390 BC</string>
+		<key>id</key>
+		<string>8D142D8C-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Goths</string>
+		<key>incorrectAnswer2</key>
+		<string>The Huns</string>
+		<key>incorrectAnswer3</key>
+		<string>The Vandals</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>From Gaul they invaded Rome in 390 BC winning the battle of Allia. Who are they?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Senones who invaded northern Italy and Rome were led by Brennus</string>
+		<key>theme</key>
+		<string>French History 40000 BC - 843</string>
+		<key>timeLine</key>
+		<string>The Celts invade Rome.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Battle of Allia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Lutetia</string>
+		<key>date</key>
+		<string>52 BC</string>
+		<key>id</key>
+		<string>8D142FA8-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Lugdunum</string>
+		<key>incorrectAnswer2</key>
+		<string>Avignon</string>
+		<key>incorrectAnswer3</key>
+		<string>Lyon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>What was the first name of the city of Paris, founded in 52 B.C?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Lutetia was never conquered by the Romans</string>
+		<key>theme</key>
+		<string>French History 40000 BC - 843</string>
+		<key>timeLine</key>
+		<string>Foundation of Lutetia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Lutetia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Caesar</string>
+		<key>date</key>
+		<string>51 BC</string>
+		<key>id</key>
+		<string>8D142EA4-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pompey</string>
+		<key>incorrectAnswer2</key>
+		<string>Crassus</string>
+		<key>incorrectAnswer3</key>
+		<string>Mark Antony</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>He won the Gallic Wars  in 51 BC&quot; . What was his name?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Octavius, Caesar’s adoptive son rose to sole power after defeating his opponents in the last civil war of the Roman Republic.</string>
+		<key>theme</key>
+		<string>French History 40000 BC - 843</string>
+		<key>timeLine</key>
+		<string>Caesar wins the Gallic War.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Ceasar</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Clovis I</string>
+		<key>date</key>
+		<string>481</string>
+		<key>id</key>
+		<string>8D1430AC-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Louis I</string>
+		<key>incorrectAnswer2</key>
+		<string>Francois I</string>
+		<key>incorrectAnswer3</key>
+		<string>Henri I</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>What was the name of the first king of the Franks to unite all the Frankish tribes?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Clovis succeeded his father, Childeric I, as a king of Salian Franks in 481</string>
+		<key>theme</key>
+		<string>French History 40000 BC - 843</string>
+		<key>timeLine</key>
+		<string>Clovis I becomes king of the Franks.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Clovis I</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Merovingian</string>
+		<key>date</key>
+		<string>511</string>
+		<key>id</key>
+		<string>8D1431BA-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Carolingian</string>
+		<key>incorrectAnswer2</key>
+		<string>House of Capet</string>
+		<key>incorrectAnswer3</key>
+		<string>Robertian</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>To which dynasty did Clovis belong?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Merovingians&apos; long hair distinguished them among the Franks, who commonly cut their hair short.</string>
+		<key>theme</key>
+		<string>French History 40000 BC - 843</string>
+		<key>timeLine</key>
+		<string>Death of Clovis I.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Merovingian</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Charles Martel</string>
+		<key>date</key>
+		<string>732</string>
+		<key>id</key>
+		<string>8D143458-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Charlemagne</string>
+		<key>incorrectAnswer2</key>
+		<string>Louis X</string>
+		<key>incorrectAnswer3</key>
+		<string>Pepin</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>In 732 he defeats the Muslims at Poitiers, stopping the Arab invasion. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Charles Martel belongs to the Merovingian dynasty.</string>
+		<key>theme</key>
+		<string>French History 40000 BC - 843</string>
+		<key>timeLine</key>
+		<string>Muslim invasion stopped at Poitier.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Charles Martel</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Carolingian</string>
+		<key>date</key>
+		<string>800</string>
+		<key>id</key>
+		<string>8D143570-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Merovingian</string>
+		<key>incorrectAnswer2</key>
+		<string>Robertian</string>
+		<key>incorrectAnswer3</key>
+		<string>House of Valois</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>To which dynasty did Charlemagne belong?</string>
+		<key>questionTrueOrFalse</key>
+		<string>He was the first recognized emperor to rule from western Europe since the fall of the Western Roman Empire.</string>
+		<key>theme</key>
+		<string>French History 40000 BC - 843</string>
+		<key>timeLine</key>
+		<string>Charlemagne became emperor.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Charlemagne</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Treaty of Verdun</string>
+		<key>date</key>
+		<string>843</string>
+		<key>id</key>
+		<string>8D143778-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Treaty of Paris</string>
+		<key>incorrectAnswer2</key>
+		<string>Treaty of Caen</string>
+		<key>incorrectAnswer3</key>
+		<string>Treaty of Bonn</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>What treaty signed in 843 initiated the dissolution of Charlemagne&apos;s empire and prefigured the formation of modern European countries?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The treaty, signed in Verdun-sur-Meuse, ended the three-year Carolingian Civil War. </string>
+		<key>theme</key>
+		<string>French History 40000 BC - 843</string>
+		<key>timeLine</key>
+		<string>Treaty of Verdun is signed.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Treaty of Verdun</string>
+	</dict>
+</array>
+</plist>

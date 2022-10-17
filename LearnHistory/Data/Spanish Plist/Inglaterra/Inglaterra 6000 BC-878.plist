@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>6000 A.C.</string>
+		<key>date</key>
+		<string>6000 A.C.</string>
+		<key>id</key>
+		<string>EEC86E24-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>2000 A.C.</string>
+		<key>incorrectAnswer2</key>
+		<string>12000 A.C.</string>
+		<key>incorrectAnswer3</key>
+		<string>100000 A.C.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>¿Cuándo se separaron las Islas Británicas del continente europeo?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Doggerland era una zona de tierra, ahora sumergida bajo la parte sur del Mar del Norte, que unía Gran Bretaña con la Europa continental.</string>
+		<key>theme</key>
+		<string>Inglaterra 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>Las Islas Británicas se separan del continente europeo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Doggerland</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Los celtas</string>
+		<key>date</key>
+		<string>500 A.C.</string>
+		<key>id</key>
+		<string>EEC87158-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Los griegos</string>
+		<key>incorrectAnswer2</key>
+		<string>Los romanos</string>
+		<key>incorrectAnswer3</key>
+		<string>Los godos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Comenzaron a colonizar Gran Bretaña a partir del 500 A.C. ¿Quiénes eran?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los celtas y los romanos nunca estuvieron en guerra. </string>
+		<key>theme</key>
+		<string>Inglaterra 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>Los celtas comienzan a colonizar las Islas Británicas.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Celtas</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>César</string>
+		<key>date</key>
+		<string>55 A.C.</string>
+		<key>id</key>
+		<string>EEC873D8-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Alejandro Magno</string>
+		<key>incorrectAnswer2</key>
+		<string>Hannibal</string>
+		<key>incorrectAnswer3</key>
+		<string>Ciro el Grande</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>¿Qué gran general fue el primero en invadir Gran Bretaña?</string>
+		<key>questionTrueOrFalse</key>
+		<string>César invadió Gran Bretaña en el 55 A.C. y en el 54 A.C.</string>
+		<key>theme</key>
+		<string>Inglaterra 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>Primeras incursiones romanas en Gran Bretaña bajo Julio César.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Invasiones de Britania por César</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Claudio</string>
+		<key>date</key>
+		<string>43</string>
+		<key>id</key>
+		<string>EEC875CC-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>César</string>
+		<key>incorrectAnswer2</key>
+		<string>Augustus</string>
+		<key>incorrectAnswer3</key>
+		<string>Calígula</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>¿Qué emperador romano inició la ocupación de Gran Bretaña?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los romanos invadieron y conquistaron Britania a la fuerza en el año 43.</string>
+		<key>theme</key>
+		<string>Inglaterra 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>Comienza el dominio romano sobre Gran Bretaña</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista romana de Gran Bretaña</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Boudica</string>
+		<key>date</key>
+		<string>61</string>
+		<key>id</key>
+		<string>EEC877C0-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Eurydice</string>
+		<key>incorrectAnswer2</key>
+		<string>Clodia</string>
+		<key>incorrectAnswer3</key>
+		<string>Berenice</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>¿Qué reina, humillada por los romanos, lideró una insurrección contra ellos?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Boudica no pertenecía a la nobleza.</string>
+		<key>theme</key>
+		<string>Inglaterra 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>Boudica lidera un levantamiento contra el Imperio Romano.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Boudica</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Germánico</string>
+		<key>date</key>
+		<string>450</string>
+		<key>id</key>
+		<string>EEC87C5C-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Lengua y cultura inglesas</string>
+		<key>incorrectAnswer2</key>
+		<string>Lengua y cultura gaélica</string>
+		<key>incorrectAnswer3</key>
+		<string>Lengua y cultura vikingas</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>¿Qué nueva lengua y cultura introdujeron los anglosajones en Gran Bretaña?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La germanización de Gran Bretaña se produjo a partir del siglo III, antes del fin de la dominación romana en Gran Bretaña.</string>
+		<key>theme</key>
+		<string>Inglaterra 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>Comienza la colonización anglosajona de Gran Bretaña</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>La colonización anglosajona de Gran Bretaña</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>San Agustín</string>
+		<key>date</key>
+		<string>597</string>
+		<key>id</key>
+		<string>EEC87EF0-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>San Patricio</string>
+		<key>incorrectAnswer2</key>
+		<string>San Jorge</string>
+		<key>incorrectAnswer3</key>
+		<string>San Andrés</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>¿Quién fue el primer arzobispo de Canterbury en 597?</string>
+		<key>questionTrueOrFalse</key>
+		<string>San Agustín  fue enviado junto con cuarenta monjes por el papa Gregorio I el año 597 para evangelizar Inglaterra.</string>
+		<key>theme</key>
+		<string>Inglaterra 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>San Agustín lleva el cristianismo a Gran Bretaña desde Roma.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Agustín de Canterbury</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Beda</string>
+		<key>date</key>
+		<string>731</string>
+		<key>id</key>
+		<string>EEC880D0-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Arthur</string>
+		<key>incorrectAnswer2</key>
+		<string>Shakespeare</string>
+		<key>incorrectAnswer3</key>
+		<string>San Agustín</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>¿Quién escribió &quot;La historia eclesiástica del pueblo inglés&quot;?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La historia eclesiástica del pueblo inglés se escribió en inglés.</string>
+		<key>theme</key>
+		<string>Inglaterra 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>Beda escribe &quot;La historia eclesiástica del pueblo inglés&quot;. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Historia eclesiástica del pueblo inglés</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Siglo XI</string>
+		<key>date</key>
+		<string>792</string>
+		<key>id</key>
+		<string>EEC882BA-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Siglo IX</string>
+		<key>incorrectAnswer2</key>
+		<string>Siglo XV</string>
+		<key>incorrectAnswer3</key>
+		<string>Siglo XIII</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>¿Hasta qué siglo continuó la actividad vikinga en Inglaterra?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los vikingos ya estaban presentes en las Islas Británicas en el siglo V.</string>
+		<key>theme</key>
+		<string>Inglaterra 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>Comienzan las incursiones vikingas en Gran Bretaña</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Invasiones vikingas en Gran Bretaña e Irlanda</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ethandun</string>
+		<key>date</key>
+		<string>878</string>
+		<key>id</key>
+		<string>EEC88490-B8FA-11EC-8422-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Buttington</string>
+		<key>incorrectAnswer2</key>
+		<string>Tettenhall</string>
+		<key>incorrectAnswer3</key>
+		<string>Bedanford</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>¿Cómo se llama la victoria de Alfredo el Grand contra los vikingos en 878?</string>
+		<key>questionTrueOrFalse</key>
+		<string>En la batalla de Edington, un ejército  el mando de Alfredo el Grande derrotó al gran ejército dirigido por el danés Guthrum.</string>
+		<key>theme</key>
+		<string>Inglaterra 6000 BC-878</string>
+		<key>timeLine</key>
+		<string>Batalla de Ethandun</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Ethandun</string>
+	</dict>
+</array>
+</plist>

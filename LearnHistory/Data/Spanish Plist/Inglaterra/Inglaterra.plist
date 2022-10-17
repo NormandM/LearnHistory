@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>EEC86E24-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>6000 A.C.</string>
+		<key>question</key>
+		<string>¿Cuándo se separaron las Islas Británicas del continente europeo?</string>
+		<key>correctTAnswer</key>
+		<string>6000 A.C.</string>
+		<key>incorrectAnswer1</key>
+		<string>2000 A.C.</string>
+		<key>incorrectAnswer2</key>
+		<string>12000 A.C.</string>
+		<key>incorrectAnswer3</key>
+		<string>100000 A.C.</string>
+		<key>wikiSearchWord</key>
+		<string>Doggerland</string>
+		<key>questionTrueOrFalse</key>
+		<string>Doggerland era una zona de tierra, ahora sumergida bajo la parte sur del Mar del Norte, que unía Gran Bretaña con la Europa continental.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Las Islas Británicas se separan del continente europeo.</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC87158-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>500 A.C.</string>
+		<key>question</key>
+		<string>Comenzaron a colonizar Gran Bretaña a partir del 500 A.C. ¿Quiénes eran?</string>
+		<key>correctTAnswer</key>
+		<string>Los celtas</string>
+		<key>incorrectAnswer1</key>
+		<string>Los griegos</string>
+		<key>incorrectAnswer2</key>
+		<string>Los romanos</string>
+		<key>incorrectAnswer3</key>
+		<string>Los godos</string>
+		<key>wikiSearchWord</key>
+		<string>Celtas</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los celtas y los romanos nunca estuvieron en guerra. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Los celtas comienzan a colonizar las Islas Británicas.</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC873D8-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>55 A.C.</string>
+		<key>question</key>
+		<string>¿Qué gran general fue el primero en invadir Gran Bretaña?</string>
+		<key>correctTAnswer</key>
+		<string>César</string>
+		<key>incorrectAnswer1</key>
+		<string>Alejandro Magno</string>
+		<key>incorrectAnswer2</key>
+		<string>Hannibal</string>
+		<key>incorrectAnswer3</key>
+		<string>Ciro el Grande</string>
+		<key>wikiSearchWord</key>
+		<string>Invasiones de Britania por César</string>
+		<key>questionTrueOrFalse</key>
+		<string>César invadió Gran Bretaña en el 55 A.C. y en el 54 A.C.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Primeras incursiones romanas en Gran Bretaña bajo Julio César.</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC875CC-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>43</string>
+		<key>question</key>
+		<string>¿Qué emperador romano inició la ocupación de Gran Bretaña?</string>
+		<key>correctTAnswer</key>
+		<string>Claudio</string>
+		<key>incorrectAnswer1</key>
+		<string>César</string>
+		<key>incorrectAnswer2</key>
+		<string>Augustus</string>
+		<key>incorrectAnswer3</key>
+		<string>Calígula</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista romana de Gran Bretaña</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los romanos invadieron y conquistaron Britania a la fuerza en el año 43.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Comienza el dominio romano sobre Gran Bretaña</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC877C0-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>61</string>
+		<key>question</key>
+		<string>¿Qué reina, humillada por los romanos, lideró una insurrección contra ellos?</string>
+		<key>correctTAnswer</key>
+		<string>Boudica</string>
+		<key>incorrectAnswer1</key>
+		<string>Eurydice</string>
+		<key>incorrectAnswer2</key>
+		<string>Clodia</string>
+		<key>incorrectAnswer3</key>
+		<string>Berenice</string>
+		<key>wikiSearchWord</key>
+		<string>Boudica</string>
+		<key>questionTrueOrFalse</key>
+		<string>Boudica no pertenecía a la nobleza.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Boudica lidera un levantamiento contra el Imperio Romano.</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC87C5C-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>450</string>
+		<key>question</key>
+		<string>¿Qué nueva lengua y cultura introdujeron los anglosajones en Gran Bretaña?</string>
+		<key>correctTAnswer</key>
+		<string>Germánico</string>
+		<key>incorrectAnswer1</key>
+		<string>Lengua y cultura inglesas</string>
+		<key>incorrectAnswer2</key>
+		<string>Lengua y cultura gaélica</string>
+		<key>incorrectAnswer3</key>
+		<string>Lengua y cultura vikingas</string>
+		<key>wikiSearchWord</key>
+		<string>La colonización anglosajona de Gran Bretaña</string>
+		<key>questionTrueOrFalse</key>
+		<string>La germanización de Gran Bretaña se produjo a partir del siglo III, antes del fin de la dominación romana en Gran Bretaña.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Comienza la colonización anglosajona de Gran Bretaña</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC87EF0-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>597</string>
+		<key>question</key>
+		<string>¿Quién fue el primer arzobispo de Canterbury en 597?</string>
+		<key>correctTAnswer</key>
+		<string>San Agustín</string>
+		<key>incorrectAnswer1</key>
+		<string>San Patricio</string>
+		<key>incorrectAnswer2</key>
+		<string>San Jorge</string>
+		<key>incorrectAnswer3</key>
+		<string>San Andrés</string>
+		<key>wikiSearchWord</key>
+		<string>Agustín de Canterbury</string>
+		<key>questionTrueOrFalse</key>
+		<string>San Agustín  fue enviado junto con cuarenta monjes por el papa Gregorio I el año 597 para evangelizar Inglaterra.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>San Agustín lleva el cristianismo a Gran Bretaña desde Roma.</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC880D0-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>731</string>
+		<key>question</key>
+		<string>¿Quién escribió &quot;La historia eclesiástica del pueblo inglés&quot;?</string>
+		<key>correctTAnswer</key>
+		<string>Beda</string>
+		<key>incorrectAnswer1</key>
+		<string>Arthur</string>
+		<key>incorrectAnswer2</key>
+		<string>Shakespeare</string>
+		<key>incorrectAnswer3</key>
+		<string>San Agustín</string>
+		<key>wikiSearchWord</key>
+		<string>Historia eclesiástica del pueblo inglés</string>
+		<key>questionTrueOrFalse</key>
+		<string>La historia eclesiástica del pueblo inglés se escribió en inglés.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Beda escribe &quot;La historia eclesiástica del pueblo inglés&quot;. </string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC882BA-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>792</string>
+		<key>question</key>
+		<string>¿Hasta qué siglo continuó la actividad vikinga en Inglaterra?</string>
+		<key>correctTAnswer</key>
+		<string>Siglo XI</string>
+		<key>incorrectAnswer1</key>
+		<string>Siglo IX</string>
+		<key>incorrectAnswer2</key>
+		<string>Siglo XV</string>
+		<key>incorrectAnswer3</key>
+		<string>Siglo XIII</string>
+		<key>wikiSearchWord</key>
+		<string>Invasiones vikingas en Gran Bretaña e Irlanda</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los vikingos ya estaban presentes en las Islas Británicas en el siglo V.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Comienzan las incursiones vikingas en Gran Bretaña</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC88490-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>878</string>
+		<key>question</key>
+		<string>¿Cómo se llama la victoria de Alfredo el Grand contra los vikingos en 878?</string>
+		<key>correctTAnswer</key>
+		<string>Ethandun</string>
+		<key>incorrectAnswer1</key>
+		<string>Buttington</string>
+		<key>incorrectAnswer2</key>
+		<string>Tettenhall</string>
+		<key>incorrectAnswer3</key>
+		<string>Bedanford</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Ethandun</string>
+		<key>questionTrueOrFalse</key>
+		<string>En la batalla de Edington, un ejército  el mando de Alfredo el Grande derrotó al gran ejército dirigido por el danés Guthrum.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Batalla de Ethandun</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC8868E-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1016</string>
+		<key>question</key>
+		<string>Fue un príncipe danés y rey de Inglaterra en 1016. ¿Quién es él?</string>
+		<key>correctTAnswer</key>
+		<string>Canuto</string>
+		<key>incorrectAnswer1</key>
+		<string>Ragnar</string>
+		<key>incorrectAnswer2</key>
+		<string>Sigfred</string>
+		<key>incorrectAnswer3</key>
+		<string>Harald</string>
+		<key>wikiSearchWord</key>
+		<string>Canuto II de Dinamarca</string>
+		<key>questionTrueOrFalse</key>
+		<string>Canuto llegó a ser rey de Inglaterra pero nunca fue rey de Dinamarca.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>El rey Canuto de Dinamarca se apodera de la corona inglesa.</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC889FE-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1066</string>
+		<key>question</key>
+		<string>¿Cómo se llama el duque de Normandía que invadió Inglaterra en 1086?</string>
+		<key>correctTAnswer</key>
+		<string>Guillermo el Conquistador</string>
+		<key>incorrectAnswer1</key>
+		<string>Roberto el Grande</string>
+		<key>incorrectAnswer2</key>
+		<string>Francisco I</string>
+		<key>incorrectAnswer3</key>
+		<string>Luis XIII</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista normanda de Inglaterra</string>
+		<key>questionTrueOrFalse</key>
+		<string>Guillermo el Conquistador nunca gobernó Inglaterra después de la invasión.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Conquista normanda bajo Guillermo el Conquistador</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC88C42-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1154</string>
+		<key>question</key>
+		<string>Fue sucesivamente Reina de Francia y Reina de Inglaterra. ¿Quién es ella?</string>
+		<key>correctTAnswer</key>
+		<string>Leonor de Aquitania</string>
+		<key>incorrectAnswer1</key>
+		<string>María Antonieta</string>
+		<key>incorrectAnswer2</key>
+		<string>María I</string>
+		<key>incorrectAnswer3</key>
+		<string>Isabel I</string>
+		<key>wikiSearchWord</key>
+		<string>Leonor de Aquitania</string>
+		<key>questionTrueOrFalse</key>
+		<string>Aunque fue reina de Francia e Inglaterra, nunca tuvo un poder real</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Leonor de Aquitania se convierte en reina consorte de Inglaterra.</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC88E04-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1167</string>
+		<key>question</key>
+		<string>Fundada en 1167, fue la primera universidad de lengua inglesa.</string>
+		<key>correctTAnswer</key>
+		<string>Oxford</string>
+		<key>incorrectAnswer1</key>
+		<string>Cambridge</string>
+		<key>incorrectAnswer2</key>
+		<string>San Andrés</string>
+		<key>incorrectAnswer3</key>
+		<string>Glasgow</string>
+		<key>wikiSearchWord</key>
+		<string>Universidad de Oxford</string>
+		<key>questionTrueOrFalse</key>
+		<string>En Oxford, hay evidencias de una institución de enseñanza ya en 1096.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Creación de la Universidad de Oxford</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC88FE4-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1204</string>
+		<key>question</key>
+		<string>¿Qué rey perdió la mayor parte de las tierras francesas a manos de Francia?</string>
+		<key>correctTAnswer</key>
+		<string>Rey Juan</string>
+		<key>incorrectAnswer1</key>
+		<string>Rey Ricardo I</string>
+		<key>incorrectAnswer2</key>
+		<string>Rey Enrique III</string>
+		<key>incorrectAnswer3</key>
+		<string>Rey Eduardo I</string>
+		<key>wikiSearchWord</key>
+		<string>Juan, rey de Inglaterra</string>
+		<key>questionTrueOrFalse</key>
+		<string>La revuelta de los barones al final del reinado de Juan condujo al sellado de la Carta Magna</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>El rey Juan pierde la provincia de Normandía a manos de Francia.</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC8934A-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1215</string>
+		<key>question</key>
+		<string>En 1215, estableció los derechos del individuo frente al rey ¿Cómo se llama?</string>
+		<key>correctTAnswer</key>
+		<string>Carta Magna</string>
+		<key>incorrectAnswer1</key>
+		<string>La Carta de Derechos</string>
+		<key>incorrectAnswer2</key>
+		<string>La Constitución</string>
+		<key>incorrectAnswer3</key>
+		<string>La Ley de la Libertad</string>
+		<key>wikiSearchWord</key>
+		<string>Carta Magna</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Carta Magna se redactó para lograr la paz entre el impopular rey y un grupo de barones rebeldes.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Firma de la Carta Magna</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC89548-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1349</string>
+		<key>question</key>
+		<string>¿En 1349-50, la Peste Negra mató a qué porcentaje de la población inglesa?</string>
+		<key>correctTAnswer</key>
+		<string>50%</string>
+		<key>incorrectAnswer1</key>
+		<string>10%</string>
+		<key>incorrectAnswer2</key>
+		<string>20%</string>
+		<key>incorrectAnswer3</key>
+		<string>70%</string>
+		<key>wikiSearchWord</key>
+		<string>La peste negra</string>
+		<key>questionTrueOrFalse</key>
+		<string>Sólo hubo una pandemia de peste.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>La peste negra mata a la mitad de la población</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC89728-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1453</string>
+		<key>question</key>
+		<string>¿Qué país ganó la Guerra de los Cien Años?</string>
+		<key>correctTAnswer</key>
+		<string>Francia</string>
+		<key>incorrectAnswer1</key>
+		<string>Inglaterra</string>
+		<key>incorrectAnswer2</key>
+		<string>He chupado</string>
+		<key>incorrectAnswer3</key>
+		<string>España</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de los Cien Años</string>
+		<key>questionTrueOrFalse</key>
+		<string>No hubo treguas durante la Guerra de los Cien Años</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Fin de la Guerra de los Cien Años</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC898EA-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1455</string>
+		<key>question</key>
+		<string>¿Cómo se llaman las guerras del siglo XV entre dos ramas de los Plantagenet?</string>
+		<key>correctTAnswer</key>
+		<string>Guerra de las Rosas</string>
+		<key>incorrectAnswer1</key>
+		<string>La Guerra de los Cien Años</string>
+		<key>incorrectAnswer2</key>
+		<string>La guerra de los 30 años</string>
+		<key>incorrectAnswer3</key>
+		<string>Las guerras civiles</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de las Dos Rosas</string>
+		<key>questionTrueOrFalse</key>
+		<string>El choque de las dos líneas, procedentes de la Casa de Plantagenet, marcó el fin de ésta y su sustitución por la Casa de Tudor.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Inicio de la Guerra de las Rosas</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC89DEA-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1509</string>
+		<key>question</key>
+		<string>Enrique VIII se casó con la viuda de su hermano. ¿Cómo se llamaba?</string>
+		<key>correctTAnswer</key>
+		<string>Catalina de Aragón</string>
+		<key>incorrectAnswer1</key>
+		<string>Isabella</string>
+		<key>incorrectAnswer2</key>
+		<string>María Antonieta</string>
+		<key>incorrectAnswer3</key>
+		<string>Leonor de Aquitania</string>
+		<key>wikiSearchWord</key>
+		<string>Catalina de Aragón</string>
+		<key>questionTrueOrFalse</key>
+		<string>Catalina de Aragón era francesa</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Catalina de Aragón se casa con Enrique VIII.</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC89FFC-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1528</string>
+		<key>question</key>
+		<string>Enrique VIII quizo anulara su matrimonio. ¿Con quién quería casarse?</string>
+		<key>correctTAnswer</key>
+		<string>Ana Bolena</string>
+		<key>incorrectAnswer1</key>
+		<string>Elizabeth</string>
+		<key>incorrectAnswer2</key>
+		<string>Marie</string>
+		<key>incorrectAnswer3</key>
+		<string>Leonor de Aquitania</string>
+		<key>wikiSearchWord</key>
+		<string>Ana Bolena</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ana Bolena fue la última esposa de Enrique VIII</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Enrique VIII apela al Papa para que anule su matrimonio.</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC8A1DC-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1543</string>
+		<key>question</key>
+		<string>¿Cuántas veces se casó Enrique VIII?</string>
+		<key>correctTAnswer</key>
+		<string>6</string>
+		<key>incorrectAnswer1</key>
+		<string>4</string>
+		<key>incorrectAnswer2</key>
+		<string>8</string>
+		<key>incorrectAnswer3</key>
+		<string>3</string>
+		<key>wikiSearchWord</key>
+		<string>Enrique VIII</string>
+		<key>questionTrueOrFalse</key>
+		<string>Enrique VIII ya era protestante cuando inició la reforma de Inglaterra</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Enrique VIII se casa con Catalina Parr, su sexto matrimonio.</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC8A3A8-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1553</string>
+		<key>question</key>
+		<string>Fue la primera mujer monarca de Inglaterra por derecho propio&quot; ¿Quién es?</string>
+		<key>correctTAnswer</key>
+		<string>María Tudor</string>
+		<key>incorrectAnswer1</key>
+		<string>Isabel I</string>
+		<key>incorrectAnswer2</key>
+		<string>Catalina de Aragón</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>incorrectAnswer3</key>
+		<string>Leonor de Aquitania</string>
+		<key>wikiSearchWord</key>
+		<string>María I (Reina de Inglaterra)</string>
+		<key>questionTrueOrFalse</key>
+		<string>María Tudor también era conocida como Bloody Mary.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>María Tudor se convierte en reina de Inglaterra.</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC8A57E-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1587</string>
+		<key>question</key>
+		<string>Fue reina de Escocia y fue ejecutada. ¿Quién es ella?</string>
+		<key>correctTAnswer</key>
+		<string>María Estuardo</string>
+		<key>incorrectAnswer1</key>
+		<string>Juana de Navarra</string>
+		<key>incorrectAnswer2</key>
+		<string>Margarita de Anjou</string>
+		<key>incorrectAnswer3</key>
+		<string>Catalina de Valois</string>
+		<key>wikiSearchWord</key>
+		<string>María I de Escocia</string>
+		<key>questionTrueOrFalse</key>
+		<string>María Estuardo pasó dieciocho años y medio en cautiverio antes de ser decapitada.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>María Estuardo (María I de Escocia) es ejecutada.</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC8A704-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1642</string>
+		<key>question</key>
+		<string>En 1642 comenzó una guerra civil. ¿Quiénes fueron las partes implicadas?</string>
+		<key>correctTAnswer</key>
+		<string> Realistas y parlamentarios</string>
+		<key>incorrectAnswer1</key>
+		<string>Irlanda e Inglaterra</string>
+		<key>incorrectAnswer2</key>
+		<string>Irlanda y Escocia</string>
+		<key>incorrectAnswer3</key>
+		<string>Escocia e Irlanda</string>
+		<key>wikiSearchWord</key>
+		<string>Primera revolución inglesa</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra terminó con la victoria de los realistas en la batalla de Worcester el 3 de septiembre de 1651.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Comienza la Guerra Civil inglesa</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC8AAB0-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1649</string>
+		<key>question</key>
+		<string>Tras la ejecución de este rey de Inglaterra, la monarquía fue abolida. ¿Quién era?</string>
+		<key>correctTAnswer</key>
+		<string>Carlos I</string>
+		<key>incorrectAnswer1</key>
+		<string>Luis XVI</string>
+		<key>incorrectAnswer2</key>
+		<string>Edward</string>
+		<key>incorrectAnswer3</key>
+		<string>Edgar</string>
+		<key>wikiSearchWord</key>
+		<string>Carlos I de Inglaterra</string>
+		<key>questionTrueOrFalse</key>
+		<string>Carlos I era también rey de Escocia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>El rey Carlos I es ejecutado por alta traición.</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC8ACB8-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1653</string>
+		<key>question</key>
+		<string>Desde 1653 reinó como Lord Protector de Inglaterra. ¿Quién era?</string>
+		<key>correctTAnswer</key>
+		<string>Oliver Cromwell</string>
+		<key>incorrectAnswer1</key>
+		<string>Henry Ireton</string>
+		<key>incorrectAnswer2</key>
+		<string>John Pym</string>
+		<key>incorrectAnswer3</key>
+		<string>John Hampden</string>
+		<key>wikiSearchWord</key>
+		<string>Oliver Cromwell</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cromwell no estaba entre los firmantes de la sentencia de muerte de Carlos I.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Cromwell es nombrado Lord Protector.</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC8AE70-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1688</string>
+		<key>question</key>
+		<string>¿Quién se convirtió en rey tras la Revolución Gloriosa?</string>
+		<key>correctTAnswer</key>
+		<string>Guillermo de Orange</string>
+		<key>incorrectAnswer1</key>
+		<string>Carlos II</string>
+		<key>incorrectAnswer2</key>
+		<string>Jaime II</string>
+		<key>incorrectAnswer3</key>
+		<string>Guillermo II</string>
+		<key>wikiSearchWord</key>
+		<string>La Revolución Gloriosa</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Revolución Gloriosa duró más de 10 años.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>La Revolución Gloriosa</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC8B082-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1805</string>
+		<key>question</key>
+		<string>En 1805, Lord Nelson derrotó a Napoleón. ¿Cómo se llamaba la batalla?</string>
+		<key>correctTAnswer</key>
+		<string>Batalla de Trafalgar</string>
+		<key>incorrectAnswer1</key>
+		<string>Batalla de Waterloo</string>
+		<key>incorrectAnswer2</key>
+		<string>Batalla de Iena</string>
+		<key>incorrectAnswer3</key>
+		<string>Batalla de Austerlitz</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Trafalgar</string>
+		<key>questionTrueOrFalse</key>
+		<string>Nelson murió, pero la victoria británica fue total.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Batalla de Trafalgar</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC8B3D4-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1837</string>
+		<key>question</key>
+		<string>En 1837, se convirtió en reina a la edad de 18 años. ¿Quién es ella?</string>
+		<key>correctTAnswer</key>
+		<string>Reina Victoria</string>
+		<key>incorrectAnswer1</key>
+		<string>La reina Isabel I</string>
+		<key>incorrectAnswer2</key>
+		<string>Reina María</string>
+		<key>incorrectAnswer3</key>
+		<string>La reina Isabel II</string>
+		<key>wikiSearchWord</key>
+		<string>Victoria del Reino Unido</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tras la muerte de Alberto en 1861, Victoria cayó en una profunda depresión y se retiró de la vida pública.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Victoria se convierte en reina</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>EEC8B58C-B8FA-11EC-8422-0242AC120002</string>
+		<key>date</key>
+		<string>1952</string>
+		<key>question</key>
+		<string>¿Quién fue el rey o la reina que más tiempo reinó en el Reino Unido?</string>
+		<key>correctTAnswer</key>
+		<string>Isabel II</string>
+		<key>incorrectAnswer1</key>
+		<string>Victoria</string>
+		<key>incorrectAnswer2</key>
+		<string>Isabel I</string>
+		<key>incorrectAnswer3</key>
+		<string>Enrique VIII</string>
+		<key>wikiSearchWord</key>
+		<string>Isabel II del Reino Unido</string>
+		<key>questionTrueOrFalse</key>
+		<string>Estuvo casada durante 74 años con el Príncipe Felipe.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Isabel II se convierte en Reina.</string>
+		<key>theme</key>
+		<string>Inglaterra</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>31</integer>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Robespierre</string>
+		<key>date</key>
+		<string>1794</string>
+		<key>id</key>
+		<string>8D144704-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Jean-Paul Marat</string>
+		<key>incorrectAnswer2</key>
+		<string>Georges Danton</string>
+		<key>incorrectAnswer3</key>
+		<string>Napoleaon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>In 1794 he was overthrown, executed and  the Reign of Terror ended. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Robespierre is best known for his role as a member of the Committee of Public Safety as he signed 542 arrests.</string>
+		<key>theme</key>
+		<string>French History 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>Robespierre is guillotined</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Robespierre</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Austerlitz</string>
+		<key>date</key>
+		<string>1805</string>
+		<key>id</key>
+		<string>8D144808-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Marengo</string>
+		<key>incorrectAnswer2</key>
+		<string>Ulm</string>
+		<key>incorrectAnswer3</key>
+		<string>Waterloo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>On December 2, 1805, Napoleon won what is considered its greatest victory. What was the name of the battle?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Battle of Austerlitz is also known as the Battle of the Three Emperors.</string>
+		<key>theme</key>
+		<string>French History 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>The Battle of Austerlitz</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>The Battle of Austerlitz</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Moscow</string>
+		<key>date</key>
+		<string>1812</string>
+		<key>id</key>
+		<string>8D144AD8-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Vienna</string>
+		<key>incorrectAnswer2</key>
+		<string>Beijing</string>
+		<key>incorrectAnswer3</key>
+		<string>Berlin</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>What was the most eastern city occupied by Napoleon in September 1812?</string>
+		<key>questionTrueOrFalse</key>
+		<string>After invading Moscow, the French were able to resupply to continue the attack.</string>
+		<key>theme</key>
+		<string>French History 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>Napoleon invades Moscow</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>French occupation of Moscow</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Waterloo</string>
+		<key>date</key>
+		<string>1815</string>
+		<key>id</key>
+		<string>8D144BE6-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Austerlitz</string>
+		<key>incorrectAnswer2</key>
+		<string>Iena</string>
+		<key>incorrectAnswer3</key>
+		<string>Marengo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>On Sunday, 18 June 1815, Napoleon suffered is final defeat. What was the name of the battle?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Waterloo was not Napoleon&apos;s last battle, other battles took place before his surrender.</string>
+		<key>theme</key>
+		<string>French History 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>The Battle of  Waterloo</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>The Battle of  Waterloo</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>His nephew</string>
+		<key>date</key>
+		<string>1852</string>
+		<key>id</key>
+		<string>8D144CF4-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>His brother</string>
+		<key>incorrectAnswer2</key>
+		<string>His son</string>
+		<key>incorrectAnswer3</key>
+		<string>His grandson</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>In 1852 Napoleon III is crowned emperor. What was its relation with Napoleon I?</string>
+		<key>questionTrueOrFalse</key>
+		<string>In 1870, after the defeat of the French army at the hands of the Prussians, Napoleon III was made prisoner.</string>
+		<key>theme</key>
+		<string>French History 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>Napoleon III crowned emperor</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Napoleon III</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La belle époque</string>
+		<key>date</key>
+		<string>1871-1914</string>
+		<key>id</key>
+		<string>8D144E02-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La vie est belle</string>
+		<key>incorrectAnswer2</key>
+		<string>Les temps dorés</string>
+		<key>incorrectAnswer3</key>
+		<string>Le bonheur</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>The period between 1871 and 1914  was characterised by optimism, peace, prosperity, colonial expansion, and innovations. What name is given to this period?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Despite the prosperity, &quot;La Belle Époque&quot; was a time when Europe experienced a decline in its global political power.</string>
+		<key>theme</key>
+		<string>French History 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>La belle époque</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>La belle époque</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1889</string>
+		<key>date</key>
+		<string>1889</string>
+		<key>id</key>
+		<string>8D144F10-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>1900</string>
+		<key>incorrectAnswer2</key>
+		<string>1882</string>
+		<key>incorrectAnswer3</key>
+		<string>1775</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>What year was the Eiffel Tower inaugurated?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Eiffel Tower was initially criticized by some of France&apos;s leading artists and intellectuals for its design.</string>
+		<key>theme</key>
+		<string>French History 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>Inauguration of the Eiffel Tower</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Eiffel Tower</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Dreyfus</string>
+		<key>date</key>
+		<string>1894</string>
+		<key>id</key>
+		<string>8D14500A-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Zola</string>
+		<key>incorrectAnswer2</key>
+		<string>Proust</string>
+		<key>incorrectAnswer3</key>
+		<string>Picard</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>In December 1894 a French artillery officer of Jewish descent was falsely convicted and sentenced to life imprisonment for communicating French military secrets. What was his name?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Despite his exoneration, Dreyfus was never reinstated in the French army.</string>
+		<key>theme</key>
+		<string>French History 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>Dreyfus is condemned</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Dreyfus affair</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Verdun</string>
+		<key>date</key>
+		<string>18-12-1916</string>
+		<key>id</key>
+		<string>8D1450F0-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Marne</string>
+		<key>incorrectAnswer2</key>
+		<string>Somme</string>
+		<key>incorrectAnswer3</key>
+		<string>Gallipoli</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>The French lost more than 400,000 men defending what city against the Germans in World War I?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The battle lasted for 302 days, the longest and one of the most costly in human history.</string>
+		<key>theme</key>
+		<string>French History 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>Battle of Verdun</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Battle of Verdun</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Philippe Pétain</string>
+		<key>date</key>
+		<string>1940</string>
+		<key>id</key>
+		<string>8D1451CC-84E1-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Charles de Gaulle</string>
+		<key>incorrectAnswer2</key>
+		<string>Gaston Billotte</string>
+		<key>incorrectAnswer3</key>
+		<string>Marcel Deslaurens</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>31</integer>
+		<key>question</key>
+		<string>Although he was considered a war hero after WW1 after WW2, he was convicted of treason. What is his name?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Pétain led the French Army to victory at the nine-month-long Battle of Verdun.</string>
+		<key>theme</key>
+		<string>French History 1794 - 1940</string>
+		<key>timeLine</key>
+		<string>Pétain signs the armistice with Germany</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Philippe Pétain</string>
+	</dict>
+</array>
+</plist>

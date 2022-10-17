@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Xia</string>
+		<key>date</key>
+		<string>2070 – 600AV.</string>
+		<key>id</key>
+		<string>462D47BA-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Zhou</string>
+		<key>incorrectAnswer2</key>
+		<string>Jin</string>
+		<key>incorrectAnswer3</key>
+		<string>JHan</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>Quelle dynastie chinoise est considérée comme la première ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Selon la tradition, la dynastie Xia a été établie par le légendaire Yu le Grand</string>
+		<key>theme</key>
+		<string>Chine 2070 AV-130 AV</string>
+		<key>timeLine</key>
+		<string>La dynastie Xia</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Dynastie Xia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1200 AV.</string>
+		<key>date</key>
+		<string>1200AV.</string>
+		<key>id</key>
+		<string>462D4A6C-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>3200 AV.</string>
+		<key>incorrectAnswer2</key>
+		<string>2200 AV.</string>
+		<key>incorrectAnswer3</key>
+		<string>200AV.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Quand l&apos;écriture chinoise est-elle apparue ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>C&apos;est sous la dynastie Shang que l&apos;écriture chinoise est née.</string>
+		<key>theme</key>
+		<string>Chine 2070 AV-130 AV</string>
+		<key>timeLine</key>
+		<string>L&apos;écriture chinoise apparaît</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Chinois écrit</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Zhou</string>
+		<key>date</key>
+		<string>1050AV.</string>
+		<key>id</key>
+		<string>462D4BC0-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Qin</string>
+		<key>incorrectAnswer2</key>
+		<string>Shan</string>
+		<key>incorrectAnswer3</key>
+		<string>Han</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Quelle dynastie chinoise a duré le plus longtemps ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Pendant la dynastie Zhou, le pouvoir est de plus en plus centralisé</string>
+		<key>theme</key>
+		<string>Chine 2070 AV-130 AV</string>
+		<key>timeLine</key>
+		<string>La dynastie Zhou accède au pouvoir.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Dynastie Zhou</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Le légisme</string>
+		<key>date</key>
+		<string>600-221 AV.</string>
+		<key>id</key>
+		<string>462D4CE2-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Yoga</string>
+		<key>incorrectAnswer2</key>
+		<string>Jaïnisme</string>
+		<key>incorrectAnswer3</key>
+		<string>Shinto</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Pendant la dynastie Zhou, trois grandes philosophies ont été créées. Confucianisme, taoïsme et… Quel est le troisième ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La société chinoise a désormais oublié le confucianisme</string>
+		<key>theme</key>
+		<string>Chine 2070 AV-130 AV</string>
+		<key>timeLine</key>
+		<string>Période des Cent Écoles de Pensée</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Confucianisme</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La boussole</string>
+		<key>date</key>
+		<string>300AV.</string>
+		<key>id</key>
+		<string>462D51B0-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La roue</string>
+		<key>incorrectAnswer2</key>
+		<string>Aqueducs</string>
+		<key>incorrectAnswer3</key>
+		<string>Le clou</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>Le papier, la poudre à canon et l&apos;imprimerie sont trois inventions de la Chine ancienne. Nommez-en un quatrième.</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le papier,  l&apos;imprimerie, la boussole et la poudre à canon sont des inventions chinoises qui ont contribué à construire l&apos;Occident moderne.</string>
+		<key>theme</key>
+		<string>Chine 2070 AV-130 AV</string>
+		<key>timeLine</key>
+		<string>Invention de la boussole</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Quatre grandes inventions de la Chine antique</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Légisme</string>
+		<key>date</key>
+		<string>221-207AV.</string>
+		<key>id</key>
+		<string>462D52B4-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Confucianisme</string>
+		<key>incorrectAnswer2</key>
+		<string>Daoisme</string>
+		<key>incorrectAnswer3</key>
+		<string>Bouddhisme</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Quelle philosophie chinoise considère que l&apos;homme est né mauvais ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le légisme s&apos;oppose au confucianisme.</string>
+		<key>theme</key>
+		<string>Chine 2070 AV-130 AV</string>
+		<key>timeLine</key>
+		<string>Le légisme est développé par le philosophe Han Feizi. ( Dynastie Qin )</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Légisme</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Qin</string>
+		<key>date</key>
+		<string>221-207AV.</string>
+		<key>id</key>
+		<string>462D53CC-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Zhou</string>
+		<key>incorrectAnswer2</key>
+		<string>Shan</string>
+		<key>incorrectAnswer3</key>
+		<string>Han</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>Quelle dynastie a unifié la Chine pour la première fois en tant qu&apos;empire ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La dynastie Qin a duré plus de cent ans.</string>
+		<key>theme</key>
+		<string>Chine 2070 AV-130 AV</string>
+		<key>timeLine</key>
+		<string>La dynastie Qin</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Dynastie Qin</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Han</string>
+		<key>date</key>
+		<string>206AV. - 220 après JC</string>
+		<key>id</key>
+		<string>462D54DA-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Jin</string>
+		<key>incorrectAnswer2</key>
+		<string>Tang</string>
+		<key>incorrectAnswer3</key>
+		<string>Ming</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Sous quelle dynastie la Chine a-t-elle considérablement étendu son territoire, du Vietnam au sud jusqu&apos;à la Corée ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La dynastie Han est considérée comme un âge d&apos;or dans l&apos;histoire chinoise</string>
+		<key>theme</key>
+		<string>Chine 2070 AV-130 AV</string>
+		<key>timeLine</key>
+		<string>La dynastie Han</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Dynastie Han</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bouddhisme</string>
+		<key>date</key>
+		<string>202AV..</string>
+		<key>id</key>
+		<string>462D55E8-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Taoïsme</string>
+		<key>incorrectAnswer2</key>
+		<string>Yoga</string>
+		<key>incorrectAnswer3</key>
+		<string>Jaïnisme</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Quelle religion, originaire de l&apos;Inde, est devenue une religion importante en Chine ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les principaux courants actuels des bouddhismes japonais, coréen et vietnamien se sont développés indépendamment du bouddhisme chinois.</string>
+		<key>theme</key>
+		<string>Chine 2070 AV-130 AV</string>
+		<key>timeLine</key>
+		<string>Le bouddhisme apparaît en Chine</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Bouddhisme en Chine</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La route de la soie</string>
+		<key>date</key>
+		<string>130AV.</string>
+		<key>id</key>
+		<string>462D5700-D85F-11EC-9D64-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Confucianisme</string>
+		<key>incorrectAnswer2</key>
+		<string>Invention du papier</string>
+		<key>incorrectAnswer3</key>
+		<string>Invention de la poudre à canon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>Qu&apos;est-ce qui a joué un rôle central dans la facilitation des interactions économiques, culturelles et politiques entre l&apos;Orient et l&apos;Occident ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La route de la soie a existé pendant 1 500 ans.</string>
+		<key>theme</key>
+		<string>Chine 2070 AV-130 AV</string>
+		<key>timeLine</key>
+		<string>La dynastie Han en Chine ouvre officiellement le commerce avec l&apos;Occident</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Route de la soie</string>
+	</dict>
+</array>
+</plist>

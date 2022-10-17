@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Jamestown, Virginia</string>
+		<key>date</key>
+		<string>1607</string>
+		<key>id</key>
+		<string>881cfd46-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Philadelphia</string>
+		<key>incorrectAnswer2</key>
+		<string>Boston</string>
+		<key>incorrectAnswer3</key>
+		<string>Washington</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>Where was the first permanent English settlement in North America located?</string>
+		<key>questionTrueOrFalse</key>
+		<string>There had been no other settlements attempts before Jamestown.</string>
+		<key>theme</key>
+		<string>United_States 1607-1789</string>
+		<key>timeLine</key>
+		<string>Jamestown is the first permanent English settlement in North America.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Jamestown, Virginia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Anglicans</string>
+		<key>date</key>
+		<string>1620</string>
+		<key>id</key>
+		<string>881d0002-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pilgrims</string>
+		<key>incorrectAnswer2</key>
+		<string>Quacker</string>
+		<key>incorrectAnswer3</key>
+		<string>Puritans</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Which of these religious groups is not among those that settled in North America in the 17th century?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Pilgrims were the English settlers who came to North America on the Mayflower and established the Plymouth Colony.</string>
+		<key>theme</key>
+		<string>United_States 1607-1789</string>
+		<key>timeLine</key>
+		<string>The Pilgrims come to North America on the Mayflower.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Pilgrims (Plymouth Colony)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Seven Years&apos; War</string>
+		<key>date</key>
+		<string>1756-1763</string>
+		<key>id</key>
+		<string>881d043a-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Thirty years&apos; war</string>
+		<key>incorrectAnswer2</key>
+		<string>War of roses</string>
+		<key>incorrectAnswer3</key>
+		<string>War of independence</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>France lost this war to Great Britain in 1763 and most of its territory in North America. What was this war called?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Anglo-French conflict over their colonies in North America begun in 1754 in what became known i as the French and Indian War.</string>
+		<key>theme</key>
+		<string>United_States 1607-1789</string>
+		<key>timeLine</key>
+		<string>End of the Seven Years&apos; War.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Seven Years&apos; War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Intolerable Acts</string>
+		<key>date</key>
+		<string>1774</string>
+		<key>id</key>
+		<string>881d0566-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Punitive law</string>
+		<key>incorrectAnswer2</key>
+		<string>The British supremacy law</string>
+		<key>incorrectAnswer3</key>
+		<string>The Law and Order act</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>What was called a series of punitive laws passed by the British Parliament in 1774 after the Boston Tea Party?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Intolerable Acts were a key development leading to the outbreak of the American Revolutionary War .</string>
+		<key>theme</key>
+		<string>United_States 1607-1789</string>
+		<key>timeLine</key>
+		<string>The Intolerable Acts are passed.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Intolerable Acts</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Thomas Jefferson</string>
+		<key>date</key>
+		<string>1776</string>
+		<key>id</key>
+		<string>881d067e-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>George Washington</string>
+		<key>incorrectAnswer2</key>
+		<string>Abraham Lincoln</string>
+		<key>incorrectAnswer3</key>
+		<string>Paul Revere</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>Who wrote the Declaration of Independence, adopted by the Second Congress on July 4, 1776?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Thomas Jefferson was against religious freedom.</string>
+		<key>theme</key>
+		<string>United_States 1607-1789</string>
+		<key>timeLine</key>
+		<string>Thomas Jefferson writes the first draft of the Declaration of Independence.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Thomas Jefferson</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>13</string>
+		<key>date</key>
+		<string>July 4, 1776</string>
+		<key>id</key>
+		<string>881d0796-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>6</string>
+		<key>incorrectAnswer2</key>
+		<string>24</string>
+		<key>incorrectAnswer3</key>
+		<string>50</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>How many States initially signed the Declaration of Independence?</string>
+		<key>questionTrueOrFalse</key>
+		<string>No changes were made to Jefferson&apos;s initial draft of the Declaration of Independence.</string>
+		<key>theme</key>
+		<string>United_Statess 1607-1789</string>
+		<key>timeLine</key>
+		<string>Declaration of Independence.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>United_States Declaration of Independence</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Battles of Saratoga</string>
+		<key>date</key>
+		<string>1777</string>
+		<key>id</key>
+		<string>881d089a-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Battle of Washington</string>
+		<key>incorrectAnswer2</key>
+		<string>Battle of Lexington</string>
+		<key>incorrectAnswer3</key>
+		<string>Battle of Quebec</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>What battle is considered a turning point of the American Revolution?</string>
+		<key>questionTrueOrFalse</key>
+		<string>British General Burgoyne found himself trapped by much larger American forces with no relief, so he retreated to Saratoga and surrendered his entire army there on October 17, 1777.</string>
+		<key>theme</key>
+		<string>United_States 1607-1789</string>
+		<key>timeLine</key>
+		<string>Battles of Saratoga</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Battles of Saratoga</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1783</string>
+		<key>date</key>
+		<string>1783</string>
+		<key>id</key>
+		<string>881d09bc-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>1780</string>
+		<key>incorrectAnswer2</key>
+		<string>1778</string>
+		<key>incorrectAnswer3</key>
+		<string>1785</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>In what year was the Treaty of Paris signed, recognizing the independence of the United_States?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The treaty set the boundaries between the British Empire in North America and the United_States of America.</string>
+		<key>theme</key>
+		<string>United_States 1607-1789</string>
+		<key>timeLine</key>
+		<string>End of the American Revolution. Treaty of Paris signed.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Treaty of Paris (1783)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1789</string>
+		<key>date</key>
+		<string>1789</string>
+		<key>id</key>
+		<string>881d0aca-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>1785</string>
+		<key>incorrectAnswer2</key>
+		<string>1775</string>
+		<key>incorrectAnswer3</key>
+		<string>1780</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>When did the United_States constitution come into effect?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The United_States constitution was never amended.</string>
+		<key>theme</key>
+		<string>United_States 1607-1789</string>
+		<key>timeLine</key>
+		<string> United_States constitution come into effect.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Constitution of the United_States</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>George Washington</string>
+		<key>date</key>
+		<string>1789</string>
+		<key>id</key>
+		<string>881d0bd8-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Thomas Jefferson</string>
+		<key>incorrectAnswer2</key>
+		<string>John Adams</string>
+		<key>incorrectAnswer3</key>
+		<string>Alexander Hamilton</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Who was the first elected president of the United_States?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Washington was twice elected president by the Electoral College unanimously.</string>
+		<key>theme</key>
+		<string>United_States 1607-1789</string>
+		<key>timeLine</key>
+		<string> George Washington is first elected president.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>George Washington</string>
+	</dict>
+</array>
+</plist>

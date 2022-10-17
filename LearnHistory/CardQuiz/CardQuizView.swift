@@ -10,10 +10,8 @@ import AVFoundation
 
 
 struct CardQuizView: View {
-    @Environment(\.scenePhase) var scenePhase
-    @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
     @Environment(\.managedObjectContext) var moc
-    @FetchRequest var fetchRequest: FetchedResults<HistoricalEvent>
+    @FetchRequest var fetchRequest: FetchedResults<HistoricalEventDetail>
     var initialiseForQuestion: () -> Void
     @State private var cardFlipped = [false,
                             false, false]
@@ -38,10 +36,7 @@ struct CardQuizView: View {
     @Binding var coins: Int
     let numberOfQuestion: Int
     let gradient: Gradient = Gradient(colors: [ColorReference.orange, ColorReference.red])
-    @State private var showAlertQuizExit = false
     @State private var soundState: String
-    @State private var comment = String()
-    @State private var numberOfCoinsAdded = String()
     @Binding var viewOpacity: Double
     init (initialiseForQuestion: @escaping () -> Void, answerIsGood: Binding<Bool>, questionSection: Binding<QuestionSection>, hintDemanded: Binding<Bool>, selectedTheme: String, questionViewModel: QuestionViewModel, numberOfQuestion: Int, nextButtonVisible: Binding<Bool>, hintButtonIsVisible: Binding<Bool>, numberOfAnswers: Binding<Int>, progressionMessage: Binding<ProgressionMessage>, progressNumber: Binding<CGFloat>, score: Binding<Double>, coins: Binding<Int>, soundState: String, viewOpacity: Binding<Double>) {
         self._numberOfAnswers = numberOfAnswers
@@ -57,8 +52,8 @@ struct CardQuizView: View {
         self.numberOfQuestion = numberOfQuestion
         self._questionViewModel = StateObject(wrappedValue: questionViewModel)
         self._cardSequence = StateObject(wrappedValue: CardSequence(selectedTheme: selectedTheme, questionViewModel: questionViewModel))
-        _fetchRequest = FetchRequest<HistoricalEvent>(sortDescriptors: [
-            NSSortDescriptor(keyPath: \HistoricalEvent.order, ascending: true)
+        _fetchRequest = FetchRequest<HistoricalEventDetail>(sortDescriptors: [
+            NSSortDescriptor(keyPath: \HistoricalEventDetail.order, ascending: true)
         ],predicate: NSPredicate(format: "theme == %@", selectedTheme))
         self._score = score
         self._coins = coins
@@ -80,7 +75,6 @@ struct CardQuizView: View {
                             case 0, 2:
                                 Text(dateTextArray[textIndex])
                                     .foregroundColor(.white)
-                                   // .font(.title2)
                                     .multilineTextAlignment(.center)
                                     .frame(maxWidth: .infinity, maxHeight: 100)
                                     .opacity(cardIsDropped ? 1.0 : 0.0)
@@ -88,13 +82,11 @@ struct CardQuizView: View {
                                 if hintDemanded {
                                     Text(cardSequence.cardDateUpperCar)
                                         .foregroundColor(.white)
-                                     //   .font(.title2)
                                         .multilineTextAlignment(.center)
                                         .frame(maxWidth: .infinity, maxHeight: 100)
                                 }else{
                                     Text(dateTextArray[textIndex])
                                         .foregroundColor(.white)
-//                                        .font(.title2)
                                         .multilineTextAlignment(.center)
                                         .frame(maxWidth: .infinity, maxHeight: 100)
                                         .opacity(cardIsDropped ? 1.0 : 0.0)
@@ -149,7 +141,7 @@ struct CardQuizView: View {
                                         .frame(height: geo.size.height * 0.30)
                                     
                                 }
-                                .animation(answerIsGood || cardIndex == 1 ? nil : .spring(response: 0.7, dampingFraction: 0.7))
+                                .animation(Animation.spring(response: 0.7, dampingFraction: 0.7), value: cardFlipped[cardIndex])
                                 .frame(height: geo.size.height * 0.30)
                             case 3, 4, 5 :
                                 Card(clearColor: clearColor, cardText: lowerCardText(cardIndex: cardIndex), index: cardIndex, fontColorIsClear: false, onEnded: cardDropped, onChanged: cardMoved, gradientSelection: gradient, fontType: Font.footnote)
@@ -179,6 +171,7 @@ struct CardQuizView: View {
                         numberOfAnswers = Progression.numberOfAnswers(fetchRequest: fetchRequest)
                         coins = UserDefaults.standard.integer(forKey: "coins")
                         if coins < 0 {
+                            initialiseForQuestion()
                             questionSection = .showNoCoinsView
                             hintButtonIsVisible = false
                             nextButtonVisible = false
@@ -192,11 +185,16 @@ struct CardQuizView: View {
                                 hintButtonIsVisible = true
                                 nextButtonVisible = false
                             }else{
-                                hintButtonIsVisible = false
                                 cardIsDropped = true
                                 nextButtonVisible = true
                                 questionWasAswered = true
-                                questionSection = .showQuizStatusPage
+                                if numberOfAnswers == 10 {
+                                    questionSection = .showQuizStatusPage
+                                }else{
+                                    questionSection = .multipleChoiceQuestionNotAnswered
+                                    initialiseForQuestion()
+                                }
+                                hintButtonIsVisible = true
                             }
                             if progressionMessage == .finished {nextButtonVisible = false}
                             if progressionMessage == .expertAchieved {nextButtonVisible = false}
@@ -217,25 +215,9 @@ struct CardQuizView: View {
                 }
                 .navigationTitle("Before or After")
                 .frame(maxHeight: .infinity)
-                .toolbar{
-                    Button{
-                        soundState = SoundOption.soundOnOff()
-                    }label: {
-                        Image(systemName: soundState)
-                    }
+                .onAppear{
+                    hintButtonIsVisible = true
                 }
-            }
-        }
-        .onChange(of: scenePhase) {newPhase in
-            if newPhase == .inactive {
-                print("is incative")
-            }
-            if newPhase == .active {
-                print("active")
-            }
-            if newPhase == .background {
-                print("in background")
-                EraseQuizResult.erase(fetchRequest: fetchRequest, theme: selectedTheme)
             }
         }
     }
@@ -349,10 +331,10 @@ struct CardQuizView: View {
             
         }) {
             if match == 0 || match == 2 {
-                print(DragState.good)
+
                 return .good
             }else{
-                print(DragState.bad)
+
                 return .bad
             }
         }
@@ -377,14 +359,14 @@ struct CardQuizView: View {
     func goodAnswerCompilation() {
         answerIsGood = true
         soundPlayer.playSound(soundName: "chime_clickbell_octave_up", type: "mp3", soundState: soundState)
-       // GoodAnswer.add()
         coins = UserDefaults.standard.integer(forKey: "coins")
         for event in fetchRequest{
             if event.wrappedTimeLine == cardSequence.upperCard {
                 event.numberOfGoodAnswersQuiz = event.numberOfGoodAnswersQuiz + 1
+                
             }
-            try? moc.save()
         }
+        try? moc.save()
     }
     func badAnswerCompilation() {
         answerIsGood =  false
@@ -399,9 +381,9 @@ struct CardQuizView: View {
         for event in fetchRequest{
             if event.wrappedTimeLine == cardSequence.upperCard {
                 event.numberOfBadAnswersQuiz = event.numberOfBadAnswersQuiz + 1
-                try? moc.save()
             }
         }
+        try? moc.save()
         dateTextArray = ["", "", ""]
         if hintDemanded{
             BadAnswer1.substract()
@@ -412,7 +394,7 @@ struct CardQuizView: View {
     }
 
 }
-//
+
 //struct CardQuizView_Previews: PreviewProvider {
 //    static var previews: some View {
 //

@@ -20,7 +20,6 @@ class CardSequence: ObservableObject{
     init (selectedTheme: String, questionViewModel: QuestionViewModel) {
         self.selectedTheme = selectedTheme
         self.allEvents = Bundle.main.decode([Event].self, from: selectedTheme)
-        //questionViewModel = QuestionViewModel(allEvents: self.allEvents)
         self.questionViewModel = questionViewModel
         initialize()
     }

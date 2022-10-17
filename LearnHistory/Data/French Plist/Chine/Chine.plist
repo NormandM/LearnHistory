@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>462D47BA-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>2070 – 600AV.</string>
+		<key>question</key>
+		<string>Quelle dynastie chinoise est considérée comme la première ?</string>
+		<key>correctTAnswer</key>
+		<string>Xia</string>
+		<key>incorrectAnswer1</key>
+		<string>Zhou</string>
+		<key>incorrectAnswer2</key>
+		<string>Jin</string>
+		<key>incorrectAnswer3</key>
+		<string>JHan</string>
+		<key>wikiSearchWord</key>
+		<string>Dynastie Xia</string>
+		<key>questionTrueOrFalse</key>
+		<string>Selon la tradition, la dynastie Xia a été établie par le légendaire Yu le Grand</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>La dynastie Xia</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D4A6C-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>1200AV.</string>
+		<key>question</key>
+		<string>Quand l&apos;écriture chinoise est-elle apparue ?</string>
+		<key>correctTAnswer</key>
+		<string>1200 AV.</string>
+		<key>incorrectAnswer1</key>
+		<string>3200 AV.</string>
+		<key>incorrectAnswer2</key>
+		<string>2200 AV.</string>
+		<key>incorrectAnswer3</key>
+		<string>200AV.</string>
+		<key>wikiSearchWord</key>
+		<string>Chinois écrit</string>
+		<key>questionTrueOrFalse</key>
+		<string>C&apos;est sous la dynastie Shang que l&apos;écriture chinoise est née.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>L&apos;écriture chinoise apparaît</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D4BC0-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>1050AV.</string>
+		<key>question</key>
+		<string>Quelle dynastie chinoise a duré le plus longtemps ?</string>
+		<key>correctTAnswer</key>
+		<string>Zhou</string>
+		<key>incorrectAnswer1</key>
+		<string>Qin</string>
+		<key>incorrectAnswer2</key>
+		<string>Shan</string>
+		<key>incorrectAnswer3</key>
+		<string>Han</string>
+		<key>wikiSearchWord</key>
+		<string>Dynastie Zhou</string>
+		<key>questionTrueOrFalse</key>
+		<string>Pendant la dynastie Zhou, le pouvoir est de plus en plus centralisé</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>La dynastie Zhou accède au pouvoir.</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D4CE2-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>600-221 AV.</string>
+		<key>question</key>
+		<string>Pendant la dynastie Zhou, trois grandes philosophies ont été créées. Confucianisme, taoïsme et… Quel est le troisième ?</string>
+		<key>correctTAnswer</key>
+		<string>Le légisme</string>
+		<key>incorrectAnswer1</key>
+		<string>Yoga</string>
+		<key>incorrectAnswer2</key>
+		<string>Jaïnisme</string>
+		<key>incorrectAnswer3</key>
+		<string>Shinto</string>
+		<key>wikiSearchWord</key>
+		<string>Confucianisme</string>
+		<key>questionTrueOrFalse</key>
+		<string>La société chinoise a désormais oublié le confucianisme</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Période des Cent Écoles de Pensée</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D5098-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>551-479AV.</string>
+		<key>question</key>
+		<string>Qu&apos;est-ce que le confucianisme ?</string>
+		<key>correctTAnswer</key>
+		<string>Une philosophie, une manière de gouverner et un mode de vie.</string>
+		<key>incorrectAnswer1</key>
+		<string>Une philosophie</string>
+		<key>incorrectAnswer2</key>
+		<string>Une manière de gouverner</string>
+		<key>incorrectAnswer3</key>
+		<string>Un mode de vie</string>
+		<key>wikiSearchWord</key>
+		<string>Confucianisme</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;influence de Confucius en Asie orientale est telle qu&apos;on peut la comparer à celles de Platon et Jésus en Occident.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Naissance du confucianisme</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D51B0-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>300AV.</string>
+		<key>question</key>
+		<string>Le papier, la poudre à canon et l&apos;imprimerie sont trois inventions de la Chine ancienne. Nommez-en un quatrième.</string>
+		<key>correctTAnswer</key>
+		<string>La boussole</string>
+		<key>incorrectAnswer1</key>
+		<string>La roue</string>
+		<key>incorrectAnswer2</key>
+		<string>Aqueducs</string>
+		<key>incorrectAnswer3</key>
+		<string>Le clou</string>
+		<key>wikiSearchWord</key>
+		<string>Quatre grandes inventions de la Chine antique</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le papier,  l&apos;imprimerie, la boussole et la poudre à canon sont des inventions chinoises qui ont contribué à construire l&apos;Occident moderne.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Invention de la boussole</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D52B4-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>221-207AV.</string>
+		<key>question</key>
+		<string>Quelle philosophie chinoise considère que l&apos;homme est né mauvais ?</string>
+		<key>correctTAnswer</key>
+		<string>Légisme</string>
+		<key>incorrectAnswer1</key>
+		<string>Confucianisme</string>
+		<key>incorrectAnswer2</key>
+		<string>Daoisme</string>
+		<key>incorrectAnswer3</key>
+		<string>Bouddhisme</string>
+		<key>wikiSearchWord</key>
+		<string>Légisme</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le légisme s&apos;oppose au confucianisme.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Le légisme est développé par le philosophe Han Feizi. ( Dynastie Qin )</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D53CC-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>221-207AV.</string>
+		<key>question</key>
+		<string>Quelle dynastie a unifié la Chine pour la première fois en tant qu&apos;empire ?</string>
+		<key>correctTAnswer</key>
+		<string>Qin</string>
+		<key>incorrectAnswer1</key>
+		<string>Zhou</string>
+		<key>incorrectAnswer2</key>
+		<string>Shan</string>
+		<key>incorrectAnswer3</key>
+		<string>Han</string>
+		<key>wikiSearchWord</key>
+		<string>Dynastie Qin</string>
+		<key>questionTrueOrFalse</key>
+		<string>La dynastie Qin a duré plus de cent ans.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>La dynastie Qin</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D54DA-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>206AV. - 220 après JC</string>
+		<key>question</key>
+		<string>Sous quelle dynastie la Chine a-t-elle considérablement étendu son territoire, du Vietnam au sud jusqu&apos;à la Corée ?</string>
+		<key>correctTAnswer</key>
+		<string>Han</string>
+		<key>incorrectAnswer1</key>
+		<string>Jin</string>
+		<key>incorrectAnswer2</key>
+		<string>Tang</string>
+		<key>incorrectAnswer3</key>
+		<string>Ming</string>
+		<key>wikiSearchWord</key>
+		<string>Dynastie Han</string>
+		<key>questionTrueOrFalse</key>
+		<string>La dynastie Han est considérée comme un âge d&apos;or dans l&apos;histoire chinoise</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>La dynastie Han</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D55E8-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>202AV..</string>
+		<key>question</key>
+		<string>Quelle religion, originaire de l&apos;Inde, est devenue une religion importante en Chine ?</string>
+		<key>correctTAnswer</key>
+		<string>Bouddhisme</string>
+		<key>incorrectAnswer1</key>
+		<string>Taoïsme</string>
+		<key>incorrectAnswer2</key>
+		<string>Yoga</string>
+		<key>incorrectAnswer3</key>
+		<string>Jaïnisme</string>
+		<key>wikiSearchWord</key>
+		<string>Bouddhisme en Chine</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les principaux courants actuels des bouddhismes japonais, coréen et vietnamien se sont développés indépendamment du bouddhisme chinois.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Le bouddhisme apparaît en Chine</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D5700-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>130AV.</string>
+		<key>question</key>
+		<string>Qu&apos;est-ce qui a joué un rôle central dans la facilitation des interactions économiques, culturelles et politiques entre l&apos;Orient et l&apos;Occident ?</string>
+		<key>correctTAnswer</key>
+		<string>La route de la soie</string>
+		<key>incorrectAnswer1</key>
+		<string>Confucianisme</string>
+		<key>incorrectAnswer2</key>
+		<string>Invention du papier</string>
+		<key>incorrectAnswer3</key>
+		<string>Invention de la poudre à canon</string>
+		<key>wikiSearchWord</key>
+		<string>Route de la soie</string>
+		<key>questionTrueOrFalse</key>
+		<string>La route de la soie a existé pendant 1 500 ans.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>La dynastie Han en Chine ouvre officiellement le commerce avec l&apos;Occident</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D5A5C-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>220 à 280</string>
+		<key>question</key>
+		<string>Après la chute de la dynastie Han, la Chine était divisée en combien de royaumes ?</string>
+		<key>correctTAnswer</key>
+		<string>3</string>
+		<key>incorrectAnswer1</key>
+		<string>6</string>
+		<key>incorrectAnswer2</key>
+		<string>4</string>
+		<key>incorrectAnswer3</key>
+		<string>2</string>
+		<key>wikiSearchWord</key>
+		<string>Trois Royaumes de Chine</string>
+		<key>questionTrueOrFalse</key>
+		<string>Peu d’importance est accordée à la  période des Trois Royaumes dans la tradition chinoise.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Période desTrois Royaumes</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D5B6A-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>618 à 907</string>
+		<key>question</key>
+		<string>Quelle dynastie est considérée comme un point culminant de la civilisation chinoise et un âge d&apos;or de la culture cosmopolite ?</string>
+		<key>correctTAnswer</key>
+		<string>Tang</string>
+		<key>incorrectAnswer1</key>
+		<string>Ming</string>
+		<key>incorrectAnswer2</key>
+		<string>Qin</string>
+		<key>incorrectAnswer3</key>
+		<string>Zhou</string>
+		<key>wikiSearchWord</key>
+		<string>Dynastie Tang</string>
+		<key>questionTrueOrFalse</key>
+		<string>La capitale Tang à Chang&apos;an (l&apos;actuel Xi&apos;an) était alors la ville la plus peuplée du monde</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Dynastie Tang</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D5C78-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>960 - 1279 </string>
+		<key>question</key>
+		<string>Ils ont été les premiers au monde à émettre des billets de banque. De quelle dynastie chinoise s&apos;agit-il ?</string>
+		<key>correctTAnswer</key>
+		<string>Song</string>
+		<key>incorrectAnswer1</key>
+		<string>Qin</string>
+		<key>incorrectAnswer2</key>
+		<string>Ming</string>
+		<key>incorrectAnswer3</key>
+		<string>Han</string>
+		<key>wikiSearchWord</key>
+		<string>Dynastie Song</string>
+		<key>questionTrueOrFalse</key>
+		<string>Bien que la technologie et la science aient prospéré sous les Song, la croissance démographique était faible.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Dynastie Song</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D5D7C-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>1162</string>
+		<key>question</key>
+		<string>Qui était le fondateur de l&apos;empire mongol, le plus grand empire contigu de l&apos;histoire ?</string>
+		<key>correctTAnswer</key>
+		<string>Gengis Khan</string>
+		<key>incorrectAnswer1</key>
+		<string>Attila</string>
+		<key>incorrectAnswer2</key>
+		<string>Tamerlane</string>
+		<key>incorrectAnswer3</key>
+		<string>Ashoka</string>
+		<key>wikiSearchWord</key>
+		<string>Genghis Khan</string>
+		<key>questionTrueOrFalse</key>
+		<string> Les Mongols considèrent Gengis Khan comme le père de leur nation.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Naissance de Gengis Khan</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D5E8A-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>1271 à 1368</string>
+		<key>question</key>
+		<string>Comment s&apos;appelait l&apos;empire mongol qui a régné sur la Chine de 1271 à 1368 ?</string>
+		<key>correctTAnswer</key>
+		<string>Yuan</string>
+		<key>incorrectAnswer1</key>
+		<string>Khan</string>
+		<key>incorrectAnswer2</key>
+		<string>Tam</string>
+		<key>incorrectAnswer3</key>
+		<string>Ming</string>
+		<key>wikiSearchWord</key>
+		<string>Dynastie Yuan</string>
+		<key>questionTrueOrFalse</key>
+		<string>Gengis Khan a régné sur la dynastie Yuan.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>La dynastie Yuan</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D5F8E-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>1406 à 1420</string>
+		<key>question</key>
+		<string>Quelle construction remarquable a été construite sous la dynastie Ming ?</string>
+		<key>correctTAnswer</key>
+		<string>La cité interdite</string>
+		<key>incorrectAnswer1</key>
+		<string>La grande Muraille</string>
+		<key>incorrectAnswer2</key>
+		<string>Armée de terre cuite</string>
+		<key>incorrectAnswer3</key>
+		<string>Place Tiananmen</string>
+		<key>wikiSearchWord</key>
+		<string>Cité interdite</string>
+		<key>questionTrueOrFalse</key>
+		<string> La Cité interdite s&apos;étend sur une superficie de 72 hectares et  fait partie des palais les plus anciens et les mieux conservés de Chine.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Construction de la Cité Interdite</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D6254-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>1839 à 1842</string>
+		<key>question</key>
+		<string>Qui était l&apos;adversaire de la Chine lors de la première guerre de l&apos;opium ?</string>
+		<key>correctTAnswer</key>
+		<string>Royaume-Uni</string>
+		<key>incorrectAnswer1</key>
+		<string>France</string>
+		<key>incorrectAnswer2</key>
+		<string>Allemagne</string>
+		<key>incorrectAnswer3</key>
+		<string>Japon</string>
+		<key>wikiSearchWord</key>
+		<string>Première guerre de l&apos;opium</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Chinois ont vaincu le Royaume-Uni lors de la première guerre de l&apos;opium.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Première guerre de l&apos;opium</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D636C-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>1911</string>
+		<key>question</key>
+		<string>Quelle dernière dynastie , la révolution Xinhai, a-t-elle renversée en 1912 ?</string>
+		<key>correctTAnswer</key>
+		<string>Qing</string>
+		<key>incorrectAnswer1</key>
+		<string>Ming</string>
+		<key>incorrectAnswer2</key>
+		<string>Tang</string>
+		<key>incorrectAnswer3</key>
+		<string>Jin</string>
+		<key>wikiSearchWord</key>
+		<string>Révolution chinoise de 1911</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Révolution de 1911, ou Révolution Xinhai, a conduit à la création de la République de Chine.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Révolution Xinhai</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D6470-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>12 février 1912</string>
+		<key>question</key>
+		<string>De quelle dynastie était le dernier empereur de Chine?</string>
+		<key>correctTAnswer</key>
+		<string>Qing</string>
+		<key>incorrectAnswer1</key>
+		<string>Ming</string>
+		<key>incorrectAnswer2</key>
+		<string>Tang</string>
+		<key>incorrectAnswer3</key>
+		<string>Jin</string>
+		<key>wikiSearchWord</key>
+		<string>Dynastie Qing</string>
+		<key>questionTrueOrFalse</key>
+		<string>Bien que Puy ait été le dernier empereur, il n&apos;a jamais dû abdiquer le pouvoir.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Dernier empereur Puy, abdique</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D656A-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>1949</string>
+		<key>question</key>
+		<string>Qui est le dirigeant chinois qui s&apos;est enfui sur l&apos;île de Taiwan en prétendant être le gouvernement légitime de la Chine ?</string>
+		<key>correctTAnswer</key>
+		<string>Tchang Kaï-chek</string>
+		<key>incorrectAnswer1</key>
+		<string>Mao Zedong</string>
+		<key>incorrectAnswer2</key>
+		<string>Zhou Enlai</string>
+		<key>incorrectAnswer3</key>
+		<string>Deng Xiaoping</string>
+		<key>wikiSearchWord</key>
+		<string>Tchang Kaï-chek</string>
+		<key>questionTrueOrFalse</key>
+		<string>Après avoir fui vers l&apos;île de Taïwan, Chiang Kai-shek est retourné en Chine continentale.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Chiang Kai-shek s&apos;enfuit à Taïwan</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>462D666E-D85F-11EC-9D64-0242AC120002</string>
+		<key>date</key>
+		<string>1949</string>
+		<key>question</key>
+		<string>Qui était le fondateur de la République Populaire de Chine (RPC) ?</string>
+		<key>correctTAnswer</key>
+		<string>Mao Zedong</string>
+		<key>incorrectAnswer1</key>
+		<string>Tchang Kaï-chek</string>
+		<key>incorrectAnswer2</key>
+		<string>Zhou Enlai</string>
+		<key>incorrectAnswer3</key>
+		<string>Deng Xiaoping</string>
+		<key>wikiSearchWord</key>
+		<string>Mao Zedong</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mao Zedong a régné en tant que président du Parti communiste chinois depuis la création de la RPC en 1949 jusqu&apos;à sa mort en 1976.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Mao Zedong a déclaré la création de la République populaire de Chine</string>
+		<key>theme</key>
+		<string>Chine</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+</array>
+</plist>

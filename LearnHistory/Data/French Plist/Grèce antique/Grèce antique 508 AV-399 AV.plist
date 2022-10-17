@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Clisthenes</string>
+		<key>date</key>
+		<string>508 Av</string>
+		<key>id</key>
+		<string>135fc05c-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Solon</string>
+		<key>incorrectAnswer2</key>
+		<string>Socrate</string>
+		<key>incorrectAnswer3</key>
+		<string>Aristote</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Qui est considéré comme &quot;le père de la démocratie athénienne&quot; ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les actions de Cléisthène n&apos;ont pas réduit le pouvoir de la noblesse sur la politique athénienne.</string>
+		<key>theme</key>
+		<string>Grèce antique 508 AV-399 AV</string>
+		<key>timeLine</key>
+		<string>Cléisthène réforme la constitution d&apos;Athènes sur la voie de la démocratie.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Clisthène</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La révolte ionienne</string>
+		<key>date</key>
+		<string>499-493 Av</string>
+		<key>id</key>
+		<string>135fc174-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Guerre du Péloponnèse</string>
+		<key>incorrectAnswer2</key>
+		<string>La première guerre punique</string>
+		<key>incorrectAnswer3</key>
+		<string>la bataille de Marathon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>Qu&apos;est-ce qui a constitué le premier conflit majeur entre la Grèce et l&apos;Empire perse ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Athènes n&apos;a pas défendu les Ioniens pendant la révolte.</string>
+		<key>theme</key>
+		<string>Grèce antique 508 AV-399 AV</string>
+		<key>timeLine</key>
+		<string>La révolte ionienne</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>La révolte ionienne</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Darius le Grand</string>
+		<key>date</key>
+		<string>492-490 Av</string>
+		<key>id</key>
+		<string>135fc28c-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cyrius</string>
+		<key>incorrectAnswer2</key>
+		<string>Xerxès</string>
+		<key>incorrectAnswer3</key>
+		<string>Hannibal</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>Qui est le roi perse qui a envahi la Grèce pour la première fois ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Perses ont gagné cette première guerre.</string>
+		<key>theme</key>
+		<string>Grèce antique 508 AV-399 AV</string>
+		<key>timeLine</key>
+		<string>Première invasion perse de la Grèce</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Première guerre médique</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les Thermopyles</string>
+		<key>date</key>
+		<string>480-479 Av</string>
+		<key>id</key>
+		<string>135fc3a4-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Gibraltar</string>
+		<key>incorrectAnswer2</key>
+		<string>Skinakas</string>
+		<key>incorrectAnswer3</key>
+		<string>Katara</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Lors de la 2e invasion perse, comment s&apos;appelait le col défendu par une petite force spartiate ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Perses ont perdu la bataille des Thermopyles.</string>
+		<key>theme</key>
+		<string>Grèce antique 508 AV-399 AV</string>
+		<key>timeLine</key>
+		<string>La deuxième invasion perse de la Grèce</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>bataille des Thermopyles.</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Délos</string>
+		<key>date</key>
+		<string>478 Av</string>
+		<key>id</key>
+		<string>135fc4c6-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Athéniens</string>
+		<key>incorrectAnswer2</key>
+		<string>Périclès</string>
+		<key>incorrectAnswer3</key>
+		<string>Péloponnèse</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>Quel est le nom de la ligue, formée par Athènes, pendant son âge d&apos;or ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Seule la ville d&apos;Athènes faisait partie de cette ligue.</string>
+		<key>theme</key>
+		<string>Grèce antique 508 AV-399 AV</string>
+		<key>timeLine</key>
+		<string>Fondation de Délos</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Ligue de Délos</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hippocrate</string>
+		<key>date</key>
+		<string>460 Av</string>
+		<key>id</key>
+		<string>135fc5d4-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Aristote</string>
+		<key>incorrectAnswer2</key>
+		<string>Platon</string>
+		<key>incorrectAnswer3</key>
+		<string>Socrate</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Qui est considéré comme l&apos;une des figures les plus marquantes de l&apos;histoire de la médecine ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hippocrate est considéré traditionnellement comme le « père de la médecine »..</string>
+		<key>theme</key>
+		<string>Grèce antique 508 AV-399 AV</string>
+		<key>timeLine</key>
+		<string>Naissance d&apos;Hippocrate</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Hippocrate</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Athènes et Sparte</string>
+		<key>date</key>
+		<string>445 Av</string>
+		<key>id</key>
+		<string>135fc8cc-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Athènes et Thèbes</string>
+		<key>incorrectAnswer2</key>
+		<string>Argo et Sparte</string>
+		<key>incorrectAnswer3</key>
+		<string>Thèbes et Argo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>Quelles étaient les deux principales villes ennemies lors de la première guerre du Péloponnèse ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La ligue du Péloponnèse était dirigée par Athènes.</string>
+		<key>theme</key>
+		<string>Grèce antique 508 AV-399 AV</string>
+		<key>timeLine</key>
+		<string>Fin de la première guerre du Péloponnèse.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre du Péloponnèse</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Athéna</string>
+		<key>date</key>
+		<string>438 Av</string>
+		<key>id</key>
+		<string>135fc9ee-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Zeus</string>
+		<key>incorrectAnswer2</key>
+		<string>Héra</string>
+		<key>incorrectAnswer3</key>
+		<string>Apollon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>Construit sur l&apos;Acropole athénienne, à quel dieu ou déesse le Parthénon est-il dédié ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>le Parthénon est le temple qui a le plus inspiré les architectes néo-classiques.</string>
+		<key>theme</key>
+		<string>Grèce antique 508 AV-399 AV</string>
+		<key>timeLine</key>
+		<string>Le Parthénon est achevé.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Parthénon</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Sparte</string>
+		<key>date</key>
+		<string>404 Av</string>
+		<key>id</key>
+		<string>135fcafc-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Athènes</string>
+		<key>incorrectAnswer2</key>
+		<string>Thèbes</string>
+		<key>incorrectAnswer3</key>
+		<string>Argo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Qui a gagné la guerre du Péloponnèse ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Après la guerre, Sparte devient la première puissance de la Grèce.</string>
+		<key>theme</key>
+		<string>Grèce antique 508 AV-399 AV</string>
+		<key>timeLine</key>
+		<string>Fin de la guerre du Péloponnèse.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre du Péloponnèse</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Socrate</string>
+		<key>date</key>
+		<string>399 Av</string>
+		<key>id</key>
+		<string>135fcc1e-ba90-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Platon</string>
+		<key>incorrectAnswer2</key>
+		<string>Aristote</string>
+		<key>incorrectAnswer3</key>
+		<string>Pythagore</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>Quel philosophe grec d&apos;Athènes est considéré comme le fondateur de la philosophie occidentale ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Socrate n&apos;a laissé aucun document écrit de ses concepts philosophiques.</string>
+		<key>theme</key>
+		<string>Grèce antique 508 AV-399 AV</string>
+		<key>timeLine</key>
+		<string>Décès de Socrate</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Socrate</string>
+	</dict>
+</array>
+</plist>

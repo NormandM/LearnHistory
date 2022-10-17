@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Caesar Augustus (Octavian)</string>
+		<key>date</key>
+		<string>27 BC – 14 AD</string>
+		<key>id</key>
+		<string>5ee33fc2-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Julius Ceasar</string>
+		<key>incorrectAnswer2</key>
+		<string>Claudius</string>
+		<key>incorrectAnswer3</key>
+		<string>Nero</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>Who was the first Roman emperor?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The reign of Augustus initiated an era of civil wars.</string>
+		<key>theme</key>
+		<string>Ancient Rome 27 BC - 476</string>
+		<key>timeLine</key>
+		<string>Imperial Rule of Augustus Caesar (Octavian)</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Augustus</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Claudius</string>
+		<key>date</key>
+		<string>43 AD              </string>
+		<key>id</key>
+		<string>5ee340f8-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Julius Ceasar</string>
+		<key>incorrectAnswer2</key>
+		<string>Caligula</string>
+		<key>incorrectAnswer3</key>
+		<string>Nero</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>The Roman conquest and occupation of Britain began under which emperor? </string>
+		<key>questionTrueOrFalse</key>
+		<string>On the Island of Britain, the Romans easily conquered the tribes in Scotland.</string>
+		<key>theme</key>
+		<string>Ancient Rome 27 BC - 476</string>
+		<key>timeLine</key>
+		<string>Conquest of Britain begins under Emperor Claudius</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Roman conquest of Britain</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Christians</string>
+		<key>date</key>
+		<string>64 AD</string>
+		<key>id</key>
+		<string>5ee34224-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The plebeians</string>
+		<key>incorrectAnswer2</key>
+		<string>The immigrants</string>
+		<key>incorrectAnswer3</key>
+		<string>The Jews</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>Who did Nero blame for the Great Fire of Rome in AD 64?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Great Fire of Rome lasted for 6 days.</string>
+		<key>theme</key>
+		<string>Ancient Rome 27 BC - 476</string>
+		<key>timeLine</key>
+		<string>Great Fire of Rome Emperor Nero places blame on Christians</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Great Fire of Rome</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>4</string>
+		<key>date</key>
+		<string>69 AD</string>
+		<key>id</key>
+		<string>5ee34350-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>6</string>
+		<key>incorrectAnswer2</key>
+		<string>2</string>
+		<key>incorrectAnswer3</key>
+		<string>5</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>In AD 69, how many emperors ruled in succession during the first civil war of the empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string>AD 69 was called &quot;The year of the four emperors&quot;</string>
+		<key>theme</key>
+		<string>Ancient Rome 27 BC - 476</string>
+		<key>timeLine</key>
+		<string>‘Year of the 4 Emperors’</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Year of the Four Emperors</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hadrian</string>
+		<key>date</key>
+		<string>122 AD</string>
+		<key>id</key>
+		<string>5ee3472e-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Commodus</string>
+		<key>incorrectAnswer2</key>
+		<string>Trajan</string>
+		<key>incorrectAnswer3</key>
+		<string>Marcus Aurelius</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>In AD 122, which emperor built the wall separating Roman Britannia and Caledonia ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hadrian’s wall did not cover the whole width of the island.</string>
+		<key>theme</key>
+		<string>Ancient Rome 27 BC - 476</string>
+		<key>timeLine</key>
+		<string>Building of Hadrian’s Wall in Britannia</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Hadrian&apos;s Wall</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Marcus Aurelius</string>
+		<key>date</key>
+		<string>161 – 180 AD</string>
+		<key>id</key>
+		<string>5ee34864-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Commodus</string>
+		<key>incorrectAnswer2</key>
+		<string>Hadrian</string>
+		<key>incorrectAnswer3</key>
+		<string>Trajan</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>He was the last of the rulers known as the Five Good Emperors. Who is he ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Marcus Aurelius’ successor, his son Commodus, continued with the Pax Romana.</string>
+		<key>theme</key>
+		<string>Ancient Rome 27 BC - 476</string>
+		<key>timeLine</key>
+		<string>Era of the “Five Good Emperors” (Nerva, Trajan, Hadrian, Antoninus Pius, Marcus Aurelius)</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Marcus Aurelius</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Constantine the Great</string>
+		<key>date</key>
+		<string>312 – 337 AD</string>
+		<key>id</key>
+		<string>5ee34990-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Marcus Aurelius</string>
+		<key>incorrectAnswer2</key>
+		<string>Claudius</string>
+		<key>incorrectAnswer3</key>
+		<string>Caligula</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Who was the first Roman emperor to convert to Christianity?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Constantine built a new imperial residence at the city of Byzantium and renamed it Constantinople.</string>
+		<key>theme</key>
+		<string>Ancient Rome 27 BC - 476</string>
+		<key>timeLine</key>
+		<string>Reign of Constantine the Great</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Constantine the Great</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Huns</string>
+		<key>date</key>
+		<string>376 AD</string>
+		<key>id</key>
+		<string>5ee34ab2-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Vandals</string>
+		<key>incorrectAnswer2</key>
+		<string>The Mongols</string>
+		<key>incorrectAnswer3</key>
+		<string>The Celts</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>In 376 a great number of Goths entered the Roman Empire. Who were they fleeing from?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Goths lost the Battle of Adrianople.</string>
+		<key>theme</key>
+		<string>Ancient Rome 27 BC - 476</string>
+		<key>timeLine</key>
+		<string>Visigoths defeat the Romans at the Battle of Adrianipole in the Balkans</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Battle of Adrianople</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Alaric</string>
+		<key>date</key>
+		<string>410 AD</string>
+		<key>id</key>
+		<string>5ee34bca-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Attila</string>
+		<key>incorrectAnswer2</key>
+		<string>Vercingetorix</string>
+		<key>incorrectAnswer3</key>
+		<string>Odoacer</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Which king led the Visigoths to the Sack of Rome on 24 August 410 AD?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Sack of Rome of 410 was the first time in almost 800 years that Rome had fallen to a foreign enemy.</string>
+		<key>theme</key>
+		<string>Ancient Rome 27 BC - 476</string>
+		<key>timeLine</key>
+		<string>The Visigoths, led by Alaric, sack Rome</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Sack of Rome (410)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>476 AD</string>
+		<key>date</key>
+		<string>476 AD</string>
+		<key>id</key>
+		<string>5ee34d46-c59e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>276 AD</string>
+		<key>incorrectAnswer2</key>
+		<string>376 AD</string>
+		<key>incorrectAnswer3</key>
+		<string>576 AD</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>What is the year of  the fall of the Western Roman Empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Although the Western Roman Empire fell, the Eastern Roman, or Byzantine Empire survived.</string>
+		<key>theme</key>
+		<string>Ancient Rome 27 BC - 476</string>
+		<key>timeLine</key>
+		<string>The Western Roman Empire falls</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Fall of the Western Roman Empire</string>
+	</dict>
+</array>
+</plist>

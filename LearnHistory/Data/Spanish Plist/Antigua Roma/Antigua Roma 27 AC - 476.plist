@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>César Augusto (Octavio)</string>
+		<key>date</key>
+		<string>27 A.C.– 14 </string>
+		<key>id</key>
+		<string>2860aa12-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Julio César</string>
+		<key>incorrectAnswer2</key>
+		<string>Claudio</string>
+		<key>incorrectAnswer3</key>
+		<string>Nerón</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>¿Quién fue el primer emperador romano?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El reinado de Augusto inició una era de guerras civiles.</string>
+		<key>theme</key>
+		<string>Antigua Roma 27 AC - 476</string>
+		<key>timeLine</key>
+		<string>Gobierno imperial de Augusto César (Octavio)</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Augusto</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Claudio</string>
+		<key>date</key>
+		<string>43               </string>
+		<key>id</key>
+		<string>2860ab2a-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Julio César</string>
+		<key>incorrectAnswer2</key>
+		<string>Calígula</string>
+		<key>incorrectAnswer3</key>
+		<string>Nerón</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>¿Con qué emperador comenzó la conquista y ocupación de Gran Bretaña? </string>
+		<key>questionTrueOrFalse</key>
+		<string>En la isla de Bretaña, los romanos conquistaron fácilmente las tribus de Escocia.</string>
+		<key>theme</key>
+		<string>Antigua Roma 27 AC - 476</string>
+		<key>timeLine</key>
+		<string>Comienza la conquista de Gran Bretaña bajo el emperador Claudio</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Conquista romana de Britania</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Cristianos</string>
+		<key>date</key>
+		<string>64</string>
+		<key>id</key>
+		<string>2860ac42-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Los plebeyos</string>
+		<key>incorrectAnswer2</key>
+		<string>Los inmigrantes</string>
+		<key>incorrectAnswer3</key>
+		<string>Los judíos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>¿A quién culpó Nerón del gran incendio de Roma en el año 64?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Gran Incendio de Roma duró 5 días.</string>
+		<key>theme</key>
+		<string>Antigua Roma 27 AC - 476</string>
+		<key>timeLine</key>
+		<string>Gran incendio de Roma El emperador Nerón culpa a los cristianos</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Gran incendio de Roma</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>4</string>
+		<key>date</key>
+		<string>69</string>
+		<key>id</key>
+		<string>2860ad46-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>6</string>
+		<key>incorrectAnswer2</key>
+		<string>2</string>
+		<key>incorrectAnswer3</key>
+		<string>5</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>¿En el año 69 d.C., cuántos emperadores se sucedieron durante la primera guerra civil del imperio?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El 69 d.C. fue llamado &quot;El año de los cuatro emperadores&quot;.</string>
+		<key>theme</key>
+		<string>Antigua Roma 27 AC - 476</string>
+		<key>timeLine</key>
+		<string>Año de los 4 emperadores</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Año de los cuatro emperadores</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Adriano</string>
+		<key>date</key>
+		<string>122</string>
+		<key>id</key>
+		<string>2860ae54-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cómodo</string>
+		<key>incorrectAnswer2</key>
+		<string>Trajano</string>
+		<key>incorrectAnswer3</key>
+		<string>Marco Aurelio</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>¿En el año 122, qué emperador construyó la muralla que separa la Britania romana de Caledonia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La muralla de Adriano no cubría toda la anchura de la isla.</string>
+		<key>theme</key>
+		<string>Antigua Roma 27 AC - 476</string>
+		<key>timeLine</key>
+		<string>Construcción del Muro de Adriano en Britania</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Muro de Adriano</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Marco Aurelio</string>
+		<key>date</key>
+		<string>161 – 180 </string>
+		<key>id</key>
+		<string>2860b386-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cómodo</string>
+		<key>incorrectAnswer2</key>
+		<string>Adriano</string>
+		<key>incorrectAnswer3</key>
+		<string>Trajano</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>Fue el último de los gobernantes conocidos como los Cinco Buenos Emperadores. ¿Quién es?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Marco Aurelio está considerado como una de las figuras más representativas de la filosofía estoica.</string>
+		<key>theme</key>
+		<string>Antigua Roma 27 AC - 476</string>
+		<key>timeLine</key>
+		<string>Época de los &quot;cinco buenos emperadores&quot; (Nerva, Trajano, Adriano, Antonino Pío, Marco Aurelio)</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Marco Aurelio</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Constantino el Grande</string>
+		<key>date</key>
+		<string>312 – 337 </string>
+		<key>id</key>
+		<string>2860b4a8-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Marco Aurelio</string>
+		<key>incorrectAnswer2</key>
+		<string>Claudio</string>
+		<key>incorrectAnswer3</key>
+		<string>Calígula</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>¿Quién fue el primer emperador romano que se convirtió al cristianismo?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Constantino construyó una nueva residencia imperial en la ciudad de Bizancio y la rebautizó como Constantinopla.</string>
+		<key>theme</key>
+		<string>Antigua Roma 27 AC - 476</string>
+		<key>timeLine</key>
+		<string>Reinado de Constantino el Grande</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Constantino I</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Los hunos</string>
+		<key>date</key>
+		<string>376</string>
+		<key>id</key>
+		<string>2860b5ca-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Los vándalos</string>
+		<key>incorrectAnswer2</key>
+		<string>Los mongoles</string>
+		<key>incorrectAnswer3</key>
+		<string>Los celtas</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>En el año 376, un gran número de godos entró en el Imperio Romano. ¿De quienes huían?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los godos pierden la batalla de Adrianópolis.</string>
+		<key>theme</key>
+		<string>Antigua Roma 27 AC - 476</string>
+		<key>timeLine</key>
+		<string>Los visigodos derrotan a los romanos en la batalla de Adrianipole en los Balcanes</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Battle of Adrianople</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Alarico</string>
+		<key>date</key>
+		<string>410</string>
+		<key>id</key>
+		<string>2860b6d8-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Atila</string>
+		<key>incorrectAnswer2</key>
+		<string>Vercingetorix</string>
+		<key>incorrectAnswer3</key>
+		<string>Odoacro</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>¿Qué rey condujo a los visigodos al saqueo de Roma el 24 de agosto del año 410?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El saqueo de Roma no fue una victoria decisiva en la guerra para los visigodos</string>
+		<key>theme</key>
+		<string>Antigua Roma 27 AC - 476</string>
+		<key>timeLine</key>
+		<string>Los visigodos, liderados por Alarico, saquean Roma</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Saqueo de Roma (410)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>476 D.C.</string>
+		<key>date</key>
+		<string>476</string>
+		<key>id</key>
+		<string>2860b818-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>276 D.C.</string>
+		<key>incorrectAnswer2</key>
+		<string>376 D.C.</string>
+		<key>incorrectAnswer3</key>
+		<string>576 D.C.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>¿Cuál es el año de la caída del Imperio Romano de Occidente?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Aunque su legitimidad sobrevivió durante varios siglos más el Imperio de Occidente nunca tuvo la fuerza para levantarse de nuevo.</string>
+		<key>theme</key>
+		<string>Antigua Roma 27 AC - 476</string>
+		<key>timeLine</key>
+		<string>Cae el Imperio Romano de Occidente</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Caída del Imperio romano de Occidente</string>
+	</dict>
+</array>
+</plist>

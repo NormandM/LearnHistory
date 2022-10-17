@@ -10,9 +10,8 @@ import Foundation
 import AVFoundation
 var player: AVAudioPlayer!
 class SoundPlayer {
-    
     static let shared = SoundPlayer()
-    func playSound(soundName: String, type: String, soundState: String) {
+    func playSound(soundName: String, type: String, soundState: String?) {
         if soundState == "speaker.slash" {
             if let path = Bundle.main.path(forResource: soundName, ofType: type){
                 let url = URL(fileURLWithPath: path)

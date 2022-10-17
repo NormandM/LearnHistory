@@ -50,6 +50,8 @@ struct QuizButtonTextModifier2: View {
                 }
                 
             }
+            .foregroundColor(.black)
+                    
             
         }
     }

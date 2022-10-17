@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1917</string>
+		<key>date</key>
+		<string>1917</string>
+		<key>id</key>
+		<string>881d1e16-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>1915</string>
+		<key>incorrectAnswer2</key>
+		<string>1914</string>
+		<key>incorrectAnswer3</key>
+		<string>1916</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>What year did the United States enter World War I?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Before entering the World War I, the U.S. had remained neutral.</string>
+		<key>theme</key>
+		<string>United States 1917-1969</string>
+		<key>timeLine</key>
+		<string>The United States enter World War I.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>United States in World War I</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Give women the right to vote</string>
+		<key>date</key>
+		<string>1920</string>
+		<key>id</key>
+		<string>881d1f4c-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>To make slavery illegal</string>
+		<key>incorrectAnswer2</key>
+		<string>To guaranty freedom of religion</string>
+		<key>incorrectAnswer3</key>
+		<string>Outlawed prostitution</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>The Nineteenth Amendment was ratified and proclaimed in 1920. What was its purpose?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Before 1776, women had a vote in several of the colonies in what would become the United States</string>
+		<key>theme</key>
+		<string>United States 1917-1969</string>
+		<key>timeLine</key>
+		<string>Proclamation of the Nineteenth Amendment.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Nineteenth Amendment to the United States Constitution</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Grapes of Wrath</string>
+		<key>date</key>
+		<string>1929 - 1939</string>
+		<key>id</key>
+		<string>881d2064-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Great Gatsby</string>
+		<key>incorrectAnswer2</key>
+		<string>To Kill a Mockingbird</string>
+		<key>incorrectAnswer3</key>
+		<string>The Catcher in the Rye</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>What Great American Novel is set during the Great Depression (1929 - 1939)?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Great Depression was first and foremost a stock market crash.</string>
+		<key>theme</key>
+		<string>United States 1917-1969</string>
+		<key>timeLine</key>
+		<string>The Great Depression.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Great Depression in the United States</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The New Deal</string>
+		<key>date</key>
+		<string>1933</string>
+		<key>id</key>
+		<string>881d2168-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>National Assistance Program</string>
+		<key>incorrectAnswer2</key>
+		<string>Welfare</string>
+		<key>incorrectAnswer3</key>
+		<string>Justice for all</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>What were Franklin Delano Roosevelt&apos;s policies aimed at alleviating the misery of the Great Depression called?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Franklin D. Roosevelt was a Republican.</string>
+		<key>theme</key>
+		<string>United States 1917-1969</string>
+		<key>timeLine</key>
+		<string>The  New Deal.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>New Deal</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The attack on Pearl Harbor</string>
+		<key>date</key>
+		<string>1941</string>
+		<key>id</key>
+		<string>881d25e6-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hitler&apos;s invasion of Poland.</string>
+		<key>incorrectAnswer2</key>
+		<string>Hitler’s invasion of France.</string>
+		<key>incorrectAnswer3</key>
+		<string>The Blitz on the United Kingdom</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>What event caused the United States to enter World War II?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The United States knew in advance that the Japanese were going to attack.</string>
+		<key>theme</key>
+		<string>United States 1917-1969</string>
+		<key>timeLine</key>
+		<string>Attack on Pearl Harbor.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Attack on Pearl Harbor</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hiroshima and Nagasaki</string>
+		<key>date</key>
+		<string>1945</string>
+		<key>id</key>
+		<string>881d271c-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hiroshima and Tokyo</string>
+		<key>incorrectAnswer2</key>
+		<string>Hiroshima and Osaka</string>
+		<key>incorrectAnswer3</key>
+		<string>Hisoshima</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>On which cities did the United States drop the atomic bomb?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Japan surrendered to the Allies on 15 August 1945, six days after and the bombing of Nagasaki.</string>
+		<key>theme</key>
+		<string>United States 1917-1969</string>
+		<key>timeLine</key>
+		<string>Atomic bombings of Hiroshima and Nagasaki.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Atomic bombings of Hiroshima and Nagasaki</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>3</string>
+		<key>date</key>
+		<string>1950-1953</string>
+		<key>id</key>
+		<string>881d2816-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>4</string>
+		<key>incorrectAnswer2</key>
+		<string>6</string>
+		<key>incorrectAnswer3</key>
+		<string>5</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>How many years did the Korean War last?</string>
+		<key>questionTrueOrFalse</key>
+		<string>No peace treaty was ever signed, and the two Koreas are technically still at war.</string>
+		<key>theme</key>
+		<string>United States 1917-1969</string>
+		<key>timeLine</key>
+		<string>Korean War.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Korean War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Rosa Parks</string>
+		<key>date</key>
+		<string>1955 -1956</string>
+		<key>id</key>
+		<string>881d291a-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Flo Kennedy</string>
+		<key>incorrectAnswer2</key>
+		<string>Fannie Lou Hamer</string>
+		<key>incorrectAnswer3</key>
+		<string>Septima Clark</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>Which woman in 1955 refused to leave her seat on a segregated bus?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Rosa Parks became an international icon of resistance to racial segregation.</string>
+		<key>theme</key>
+		<string>United States 1917-1969</string>
+		<key>timeLine</key>
+		<string>Montgomery bus boycott.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Rosa Parks</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Lyndon B. Johnson</string>
+		<key>date</key>
+		<string>1963-1969</string>
+		<key>id</key>
+		<string>881d2b40-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Robert F. Kennedy</string>
+		<key>incorrectAnswer2</key>
+		<string>John F. Kennedy</string>
+		<key>incorrectAnswer3</key>
+		<string>Martin Luther King Jr.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>In the 1960s, which of the following men was not assassinated?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Lee Harvey Oswald was convicted of the Kennedy assassination and died in prison.</string>
+		<key>theme</key>
+		<string>United States 1917-1969</string>
+		<key>timeLine</key>
+		<string>Assassination of John F. Kennedy</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Assassination of John F. Kennedy</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1969</string>
+		<key>date</key>
+		<string>1969</string>
+		<key>id</key>
+		<string>881d2a3c-39d5-11ed-a261-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>1966</string>
+		<key>incorrectAnswer2</key>
+		<string>1972</string>
+		<key>incorrectAnswer3</key>
+		<string>1980</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>In which year Apollo 11 landed on the moon making Neil Armstrong the first human to walk on its surface?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Three astronauts landed on the moon: Neil Armstrong, Buzz Aldrin and Michael Collins.</string>
+		<key>theme</key>
+		<string>United States 1917-1969</string>
+		<key>timeLine</key>
+		<string>Neil Armstrong walks on the moon.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Apollo 11</string>
+	</dict>
+</array>
+</plist>

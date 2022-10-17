@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>73125c92-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>753 AV</string>
+		<key>question</key>
+		<string>Qui était le fondateur légendaire et le premier roi de Rome ?</string>
+		<key>correctTAnswer</key>
+		<string>Romulus</string>
+		<key>incorrectAnswer1</key>
+		<string>Remus</string>
+		<key>incorrectAnswer2</key>
+		<string>Énée</string>
+		<key>incorrectAnswer3</key>
+		<string>Cesar</string>
+		<key>wikiSearchWord</key>
+		<string>Romulus et Rémus</string>
+		<key>questionTrueOrFalse</key>
+		<string>Remus a été tué par son frère jumeau Romulus.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Fondation légendaire de Rome par Romulus.</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>731262a0-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>509 AV</string>
+		<key>question</key>
+		<string>En quelle année la République romaine a-t-elle été établie ?</string>
+		<key>correctTAnswer</key>
+		<string>509 AV</string>
+		<key>incorrectAnswer1</key>
+		<string>409 AVANT J.-C.</string>
+		<key>incorrectAnswer2</key>
+		<string>609 AVANT J.-C.</string>
+		<key>incorrectAnswer3</key>
+		<string>309 AV</string>
+		<key>wikiSearchWord</key>
+		<string>République romaine</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les patriciens désignaient le peuple sans pouvoir réel.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Établissement de la République romaine</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>73126494-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>390 AV</string>
+		<key>question</key>
+		<string>Quel peuple a envahi Rome en 390 avant J.-C. ?</string>
+		<key>correctTAnswer</key>
+		<string>Sénons/Gaulois</string>
+		<key>incorrectAnswer1</key>
+		<string>Grecs</string>
+		<key>incorrectAnswer2</key>
+		<string>Égyptiens</string>
+		<key>incorrectAnswer3</key>
+		<string>Goths</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de l&apos;Allia</string>
+		<key>questionTrueOrFalse</key>
+		<string>Brennus dirigeait la tribu gauloise qui avait envahi l&apos;Italie du Nord et la République romaine. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>1er sac gaulois de Rome après la victoire à la bataille d&apos;Allia.</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>731265fc-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>264 – 241 AV</string>
+		<key>question</key>
+		<string>La première guerre punique a opposé Rome à quelle autre puissance ?</string>
+		<key>correctTAnswer</key>
+		<string>Carthage</string>
+		<key>incorrectAnswer1</key>
+		<string>Celtes</string>
+		<key>incorrectAnswer2</key>
+		<string>Grecs</string>
+		<key>incorrectAnswer3</key>
+		<string>Perse</string>
+		<key>wikiSearchWord</key>
+		<string>Première guerre punique</string>
+		<key>questionTrueOrFalse</key>
+		<string>Carthage remporte cette première guerre.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Première guerre punique Rome conquiert la Sicile</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7312673c-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>218 – 201 AV</string>
+		<key>question</key>
+		<string>Quel grand général a envahi l&apos;Italie en traversant les Alpes avec des éléphants de guerre ?</string>
+		<key>correctTAnswer</key>
+		<string>Hannibal</string>
+		<key>incorrectAnswer1</key>
+		<string>Attila le Hun</string>
+		<key>incorrectAnswer2</key>
+		<string>Alaric le Wisigoth</string>
+		<key>incorrectAnswer3</key>
+		<string>Cyrus le Grand</string>
+		<key>wikiSearchWord</key>
+		<string>Hannibal Barca</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hannibal fut finalement vaincu à la bataille de Zama, mettant fin à la guerre par une victoire romaine.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Deuxième guerre punique contre Hannibal</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7312685e-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>149 – 146 AV</string>
+		<key>question</key>
+		<string>Quel grand général romain a détruit la ville de Carthage lors de la troisième guerre punique ?</string>
+		<key>correctTAnswer</key>
+		<string>Scipion Aemilianus</string>
+		<key>incorrectAnswer1</key>
+		<string>Jules César</string>
+		<key>incorrectAnswer2</key>
+		<string>Gaius Marius</string>
+		<key>incorrectAnswer3</key>
+		<string>Pompée le Grand</string>
+		<key>wikiSearchWord</key>
+		<string>Troisième guerre punique</string>
+		<key>questionTrueOrFalse</key>
+		<string>Bien que vaincue dans cette troisième guerre punique, Carthage a survécu en tant que nation.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Troisième guerre punique Carthage est détruite.</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>73126caa-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>146 AV</string>
+		<key>question</key>
+		<string>Quelle bataille a marqué le début de la domination romaine sur la Grèce ?</string>
+		<key>correctTAnswer</key>
+		<string>Bataille de Corinthe</string>
+		<key>incorrectAnswer1</key>
+		<string>La bataille de Marathon</string>
+		<key>incorrectAnswer2</key>
+		<string>La bataille des Thermopyles</string>
+		<key>incorrectAnswer3</key>
+		<string>Bataille du Mont Olympe</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille de Corinthe</string>
+		<key>questionTrueOrFalse</key>
+		<string>Après la bataille de Corinthe, la ville a été complètement détruite.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Guerre achéenne Destruction de Corinthe, la Grèce devient territoire romain.</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>73126e9e-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>60 – 59 AV</string>
+		<key>question</key>
+		<string>Le premier triumvirat était une alliance entre César, Pompée et un troisième chef. Qui était ce dernier ?</string>
+		<key>correctTAnswer</key>
+		<string>Crassus</string>
+		<key>incorrectAnswer1</key>
+		<string>Scipion</string>
+		<key>incorrectAnswer2</key>
+		<string>Sulla</string>
+		<key>incorrectAnswer3</key>
+		<string>Agrippa</string>
+		<key>wikiSearchWord</key>
+		<string>Crassus</string>
+		<key>questionTrueOrFalse</key>
+		<string>La principale faiblesse de Crassus était son manque d&apos;argent.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Premier triumvirat (Crassus, Pompée, César)</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>7312706a-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>58 – 50 AV</string>
+		<key>question</key>
+		<string>Quelle bataille décisive, en 52 av. J.-C., a achevé la victoire romaine sur la Gaule ?</string>
+		<key>correctTAnswer</key>
+		<string>Bataille d&apos;Alésia</string>
+		<key>incorrectAnswer1</key>
+		<string>Bataille de Gergovie</string>
+		<key>incorrectAnswer2</key>
+		<string>Bataille des Vosges</string>
+		<key>incorrectAnswer3</key>
+		<string>Bataille de Corinthe</string>
+		<key>wikiSearchWord</key>
+		<string>Guerre des Gaules</string>
+		<key>questionTrueOrFalse</key>
+		<string>Vercingétorix tente d’unir les tribus gauloises contre l&apos;invasion romaine.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Conquête de la Gaule par Jules César</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>731271c8-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>49 — 45 AV</string>
+		<key>question</key>
+		<string>Lors de la guerre civile romaine de 49-45 av. J.-C., quel général représentait la principale opposition de César ? </string>
+		<key>correctTAnswer</key>
+		<string>Pompée</string>
+		<key>incorrectAnswer1</key>
+		<string>Brutus</string>
+		<key>incorrectAnswer2</key>
+		<string>Crassus</string>
+		<key>incorrectAnswer3</key>
+		<string>Scipion</string>
+		<key>wikiSearchWord</key>
+		<string>Pompée</string>
+		<key>questionTrueOrFalse</key>
+		<string>Pompée s&apos;enfuit en Égypte et est tué à son arrivée.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>César franchit le Rubicon et marche sur Rome et Pompée.</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>73127358-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>32 – 30 AV</string>
+		<key>question</key>
+		<string>La dernière guerre civile de la République romaine a opposé Octave à quel général romain ?</string>
+		<key>correctTAnswer</key>
+		<string>Marc-Antoine</string>
+		<key>incorrectAnswer1</key>
+		<string>Pompée</string>
+		<key>incorrectAnswer2</key>
+		<string>César</string>
+		<key>incorrectAnswer3</key>
+		<string>Crassus</string>
+		<key>wikiSearchWord</key>
+		<string>Dernière Guerre civile de la République romaine</string>
+		<key>questionTrueOrFalse</key>
+		<string>Après la bataille d&apos;Actium, Antoine et Cléopâtre sont contraints de se suicider.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Dernière guerre de la République romaine (Octave contre Antoine et Cléopâtre).</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>73127506-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>27 AV – 14</string>
+		<key>question</key>
+		<string>Qui fut le premier empereur romain ?</string>
+		<key>correctTAnswer</key>
+		<string>César Auguste (Octave)</string>
+		<key>incorrectAnswer1</key>
+		<string>Jules César</string>
+		<key>incorrectAnswer2</key>
+		<string>Claude</string>
+		<key>incorrectAnswer3</key>
+		<string>Néron</string>
+		<key>wikiSearchWord</key>
+		<string>Auguste</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le règne d&apos;Auguste marque le début d&apos;une ère de guerres civiles.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Règne impériale d&apos;Auguste César (Octave)</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>731278bc-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>43           </string>
+		<key>question</key>
+		<string>La conquête et l&apos;occupation romaines de la Grande-Bretagne ont commencé sous quel empereur ? </string>
+		<key>correctTAnswer</key>
+		<string>Claude</string>
+		<key>incorrectAnswer1</key>
+		<string>Jules César</string>
+		<key>incorrectAnswer2</key>
+		<string>Caligula</string>
+		<key>incorrectAnswer3</key>
+		<string>Néron</string>
+		<key>wikiSearchWord</key>
+		<string>Conquête romaine de la Grande-Bretagne</string>
+		<key>questionTrueOrFalse</key>
+		<string>Sur l&apos;île de Grande-Bretagne, les Romains ont facilement conquis les tribus d&apos;Écosse.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>La conquête de la Grande-Bretagne commence sous l&apos;empereur Claude.</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>73127aa6-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>64</string>
+		<key>question</key>
+		<string>Qui Néron a-t-il accusé du Grand Incendie de Rome en 64 après J.-C. ?</string>
+		<key>correctTAnswer</key>
+		<string>Les Chrétiens</string>
+		<key>incorrectAnswer1</key>
+		<string>Les plébéiens</string>
+		<key>incorrectAnswer2</key>
+		<string>Les immigrés</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Juifs</string>
+		<key>wikiSearchWord</key>
+		<string>Grand incendie de Rome</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le grand incendie de Rome a duré 6 jours.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Grand incendie de Rome L&apos;empereur Néron rejette la faute sur les chrétiens.</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>73127fc4-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>69</string>
+		<key>question</key>
+		<string>En 69 après J.-C., combien d&apos;empereurs se sont succédé au cours de la première guerre civile de l&apos;empire ?</string>
+		<key>correctTAnswer</key>
+		<string>4</string>
+		<key>incorrectAnswer1</key>
+		<string>6</string>
+		<key>incorrectAnswer2</key>
+		<string>2</string>
+		<key>incorrectAnswer3</key>
+		<string>5</string>
+		<key>wikiSearchWord</key>
+		<string>Année des quatre empereurs</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;année 69 a été appelée &quot;l&apos;année des quatre empereurs&quot;.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>L&apos;année des 4 empereurs</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>731281cc-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>122</string>
+		<key>question</key>
+		<string>En 122 après J.-C., quel empereur a construit le mur séparant la Bretagne romaine et la Calédonie ?</string>
+		<key>correctTAnswer</key>
+		<string>Hadrien</string>
+		<key>incorrectAnswer1</key>
+		<string>Commode</string>
+		<key>incorrectAnswer2</key>
+		<string>Trajan</string>
+		<key>incorrectAnswer3</key>
+		<string>Marcus Aurelius</string>
+		<key>wikiSearchWord</key>
+		<string>Mur d&apos;Hadrien</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le mur d&apos;Hadrien ne couvrait pas toute la largeur de l&apos;île.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Construction du mur d&apos;Hadrien en Bretagne.</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>731283a2-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>161 – 180</string>
+		<key>question</key>
+		<string>Il était le dernier des souverains connus sous le nom des cinq bons empereurs. Qui est-il ?</string>
+		<key>correctTAnswer</key>
+		<string>Marc Aurèle</string>
+		<key>incorrectAnswer1</key>
+		<string>Commodus</string>
+		<key>incorrectAnswer2</key>
+		<string>Hadrien</string>
+		<key>incorrectAnswer3</key>
+		<string>Trajan</string>
+		<key>wikiSearchWord</key>
+		<string>Marc Aurèle</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le successeur de Marc Aurèle, son fils Commode, poursuit la Pax Romana.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Époque des &quot;cinq bons empereurs&quot; (Nerva, Trajan, Hadrien, Antoninus Pius, Marc Aurèle)</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>73128550-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>312 – 337</string>
+		<key>question</key>
+		<string>Qui fut le premier empereur romain à se convertir au christianisme ?</string>
+		<key>correctTAnswer</key>
+		<string>Constantin le Grand</string>
+		<key>incorrectAnswer1</key>
+		<string>Marcus Aurelius</string>
+		<key>incorrectAnswer2</key>
+		<string>Claude</string>
+		<key>incorrectAnswer3</key>
+		<string>Caligula</string>
+		<key>wikiSearchWord</key>
+		<string>Constantin Ier (empereur romain)</string>
+		<key>questionTrueOrFalse</key>
+		<string>Constantin construit une nouvelle résidence impériale dans la ville de Byzance et la rebaptise Constantinople.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Règne de Constantin le Grand</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>73128726-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>376</string>
+		<key>question</key>
+		<string>En 376, un grand nombre de Goths sont entrés dans l&apos;Empire romain. Qui fuyaient-ils ?</string>
+		<key>correctTAnswer</key>
+		<string>Les Huns</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Vandales</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Mongols</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Celtes</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille d&apos;Andrinople (378)</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Goths perdent la bataille d&apos;Adrianople.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Les Wisigoths battent les Romains à la bataille d&apos;Adrianipole, dans les Balkans.</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>731288e8-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>410</string>
+		<key>question</key>
+		<string>Quel roi a mené les Wisigoths à la mise à sac de Rome le 24 août 410 après J.-C. ?</string>
+		<key>correctTAnswer</key>
+		<string>Alaric</string>
+		<key>incorrectAnswer1</key>
+		<string>Attila</string>
+		<key>incorrectAnswer2</key>
+		<string>Vercingétorix</string>
+		<key>incorrectAnswer3</key>
+		<string>Odoacer</string>
+		<key>wikiSearchWord</key>
+		<string>Sac de Rome (410))</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le sac de Rome en 410 est la première fois depuis près de 800 ans que Rome tombe aux mains d&apos;un ennemi étranger.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Les Wisigoths, menés par Alaric, mettent Rome à sac.</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>73128ab4-c654-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>476</string>
+		<key>question</key>
+		<string>Quelle est l&apos;année de la chute de l&apos;Empire romain d&apos;Occident ?</string>
+		<key>correctTAnswer</key>
+		<string>476</string>
+		<key>incorrectAnswer1</key>
+		<string>276</string>
+		<key>incorrectAnswer2</key>
+		<string>376</string>
+		<key>incorrectAnswer3</key>
+		<string>576</string>
+		<key>wikiSearchWord</key>
+		<string>Empire byzantin</string>
+		<key>questionTrueOrFalse</key>
+		<string>Bien que l&apos;Empire romain d&apos;Occident soit tombé, l&apos;Empire romain d&apos;Orient, ou Empire byzantin, a survécu.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Chute de l&apos;Empire Romain d’Occident. L’empire Byzantin survit.</string>
+		<key>theme</key>
+		<string>Rome antique</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+</array>
+</plist>

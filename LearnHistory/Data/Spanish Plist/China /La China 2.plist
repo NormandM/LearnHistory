@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>4ed825f6-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>2070 - 600 A.C.</string>
+		<key>question</key>
+		<string>¿Qué dinastía china se considera la primera?</string>
+		<key>correctTAnswer</key>
+		<string>Xia</string>
+		<key>incorrectAnswer1</key>
+		<string>Zhou</string>
+		<key>incorrectAnswer2</key>
+		<string>Jin</string>
+		<key>incorrectAnswer3</key>
+		<string>JHan</string>
+		<key>wikiSearchWord</key>
+		<string>Dinastía Xia</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hubo 17 reyes de la dinastia Xia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>La dinastía Xia</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed82a4c-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1200 AC</string>
+		<key>question</key>
+		<string>¿Cuándo apareció la escritura china?</string>
+		<key>correctTAnswer</key>
+		<string>1200 A.C.</string>
+		<key>incorrectAnswer1</key>
+		<string>3200 A.C.</string>
+		<key>incorrectAnswer2</key>
+		<string>2200 A.D.</string>
+		<key>incorrectAnswer3</key>
+		<string>200 A.C.</string>
+		<key>wikiSearchWord</key>
+		<string>Chino escrito</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los chinos con educación conocen alrededor de 4.000 caracteres.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Aparece la escritura china</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed82b5a-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1050 A.C.</string>
+		<key>question</key>
+		<string>¿Qué dinastía china duró más tiempo?</string>
+		<key>correctTAnswer</key>
+		<string>Zhou</string>
+		<key>incorrectAnswer1</key>
+		<string>Qin</string>
+		<key>incorrectAnswer2</key>
+		<string>Shan</string>
+		<key>incorrectAnswer3</key>
+		<string>Han</string>
+		<key>wikiSearchWord</key>
+		<string>Dinastía Zhou</string>
+		<key>questionTrueOrFalse</key>
+		<string>Durante la dinastía Zhou, el poder se volvió cada vez más centralizado</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>La dinastía Zhou llega al poder.</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed82c54-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>600-221 A.C.</string>
+		<key>question</key>
+		<string>Durante la dinastía Zhou se crearon tres grandes filosofías. El confucianismo, el taoísmo y... ¿Cuál es el tercero?</string>
+		<key>correctTAnswer</key>
+		<string>Legalismo</string>
+		<key>incorrectAnswer1</key>
+		<string>Yoga</string>
+		<key>incorrectAnswer2</key>
+		<string>Jainismo</string>
+		<key>incorrectAnswer3</key>
+		<string>Shinto</string>
+		<key>wikiSearchWord</key>
+		<string>Filosofía china</string>
+		<key>questionTrueOrFalse</key>
+		<string>La sociedad china ha olvidado el confucianismo</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Período de las cien escuelas de pensamiento</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed82d44-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>551-479 A.C.</string>
+		<key>question</key>
+		<string>¿Qué es el confucianismo?</string>
+		<key>correctTAnswer</key>
+		<string>Una filosofía, una forma de gobernar y un modo de vida.</string>
+		<key>incorrectAnswer1</key>
+		<string>Una filosofía</string>
+		<key>incorrectAnswer2</key>
+		<string>Una forma de gobernar</string>
+		<key>incorrectAnswer3</key>
+		<string>Una forma de vida</string>
+		<key>wikiSearchWord</key>
+		<string>Confucianismo</string>
+		<key>questionTrueOrFalse</key>
+		<string>El confucianismo ha ejercido una gran influencia sobre China, Corea, Vietnam, Japón, Taiwán, Hong Kong y Macao</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Nacimiento del confucianismo</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed82e34-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>300 A.C.</string>
+		<key>question</key>
+		<string>El papel, la pólvora y la imprenta son tres inventos de la antigua China. Nombra un cuarto.</string>
+		<key>correctTAnswer</key>
+		<string>La brújula</string>
+		<key>incorrectAnswer1</key>
+		<string>La rueda</string>
+		<key>incorrectAnswer2</key>
+		<string>Acueductos</string>
+		<key>incorrectAnswer3</key>
+		<string>El clavo</string>
+		<key>wikiSearchWord</key>
+		<string>Cuatro Grandes Inventos</string>
+		<key>questionTrueOrFalse</key>
+		<string>El papel, la imprenta, la brújula y la pólvora son inventos chinos que ayudaron a construir el Occidente moderno.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Invención de la brújula</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed82f10-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>221-207 A.C.</string>
+		<key>question</key>
+		<string>¿Qué filosofía china considera que el hombre nace malo?</string>
+		<key>correctTAnswer</key>
+		<string>Legalismo</string>
+		<key>incorrectAnswer1</key>
+		<string>Confucianismo</string>
+		<key>incorrectAnswer2</key>
+		<string>Daoísmo</string>
+		<key>incorrectAnswer3</key>
+		<string>Budismo</string>
+		<key>wikiSearchWord</key>
+		<string>Legalismo (filosofía china)</string>
+		<key>questionTrueOrFalse</key>
+		<string>El legalismo se opone al confucianismo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>El legalismo es desarrollado por el filósofo Han Feizi (dinastía Qin)</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed83000-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>221-207 A.C.</string>
+		<key>question</key>
+		<string>¿Qué dinastía unificó China por primera vez como imperio?</string>
+		<key>correctTAnswer</key>
+		<string>Qin</string>
+		<key>incorrectAnswer1</key>
+		<string>Zhou</string>
+		<key>incorrectAnswer2</key>
+		<string>Shan</string>
+		<key>incorrectAnswer3</key>
+		<string>Han</string>
+		<key>wikiSearchWord</key>
+		<string>Dinastía Qin</string>
+		<key>questionTrueOrFalse</key>
+		<string>La dinastía Qin duró más de 100 años.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>La dinastía Qin</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed830f0-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>206 A.C. - 220AD</string>
+		<key>question</key>
+		<string>¿Bajo qué dinastía China amplió considerablemente su territorio, desde Vietnam en el sur hasta Corea?</string>
+		<key>correctTAnswer</key>
+		<string>Han</string>
+		<key>incorrectAnswer1</key>
+		<string>Jin</string>
+		<key>incorrectAnswer2</key>
+		<string>Tang</string>
+		<key>incorrectAnswer3</key>
+		<string>Ming</string>
+		<key>wikiSearchWord</key>
+		<string>Dinastía Han</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los logros intelectuales, artísticos y literarios florecieron durante la dinastía Han</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>La dinastía Han</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed8333e-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>202 A.C.</string>
+		<key>question</key>
+		<string>¿Qué religión se originó en la India y se convirtió en una religión importante en China?</string>
+		<key>correctTAnswer</key>
+		<string>Budismo</string>
+		<key>incorrectAnswer1</key>
+		<string>Taoísmo</string>
+		<key>incorrectAnswer2</key>
+		<string>Yoga</string>
+		<key>incorrectAnswer3</key>
+		<string>Jainismo</string>
+		<key>wikiSearchWord</key>
+		<string>Budismo chino</string>
+		<key>questionTrueOrFalse</key>
+		<string> El budismo desempeñó un papel muy importante en la formación de la mentalidad de la gente china</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>El budismo aparece en China</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed83424-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>130 A.C.</string>
+		<key>question</key>
+		<string>¿Qué es lo que ha facilitado las interacciones económicas, culturales y políticas entre Oriente y Occidente?</string>
+		<key>correctTAnswer</key>
+		<string>La Ruta de la Seda</string>
+		<key>incorrectAnswer1</key>
+		<string>Confucianismo</string>
+		<key>incorrectAnswer2</key>
+		<string>La invención del papel</string>
+		<key>incorrectAnswer3</key>
+		<string>Invención de la pólvora</string>
+		<key>wikiSearchWord</key>
+		<string>Ruta de la Seda</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Ruta de la Seda era una extensa red de rutas comerciales terrestres y marítimas, abiertas por China desde al menos el siglo I a. C</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>La dinastía Han de China abre oficialmente el comercio con Occidente</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed83500-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>220 à 280</string>
+		<key>question</key>
+		<string>Tras la caída de la dinastía Han, China se dividió en ¿cuántos reinos?</string>
+		<key>correctTAnswer</key>
+		<string>3</string>
+		<key>incorrectAnswer1</key>
+		<string>6</string>
+		<key>incorrectAnswer2</key>
+		<string>4</string>
+		<key>incorrectAnswer3</key>
+		<string>2</string>
+		<key>wikiSearchWord</key>
+		<string>Tres Reinos</string>
+		<key>questionTrueOrFalse</key>
+		<string>La tradición china concede poca importancia al periodo de los Tres Reinos.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Período de los Tres Reinos</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed835dc-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>618 à 907</string>
+		<key>question</key>
+		<string>¿Qué dinastía se considera un punto álgido de la civilización china y una edad de oro de la cultura cosmopolita?</string>
+		<key>correctTAnswer</key>
+		<string>Tang</string>
+		<key>incorrectAnswer1</key>
+		<string>Ming</string>
+		<key>incorrectAnswer2</key>
+		<string>Qin</string>
+		<key>incorrectAnswer3</key>
+		<string>Zhou</string>
+		<key>wikiSearchWord</key>
+		<string>Dinastía Tang</string>
+		<key>questionTrueOrFalse</key>
+		<string>La capital de los Tang en Chang&apos;an (actual Xi&apos;an) era la ciudad más poblada del mundo en aquella época.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Dinastía Tang</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed836ae-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>960 - 1279 </string>
+		<key>question</key>
+		<string>Fueron los primeros del mundo en emitir billetes de banco. ¿De qué dinastía china se trata?</string>
+		<key>correctTAnswer</key>
+		<string>Song</string>
+		<key>incorrectAnswer1</key>
+		<string>Qin</string>
+		<key>incorrectAnswer2</key>
+		<string>Ming</string>
+		<key>incorrectAnswer3</key>
+		<string>Han</string>
+		<key>wikiSearchWord</key>
+		<string>Dinastía Song</string>
+		<key>questionTrueOrFalse</key>
+		<string>Aunque la tecnología y la ciencia florecieron bajo los Song, el crecimiento de la población fue bajo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Dinastía Song</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed8378a-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1162</string>
+		<key>question</key>
+		<string>¿Quién fue el fundador del Imperio Mongol?</string>
+		<key>correctTAnswer</key>
+		<string>Genghis Khan</string>
+		<key>incorrectAnswer1</key>
+		<string>Attila</string>
+		<key>incorrectAnswer2</key>
+		<string>Tamerlane</string>
+		<key>incorrectAnswer3</key>
+		<string>Ashoka</string>
+		<key>wikiSearchWord</key>
+		<string>Gengis Kan</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Imperio Mongol fue el imperio contiguo más grande del mundo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Nacimiento de Gengis Kan</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed8385c-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1271 à 1368</string>
+		<key>question</key>
+		<string>¿Cómo se llamaba el Imperio Mongol que gobernó China de 1271 a 1368?</string>
+		<key>correctTAnswer</key>
+		<string>Yuan</string>
+		<key>incorrectAnswer1</key>
+		<string>Khan</string>
+		<key>incorrectAnswer2</key>
+		<string>Tam</string>
+		<key>incorrectAnswer3</key>
+		<string>Ming</string>
+		<key>wikiSearchWord</key>
+		<string>Dinastía Yuan</string>
+		<key>questionTrueOrFalse</key>
+		<string>Gengis Khan gobernó la dinastía Yuan.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>La dinastía Yuan</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed83938-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1406 à 1420</string>
+		<key>question</key>
+		<string>¿Qué edificio notable se construyó durante la dinastía Ming?</string>
+		<key>correctTAnswer</key>
+		<string>La Ciudad Prohibida</string>
+		<key>incorrectAnswer1</key>
+		<string>La Gran Muralla</string>
+		<key>incorrectAnswer2</key>
+		<string>Ejército de Terracota</string>
+		<key>incorrectAnswer3</key>
+		<string>Plaza de Tiananmen</string>
+		<key>wikiSearchWord</key>
+		<string>Ciudad Prohibida</string>
+		<key>questionTrueOrFalse</key>
+		<string> La Ciudad Prohibida está considerado por la Unesco como el mayor conjunto de estructuras antiguas de madera en el mundo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Construcción de la Ciudad Prohibida</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed83b54-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1839 à 1842</string>
+		<key>question</key>
+		<string>¿Quién fue el oponente de China en la primera Guerra del Opio?</string>
+		<key>correctTAnswer</key>
+		<string>Reino Unido</string>
+		<key>incorrectAnswer1</key>
+		<string>Francia</string>
+		<key>incorrectAnswer2</key>
+		<string>Alemania</string>
+		<key>incorrectAnswer3</key>
+		<string>Japón</string>
+		<key>wikiSearchWord</key>
+		<string>Primera Guerra del Opio</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los chinos derrotaron al Reino Unido en la Primera Guerra del Opio.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Primera Guerra del Opio</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed83c3a-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1911</string>
+		<key>question</key>
+		<string>¿Qué última dinastía, la Revolución Xinhai, derrocó en 1912?</string>
+		<key>correctTAnswer</key>
+		<string>Qing</string>
+		<key>incorrectAnswer1</key>
+		<string>Ming</string>
+		<key>incorrectAnswer2</key>
+		<string>Tang</string>
+		<key>incorrectAnswer3</key>
+		<string>Jin</string>
+		<key>wikiSearchWord</key>
+		<string>Revolución de Xinhai</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Revolución de 1911, o Revolución de Xinhai, condujo a la creación de la República de China.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Revolución Xinhai</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed83d16-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>12-Feb-12</string>
+		<key>question</key>
+		<string>¿De qué dinastía fue el último emperador de China?</string>
+		<key>correctTAnswer</key>
+		<string>Qing</string>
+		<key>incorrectAnswer1</key>
+		<string>Ming</string>
+		<key>incorrectAnswer2</key>
+		<string>Tang</string>
+		<key>incorrectAnswer3</key>
+		<string>Jin</string>
+		<key>wikiSearchWord</key>
+		<string>Dinastía Qing</string>
+		<key>questionTrueOrFalse</key>
+		<string>Aunque Puy fue el último emperador, nunca tuvo que abdicar del poder.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>El último emperador del Puy abdica</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4ed83df2-d878-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1949</string>
+		<key>question</key>
+		<string>¿Quién fue el líder chino que huyó a la isla de Taiwán afirmando ser el gobierno legítimo de China?</string>
+		<key>correctTAnswer</key>
+		<string>Chiang Kai-shek</string>
+		<key>incorrectAnswer1</key>
+		<string>Mao Zedong</string>
+		<key>incorrectAnswer2</key>
+		<string>Zhou Enlai</string>
+		<key>incorrectAnswer3</key>
+		<string>Deng Xiaoping</string>
+		<key>wikiSearchWord</key>
+		<string>Chiang Kai-shek</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tras huir a la isla de Taiwán, Chiang Kai-shek regresó a la China continental.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>timeLine</key>
+		<string>Chiang Kai-shek huye a Taiwán</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>dacd5092-d911-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1949</string>
+		<key>question</key>
+		<string>¿Quién fue el fundador de la República Popular China (RPC)?</string>
+		<key>correctTAnswer</key>
+		<string>Mao Zedong</string>
+		<key>incorrectAnswer1</key>
+		<string>Chiang Kai-shek</string>
+		<key>incorrectAnswer2</key>
+		<string>Zhou Enlai</string>
+		<key>incorrectAnswer3</key>
+		<string>Deng Xiaoping</string>
+		<key>wikiSearchWord</key>
+		<string>Mao Zedong</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mao Zedong reinó como Presidente del Partido Comunista Chino desde la creación de la RPC en 1949 hasta su muerte en 1976.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>timeLine</key>
+		<string>Mao Zedong declaró la creación de la República Popular China</string>
+		<key>theme</key>
+		<string>La China</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+</array>
+</plist>

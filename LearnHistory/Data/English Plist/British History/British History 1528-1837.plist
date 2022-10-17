@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ann Boleyn</string>
+		<key>date</key>
+		<string>1528</string>
+		<key>id</key>
+		<string>0A9463DA-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Elizabeth</string>
+		<key>incorrectAnswer2</key>
+		<string>Mary</string>
+		<key>incorrectAnswer3</key>
+		<string>Eleanor of Aquitaine</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Henry VIII appeals to the pope to annul his marriage. Who did he want to marry instead?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ann Boleyn was Henry VIII last wife</string>
+		<key>theme</key>
+		<string>British History 1528-1837</string>
+		<key>timeLine</key>
+		<string>Henry VIII appeals to the pope to annul his marriage</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Ann Boleyn</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>6</string>
+		<key>date</key>
+		<string>1543</string>
+		<key>id</key>
+		<string>0A9464DE-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>4</string>
+		<key>incorrectAnswer2</key>
+		<string>8</string>
+		<key>incorrectAnswer3</key>
+		<string>3</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>How many times did Henry VIII marry ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Henry VIII was already a Protestant when he initiated the English reformation?</string>
+		<key>theme</key>
+		<string>British History 1528-1837</string>
+		<key>timeLine</key>
+		<string>Henry VIII marries Catherine Parr, his sixth marriage.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Henry VIII</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Mary Tudor</string>
+		<key>date</key>
+		<string>1553</string>
+		<key>id</key>
+		<string>0A9465E2-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Elizabeth I</string>
+		<key>incorrectAnswer2</key>
+		<string>Catherine of Aragon</string>
+		<key>incorrectAnswer3</key>
+		<string>Eleanor of Aquitaine</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>She was the first woman to be crowned monarch of England in her own right&quot; Who is she?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mary Tudor was also known as Bloody Mary,</string>
+		<key>theme</key>
+		<string>British History 1528-1837</string>
+		<key>timeLine</key>
+		<string>Mary Tudor becomes queen of England.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Mary I of England</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Mary Stuart</string>
+		<key>date</key>
+		<string>1587</string>
+		<key>id</key>
+		<string>0A9466DC-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Joan of Navarre</string>
+		<key>incorrectAnswer2</key>
+		<string>Margaret of Anjou</string>
+		<key>incorrectAnswer3</key>
+		<string>Catherine of Valois</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>She was queen of Scotland and was executed when found guilty of treason. Who is she?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mary Stuart spent eighteen and a half years in captivity before she was beheaded.</string>
+		<key>theme</key>
+		<string>British History 1528-1837</string>
+		<key>timeLine</key>
+		<string>Mary Stuart (Mary I of Scotland) is executed</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Mary, Queen of Scots</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Royalist and Parliamentarian</string>
+		<key>date</key>
+		<string>1642</string>
+		<key>id</key>
+		<string>0A9467CC-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ireland and England</string>
+		<key>incorrectAnswer2</key>
+		<string>Ireland and Scotland</string>
+		<key>incorrectAnswer3</key>
+		<string>Scotland and Ireland</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>In 1642 a civil war begins. Who were the parties involved in that war?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The war ended with Royalist victory at the Battle of Worcester on 3 September 1651.</string>
+		<key>theme</key>
+		<string>British History 1528-1837</string>
+		<key>timeLine</key>
+		<string>English Civil War begins</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>English Civil War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Charles I</string>
+		<key>date</key>
+		<string>1649</string>
+		<key>id</key>
+		<string>0A946A92-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Louis XVI</string>
+		<key>incorrectAnswer2</key>
+		<string>Edward</string>
+		<key>incorrectAnswer3</key>
+		<string>Edgar</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>After the execution of this king of England, the monarchy was abolished. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>King Charles I refused to accept his captors&apos; demands for a constitutional monarchy.</string>
+		<key>theme</key>
+		<string>British History 1528-1837</string>
+		<key>timeLine</key>
+		<string>King Charles I is executed for high treason</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Charles I of England</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Oliver Cromwell</string>
+		<key>date</key>
+		<string>1653</string>
+		<key>id</key>
+		<string>0A946B96-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Henry Ireton</string>
+		<key>incorrectAnswer2</key>
+		<string>John Pym</string>
+		<key>incorrectAnswer3</key>
+		<string>John Hampden</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>From 1653 he rules as Lord Protector of England. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cromwell was not one the signatories of Charles I&apos;s death warrant.</string>
+		<key>theme</key>
+		<string>British History 1528-1837</string>
+		<key>timeLine</key>
+		<string>Cromwell is named Lord Protector</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Oliver Cromwell</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>William of Orange</string>
+		<key>date</key>
+		<string>1688</string>
+		<key>id</key>
+		<string>0A946C90-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Charles II</string>
+		<key>incorrectAnswer2</key>
+		<string>James II</string>
+		<key>incorrectAnswer3</key>
+		<string>William II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>Who became king after The Glorious Revolution and the overthrow of King James II?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Glorious Revolution lasted more than 10 years.</string>
+		<key>theme</key>
+		<string>British History 1528-1837</string>
+		<key>timeLine</key>
+		<string>The Glorious Revolution</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>The Glorious Revolution</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Battle of Trafalgar</string>
+		<key>date</key>
+		<string>1805</string>
+		<key>id</key>
+		<string>0A946D94-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Battle of Waterloo</string>
+		<key>incorrectAnswer2</key>
+		<string>Battle of Iena</string>
+		<key>incorrectAnswer3</key>
+		<string>Battle of Austerlitz</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>In 1805 Lord Nelson defeats Napoleon . What was the name of the battle?</string>
+		<key>questionTrueOrFalse</key>
+		<string>In the battle of Trafalgar Nelson was outnumbered, with 27 British ships of the line to 33 allied ships. </string>
+		<key>theme</key>
+		<string>British History 1528-1837</string>
+		<key>timeLine</key>
+		<string>Battle of Trafalgar</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Battle of Trafalgar</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Queen Victoria</string>
+		<key>date</key>
+		<string>1837</string>
+		<key>id</key>
+		<string>0A946E8E-86C2-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Queen Elizabeth I</string>
+		<key>incorrectAnswer2</key>
+		<string>Queen Mary</string>
+		<key>incorrectAnswer3</key>
+		<string>Queen Elizabeth II</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>In 1837 she became Queen at the age of 18. Who is she?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Queen Victoria became a national icon who was identified with strict standards of personal morality.</string>
+		<key>theme</key>
+		<string>British History 1528-1837</string>
+		<key>timeLine</key>
+		<string>Victoria becomes queen</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Queen Victoria</string>
+	</dict>
+</array>
+</plist>

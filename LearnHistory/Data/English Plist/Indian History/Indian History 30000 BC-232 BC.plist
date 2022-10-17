@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Adivasi </string>
+		<key>date</key>
+		<string>30000 BC</string>
+		<key>id</key>
+		<string>23b06868-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Hmong</string>
+		<key>incorrectAnswer2</key>
+		<string>The Mlabri</string>
+		<key>incorrectAnswer3</key>
+		<string>The Giraavaru</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>What are the first inhabitants, the aborigines of India, called?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The adivadis  comprise a substantial minority population of  104.2 million people in India.</string>
+		<key>theme</key>
+		<string>Indian History 30000 BC-232 BC</string>
+		<key>timeLine</key>
+		<string>The adivadis represent 100% of the population</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Adivasi</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Indus Valley Civilisation</string>
+		<key>date</key>
+		<string>3300 BC</string>
+		<key>id</key>
+		<string>23b06b1a-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Parthians</string>
+		<key>incorrectAnswer2</key>
+		<string>The Kanva Civilisation</string>
+		<key>incorrectAnswer3</key>
+		<string>The Senas</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Which Indian civilization was, along with Egypt and Mesopotamia, one of the most advanced?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Indus civilisation is also known as the Harappan Civilisation</string>
+		<key>theme</key>
+		<string>Indian History 30000 BC-232 BC</string>
+		<key>timeLine</key>
+		<string>Birth of the Indus Valley Civilisation.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Indus Valley Civilisation</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Drainage systems</string>
+		<key>date</key>
+		<string>2600 BC</string>
+		<key>id</key>
+		<string>23b06c64-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Paper</string>
+		<key>incorrectAnswer2</key>
+		<string>Gun powder</string>
+		<key>incorrectAnswer3</key>
+		<string>The compass</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>What technology was first developed by the Indus Valley Civilization?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Indus Valley Civilisation never faded away.</string>
+		<key>theme</key>
+		<string>Indian History 30000 BC-232 BC</string>
+		<key>timeLine</key>
+		<string>Indus Valley first drainage systems.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Indus Valley Civilisation</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Vedas</string>
+		<key>date</key>
+		<string>1500–1000 BC</string>
+		<key>id</key>
+		<string>23b06da4-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Karma</string>
+		<key>incorrectAnswer2</key>
+		<string>The Tipitaka</string>
+		<key>incorrectAnswer3</key>
+		<string>The Agamas</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>These texts are the oldest scriptures of Hinduism. How are they called ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>There are six Vedas</string>
+		<key>theme</key>
+		<string>Indian History 30000 BC-232 BC</string>
+		<key>timeLine</key>
+		<string>The Rig Veda sacred texts are composed.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Vedas</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Vedic period</string>
+		<key>date</key>
+		<string>1500 – 500 BC</string>
+		<key>id</key>
+		<string>23b06ebc-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Indus Valley period</string>
+		<key>incorrectAnswer2</key>
+		<string>Second urbanisation</string>
+		<key>incorrectAnswer3</key>
+		<string>Classical period </string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>At what period did Indian society see the emergence of a hierarchy of social classes?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Vedas were composed and orally transmitted with precision in the Vedic period.</string>
+		<key>theme</key>
+		<string>Indian History 30000 BC-232 BC</string>
+		<key>timeLine</key>
+		<string>The Vedic period</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Vedic period</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>4</string>
+		<key>date</key>
+		<string>1500 BC</string>
+		<key>id</key>
+		<string>23b07178-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>6</string>
+		<key>incorrectAnswer2</key>
+		<string>12</string>
+		<key>incorrectAnswer3</key>
+		<string>100</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>Varṇa hierarchizes Indian society into how many classes?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Brahmin is the varna lof laborers and service providers/servant.</string>
+		<key>theme</key>
+		<string>Indian History 30000 BC-232 BC</string>
+		<key>timeLine</key>
+		<string>Varnas appear</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Varna (Hinduism)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Jainism </string>
+		<key>date</key>
+		<string>600 BC</string>
+		<key>id</key>
+		<string>23b07290-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Zoroastrianism</string>
+		<key>incorrectAnswer2</key>
+		<string>Sikhism</string>
+		<key>incorrectAnswer3</key>
+		<string>Bahai</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Which Indian religion teaches non-violence (ahimsa, literally &quot;non-injury&quot;) to all living creatures?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The three main pillars of Jainism are ahiṃsā (non-violence), anekāntavāda (non-absolutism), and aparigraha (asceticism).</string>
+		<key>theme</key>
+		<string>Indian History 30000 BC-232 BC</string>
+		<key>timeLine</key>
+		<string>Foundation of Jainism</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Jainism</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Buddhism</string>
+		<key>date</key>
+		<string>500 BC</string>
+		<key>id</key>
+		<string>23b0739e-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Jainism</string>
+		<key>incorrectAnswer2</key>
+		<string>Hinduism</string>
+		<key>incorrectAnswer3</key>
+		<string>Islam</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>What religion originated in India and became one of the world&apos;s largest religions?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Buddhism is still one of the main religions of India.</string>
+		<key>theme</key>
+		<string>Indian History 30000 BC-232 BC</string>
+		<key>timeLine</key>
+		<string>Foundation of Buddhism</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>History of Buddhism in India</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Maurya Empire</string>
+		<key>date</key>
+		<string>321 to 185 BC</string>
+		<key>id</key>
+		<string>23b074ac-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Sassanid Empire</string>
+		<key>incorrectAnswer2</key>
+		<string>Parthian Empire</string>
+		<key>incorrectAnswer3</key>
+		<string>Chaldean Empire</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Chandragupta Mauryalaying united most of India for the first time. What was his empire called?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Chandragupta abdicated his throne and became a Jain monk.</string>
+		<key>theme</key>
+		<string>Indian History 30000 BC-232 BC</string>
+		<key>timeLine</key>
+		<string>Maurya Empire</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Chandragupta Maurya</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ashoka</string>
+		<key>date</key>
+		<string>268 to 232 BC</string>
+		<key>id</key>
+		<string>23b07718-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Srutayush</string>
+		<key>incorrectAnswer2</key>
+		<string>Subahu</string>
+		<key>incorrectAnswer3</key>
+		<string>Guhasiva</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Who is considered to be India&apos;s greatest emperor?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ashoka converted to Buddhism.</string>
+		<key>theme</key>
+		<string>Indian History 30000 BC-232 BC</string>
+		<key>timeLine</key>
+		<string>Reign of Ashoka</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Ashoka</string>
+	</dict>
+</array>
+</plist>

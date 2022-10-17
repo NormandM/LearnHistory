@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Avignon</string>
+		<key>date</key>
+		<string>1309-1376</string>
+		<key>id</key>
+		<string>b31aa99a-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Roma</string>
+		<key>incorrectAnswer2</key>
+		<string>París</string>
+		<key>incorrectAnswer3</key>
+		<string>Lyon</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>De 1309 a 1376, siete papas sucesivos residieron en esta ciudad francesa.</string>
+		<key>questionTrueOrFalse</key>
+		<string>Durante este mismo periodo, también se nombró un papa en Roma. Así que hubo dos papas.</string>
+		<key>theme</key>
+		<string>Francia 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>El Papa se trasladó a Avignon.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Papado de Avignon</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Francia</string>
+		<key>date</key>
+		<string>1453</string>
+		<key>id</key>
+		<string>b31aab52-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Inglaterra</string>
+		<key>incorrectAnswer2</key>
+		<string>España</string>
+		<key>incorrectAnswer3</key>
+		<string>Italie</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>¿Quién ganó la Guerra de los Cien Años, que duró de 1337 a 1453?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El conflicto era resolver quién controlaría las tierras adicionales que los monarcas franceses habían acumulado en territorios ingleses.</string>
+		<key>theme</key>
+		<string>Francia 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Fin de la Guerra de los Cien Años.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra de los Cien Años</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Francisco I</string>
+		<key>date</key>
+		<string>1515</string>
+		<key>id</key>
+		<string>b31aacf6-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Luis XIV</string>
+		<key>incorrectAnswer2</key>
+		<string>Luis XV</string>
+		<key>incorrectAnswer3</key>
+		<string>Henri iV</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>¿Qué rey promovió el Renacimiento francés atrayendo a artistas italianos?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Francisco I formó una alianza franco-otomana con el sultán musulmán Solimán el Magnífico.</string>
+		<key>theme</key>
+		<string>Francia 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Francisco I es coronado rey de Francia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Francisco I (Rey de Francia)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hugonotes</string>
+		<key>date</key>
+		<string>1572</string>
+		<key>id</key>
+		<string>b31aaec2-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Bautistas</string>
+		<key>incorrectAnswer2</key>
+		<string>Evangélicos</string>
+		<key>incorrectAnswer3</key>
+		<string>Puritains</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>¿Como se llaman los calvinistas franceses víctimas de la masacre del día de San Bartolomé?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Aunque la matanza de San Bartolomé, comenzó en París se extendió durante meses por todo el país.</string>
+		<key>theme</key>
+		<string>Francia 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Masacre del día de San Bartolomé.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Matanza de San Bartolomé</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bourbons</string>
+		<key>date</key>
+		<string>1589</string>
+		<key>id</key>
+		<string>b31ab318-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Merovingios</string>
+		<key>incorrectAnswer2</key>
+		<string>Carolingios</string>
+		<key>incorrectAnswer3</key>
+		<string>Valois</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>¿Enrique IV fue el primer rey de qué dinastía?</string>
+		<key>questionTrueOrFalse</key>
+		<string>A menudo es considerado por los franceses como el peor monarca que ha gobernado su país.</string>
+		<key>theme</key>
+		<string>Francia 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Enrique IV fue coronado rey de Francia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Enrique IV (Rey de Francia)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Luis XIV</string>
+		<key>date</key>
+		<string>1682</string>
+		<key>id</key>
+		<string>b31ab53e-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Luis XV</string>
+		<key>incorrectAnswer2</key>
+		<string>Francisco I</string>
+		<key>incorrectAnswer3</key>
+		<string>Henri IV</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>Era conocido como el Rey Sol. ¿Quién era?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Luis XIV consiguió crear un régimen descentralizado en Francia.</string>
+		<key>theme</key>
+		<string>Francia 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Luis XIV se traslada a Versalles. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Luis XIV</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Luis XIV</string>
+		<key>date</key>
+		<string>1715</string>
+		<key>id</key>
+		<string>b31ab73c-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Luis XV</string>
+		<key>incorrectAnswer2</key>
+		<string>Francisco I</string>
+		<key>incorrectAnswer3</key>
+		<string>Henri IV</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Este rey francés construyó el Palacio de Versalles y estableció allí su corte. ¿Quién era?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Su reinado de 72 años fue uno de los más largos de la historia europea.</string>
+		<key>theme</key>
+		<string>Francia 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>Muerte de Luis XIV.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Luis XIV</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Austria</string>
+		<key>date</key>
+		<string>1755</string>
+		<key>id</key>
+		<string>b31ab89a-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Francia</string>
+		<key>incorrectAnswer2</key>
+		<string>Prusia</string>
+		<key>incorrectAnswer3</key>
+		<string>Espagne</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>¿En qué país nació la reina María Antonieta?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Se convirtió en Delfina de Francia a los 14 años, cuando se casó.</string>
+		<key>theme</key>
+		<string>Francia 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>María Antonieta se casó con Luis XVI.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>María Antonieta</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>1789</string>
+		<key>date</key>
+		<string>1789</string>
+		<key>id</key>
+		<string>b31abaf2-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>1790</string>
+		<key>incorrectAnswer2</key>
+		<string>1800</string>
+		<key>incorrectAnswer3</key>
+		<string>1780</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>¿En qué año comenzó la Revolución Francesa con el asalto a la Bastilla?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La rendición de la Bastilla provocó un terremoto en Francia y en Europa, incluso en la Rusia imperial</string>
+		<key>theme</key>
+		<string>Francia 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>La Bastilla está tomada.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>La toma de la Bastilla</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>María Antonieta</string>
+		<key>date</key>
+		<string>1793</string>
+		<key>id</key>
+		<string>b31abcb4-be5a-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Catalina de Médicis</string>
+		<key>incorrectAnswer2</key>
+		<string>María Tudor</string>
+		<key>incorrectAnswer3</key>
+		<string>Marguerite de Valois</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Fue la reina de Francia y fue guillotinada durante la Revolución Francesa. ¿Quién es ella?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Antes de la revolución, María Antonieta era popular entre la población.</string>
+		<key>theme</key>
+		<string>Francia 1309 - 1793</string>
+		<key>timeLine</key>
+		<string>María Antonieta es guillotinada.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>María Antonieta</string>
+	</dict>
+</array>
+</plist>

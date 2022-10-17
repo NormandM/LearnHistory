@@ -1,0 +1,56 @@
+[
+    {
+        "id": "40a86446-8792-11ec-a8a3-0242ac120002",
+        "name": "Europe",
+        "themes": [
+            {
+                "id": "40a866bc-8792-11ec-a8a3-0242ac120002",
+                "themeTitle": "French History"
+            },
+            {
+                "id": "40a8682e-8792-11ec-a8a3-0242ac120002",
+                "themeTitle": "British History"
+            }
+            
+        ]
+    },
+    {
+        "id": "36091bcc-8b82-11ec-a8a3-0242ac120002",
+        "name": "Ancient History",
+        "themes": [
+            {
+                "id": "36091de8-8b82-11ec-a8a3-0242ac120002",
+                "themeTitle": "Ancient Greece"
+            },
+            {
+                "id": "22dad210-972c-11ec-b909-0242ac120002",
+                "themeTitle": "Ancient Egypt"
+            },
+            {
+                "id": "e677dcee-b1d6-11ec-b909-0242ac120002",
+                "themeTitle": "Ancient Mesopotamia"
+            },
+            {
+                "id": "3869ec28-c59f-11ec-9d64-0242ac120002",
+                "themeTitle": "Ancient Rome"
+            }
+            
+        ]
+    },
+    {
+        "id": "5d1a983a-d7a9-11ec-9d64-0242ac120002",
+        "name": "Asia",
+        "themes": [
+            {
+                "id": "8887ef72-d7a9-11ec-9d64-0242ac120002",
+                "themeTitle": "China"
+            },
+            {
+                "id": "e792e8c2-dde0-11ec-9d64-0242ac120002",
+                "themeTitle": "Indian History"
+            },
+        ]
+        
+    }
+    
+]

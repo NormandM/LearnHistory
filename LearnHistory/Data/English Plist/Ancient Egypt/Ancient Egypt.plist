@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>018BA4E6-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>3200 BC</string>
+		<key>question</key>
+		<string>What was the formal writing system used in Ancient Egypt?</string>
+		<key>correctTAnswer</key>
+		<string>Hieroglyphs</string>
+		<key>incorrectAnswer1</key>
+		<string>Cuneiform</string>
+		<key>incorrectAnswer2</key>
+		<string>Ancient Alphabet</string>
+		<key>incorrectAnswer3</key>
+		<string>Pictures</string>
+		<key>wikiSearchWord</key>
+		<string>Egyptian hieroglyphs</string>
+		<key>questionTrueOrFalse</key>
+		<string>The knowledge to read Hieroglyphs was never lost.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Hieroglyphic writing is first used.</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BAA90-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>3100 BC</string>
+		<key>question</key>
+		<string>Who is the first king to unify Egypt?</string>
+		<key>correctTAnswer</key>
+		<string>Narmer</string>
+		<key>incorrectAnswer1</key>
+		<string>Khufu</string>
+		<key>incorrectAnswer2</key>
+		<string>Thutmose</string>
+		<key>incorrectAnswer3</key>
+		<string>Amenhotep</string>
+		<key>wikiSearchWord</key>
+		<string>Narmer</string>
+		<key>questionTrueOrFalse</key>
+		<string>Narmer the founder of the First Dynasty.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>First unification of Upper and Lower Egypt.</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BABEE-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>3100 BC</string>
+		<key>question</key>
+		<string>During which Ancient Egyptian period were the pyramids constructed?</string>
+		<key>correctTAnswer</key>
+		<string>The Old Kingdom </string>
+		<key>incorrectAnswer1</key>
+		<string>The Middle Kingdom </string>
+		<key>incorrectAnswer2</key>
+		<string>The New Kingdom </string>
+		<key>incorrectAnswer3</key>
+		<string>The Intermediate Period </string>
+		<key>wikiSearchWord</key>
+		<string>Old Kingdom of Egypt</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Old Kingdom is also known as the « Age of the Pyramids ».</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>The Old Kingdom begins.</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BAD1A-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>2780 BC</string>
+		<key>question</key>
+		<string>What was used to bury the dead, before the step pyramid?</string>
+		<key>correctTAnswer</key>
+		<string>The mastaba </string>
+		<key>incorrectAnswer1</key>
+		<string>Caves</string>
+		<key>incorrectAnswer2</key>
+		<string>Sand-pits</string>
+		<key>incorrectAnswer3</key>
+		<string>The sarcophagus</string>
+		<key>wikiSearchWord</key>
+		<string>Mastaba</string>
+		<key>questionTrueOrFalse</key>
+		<string>Kings were never buried in mastabas.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>First mastabas</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BAE3C-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>2670–2650 BC</string>
+		<key>question</key>
+		<string>Who was the first Pharaoh to build a step pyramid?</string>
+		<key>correctTAnswer</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer1</key>
+		<string>Narmer</string>
+		<key>incorrectAnswer2</key>
+		<string>Snerefu</string>
+		<key>incorrectAnswer3</key>
+		<string>Khufu</string>
+		<key>wikiSearchWord</key>
+		<string>Pyramid of Djoser</string>
+		<key>questionTrueOrFalse</key>
+		<string>The architect of the Pyramid of Djoser was Imhotep.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Pyramid of Djoser</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BAF5E-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>2600 BC</string>
+		<key>question</key>
+		<string>This Pharaoh from the Old Kingdom built three pyramids during his reign. Who is he?</string>
+		<key>correctTAnswer</key>
+		<string>Sneferu </string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Narmer</string>
+		<key>incorrectAnswer3</key>
+		<string>Neferefre</string>
+		<key>wikiSearchWord</key>
+		<string>The Bent Pyramid of Dahshur</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Bent Pyramid of Dahshur is the first pyramid ever built.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>The Bent Pyramid of Dahshur</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BB08A-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>2600 BC</string>
+		<key>question</key>
+		<string>Canopic jars were found next to tombs. What was contained in these vessels?</string>
+		<key>correctTAnswer</key>
+		<string>Internal organs</string>
+		<key>incorrectAnswer1</key>
+		<string>Food</string>
+		<key>incorrectAnswer2</key>
+		<string>Water</string>
+		<key>incorrectAnswer3</key>
+		<string>Jewelry</string>
+		<key>wikiSearchWord</key>
+		<string>Canopic jar</string>
+		<key>questionTrueOrFalse</key>
+		<string>The viscera were all kept in a single canopic jar.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>The first canopic jars are developed.</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BB1A2-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>2566 BC</string>
+		<key>question</key>
+		<string>What is the oldest of the Seven Wonders of the Ancient World ?</string>
+		<key>correctTAnswer</key>
+		<string>Great Pyramid of Giza</string>
+		<key>incorrectAnswer1</key>
+		<string>The Sphinx</string>
+		<key>incorrectAnswer2</key>
+		<string>Lighthouse of Alexandria</string>
+		<key>incorrectAnswer3</key>
+		<string>Valley of the Kings</string>
+		<key>wikiSearchWord</key>
+		<string>Pyramid of Khufu</string>
+		<key>questionTrueOrFalse</key>
+		<string>The height of the Great Pyramid of Giza never changed with time.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Great Pyramid of Giza</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BB486-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string> 2558–2532 BC</string>
+		<key>question</key>
+		<string>During which period of Egyptian history was the Great Sphinx constructed?</string>
+		<key>correctTAnswer</key>
+		<string>Old Kingdom</string>
+		<key>incorrectAnswer1</key>
+		<string>New Kingdom</string>
+		<key>incorrectAnswer2</key>
+		<string>Middle Kingdom</string>
+		<key>incorrectAnswer3</key>
+		<string>First intermediate period</string>
+		<key>wikiSearchWord</key>
+		<string>Great Sphinx of Giza</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Sphinx is the oldest known monumental sculpture in Egypt.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>The Sphinx is constructed.</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BB6CA-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>2300 BC</string>
+		<key>question</key>
+		<string>Who conquered the Egyptians and were conquered by the Egyptians?</string>
+		<key>correctTAnswer</key>
+		<string>The Nubians</string>
+		<key>incorrectAnswer1</key>
+		<string>The Hittites</string>
+		<key>incorrectAnswer2</key>
+		<string>The Greeks</string>
+		<key>incorrectAnswer3</key>
+		<string>The Romans</string>
+		<key>wikiSearchWord</key>
+		<string>Nubia</string>
+		<key>questionTrueOrFalse</key>
+		<string>Nubia was conquered by the New Kingdom of Egypt under Pharaoh Thutmose I around 1500 BC.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Nubians first mentioned by Egyptian trading accounts.</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BB7EC-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>2181–2055 BC</string>
+		<key>question</key>
+		<string>What is the name of the period following the decline of the Old Kingdom?</string>
+		<key>correctTAnswer</key>
+		<string>The First Intermediate Period</string>
+		<key>incorrectAnswer1</key>
+		<string>The Dark Ages</string>
+		<key>incorrectAnswer2</key>
+		<string>the Middle Kingdom </string>
+		<key>incorrectAnswer3</key>
+		<string> The New Kingdom </string>
+		<key>wikiSearchWord</key>
+		<string>First Intermediate Period of Egypt</string>
+		<key>questionTrueOrFalse</key>
+		<string>The pyramids were not plundered during the First Intermediate Period.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>First Intermediate Period</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BBA26-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>2040 to 1782 BC</string>
+		<key>question</key>
+		<string>What best describes the middle kingdom?</string>
+		<key>correctTAnswer</key>
+		<string>A Period of Reunification</string>
+		<key>incorrectAnswer1</key>
+		<string>A period of wars and conflicts.</string>
+		<key>incorrectAnswer2</key>
+		<string>The age of the pyramid builders.</string>
+		<key>incorrectAnswer3</key>
+		<string>The decay of Egypte.</string>
+		<key>wikiSearchWord</key>
+		<string>Middle Kingdom of Egypt</string>
+		<key>questionTrueOrFalse</key>
+		<string>During the Middle Kingdom period, Osiris became the most important deity in popular religion</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Middle Kingdom of Egypt</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BBB3E-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>1650 – 1550 BC</string>
+		<key>question</key>
+		<string>Who are the outsiders that ruled northern Egypt during the second intermediate period?</string>
+		<key>correctTAnswer</key>
+		<string>The Hyksos</string>
+		<key>incorrectAnswer1</key>
+		<string>The Hittites </string>
+		<key>incorrectAnswer2</key>
+		<string>The Phoenicians</string>
+		<key>incorrectAnswer3</key>
+		<string>The Greeks</string>
+		<key>wikiSearchWord</key>
+		<string>Second Intermediate Period of Egypt</string>
+		<key>questionTrueOrFalse</key>
+		<string>Unlike the First Intermediate Period, the Second Intermediate Period was one of growth.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Second Intermediate Period</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BCFFC-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>1550 BC</string>
+		<key>question</key>
+		<string>What document was placed in the coffin of the deceased?</string>
+		<key>correctTAnswer</key>
+		<string>Book of the Dead</string>
+		<key>incorrectAnswer1</key>
+		<string>Book of hieroglyphs</string>
+		<key>incorrectAnswer2</key>
+		<string>Book of the afterlife</string>
+		<key>incorrectAnswer3</key>
+		<string>Book of the living</string>
+		<key>wikiSearchWord</key>
+		<string>Book of the Dead</string>
+		<key>questionTrueOrFalse</key>
+		<string>The purpose of The Book of the Dead is  to assist a dead person&apos;s journey through the underworld.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Book of the Dead first used</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BBC6A-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>1600 BC</string>
+		<key>question</key>
+		<string>Edwin Smith Papyrus is the oldest known document of what science?</string>
+		<key>correctTAnswer</key>
+		<string>Surgical treatise</string>
+		<key>incorrectAnswer1</key>
+		<string>Astronomy</string>
+		<key>incorrectAnswer2</key>
+		<string>Physics</string>
+		<key>incorrectAnswer3</key>
+		<string>Architecture</string>
+		<key>wikiSearchWord</key>
+		<string>Edwin Smith Papyrus</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Edwin Smith Papyrus presents a rational and scientific approach to medicine.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Edwin Smith Papyrus</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BBF9E-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>1507–1458 BC</string>
+		<key>question</key>
+		<string>What is the name of a woman pharaoh of the 18th dynasty of the New Kingdom?</string>
+		<key>correctTAnswer</key>
+		<string>Hatshepsut</string>
+		<key>incorrectAnswer1</key>
+		<string>Nefertiti</string>
+		<key>incorrectAnswer2</key>
+		<string>Twosret</string>
+		<key>incorrectAnswer3</key>
+		<string>Neithikret</string>
+		<key>wikiSearchWord</key>
+		<string>Hatshepsut</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hatshepsut was the second historically confirmed female pharaoh.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Hatshepsut</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BC0CA-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>1481-1425 BC</string>
+		<key>question</key>
+		<string>Through his military campaigns, he created the largest empire Egypt had ever seen. Who is he?</string>
+		<key>correctTAnswer</key>
+		<string>Thutmose III</string>
+		<key>incorrectAnswer1</key>
+		<string>Ramsès II</string>
+		<key>incorrectAnswer2</key>
+		<string>Tutankhamun</string>
+		<key>incorrectAnswer3</key>
+		<string>Djoser</string>
+		<key>wikiSearchWord</key>
+		<string>Thutmose III</string>
+		<key>questionTrueOrFalse</key>
+		<string>Thutmose III conducted 17 military campaigns.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Thutmose III</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BC2F0-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>1370 – 1330 BC</string>
+		<key>question</key>
+		<string>Her bust, now in Berlin&apos;s Neues Museum, is one of the most copied works of ancient Egypt. Who is she?</string>
+		<key>correctTAnswer</key>
+		<string>Nefertiti</string>
+		<key>incorrectAnswer1</key>
+		<string>Cleopatra</string>
+		<key>incorrectAnswer2</key>
+		<string>Hatshepsut</string>
+		<key>incorrectAnswer3</key>
+		<string>Twosret</string>
+		<key>wikiSearchWord</key>
+		<string>Nefertiti</string>
+		<key>questionTrueOrFalse</key>
+		<string>Nefertiti was the Great Royal Wife of Pharaoh Akhenaten</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Nefertiti</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BC1E2-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>1351–1334 BC</string>
+		<key>question</key>
+		<string>Who is the pharaoh that instituted monotheism for the first time in the history of the world?</string>
+		<key>correctTAnswer</key>
+		<string>Akhenaten</string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Ramsès II</string>
+		<key>incorrectAnswer3</key>
+		<string>Tutankhamun</string>
+		<key>wikiSearchWord</key>
+		<string>Akhenaten reign</string>
+		<key>questionTrueOrFalse</key>
+		<string>The monotheism established by Akhenaten transformed Egyptian religion forever.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Akhenaten</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BC412-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>1341 -  1323 BC</string>
+		<key>question</key>
+		<string>Howard Carter discovered his nearly intact tomb in 1922. Who is he?</string>
+		<key>correctTAnswer</key>
+		<string>Tutankhamun</string>
+		<key>incorrectAnswer1</key>
+		<string>Ramsès II</string>
+		<key>incorrectAnswer2</key>
+		<string>Akhenaten</string>
+		<key>incorrectAnswer3</key>
+		<string>Djoser</string>
+		<key>wikiSearchWord</key>
+		<string>Tutankhamun</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tutankhamun died of old age?</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Tutankhamun</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BC52A-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>1303–1213 BC</string>
+		<key>question</key>
+		<string>Who was considered the greatest and most powerful pharaoh of the New Kingdom?</string>
+		<key>correctTAnswer</key>
+		<string>Ramesses II</string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Akhenaten</string>
+		<key>incorrectAnswer3</key>
+		<string>Tutankhamun</string>
+		<key>wikiSearchWord</key>
+		<string>Ramesses II</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ramesses II never went on a military campaign.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Ramesses II</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BB5A8-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>1250 BC</string>
+		<key>question</key>
+		<string>Which structures were believed to attract the rays of the sun, allowing resurrections?</string>
+		<key>correctTAnswer</key>
+		<string>The Obelisk</string>
+		<key>incorrectAnswer1</key>
+		<string>The Pyramid</string>
+		<key>incorrectAnswer2</key>
+		<string>The temple</string>
+		<key>incorrectAnswer3</key>
+		<string>The column </string>
+		<key>wikiSearchWord</key>
+		<string>Luxor Obelisk</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ancient obelisks are monolithic; that is, they consist of a single stone</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Luxor Obelisks</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BC62E-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>305 BC</string>
+		<key>question</key>
+		<string>In 305 BC, this former Alexander the Great general, declared himself Pharaoh of Egypt. Who is he?</string>
+		<key>correctTAnswer</key>
+		<string>Ptolemy I</string>
+		<key>incorrectAnswer1</key>
+		<string>Cassander</string>
+		<key>incorrectAnswer2</key>
+		<string>Seleucus I Nicator</string>
+		<key>incorrectAnswer3</key>
+		<string>Lysimachus </string>
+		<key>wikiSearchWord</key>
+		<string>Ptolemaic dynasty</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ptolemy&apos;s family ruled Egypt until the Roman conquest of 30 BC</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Foundation of the Ptolemaic dynasty.</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BC73C-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>304 – 282 BC</string>
+		<key>question</key>
+		<string>Which ruler of ancient Egypt established the Royal Library?</string>
+		<key>correctTAnswer</key>
+		<string>Ptolemy I Soter</string>
+		<key>incorrectAnswer1</key>
+		<string>Alexander the Great</string>
+		<key>incorrectAnswer2</key>
+		<string>Cleopatra</string>
+		<key>incorrectAnswer3</key>
+		<string>Tutankhamun</string>
+		<key>wikiSearchWord</key>
+		<string>Ptolemy I Soter</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ptolemy I Soter was born in Thebes.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Reign of Ptolemy I Soter</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BCA20-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>284-246 BC</string>
+		<key>question</key>
+		<string>Egypt had two of the seven wonders of antiquity. One was the great pyramid, what was the other?</string>
+		<key>correctTAnswer</key>
+		<string>The Lighthouse of Alexandria</string>
+		<key>incorrectAnswer1</key>
+		<string>The Valley of the Kings</string>
+		<key>incorrectAnswer2</key>
+		<string>The Valley of the Queens</string>
+		<key>incorrectAnswer3</key>
+		<string>Luxor Temple</string>
+		<key>wikiSearchWord</key>
+		<string>The Lighthouse of Alexandria</string>
+		<key>questionTrueOrFalse</key>
+		<string>To this day, the Lighthouse of Alexandria still exists.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Construction of the Light House of Alexandria.</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BCB2E-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>285–246 BC</string>
+		<key>question</key>
+		<string>In what Egyptian city was largest and most significant library of the ancient world?</string>
+		<key>correctTAnswer</key>
+		<string>Alexandria</string>
+		<key>incorrectAnswer1</key>
+		<string>Memphis</string>
+		<key>incorrectAnswer2</key>
+		<string>Thebes</string>
+		<key>incorrectAnswer3</key>
+		<string>Cairo</string>
+		<key>wikiSearchWord</key>
+		<string>Library of Alexandria</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Library of Alexandria was burned and cataclysmically destroyed.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Library of Alexandria is established</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BCC5A-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>196 BC</string>
+		<key>question</key>
+		<string>What artifact allowed to decipher the Egyptian hieroglyphs?</string>
+		<key>correctTAnswer</key>
+		<string>The Rosetta Stone</string>
+		<key>incorrectAnswer1</key>
+		<string>The Book of the Dead</string>
+		<key>incorrectAnswer2</key>
+		<string>The book of hieroglyphs</string>
+		<key>incorrectAnswer3</key>
+		<string>Herodotus translations</string>
+		<key>wikiSearchWord</key>
+		<string>Rosetta Stone</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ancient Egyptian using hieroglyphic and Latin can be found on the Rosetta Stone.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Creation of  the Rosetta Stone</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BCD72-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>69-30 BC</string>
+		<key>question</key>
+		<string>Who was the Last ruler of the Ptolemy dynasty?</string>
+		<key>correctTAnswer</key>
+		<string>Cleopatra VII</string>
+		<key>incorrectAnswer1</key>
+		<string>Caesar</string>
+		<key>incorrectAnswer2</key>
+		<string>Ptolemy XIV</string>
+		<key>incorrectAnswer3</key>
+		<string>Marcus Antonius</string>
+		<key>wikiSearchWord</key>
+		<string>Cleopatra</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cleopatra had a son with caesar: Caesarion</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Cleopatra</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>018BCE80-9721-11EC-B909-0242AC120002</string>
+		<key>date</key>
+		<string>1798–1801</string>
+		<key>question</key>
+		<string>His military and scientific campaign in Egypt is considered the beginning of Egyptology. Who is he?</string>
+		<key>correctTAnswer</key>
+		<string>Napoleon</string>
+		<key>incorrectAnswer1</key>
+		<string>Caesar</string>
+		<key>incorrectAnswer2</key>
+		<string>Ptolemy</string>
+		<key>incorrectAnswer3</key>
+		<string>Marcus Antonius</string>
+		<key>wikiSearchWord</key>
+		<string>French campaign in Egypt and Syria</string>
+		<key>questionTrueOrFalse</key>
+		<string>Napoleon’s expedition in Egypt eventually led to the discovery of the Rosetta Stone.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>French campaign in Egypt</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>dde3678a-17f0-11ed-861d-0242ac120002</string>
+		<key>date</key>
+		<string>1824</string>
+		<key>question</key>
+		<string>Who was the first to translate the Egyptian hieroglyphs?</string>
+		<key>correctTAnswer</key>
+		<string>Jean-François Champollion</string>
+		<key>incorrectAnswer1</key>
+		<string>Alexander The Great</string>
+		<key>incorrectAnswer2</key>
+		<string>Ptolemy I Soter</string>
+		<key>incorrectAnswer3</key>
+		<string>Napoleon</string>
+		<key>wikiSearchWord</key>
+		<string>Jean-François Champollion</string>
+		<key>questionTrueOrFalse</key>
+		<string>Champollion showed how Egyptian writing system was a combination of phonetic and ideographic signs.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Champollion deciphers the Egyptian hieroglyphs.</string>
+		<key>theme</key>
+		<string>Ancient Egypt</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>31</integer>
+	</dict>
+</array>
+</plist>

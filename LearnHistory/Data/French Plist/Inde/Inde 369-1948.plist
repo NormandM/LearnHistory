@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> L&apos;empire Gupta</string>
+		<key>date</key>
+		<string>319 to 467</string>
+		<key>id</key>
+		<string>a12cd62c-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Arrivée des Perses et des Grecs</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;ère Sangam</string>
+		<key>incorrectAnswer3</key>
+		<string>Inde médiévale</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>Quelle période est considérée comme l&apos;âge d&apos;or de l&apos;Inde ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les arts sont négligés à l&apos;époque des Gupta.</string>
+		<key>theme</key>
+		<string>Inde 369-1948</string>
+		<key>timeLine</key>
+		<string>Empire Gupta</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Empire Gupta</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>711</string>
+		<key>date</key>
+		<string>711</string>
+		<key>id</key>
+		<string>a12cd730-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>605</string>
+		<key>incorrectAnswer2</key>
+		<string>900</string>
+		<key>incorrectAnswer3</key>
+		<string>1200</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>En quelle année les Arabes sont-ils arrivés en Inde en conquérant le Sind ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;islam est la deuxième religion de l&apos;Inde.</string>
+		<key>theme</key>
+		<string>Inde 369-1948</string>
+		<key>timeLine</key>
+		<string>Les Arabes conquièrent le Sind</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Islam en Inde</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Le sultanat de Delhi</string>
+		<key>date</key>
+		<string>1206–1526</string>
+		<key>id</key>
+		<string>a12cd97e-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>L&apos;empire Gupta</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;empire Maratha</string>
+		<key>incorrectAnswer3</key>
+		<string>L&apos;empire Khilji</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Quel est le nom de l&apos;empire islamique qui s&apos;est étendu sur une grande partie de l&apos;Asie du Sud pendant 320 ans (1206-1526) ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Plusieurs dynasties turco-afghanes règnent successivement sur le sultanat de Delhi</string>
+		<key>theme</key>
+		<string>Inde 369-1948</string>
+		<key>timeLine</key>
+		<string>Le sultanat de Delhi</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Sultanat de Delhi</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Vasco de Gama</string>
+		<key>date</key>
+		<string>1498</string>
+		<key>id</key>
+		<string>a12cda82-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ferdinand Magellan</string>
+		<key>incorrectAnswer2</key>
+		<string>Diogo Cão</string>
+		<key>incorrectAnswer3</key>
+		<string>Bartolomeu Dias</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>Son premier voyage vers l&apos;Inde en passant par le Cap de Bonne Espérance fut le premier à relier l&apos;Europe et l&apos;Inde par une route océanique. Qui est-il ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Vasco de Gama est un grand navigateur portugais.</string>
+		<key>theme</key>
+		<string>Inde 369-1948</string>
+		<key>timeLine</key>
+		<string>Vasco da Gama arrive en Inde.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Vasco da Gama</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>L&apos;empire moghol</string>
+		<key>date</key>
+		<string>1526</string>
+		<key>id</key>
+		<string>a12cdb86-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>L&apos;empire Gupta</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;empire Chola</string>
+		<key>incorrectAnswer3</key>
+		<string>L&apos;empire Maratha</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Cet empire musulman a régné sur l&apos;Inde pendant plus de 300 ans (1526-1857) ? Quel était son nom ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;empire moghol a généré une faible expansion économique.</string>
+		<key>theme</key>
+		<string>Inde 369-1948</string>
+		<key>timeLine</key>
+		<string>Fondation de l&apos;empire moghol.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Empire moghol</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La Compagnie des Indes orientales</string>
+		<key>date</key>
+		<string>1600</string>
+		<key>id</key>
+		<string>a12cdc94-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Compagnie britannique des Indes</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Indes orientales anglaises</string>
+		<key>incorrectAnswer3</key>
+		<string>Compagnie du commerce oriental</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>Quel est le nom de la société à laquelle la reine Elizabeth I a accordé le monopole du commerce entre l&apos;Angleterre et l&apos;Inde ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Compagnie britannique des Indes orientales a monopolisé le commerce entre l&apos;Angleterre et l&apos;Inde pendant 100 ans.</string>
+		<key>theme</key>
+		<string>Inde 369-1948</string>
+		<key>timeLine</key>
+		<string>Création de la Compagnie des Indes orientales</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Compagnie britannique des Indes orientales</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Le Taj Mahal</string>
+		<key>date</key>
+		<string>1643</string>
+		<key>id</key>
+		<string>a12cdd8e-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Temple Meenakshi</string>
+		<key>incorrectAnswer2</key>
+		<string>Palais de Mysore,</string>
+		<key>incorrectAnswer3</key>
+		<string>Hawa Mahal</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>Quel bâtiment l&apos;empereur moghol Shah Jahan a-t-il commandé pour abriter le tombeau de son épouse préférée ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le Taj Mahal est considéré comme un joyau de l&apos;architecture hindou en Inde.</string>
+		<key>theme</key>
+		<string>Inde 369-1948</string>
+		<key>timeLine</key>
+		<string>Construction du Taj Mahal</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Taj Mahal</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Le Raj britannique</string>
+		<key>date</key>
+		<string>1858 à 1947</string>
+		<key>id</key>
+		<string>a12cdfbe-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Inde britannique</string>
+		<key>incorrectAnswer2</key>
+		<string>La domination indienne</string>
+		<key>incorrectAnswer3</key>
+		<string>Inde orientale britannique</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>Comment s&apos;appelait le règne de la Couronne britannique sur le sous-continent indien (1858 à 1947) ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>En 1876, la reine Victoria a été proclamée impératrice des Indes.</string>
+		<key>theme</key>
+		<string>Inde 369-1948</string>
+		<key>timeLine</key>
+		<string>Le Raj britannique</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Raj britannique</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>L&apos;Inde, le Pakistan et le Bangladesh</string>
+		<key>date</key>
+		<string>1947</string>
+		<key>id</key>
+		<string>a12ce0d6-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Bangladesh et Pakistan</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;Inde et le Pakistan</string>
+		<key>incorrectAnswer3</key>
+		<string>Inde et Bangladesh</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Quels pays sont nés de la partition de l&apos;Inde ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La partition initiale a déplacé entre 12.5 millions de personnes.</string>
+		<key>theme</key>
+		<string>Inde 369-1948</string>
+		<key>timeLine</key>
+		<string>La partition de l&apos;Inde</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Partition des Indes</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Le Mahatma Gandhi</string>
+		<key>date</key>
+		<string>1948</string>
+		<key>id</key>
+		<string>a12ce356-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Nehru</string>
+		<key>incorrectAnswer2</key>
+		<string>Ambedkar</string>
+		<key>incorrectAnswer3</key>
+		<string>Kalam</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Il a utilisé la résistance non violente qui a conduit l&apos;Inde à l&apos;indépendance de la domination britannique. Qui est-il ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Gandhi a vécu toute sa vie en Inde.</string>
+		<key>theme</key>
+		<string>Inde 369-1948</string>
+		<key>timeLine</key>
+		<string>Assassinat de Gandhi</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Mohandas Karamchand Gandhi</string>
+	</dict>
+</array>
+</plist>

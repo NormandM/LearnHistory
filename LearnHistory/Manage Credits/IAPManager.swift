@@ -20,7 +20,6 @@ class IAPManager: NSObject{
         super.init()
     }
     func returnProductIDs() -> [String]? {
-        print("id")
         return ["CoinLearnHistory"]
     }
     func getProductsV5(){
@@ -32,18 +31,18 @@ class IAPManager: NSObject{
     }
     
     func getPriceFormatted(for product: SKProduct) -> String? {
-        print("getting price")
+
         let formatter = NumberFormatter()
         formatter.numberStyle = .currency
         formatter.locale = product.priceLocale
         return formatter.string(from: product.price)
     }
     func startObserving() {
-        print("observe")
+
         SKPaymentQueue.default().add(self)
     }
     func stopObserving() {
-        print("stop observing")
+
         SKPaymentQueue.default().remove(self)
     }
     func restorePurchasesV5() {
@@ -70,7 +69,7 @@ class IAPManager: NSObject{
         return SKPaymentQueue.canMakePayments()
     }
     func purchaseV5(product: SKProduct) -> Bool {
-        print("purchasing")
+
         if !IAPManager.shared.canMakePayments() {
             return false
         } else {
@@ -114,7 +113,7 @@ extension IAPManager: SKPaymentTransactionObserver {
             if let trans = transaction as? SKPaymentTransaction {
                 switch trans.transactionState {
                 case .purchased:
-                    print("purchased")
+                
                     SKPaymentQueue.default().finishTransaction(transaction as! SKPaymentTransaction)
                     coins = UserDefaults.standard.integer(forKey: "coins")
                     coins += 200

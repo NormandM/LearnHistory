@@ -17,7 +17,8 @@ struct NMLogo:  View {
     @State private var indexOfQuestion = UserDefaults.standard.integer(forKey: "indexOfQuestion")
     init() {
         UINavigationBar.appearance().largeTitleTextAttributes = [.foregroundColor: UIColor.black]
-           UINavigationBar.appearance().titleTextAttributes = [.foregroundColor: UIColor.white]
+        UINavigationBar.appearance().titleTextAttributes = [.foregroundColor: UIColor.white]
+        
        }
     var body: some View {
         GeometryReader { geo in
@@ -47,11 +48,6 @@ struct NMLogo:  View {
                         DispatchQueue.main.asyncAfter(deadline: .now() + 4.0) {
                             showContentView = true
                         }
- //                       UserDefaults.standard.set(2.0, forKey: "coins")
-//                        let allEvents = Bundle.main.decode([Event].self, from: "Indian History")
-//                        for event in allEvents {
-//                            print(event.id, event.date,event.question,event.correctTAnswer,event.incorrectAnswer1,event.incorrectAnswer2,event.incorrectAnswer3,event.wikiSearchWord,event.questionTrueOrFalse,event.trueOrFalseAnswer,event.timeLine,event.theme,event.numberOfGoodAnswers,event.numberOfBadAnswers,event.numberOfGoodAnswersQuiz,event.numberOfBadAnswersQuiz,event.order, separator: "#")
-//                        }
                     }
                 }
                 

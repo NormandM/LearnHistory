@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>3</string>
+		<key>date</key>
+		<string>220 to 280 AD</string>
+		<key>id</key>
+		<string>d205665a-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>6</string>
+		<key>incorrectAnswer2</key>
+		<string>4</string>
+		<key>incorrectAnswer3</key>
+		<string>2</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>After the fall of the Han dynasty, China was divided into how many kingdoms?</string>
+		<key>questionTrueOrFalse</key>
+		<string>During the Three Kingdoms period, there was no significant technological advancement.</string>
+		<key>theme</key>
+		<string>China 220-1949</string>
+		<key>timeLine</key>
+		<string>Three Kingdoms</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Three Kingdoms</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Tang</string>
+		<key>date</key>
+		<string>618 to 907 AD</string>
+		<key>id</key>
+		<string>d2056894-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ming</string>
+		<key>incorrectAnswer2</key>
+		<string>Qin</string>
+		<key>incorrectAnswer3</key>
+		<string>Zhou</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>What dynasty is considered a high point in Chinese civilization, and a golden age of cosmopolitan culture?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Tang capital at Chang&apos;an (present-day Xi&apos;an) was then the world&apos;s most populous city</string>
+		<key>theme</key>
+		<string>China 220-1949</string>
+		<key>timeLine</key>
+		<string>Tang dynasty</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Tang dynasty</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Song</string>
+		<key>date</key>
+		<string>960 - 1279 AD</string>
+		<key>id</key>
+		<string>d2056a42-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Qin</string>
+		<key>incorrectAnswer2</key>
+		<string>Ming</string>
+		<key>incorrectAnswer3</key>
+		<string>Han</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>They were the first in the world to issue banknotes. Which Chinese dynasty is it?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Although technology and science flourished under the Song, population growth was low.</string>
+		<key>theme</key>
+		<string>China 220-1949</string>
+		<key>timeLine</key>
+		<string>Song dynasty</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Song dynasty</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Genghis Khan</string>
+		<key>date</key>
+		<string>1162 AD</string>
+		<key>id</key>
+		<string>d2056d26-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Attila</string>
+		<key>incorrectAnswer2</key>
+		<string>Tamerlane</string>
+		<key>incorrectAnswer3</key>
+		<string>Ashoka</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Who was the founder of the Mongol Empire, the largest contiguous empire in history ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Genghis Khan is often considered to be one of the greatest conquerors of all time.</string>
+		<key>theme</key>
+		<string>China 220-1949</string>
+		<key>timeLine</key>
+		<string>Birth of Genghis Khan</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Genghis Khan</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Yuan</string>
+		<key>date</key>
+		<string>1271 to 1368</string>
+		<key>id</key>
+		<string>d2056ec0-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Khan</string>
+		<key>incorrectAnswer2</key>
+		<string>Tam</string>
+		<key>incorrectAnswer3</key>
+		<string>Ming</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>What was the name of the Mongol Empire that ruled China from 1271 to 1368?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Genghis Khan ruled over the Yuan dynasty.</string>
+		<key>theme</key>
+		<string>China 220-1949</string>
+		<key>timeLine</key>
+		<string>The Yuan dynasty</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Yuan dynasty</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Forbidden City</string>
+		<key>date</key>
+		<string>1406 to 1420</string>
+		<key>id</key>
+		<string>d2057050-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The great wall</string>
+		<key>incorrectAnswer2</key>
+		<string>Terracotta Army</string>
+		<key>incorrectAnswer3</key>
+		<string>Tiananmen Square</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>What notable construction was built during the Ming dynasty?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Forbidden City is listed by UNESCO as the largest collection of ancient wooden structures in the world.</string>
+		<key>theme</key>
+		<string>China 220-1949</string>
+		<key>timeLine</key>
+		<string>Construct of the Forbidden City</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Forbidden City</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>United Kingdom</string>
+		<key>date</key>
+		<string>1839 to 1842</string>
+		<key>id</key>
+		<string>d20572f8-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>France</string>
+		<key>incorrectAnswer2</key>
+		<string>Germany</string>
+		<key>incorrectAnswer3</key>
+		<string>Japan</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Who was China&apos;s opponent in the first Opium War? </string>
+		<key>questionTrueOrFalse</key>
+		<string>The Chinese defeated the United Kingdom in the first Opium war. </string>
+		<key>theme</key>
+		<string>China 220-1949</string>
+		<key>timeLine</key>
+		<string>First Opium War</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>First Opium War</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Qing</string>
+		<key>date</key>
+		<string>1911</string>
+		<key>id</key>
+		<string>d205749c-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ming</string>
+		<key>incorrectAnswer2</key>
+		<string>Tang</string>
+		<key>incorrectAnswer3</key>
+		<string>Jin</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>What last dynasty did  the Xinhai Revolution overthrow in 1912?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The 1911 Revolution, or Xinhai Revolution, led to the establishment of the Republic of China.</string>
+		<key>theme</key>
+		<string>China 220-1949</string>
+		<key>timeLine</key>
+		<string>Xinhai Revolution</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>1911 Revolution</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Chiang Kai-shek</string>
+		<key>date</key>
+		<string>1949</string>
+		<key>id</key>
+		<string>d20578a2-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Mao Zedong</string>
+		<key>incorrectAnswer2</key>
+		<string>Zhou Enlai</string>
+		<key>incorrectAnswer3</key>
+		<string>Deng Xiaoping</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Who is the Chinese leader who fled to the island of Taiwan claiming to be the legitimate government of China? </string>
+		<key>questionTrueOrFalse</key>
+		<string>After fleeing to the island of Taiwan, Chiang Kai-shek returned to mainland China.</string>
+		<key>theme</key>
+		<string>China 220-1949</string>
+		<key>timeLine</key>
+		<string>Chiang Kai-shek flees to Taiwan</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Chiang Kai-shek</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Mao Zedong</string>
+		<key>date</key>
+		<string>1949</string>
+		<key>id</key>
+		<string>d2057a00-d7a6-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Chiang Kai-shek</string>
+		<key>incorrectAnswer2</key>
+		<string>Zhou Enlai</string>
+		<key>incorrectAnswer3</key>
+		<string>Deng Xiaoping</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>Who was the founder of the People&apos;s Republic of China (PRC)?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mao Zedong ruled as the chairman of the Chinese Communist Party from the establishment of the PRC in 1949 until his death in 1976.</string>
+		<key>theme</key>
+		<string>China 220-1949</string>
+		<key>timeLine</key>
+		<string>Mao Zedong declared the creation of the People’s Republic of China</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Mao Zedong</string>
+	</dict>
+</array>
+</plist>

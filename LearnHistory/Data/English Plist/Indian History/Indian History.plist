@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>23b06868-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>30000 BC</string>
+		<key>question</key>
+		<string>What are the first inhabitants, the aborigines of India, called?</string>
+		<key>correctTAnswer</key>
+		<string>The Adivasi </string>
+		<key>incorrectAnswer1</key>
+		<string>The Hmong</string>
+		<key>incorrectAnswer2</key>
+		<string>The Mlabri</string>
+		<key>incorrectAnswer3</key>
+		<string>The Giraavaru</string>
+		<key>wikiSearchWord</key>
+		<string>Adivasi</string>
+		<key>questionTrueOrFalse</key>
+		<string>The adivadis  comprise a substantial minority population of  104.2 million people in India.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>The adivadis represent 100% of the population</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b06b1a-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>3300 BC</string>
+		<key>question</key>
+		<string>Which Indian civilization was, along with Egypt and Mesopotamia, one of the most advanced?</string>
+		<key>correctTAnswer</key>
+		<string>The Indus Valley Civilisation</string>
+		<key>incorrectAnswer1</key>
+		<string>The Parthians</string>
+		<key>incorrectAnswer2</key>
+		<string>The Kanva Civilisation</string>
+		<key>incorrectAnswer3</key>
+		<string>The Senas</string>
+		<key>wikiSearchWord</key>
+		<string>Indus Valley Civilisation</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Indus civilisation is also known as the Harappan Civilisation</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Birth of the Indus Valley Civilisation.</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b06c64-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>2600 BC</string>
+		<key>question</key>
+		<string>What technology was first developed by the Indus Valley Civilization?</string>
+		<key>correctTAnswer</key>
+		<string>Drainage systems</string>
+		<key>incorrectAnswer1</key>
+		<string>Paper</string>
+		<key>incorrectAnswer2</key>
+		<string>Gun powder</string>
+		<key>incorrectAnswer3</key>
+		<string>The compass</string>
+		<key>wikiSearchWord</key>
+		<string>Indus Valley Civilisation</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Indus Valley Civilisation never faded away.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Indus Valley first drainage systems.</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b06da4-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1500–1000 BC</string>
+		<key>question</key>
+		<string>These texts are the oldest scriptures of Hinduism. How are they called ?</string>
+		<key>correctTAnswer</key>
+		<string>The Vedas</string>
+		<key>incorrectAnswer1</key>
+		<string>The Karma</string>
+		<key>incorrectAnswer2</key>
+		<string>The Tipitaka</string>
+		<key>incorrectAnswer3</key>
+		<string>The Agamas</string>
+		<key>wikiSearchWord</key>
+		<string>Vedas</string>
+		<key>questionTrueOrFalse</key>
+		<string>There are six Vedas</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>The Rig Veda sacred texts are composed.</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b06ebc-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1500 – 500 BC</string>
+		<key>question</key>
+		<string>At what period did Indian society see the emergence of a hierarchy of social classes?</string>
+		<key>correctTAnswer</key>
+		<string>Vedic period</string>
+		<key>incorrectAnswer1</key>
+		<string>Indus Valley period</string>
+		<key>incorrectAnswer2</key>
+		<string>Second urbanisation</string>
+		<key>incorrectAnswer3</key>
+		<string>Classical period </string>
+		<key>wikiSearchWord</key>
+		<string>Vedic period</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Vedas were composed and orally transmitted with precision in the Vedic period.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>The Vedic period</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b07178-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1500 BC</string>
+		<key>question</key>
+		<string>Varṇa hierarchizes Indian society into how many classes?</string>
+		<key>correctTAnswer</key>
+		<string>4</string>
+		<key>incorrectAnswer1</key>
+		<string>6</string>
+		<key>incorrectAnswer2</key>
+		<string>12</string>
+		<key>incorrectAnswer3</key>
+		<string>100</string>
+		<key>wikiSearchWord</key>
+		<string>Varna (Hinduism)</string>
+		<key>questionTrueOrFalse</key>
+		<string>Brahmin is the varna lof laborers and service providers/servant.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Varnas appear</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b07290-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>600 BC</string>
+		<key>question</key>
+		<string>Which Indian religion teaches non-violence (ahimsa, literally &quot;non-injury&quot;) to all living creatures?</string>
+		<key>correctTAnswer</key>
+		<string>Jainism </string>
+		<key>incorrectAnswer1</key>
+		<string>Zoroastrianism</string>
+		<key>incorrectAnswer2</key>
+		<string>Sikhism</string>
+		<key>incorrectAnswer3</key>
+		<string>Bahai</string>
+		<key>wikiSearchWord</key>
+		<string>Jainism</string>
+		<key>questionTrueOrFalse</key>
+		<string>The three main pillars of Jainism are ahiṃsā (non-violence), anekāntavāda (non-absolutism), and aparigraha (asceticism).</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Foundation of Jainism</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b0739e-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>500 BC</string>
+		<key>question</key>
+		<string>What religion originated in India and became one of the world&apos;s largest religions?</string>
+		<key>correctTAnswer</key>
+		<string>Buddhism</string>
+		<key>incorrectAnswer1</key>
+		<string>Jainism</string>
+		<key>incorrectAnswer2</key>
+		<string>Hinduism</string>
+		<key>incorrectAnswer3</key>
+		<string>Islam</string>
+		<key>wikiSearchWord</key>
+		<string>History of Buddhism in India</string>
+		<key>questionTrueOrFalse</key>
+		<string>Buddhism is still one of the main religions of India.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Foundation of Buddhism</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b074ac-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>321 to 185 BC</string>
+		<key>question</key>
+		<string>Chandragupta Mauryalaying united most of India for the first time. What was his empire called?</string>
+		<key>correctTAnswer</key>
+		<string>Maurya Empire</string>
+		<key>incorrectAnswer1</key>
+		<string>Sassanid Empire</string>
+		<key>incorrectAnswer2</key>
+		<string>Parthian Empire</string>
+		<key>incorrectAnswer3</key>
+		<string>Chaldean Empire</string>
+		<key>wikiSearchWord</key>
+		<string>Chandragupta Maurya</string>
+		<key>questionTrueOrFalse</key>
+		<string>Chandragupta abdicated his throne and became a Jain monk.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Maurya Empire</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b07718-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>268 to 232 BC</string>
+		<key>question</key>
+		<string>Who is considered to be India&apos;s greatest emperor?</string>
+		<key>correctTAnswer</key>
+		<string>Ashoka</string>
+		<key>incorrectAnswer1</key>
+		<string>Srutayush</string>
+		<key>incorrectAnswer2</key>
+		<string>Subahu</string>
+		<key>incorrectAnswer3</key>
+		<string>Guhasiva</string>
+		<key>wikiSearchWord</key>
+		<string>Ashoka</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ashoka converted to Buddhism.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Reign of Ashoka</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b0781c-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>319 to 467 CE</string>
+		<key>question</key>
+		<string>What period is considered India&apos;s golden age?</string>
+		<key>correctTAnswer</key>
+		<string> The Gupta Empire</string>
+		<key>incorrectAnswer1</key>
+		<string>Persian – Greek arrival</string>
+		<key>incorrectAnswer2</key>
+		<string>The Sangam Age</string>
+		<key>incorrectAnswer3</key>
+		<string>Medieval India</string>
+		<key>wikiSearchWord</key>
+		<string>Gupta Empire</string>
+		<key>questionTrueOrFalse</key>
+		<string>Arts were neglected during de Gupta era.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Gupta Empire</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b0792a-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>711 CE</string>
+		<key>question</key>
+		<string>In what year did the Arabs arrive in India by conquering Sindh?</string>
+		<key>correctTAnswer</key>
+		<string>711</string>
+		<key>incorrectAnswer1</key>
+		<string>605</string>
+		<key>incorrectAnswer2</key>
+		<string>900</string>
+		<key>incorrectAnswer3</key>
+		<string>1200</string>
+		<key>wikiSearchWord</key>
+		<string>Islam in India</string>
+		<key>questionTrueOrFalse</key>
+		<string>Islam is India&apos;s second-largest religion.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Arabs conquer Sindh</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b07a38-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1206–1526</string>
+		<key>question</key>
+		<string>What was the name of the Islamic empire that spread over large parts of South Asia for 320 years (1206-1526)?</string>
+		<key>correctTAnswer</key>
+		<string>The Delhi Sultanate</string>
+		<key>incorrectAnswer1</key>
+		<string>The Gupta Empire</string>
+		<key>incorrectAnswer2</key>
+		<string>The Maratha Empire</string>
+		<key>incorrectAnswer3</key>
+		<string>The Khilji Empire</string>
+		<key>wikiSearchWord</key>
+		<string>Delhi Sultanate</string>
+		<key>questionTrueOrFalse</key>
+		<string>The sultanate is noted for its integration of the Indian subcontinent into a global cosmopolitan culture</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>The Delhi Sultanate</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b07c40-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>20 May 1498</string>
+		<key>question</key>
+		<string>His initial voyage to India by way of Cape of Good Hope was the first to link Europe and Asia by an ocean route. Who is he?</string>
+		<key>correctTAnswer</key>
+		<string>Vasco da Gama</string>
+		<key>incorrectAnswer1</key>
+		<string>Ferdinand Magellan</string>
+		<key>incorrectAnswer2</key>
+		<string>Diogo Cão</string>
+		<key>incorrectAnswer3</key>
+		<string>Bartolomeu Dias</string>
+		<key>wikiSearchWord</key>
+		<string>Vasco da Gama</string>
+		<key>questionTrueOrFalse</key>
+		<string>Da Gama landed in Calicut the first time he arrived in India.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Vasco da Gama arrives in India.</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b07d4e-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1526</string>
+		<key>question</key>
+		<string>This Muslim empire ruled India for over 300 years (1526–1857)? What was its name?</string>
+		<key>correctTAnswer</key>
+		<string>The Mughal Empire</string>
+		<key>incorrectAnswer1</key>
+		<string>Gupta Empire</string>
+		<key>incorrectAnswer2</key>
+		<string>Chola Empire</string>
+		<key>incorrectAnswer3</key>
+		<string>Maratha Empire</string>
+		<key>wikiSearchWord</key>
+		<string>Mughal Empire</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Mughal Empire generated little economic expansion.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Foundation of the Mughal Empire.</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b07e52-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1600</string>
+		<key>question</key>
+		<string>What is the name of the company to which the Queen Elizabeth I granted a monopoly on trade between England and India?</string>
+		<key>correctTAnswer</key>
+		<string>The East India Company</string>
+		<key>incorrectAnswer1</key>
+		<string>British India Company</string>
+		<key>incorrectAnswer2</key>
+		<string>English East Indies</string>
+		<key>incorrectAnswer3</key>
+		<string>Eastern Trade Company</string>
+		<key>wikiSearchWord</key>
+		<string>East India Company</string>
+		<key>questionTrueOrFalse</key>
+		<string>The East India Company monopolized trade between England and India for 100 years.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Creation of The East India Company</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b080b4-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1643</string>
+		<key>question</key>
+		<string>What building did Mughal Emperor Shah Jahan commission to house the tomb of his favorite wife?</string>
+		<key>correctTAnswer</key>
+		<string>The Taj Mahal</string>
+		<key>incorrectAnswer1</key>
+		<string>Meenakshi Temple</string>
+		<key>incorrectAnswer2</key>
+		<string>Mysore Palace,</string>
+		<key>incorrectAnswer3</key>
+		<string>Hawa Mahal</string>
+		<key>wikiSearchWord</key>
+		<string>Taj Mahal</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Taj Mahal was designated as a UNESCO World Heritage Site in 1983 for being the jewel of Hindu art in India.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Construction of the Taj Mahal</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b081cc-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1857</string>
+		<key>question</key>
+		<string>What sparked the Indian Rebellion of 1857?</string>
+		<key>correctTAnswer</key>
+		<string>All these answers</string>
+		<key>incorrectAnswer1</key>
+		<string>Harsh land taxes</string>
+		<key>incorrectAnswer2</key>
+		<string>British oppression</string>
+		<key>incorrectAnswer3</key>
+		<string>Grease in gunpowder cartridges</string>
+		<key>wikiSearchWord</key>
+		<string>Indian Rebellion of 1857</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Indian Rebellion of 1857 led to the dissolution of the East India Company in 1874.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Indian Rebellion against British rule.</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b082d0-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1858 to 1947</string>
+		<key>question</key>
+		<string>What was the British Crown&apos;s reign over the Indian subcontinent (1858 to 1947) called?</string>
+		<key>correctTAnswer</key>
+		<string>The British Raj</string>
+		<key>incorrectAnswer1</key>
+		<string>British India</string>
+		<key>incorrectAnswer2</key>
+		<string>The Indian dominion</string>
+		<key>incorrectAnswer3</key>
+		<string>British East India</string>
+		<key>wikiSearchWord</key>
+		<string>The British Raj</string>
+		<key>questionTrueOrFalse</key>
+		<string>In 1876, Queen Victoria was proclaimed Empress of India.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>TheBritish Raj</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b083d4-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1947</string>
+		<key>question</key>
+		<string>Which countries emerged from the partition of India?</string>
+		<key>correctTAnswer</key>
+		<string>India, Pakistan and Bangladesh</string>
+		<key>incorrectAnswer1</key>
+		<string>Bangladesh and Pakistan</string>
+		<key>incorrectAnswer2</key>
+		<string>India and Pakistan</string>
+		<key>incorrectAnswer3</key>
+		<string>India and Bangladesh</string>
+		<key>wikiSearchWord</key>
+		<string>Partition of India</string>
+		<key>questionTrueOrFalse</key>
+		<string>The initial partition displaced between 10 and 20 million people along religious lines</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Partition of India</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>23b0864a-dddf-11ec-9d64-0242ac120002</string>
+		<key>date</key>
+		<string>1948</string>
+		<key>question</key>
+		<string>He used the non-violent resistance that led India to independence from British rule. Who is he?</string>
+		<key>correctTAnswer</key>
+		<string>Mahatma Gandhi</string>
+		<key>incorrectAnswer1</key>
+		<string>Nehru</string>
+		<key>incorrectAnswer2</key>
+		<string>Ambedkar</string>
+		<key>incorrectAnswer3</key>
+		<string>Kalam</string>
+		<key>wikiSearchWord</key>
+		<string>Mahatma Gandhi</string>
+		<key>questionTrueOrFalse</key>
+		<string>Gandhi lived all is life in India.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Assassination of Gandhi</string>
+		<key>theme</key>
+		<string>Indian History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+</array>
+</plist>

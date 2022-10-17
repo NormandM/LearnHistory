@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>6000 Av</string>
+		<key>date</key>
+		<string>6000 Av</string>
+		<key>id</key>
+		<string>eec86e24-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>2000 Av</string>
+		<key>incorrectAnswer2</key>
+		<string>12000 Av</string>
+		<key>incorrectAnswer3</key>
+		<string>100000 Av</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>Quand les îles britanniques se sont-elles séparées du continent européen ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le Doggerland était une zone de terre, aujourd&apos;hui immergée sous la partie sud de la mer du Nord, qui reliait la Grande-Bretagne à l&apos;Europe continentale.</string>
+		<key>theme</key>
+		<string>Angleterre 6000 Av-878</string>
+		<key>timeLine</key>
+		<string> Les îles britanniques se séparent du continent européen.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Doggerland</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les Celtes</string>
+		<key>date</key>
+		<string>500 Av</string>
+		<key>id</key>
+		<string>eec87158-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Grecs</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Romains</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Goths</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Ils commencent à coloniser la Grande-Bretagne à partir de 500 avant J.-C. Qui sont-ils ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Celtes et les Romains n&apos;ont jamais été en guerre. </string>
+		<key>theme</key>
+		<string>Angleterre 6000 Av-878</string>
+		<key>timeLine</key>
+		<string>Les Celtes commencent à coloniser les îles britanniques.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Celtes</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>César</string>
+		<key>date</key>
+		<string>55 Av</string>
+		<key>id</key>
+		<string>eec873d8-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Alexandre le Grand</string>
+		<key>incorrectAnswer2</key>
+		<string>Hannibal</string>
+		<key>incorrectAnswer3</key>
+		<string>Cyrus le Grand</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Quel grand général a été le premier à envahir la Grande-Bretagne ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>César envahit la Grande-Bretagne en 55 avant J.-C. et en 54 avant J.-C.</string>
+		<key>theme</key>
+		<string>Angleterre 6000 Av-878</string>
+		<key>timeLine</key>
+		<string>Premiers raids romains en Grande-Bretagne sous Jules César.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Expéditions de Jules César en Bretagne</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Claudius</string>
+		<key>date</key>
+		<string>43</string>
+		<key>id</key>
+		<string>eec875cc-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>César</string>
+		<key>incorrectAnswer2</key>
+		<string>Auguste</string>
+		<key>incorrectAnswer3</key>
+		<string>Caligula</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Quel empereur romain a commencé l’occupation de la Grande-Bretagne?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les romains, sous l&apos;égide de leur général Aulus Plautius, commencèrent l&apos;invasion et réussirent à pénétrer à l&apos;intérieur des terre.</string>
+		<key>theme</key>
+		<string>Angleterre 6000 Av-878</string>
+		<key>timeLine</key>
+		<string>Début de la domination romaine sur la Grande-Bretagne</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Conquête romaine de la Grande-Bretagne</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Boadicée</string>
+		<key>date</key>
+		<string>61</string>
+		<key>id</key>
+		<string>eec877c0-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Eurydice</string>
+		<key>incorrectAnswer2</key>
+		<string>Clodia</string>
+		<key>incorrectAnswer3</key>
+		<string>Bérénice</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>Quelle reine, humiliée par les Romains, a mené une insurrection contre ceux-ci?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Boadicée perd sa première bataille à Camulodunum.</string>
+		<key>theme</key>
+		<string>Angleterre 6000 Av-878</string>
+		<key>timeLine</key>
+		<string>Boadicée mène un soulèvement contre l&apos;Empire romain.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Boadicée</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Germanique</string>
+		<key>date</key>
+		<string>450</string>
+		<key>id</key>
+		<string>eec87c5c-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Langue et culture anglaises</string>
+		<key>incorrectAnswer2</key>
+		<string>Langue et culture gaéliques</string>
+		<key>incorrectAnswer3</key>
+		<string>Langue et culture viking</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>Quelle nouvelle langue et culture a été introduite en Grande-Bretagne par les Anglo-Saxons ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La germanisation de l&apos;Angleterre s&apos;est produite à partir du troisième siècle, avant la fin de la domination romaine en Grande-Bretagne.</string>
+		<key>theme</key>
+		<string>Angleterre 6000 Av-878</string>
+		<key>timeLine</key>
+		<string>Début de la colonisation anglo-saxonne de la Grande-Bretagne</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Colonisation anglo-saxonne de la Grande-Bretagne</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Saint Augustin</string>
+		<key>date</key>
+		<string>597</string>
+		<key>id</key>
+		<string>eec87ef0-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Saint Patrick</string>
+		<key>incorrectAnswer2</key>
+		<string>Saint Georges</string>
+		<key>incorrectAnswer3</key>
+		<string>Saint André</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Qui est devenu le premier archevêque de Canterbury en 597 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Saint Augustin a été envoyé pour christianiser le roi Æthelberht et son royaume du Kent du paganisme anglo-saxon.</string>
+		<key>theme</key>
+		<string>Angleterre 6000 Av-878</string>
+		<key>timeLine</key>
+		<string>Saint Augustin apporte le christianisme en Angleterre depuis Rome.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Augustin de Cantorbéry</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bède</string>
+		<key>date</key>
+		<string>731</string>
+		<key>id</key>
+		<string>eec880d0-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Arthur</string>
+		<key>incorrectAnswer2</key>
+		<string>Shakespeare</string>
+		<key>incorrectAnswer3</key>
+		<string>Saint Augustin</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>Qui a écrit &quot;The Ecclesiastical History of the English People&quot; ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;histoire ecclésiastique du peuple anglais a été écrite en anglais.</string>
+		<key>theme</key>
+		<string>Angleterre 6000 Av-878</string>
+		<key>timeLine</key>
+		<string>Bède écrit &quot;L&apos;histoire ecclésiastique du peuple anglais&quot;. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire ecclésiastique du peuple anglais</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>11ème siècle</string>
+		<key>date</key>
+		<string>792</string>
+		<key>id</key>
+		<string>eec882ba-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>9ème siècle</string>
+		<key>incorrectAnswer2</key>
+		<string>15ème siècle</string>
+		<key>incorrectAnswer3</key>
+		<string>13ème siècle</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Jusqu’à quel siècle s’est poursuivie l’activité des Vikings en Angleterre?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Vikings sont présents dans les îles Britanniques dès le 5e siècle.</string>
+		<key>theme</key>
+		<string>Angleterre 6000 Av-878</string>
+		<key>timeLine</key>
+		<string>Début des raids vikings en Grande-Bretagne</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Activité des Vikings dans les îles britanniques</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ethandun</string>
+		<key>date</key>
+		<string>878</string>
+		<key>id</key>
+		<string>eec88490-b8fa-11ec-8422-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Buttington</string>
+		<key>incorrectAnswer2</key>
+		<string>Tettenhall</string>
+		<key>incorrectAnswer3</key>
+		<string>Bedanford</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Quel est le nom de la victoire décisive d&apos;Alfred le Grand contre les Vikings en 878 ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Malgré la signature du traité de Wedmore, puis du traité entre Alfred et Guthrum, l&apos;état de guerre se maintint entre Danois et Anglo-Saxons.</string>
+		<key>theme</key>
+		<string>Angleterre 6000 Av-878</string>
+		<key>timeLine</key>
+		<string>Bataille d&apos;Ethandun</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Bataille d&apos;Ethandun</string>
+	</dict>
+</array>
+</plist>

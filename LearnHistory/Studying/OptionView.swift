@@ -16,13 +16,13 @@ struct OptionView: View {
     }
     var optionButtonActionAllCards: (() -> Void)?
     var optionBurronActionWrongCards: (() -> Void)?
-    @State private var boxDimension = CGFloat()
     var body: some View {
         VStack {
             Button{
                 optionButtonActionAllCards!()
             }label:{
                 Text("Use All Cards")
+                    .font(.caption)
                     .italic()
                     .fontWeight(.bold)
             }
@@ -31,7 +31,8 @@ struct OptionView: View {
             Button{
                 optionBurronActionWrongCards!()
             }label:{
-                Text("Use incorrectly\nanswered cards")
+                Text("Use incorrectly answered cards")
+                    .font(.caption)
                     .italic()
                     .fontWeight(.bold)
                     .multilineTextAlignment(.center)
@@ -41,14 +42,6 @@ struct OptionView: View {
         .padding()
         .background(ColorReference.darkGreen)
         .cornerRadius(25)
-        .onAppear{
-            if deviceWidth > deviceHeight {
-               boxDimension = deviceWidth
-            }else{
-               boxDimension = deviceWidth
-            }
-            
-        }
     }
 }
 

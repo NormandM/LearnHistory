@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Clístenes</string>
+		<key>date</key>
+		<string>508 A.C.</string>
+		<key>id</key>
+		<string>91897084-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Solón</string>
+		<key>incorrectAnswer2</key>
+		<string>Sócrates</string>
+		<key>incorrectAnswer3</key>
+		<string>Aristóteles</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>¿Quién es considerado el &quot;padre de la democracia ateniense&quot;?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las acciones de Cleístenes no redujeron el poder de la nobleza sobre la política ateniense.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 508 A.C.-399 A.C.</string>
+		<key>timeLine</key>
+		<string>Cleístenes reforma la constitución de Atenas hacia la democracia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Clístenes de Atenas</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La revuelta jónica</string>
+		<key>date</key>
+		<string>499-493 A.C.</string>
+		<key>id</key>
+		<string>918971d8-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Guerra del Peloponeso</string>
+		<key>incorrectAnswer2</key>
+		<string>La Primera Guerra Púnica</string>
+		<key>incorrectAnswer3</key>
+		<string>la batalla de Maratón</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>¿Cuál fue el primer gran conflicto entre Grecia y el Imperio Persa?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La revuelta jónica fue impulsada por Aristágoras, el tirano de Mileto, en el año 499 a. C.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 508 A.C.-399 A.C.</string>
+		<key>timeLine</key>
+		<string>La revuelta jónica</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>La revuelta jónica</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Darío el Grande</string>
+		<key>date</key>
+		<string>492-490 A.C.</string>
+		<key>id</key>
+		<string>9189732c-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cyrius</string>
+		<key>incorrectAnswer2</key>
+		<string>Xerxes</string>
+		<key>incorrectAnswer3</key>
+		<string>Hannibal</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>¿Quién fue el rey persa que invadió por primera vez Grecia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los persas ganaron esta primera guerra.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 508 A.C.-399 A.C.</string>
+		<key>timeLine</key>
+		<string>Primera invasión persa de Grecia</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Primera guerra médicas</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Thermopylae</string>
+		<key>date</key>
+		<string>480-479 A.C.</string>
+		<key>id</key>
+		<string>91897d40-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Gibraltar</string>
+		<key>incorrectAnswer2</key>
+		<string>Skinakas</string>
+		<key>incorrectAnswer3</key>
+		<string>Katara</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Durante la segunda invasión persa, ¿cómo se llamaba el paso defendido por una pequeña fuerza espartana?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los persas perdieron la batalla de las Termópilas.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 508 A.C.-399 A.C.</string>
+		<key>timeLine</key>
+		<string>Segunda invasión persa de Grecia</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de las Termópilas.</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Delos</string>
+		<key>date</key>
+		<string>478 A.C.</string>
+		<key>id</key>
+		<string>91897ea8-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Atenienses</string>
+		<key>incorrectAnswer2</key>
+		<string>Pericles</string>
+		<key>incorrectAnswer3</key>
+		<string>Peloponeso</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>¿Cómo se llama la liga formada por Atenas durante su época dorada?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Sólo la ciudad de Atenas formaba parte de esta liga.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 508 A.C.-399 A.C.</string>
+		<key>timeLine</key>
+		<string>Fundación de Delos</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Liga de Delos</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hipócrates</string>
+		<key>date</key>
+		<string>460 A.C.</string>
+		<key>id</key>
+		<string>91897ffc-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Aristóteles</string>
+		<key>incorrectAnswer2</key>
+		<string>Platón</string>
+		<key>incorrectAnswer3</key>
+		<string>Sócrates</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>¿Quién está considerado como una de las figuras más importantes de la historia de la medicina?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hipócrates es considerado tradicionalmente el &quot;padre de la medicina&quot;.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 508 A.C.-399 A.C.</string>
+		<key>timeLine</key>
+		<string>Nacimiento de Hipócrates</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Hipócrates</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Atenas y Esparta</string>
+		<key>date</key>
+		<string>445 A.C.</string>
+		<key>id</key>
+		<string>91898326-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Atenas y Tebas</string>
+		<key>incorrectAnswer2</key>
+		<string>Argo y Esparta</string>
+		<key>incorrectAnswer3</key>
+		<string>Tebas y Argo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>¿Cuáles fueron las dos principales ciudades enemigas en la Primera Guerra del Peloponeso?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Liga del Peloponeso estaba liderada por Atenas.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 508 A.C.-399 A.C.</string>
+		<key>timeLine</key>
+		<string>Fin de la primera guerra del Peloponeso.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra del Peloponeso</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Atenea</string>
+		<key>date</key>
+		<string>438 A.C.</string>
+		<key>id</key>
+		<string>91898498-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Zeus</string>
+		<key>incorrectAnswer2</key>
+		<string>Hera</string>
+		<key>incorrectAnswer3</key>
+		<string>Apollo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>Construido en la Acrópolis ateniense, ¿A qué dios o diosa está dedicado el Partenón?</string>
+		<key>questionTrueOrFalse</key>
+		<string>En el siglo VI d. C., el Partenón se convierte en una iglesia cristiana.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 508 A.C.-399 A.C.</string>
+		<key>timeLine</key>
+		<string>El Partenón está terminado.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Partenón</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Esparta</string>
+		<key>date</key>
+		<string>404 A.C.</string>
+		<key>id</key>
+		<string>918985d8-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Atenas</string>
+		<key>incorrectAnswer2</key>
+		<string>Tebas</string>
+		<key>incorrectAnswer3</key>
+		<string>Argo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>¿Quién ganó la Guerra del Peloponeso?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tras la guerra, Esparta se convirtió en la primera potencia de Grecia.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 508 A.C.-399 A.C.</string>
+		<key>timeLine</key>
+		<string>Fin de la Guerra del Peloponeso.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Guerra del Peloponeso</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Sócrates</string>
+		<key>date</key>
+		<string>399 A.C.</string>
+		<key>id</key>
+		<string>9189872c-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Platón</string>
+		<key>incorrectAnswer2</key>
+		<string>Aristóteles</string>
+		<key>incorrectAnswer3</key>
+		<string>Pitágoras</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>¿Qué filósofo griego de Atenas es considerado el fundador de la filosofía occidental?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Sócrates no dejó constancia escrita de sus conceptos filosóficos.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 508 A.C.-399 A.C.</string>
+		<key>timeLine</key>
+		<string>Muerte de Sócrates</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Sócrates</string>
+	</dict>
+</array>
+</plist>

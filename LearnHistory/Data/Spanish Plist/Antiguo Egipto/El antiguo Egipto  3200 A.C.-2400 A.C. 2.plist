@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Jeroglíficos</string>
+		<key>date</key>
+		<string>3200 A.C.</string>
+		<key>id</key>
+		<string>d9fed1ec-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cuneiforme</string>
+		<key>incorrectAnswer2</key>
+		<string>Alfabeto antiguo</string>
+		<key>incorrectAnswer3</key>
+		<string>Imágenes</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>¿Cuál era el sistema de escritura formal utilizado en el antiguo Egipto?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los jeroglíficos fueron utilizados hasta el siglo IV.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto  3200 A.C.-2400 A.C.</string>
+		<key>timeLine</key>
+		<string>Se utiliza por primera vez la escritura jeroglífica.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Jeroglíficos egipcios</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Narmer</string>
+		<key>date</key>
+		<string>3100 A.C.</string>
+		<key>id</key>
+		<string>d9fed502-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Khufu</string>
+		<key>incorrectAnswer2</key>
+		<string>Tutmosis</string>
+		<key>incorrectAnswer3</key>
+		<string>Amenhotep</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>¿Quién fue el primer rey que unificó Egipto?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Narmer es el fundador de la primera dinastía.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto  3200 A.C.-2400 A.C.</string>
+		<key>timeLine</key>
+		<string>Primera unificación del Alto y Bajo Egipto.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Narmer</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Reino antiguo</string>
+		<key>date</key>
+		<string>3100 A.C.</string>
+		<key>id</key>
+		<string>d9fed660-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>El Reino Medio </string>
+		<key>incorrectAnswer2</key>
+		<string>El Nuevo Reino </string>
+		<key>incorrectAnswer3</key>
+		<string>El periodo intermedio </string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>¿Durante qué periodo del antiguo Egipto se construyeron las pirámides?</string>
+		<key>questionTrueOrFalse</key>
+		<string>En el reino antiguo aparece la divinización absoluta del faraón y un poder político fuertemente centralizado.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto  3200 A.C.-2400 A.C.</string>
+		<key>timeLine</key>
+		<string>Comienzo del Reino Antiguo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Reino antiguo</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La mastaba </string>
+		<key>date</key>
+		<string>2780 A.C.</string>
+		<key>id</key>
+		<string>d9feda0c-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cuevas</string>
+		<key>incorrectAnswer2</key>
+		<string>Areneros</string>
+		<key>incorrectAnswer3</key>
+		<string>El sarcófago</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>¿Qué se utilizaba para enterrar a los muertos antes de la pirámide escalonada?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los reyes nunca fueron enterrados en mastabas.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto  3200 A.C.-2400 A.C.</string>
+		<key>timeLine</key>
+		<string>Primeras mastabas</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Mastaba</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Zoser</string>
+		<key>date</key>
+		<string>2670–2650 A.C.</string>
+		<key>id</key>
+		<string>d9fedb92-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Narmer</string>
+		<key>incorrectAnswer2</key>
+		<string>Snerefu</string>
+		<key>incorrectAnswer3</key>
+		<string>Khufu</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>¿Quién fue el primer faraón que construyó una pirámide escalonada?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El arquitecto de la pirámide de Zoser fue Imhotep.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto  3200 A.C.-2400 A.C.</string>
+		<key>timeLine</key>
+		<string>Pirámide de Zoser</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Pirámide escalonada de Zoser</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Seneferu</string>
+		<key>date</key>
+		<string>2600 A.C.</string>
+		<key>id</key>
+		<string>d9fedcdc-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Narmer</string>
+		<key>incorrectAnswer3</key>
+		<string>Neferefre</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>¿Qué faraón del Reino Antiguo construyó tres pirámides durante su reinado?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Pirámide Acodada construida por Seneferu, ha desaparecido.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto  3200 A.C.-2400 A.C.</string>
+		<key>timeLine</key>
+		<string>La pirámide curva de Dahshur.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Pirámide Acodada</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Órganos internos</string>
+		<key>date</key>
+		<string>2600 A.C.</string>
+		<key>id</key>
+		<string>d9fede30-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Alimentos</string>
+		<key>incorrectAnswer2</key>
+		<string>Agua</string>
+		<key>incorrectAnswer3</key>
+		<string>Joyería</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Se han encontrado vasos canopos junto a las tumbas. ¿Qué contenían?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las vísceras se guardaron todas en un único recipiente canopo.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto  3200 A.C.-2400 A.C.</string>
+		<key>timeLine</key>
+		<string>Se desarrollan los primeros vasos canopos.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Vaso canopo</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Gran Pirámide de Guiza</string>
+		<key>date</key>
+		<string>2566 A.C.</string>
+		<key>id</key>
+		<string>d9fedf7a-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La Esfinge</string>
+		<key>incorrectAnswer2</key>
+		<string>Faro de Alejandría</string>
+		<key>incorrectAnswer3</key>
+		<string>Valle de los Reyes</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>¿Cuál es la más antigua de las siete maravillas del mundo antiguo?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El arquitecto de la pirámide de Keops es Imhotep.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto  3200 A.C.-2400 A.C.</string>
+		<key>timeLine</key>
+		<string>Gran Pirámide de Guiza</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Gran Pirámide de Guiza</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Antiguo Reino</string>
+		<key>date</key>
+		<string> 2558–2532 A.C.</string>
+		<key>id</key>
+		<string>d9fee0c4-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Nuevo Reino</string>
+		<key>incorrectAnswer2</key>
+		<string>Reino Medio</string>
+		<key>incorrectAnswer3</key>
+		<string>Primer periodo intermedio</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>¿En qué periodo de la historia egipcia se construyó la Gran Esfinge?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Esfinge fue esculpida c. s. xxvi a. C., formando parte del complejo funerario del rey, durante la dinastía IV de Egipto.</string>
+		<key>theme</key>
+		<string>El antiguo Egipto  3200 A.C.-2400 A.C.</string>
+		<key>timeLine</key>
+		<string>La Esfinge está construida.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Gran Esfinge de Guiza</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Los nubios</string>
+		<key>date</key>
+		<string>2300 A.C.</string>
+		<key>id</key>
+		<string>d9fee3d0-c01e-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Los hititas</string>
+		<key>incorrectAnswer2</key>
+		<string>Los griegos</string>
+		<key>incorrectAnswer3</key>
+		<string>Los romanos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>¿Quién conquistó a los egipcios y fue conquistado por los egipcios?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los nubios fundaron una dinastía que gobernó el Alto y Bajo Egipto en el siglo VIII a.C..</string>
+		<key>theme</key>
+		<string>El antiguo Egipto  3200 A.C.-2400 A.C.</string>
+		<key>timeLine</key>
+		<string>Los nubios se mencionan por primera vez.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Nubios</string>
+	</dict>
+</array>
+</plist>

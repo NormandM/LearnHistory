@@ -13,3 +13,8 @@ import CoreData
 public class HistoricalEvent: NSManagedObject {
 
 }
+
+@objc(HistoricalEventDetail)
+public class HistoricalEventDetail: NSManagedObject {
+
+}

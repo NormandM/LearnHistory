@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The First Intermediate Period</string>
+		<key>date</key>
+		<string>2181–2055 BC</string>
+		<key>id</key>
+		<string>018BB7EC-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Dark Ages</string>
+		<key>incorrectAnswer2</key>
+		<string>the Middle Kingdom </string>
+		<key>incorrectAnswer3</key>
+		<string> The New Kingdom </string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>What is the name of the period following the decline of the Old Kingdom?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The pyramids were not plundered during the First Intermediate Period.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 2300 BC-1323 BC</string>
+		<key>timeLine</key>
+		<string>First Intermediate Period</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>First Intermediate Period of Egypt</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>A Period of Reunification</string>
+		<key>date</key>
+		<string>2040 to 1782 BC</string>
+		<key>id</key>
+		<string>018BBA26-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>A period of wars and conflicts.</string>
+		<key>incorrectAnswer2</key>
+		<string>The age of the pyramid builders.</string>
+		<key>incorrectAnswer3</key>
+		<string>The decay of Egypte.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>What best describes the middle kingdom?</string>
+		<key>questionTrueOrFalse</key>
+		<string>During the Middle Kingdom period, Osiris became the most important deity in popular religion</string>
+		<key>theme</key>
+		<string>Ancient Egypt 2300 BC-1323 BC</string>
+		<key>timeLine</key>
+		<string>Middle Kingdom of Egypt</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Middle Kingdom of Egypt</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Hyksos</string>
+		<key>date</key>
+		<string>1650 – 1550 BC</string>
+		<key>id</key>
+		<string>018BBB3E-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Hittites </string>
+		<key>incorrectAnswer2</key>
+		<string>The Phoenicians</string>
+		<key>incorrectAnswer3</key>
+		<string>The Greeks</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Who are the outsiders that ruled northern Egypt during the second intermediate period?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Unlike the First Intermediate Period, the Second Intermediate Period was one of growth.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 2300 BC-1323 BC</string>
+		<key>timeLine</key>
+		<string>Second Intermediate Period</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Second Intermediate Period of Egypt</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Surgical treatise</string>
+		<key>date</key>
+		<string>1600 BC</string>
+		<key>id</key>
+		<string>018BBC6A-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Astronomy</string>
+		<key>incorrectAnswer2</key>
+		<string>Physics</string>
+		<key>incorrectAnswer3</key>
+		<string>Architecture</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>Edwin Smith Papyrus is the oldest known document of what science?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Edwin Smith Papyrus presents a rational and scientific approach to medicine.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 2300 BC-1323 BC</string>
+		<key>timeLine</key>
+		<string>Edwin Smith Papyrus</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Edwin Smith Papyrus</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Book of the Dead</string>
+		<key>date</key>
+		<string>1550 BC</string>
+		<key>id</key>
+		<string>018BCFFC-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Book of hieroglyphs</string>
+		<key>incorrectAnswer2</key>
+		<string>Book of the afterlife</string>
+		<key>incorrectAnswer3</key>
+		<string>Book of the living</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>What document was placed in the coffin of the deceased?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The purpose of The Book of the Dead is  to assist a dead person&apos;s journey through the underworld.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 2300 BC-1323 BC</string>
+		<key>timeLine</key>
+		<string>Book of the Dead first used</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Book of the Dead</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hatshepsut</string>
+		<key>date</key>
+		<string>1507–1458 BC</string>
+		<key>id</key>
+		<string>018BBF9E-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Nefertiti</string>
+		<key>incorrectAnswer2</key>
+		<string>Twosret</string>
+		<key>incorrectAnswer3</key>
+		<string>Neithikret</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>What is the name of a woman pharaoh of the 18th dynasty of the New Kingdom?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hatshepsut was the second historically confirmed female pharaoh.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 2300 BC-1323 BC</string>
+		<key>timeLine</key>
+		<string>Hatshepsut</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Hatshepsut</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Thutmose III</string>
+		<key>date</key>
+		<string>1481-1425 BC</string>
+		<key>id</key>
+		<string>018BC0CA-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ramsès II</string>
+		<key>incorrectAnswer2</key>
+		<string>Tutankhamun</string>
+		<key>incorrectAnswer3</key>
+		<string>Djoser</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>Through his military campaigns, he created the largest empire Egypt had ever seen. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Thutmose III conducted 17 military campaigns.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 2300 BC-1323 BC</string>
+		<key>timeLine</key>
+		<string>Thutmose III</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Thutmose III</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Nefertiti</string>
+		<key>date</key>
+		<string>1370 – 1330 BC</string>
+		<key>id</key>
+		<string>018BC2F0-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Cleopatra</string>
+		<key>incorrectAnswer2</key>
+		<string>Hatshepsut</string>
+		<key>incorrectAnswer3</key>
+		<string>Twosret</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Her bust, now in Berlin&apos;s Neues Museum, is one of the most copied works of ancient Egypt. Who is she?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Nefertiti was the Great Royal Wife of Pharaoh Akhenaten</string>
+		<key>theme</key>
+		<string>Ancient Egypt 2300 BC-1323 BC</string>
+		<key>timeLine</key>
+		<string>Nefertiti</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Nefertiti</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Akhenaten</string>
+		<key>date</key>
+		<string>1351–1334 BC</string>
+		<key>id</key>
+		<string>018BC1E2-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Djoser</string>
+		<key>incorrectAnswer2</key>
+		<string>Ramsès II</string>
+		<key>incorrectAnswer3</key>
+		<string>Tutankhamun</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>Who is the pharaoh that instituted monotheism for the first time in the history of the world?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The monotheism established by Akhenaten transformed Egyptian religion forever.</string>
+		<key>theme</key>
+		<string>Ancient Egypt 2300 BC-1323 BC</string>
+		<key>timeLine</key>
+		<string>Akhenaten</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Akhenaten reign</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Tutankhamun</string>
+		<key>date</key>
+		<string>1341 -  1323 BC</string>
+		<key>id</key>
+		<string>018BC412-9721-11EC-B909-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ramsès II</string>
+		<key>incorrectAnswer2</key>
+		<string>Akhenaten</string>
+		<key>incorrectAnswer3</key>
+		<string>Djoser</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>Howard Carter discovered his nearly intact tomb in 1922. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tutankhamun died of old age?</string>
+		<key>theme</key>
+		<string>Ancient Egypt 2300 BC-1323 BC</string>
+		<key>timeLine</key>
+		<string>Tutankhamun</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Tutankhamun</string>
+	</dict>
+</array>
+</plist>

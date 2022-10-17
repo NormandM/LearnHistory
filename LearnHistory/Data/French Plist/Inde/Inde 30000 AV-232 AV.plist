@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les Adivasis</string>
+		<key>date</key>
+		<string>30000 AV.</string>
+		<key>id</key>
+		<string>a12cc8bc-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Hmong</string>
+		<key>incorrectAnswer2</key>
+		<string>Les Mlabri</string>
+		<key>incorrectAnswer3</key>
+		<string>Le Giraavaru</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>Comment appelle-t-on les premiers habitants, les aborigènes de l&apos;Inde ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ils représentent 8,6 % de la population du pays en 2018, soit plus de 100 millions de personnes.</string>
+		<key>theme</key>
+		<string>Inde 30000 AV-232 AV</string>
+		<key>timeLine</key>
+		<string>Les adivadis représentent 100% de la population</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Adivasis</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La civilisation de la vallée de l&apos;Indus</string>
+		<key>date</key>
+		<string>3300 AV.</string>
+		<key>id</key>
+		<string>a12ccac4-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Les Parthes</string>
+		<key>incorrectAnswer2</key>
+		<string>La civilisation Kanva</string>
+		<key>incorrectAnswer3</key>
+		<string>Le Senas</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Quelle civilisation indienne était, avec l&apos;Egypte et la Mésopotamie, l&apos;une des plus avancées ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La civilisation de l&apos;Indus est également connue sous le nom de civilisation Harappan.</string>
+		<key>theme</key>
+		<string>Inde 30000 AV-232 AV</string>
+		<key>timeLine</key>
+		<string>Naissance de la civilisation de la vallée de l&apos;Indus.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Civilisation de la vallée de l&apos;Indus</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Systèmes de drainage</string>
+		<key>date</key>
+		<string>2600 AV.</string>
+		<key>id</key>
+		<string>a12ccbfa-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Le papier</string>
+		<key>incorrectAnswer2</key>
+		<string>La poudre à canon</string>
+		<key>incorrectAnswer3</key>
+		<string>La boussole</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>Quelle technologie a été développée en premier par la civilisation de la vallée de l&apos;Indus ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La civilisation de la vallée de l&apos;Indus ne s&apos;est jamais éteinte.</string>
+		<key>theme</key>
+		<string>Inde 30000 AV-232 AV</string>
+		<key>timeLine</key>
+		<string>Les premiers systèmes de drainage de la vallée de l&apos;Indus.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Civilisation de la vallée de l&apos;Indus</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Les Védas</string>
+		<key>date</key>
+		<string>1500–1000 AV.</string>
+		<key>id</key>
+		<string>a12ccd12-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Le Karma</string>
+		<key>incorrectAnswer2</key>
+		<string>Le Tipitaka</string>
+		<key>incorrectAnswer3</key>
+		<string>Les Agamas</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Ces textes sont les plus anciennes écritures de l&apos;hindouisme. Comment sont-ils appelés ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Il existe six Vedas</string>
+		<key>theme</key>
+		<string>Inde 30000 AV-232 AV</string>
+		<key>timeLine</key>
+		<string>Les textes sacrés du Rig Veda sont composés.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Veda</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La période védique</string>
+		<key>date</key>
+		<string>1500 – 500 AV.</string>
+		<key>id</key>
+		<string>a12ccff6-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La période de la vallée de l&apos;Indus</string>
+		<key>incorrectAnswer2</key>
+		<string>Deuxième urbanisation</string>
+		<key>incorrectAnswer3</key>
+		<string>Période classique </string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>A quelle période la société indienne voit-elle l&apos;émergence d&apos;une hiérarchie des classes sociales ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Période védique est la période de l’histoire de l&apos;Inde où les textes hindouistes canoniques, tels que les quatre védas ont été composés.</string>
+		<key>theme</key>
+		<string>Inde 30000 AV-232 AV</string>
+		<key>timeLine</key>
+		<string>La période védique</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Période védique</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>4</string>
+		<key>date</key>
+		<string>1500 AV.</string>
+		<key>id</key>
+		<string>a12cd10e-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>6</string>
+		<key>incorrectAnswer2</key>
+		<string>12</string>
+		<key>incorrectAnswer3</key>
+		<string>100</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>Le Varṇa hiérarchise la société indienne en combien de classes ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le brahmane est la varna des prestataires de services/serviteurs.</string>
+		<key>theme</key>
+		<string>Inde 30000 AV-232 AV</string>
+		<key>timeLine</key>
+		<string>Les varnas apparaissent</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Brahmane</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Jaïnisme </string>
+		<key>date</key>
+		<string>600 AV.</string>
+		<key>id</key>
+		<string>a12cd21c-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Le zoroastrisme</string>
+		<key>incorrectAnswer2</key>
+		<string>Le sikhisme</string>
+		<key>incorrectAnswer3</key>
+		<string>Bahai</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Quelle religion indienne enseigne la non-violence (ahimsa, littéralement &quot;non-blessure&quot;) à tous les êtres vivants ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le but de la vie pour les jaïns est le même que pour l&apos;hindouisme, le bouddhisme: l&apos;adepte doit atteindre l&apos;illumination menant à la fin des transmigrations de son âme </string>
+		<key>theme</key>
+		<string>Inde 30000 AV-232 AV</string>
+		<key>timeLine</key>
+		<string>Fondation du jaïnisme</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Jaïnisme </string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bouddhisme</string>
+		<key>date</key>
+		<string>500 AV.</string>
+		<key>id</key>
+		<string>a12cd320-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Jaïnisme</string>
+		<key>incorrectAnswer2</key>
+		<string>Hindouisme</string>
+		<key>incorrectAnswer3</key>
+		<string>Islam</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>Quelle religion est née en Inde et est devenue l&apos;une des plus grandes religions du monde ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le bouddhisme est toujours l&apos;une des principales religions de l&apos;Inde.</string>
+		<key>theme</key>
+		<string>Inde 30000 AV-232 AV</string>
+		<key>timeLine</key>
+		<string>Fondation du bouddhisme</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire du bouddhisme en Inde</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Empire Maurya</string>
+		<key>date</key>
+		<string>321 to 185 AV.</string>
+		<key>id</key>
+		<string>a12cd41a-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Empire sassanide</string>
+		<key>incorrectAnswer2</key>
+		<string>Empire parthe</string>
+		<key>incorrectAnswer3</key>
+		<string>Empire chaldéen</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Chandragupta Mauryalaying a unifié la majeure partie de l&apos;Inde pour la première fois. Comment s&apos;appelait son empire ?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Empire maurya est vu comme le premier grand empire de l&apos;histoire indienne</string>
+		<key>theme</key>
+		<string>Inde 30000 AV-232 AV</string>
+		<key>timeLine</key>
+		<string>Empire Maurya</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Empire maurya</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Ashoka</string>
+		<key>date</key>
+		<string>268 to 232 AV.</string>
+		<key>id</key>
+		<string>a12cd528-ddf9-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Srutayush</string>
+		<key>incorrectAnswer2</key>
+		<string>Subahu</string>
+		<key>incorrectAnswer3</key>
+		<string>Guhasiva</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Qui est considéré comme le plus grand empereur de l&apos;Inde ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ashoka se convertit au bouddhisme.</string>
+		<key>theme</key>
+		<string>Inde 30000 AV-232 AV</string>
+		<key>timeLine</key>
+		<string>Règne d&apos;Ashoka</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Ashoka</string>
+	</dict>
+</array>
+</plist>

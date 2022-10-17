@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>0A94481E-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>6000 BC</string>
+		<key>question</key>
+		<string>When did the British Isles separate from the European continent?</string>
+		<key>correctTAnswer</key>
+		<string>6000 BC</string>
+		<key>incorrectAnswer1</key>
+		<string>2000 BC</string>
+		<key>incorrectAnswer2</key>
+		<string>12000 BC</string>
+		<key>incorrectAnswer3</key>
+		<string>100000 BC</string>
+		<key>wikiSearchWord</key>
+		<string>Doggerland</string>
+		<key>questionTrueOrFalse</key>
+		<string>Doggerland was an area of land, now submerged beneath the southern North Sea, that connected Great Britain to continental Europe</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string> British Isles separate from the European continen</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A944A62-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>500 BC</string>
+		<key>question</key>
+		<string>They begin to colonize Great Britain from 500 BC. Who are they?</string>
+		<key>correctTAnswer</key>
+		<string>The Celts</string>
+		<key>incorrectAnswer1</key>
+		<string>The Greeks</string>
+		<key>incorrectAnswer2</key>
+		<string>The Romans</string>
+		<key>incorrectAnswer3</key>
+		<string>The Goths</string>
+		<key>wikiSearchWord</key>
+		<string>Celts</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Celts and the Romans were never at war </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Celts begin to colonize the British Isles</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A944E22-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>55 BC</string>
+		<key>question</key>
+		<string>Which great generall was the first to Invade Great Britain?</string>
+		<key>correctTAnswer</key>
+		<string>Cesar</string>
+		<key>incorrectAnswer1</key>
+		<string>Alexander The Great</string>
+		<key>incorrectAnswer2</key>
+		<string>Hannibal</string>
+		<key>incorrectAnswer3</key>
+		<string>Cyrus the Great</string>
+		<key>wikiSearchWord</key>
+		<string>Julius Caesar</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cesar invades Britain in 55 BC and 54 BC</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>First Roman raids on Britain under Julius Caesar</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A944F3A-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>43</string>
+		<key>question</key>
+		<string>The occupation of Great Britain by the Romans began during his reign. Who is this Roman emperor?</string>
+		<key>correctTAnswer</key>
+		<string>Claudius</string>
+		<key>incorrectAnswer1</key>
+		<string>Cesar</string>
+		<key>incorrectAnswer2</key>
+		<string>Augustus</string>
+		<key>incorrectAnswer3</key>
+		<string>Caligula</string>
+		<key>wikiSearchWord</key>
+		<string>Roman Britain</string>
+		<key>questionTrueOrFalse</key>
+		<string> Caligula assembled 200,000 men at the Channel on the continent, only to have them gather seashells</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Beginning of Roman rule of Britain</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A94503E-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>61</string>
+		<key>question</key>
+		<string>She led an insurrection against the Romans after they flogged her and raped her daughters. Who is she?</string>
+		<key>correctTAnswer</key>
+		<string>Boudica</string>
+		<key>incorrectAnswer1</key>
+		<string>Eurydice</string>
+		<key>incorrectAnswer2</key>
+		<string>Clodia</string>
+		<key>incorrectAnswer3</key>
+		<string>Berenice</string>
+		<key>wikiSearchWord</key>
+		<string>Boudica</string>
+		<key>questionTrueOrFalse</key>
+		<string>Boudica lost her first battle in Camulodunum</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Boudica led uprising against the Roman Empire</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A94514C-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>450</string>
+		<key>question</key>
+		<string>What new language and culture was introduce to the Britain by the Anglo-Saxons?</string>
+		<key>correctTAnswer</key>
+		<string>Germanic</string>
+		<key>incorrectAnswer1</key>
+		<string>English language and culture</string>
+		<key>incorrectAnswer2</key>
+		<string>Gaelic language and culture</string>
+		<key>incorrectAnswer3</key>
+		<string>Viking language and culture</string>
+		<key>wikiSearchWord</key>
+		<string>Anglo-Saxon settlement of Britain</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Germanization of England occurred from the third centurie, before the end of Roman rule in Britain</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Anglo-Saxon settlement of Britain begins</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A94525A-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>597</string>
+		<key>question</key>
+		<string>Who became the first Archbishop of Canterbury in the year 597?</string>
+		<key>correctTAnswer</key>
+		<string>Saint Augustine</string>
+		<key>incorrectAnswer1</key>
+		<string>Saint Patrick</string>
+		<key>incorrectAnswer2</key>
+		<string>Saint George</string>
+		<key>incorrectAnswer3</key>
+		<string>Saint Andrew</string>
+		<key>wikiSearchWord</key>
+		<string>Augustine of Canterbury</string>
+		<key>questionTrueOrFalse</key>
+		<string>Saint Augustine was sent to Christianize King Æthelberht and his Kingdom of Kent from Anglo-Saxon paganism</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>St Augustine brings Christianity to England from Rome</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A94535E-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>731</string>
+		<key>question</key>
+		<string>Who wrote “The Ecclesiastical History of the English People” ?</string>
+		<key>correctTAnswer</key>
+		<string>Bede</string>
+		<key>incorrectAnswer1</key>
+		<string>Arthur</string>
+		<key>incorrectAnswer2</key>
+		<string>Shakespeare</string>
+		<key>incorrectAnswer3</key>
+		<string>St. Augustine</string>
+		<key>wikiSearchWord</key>
+		<string>Ecclesiastical History of the English People</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Ecclesiastical History of the English People was written in English.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Bede writes “The Ecclesiastical History of the English People” </string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A945476-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>792</string>
+		<key>question</key>
+		<string>Viking activity in Britains began in the 8th century and continued until what century?</string>
+		<key>correctTAnswer</key>
+		<string>11th century</string>
+		<key>incorrectAnswer1</key>
+		<string>9th century</string>
+		<key>incorrectAnswer2</key>
+		<string>15th century</string>
+		<key>incorrectAnswer3</key>
+		<string>13th century</string>
+		<key>wikiSearchWord</key>
+		<string>Viking activity in the British Isles</string>
+		<key>questionTrueOrFalse</key>
+		<string>Norse raiders sacked many cities but never sacked Christian monasteries.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Viking raids of Britain begin</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A9456EC-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>878</string>
+		<key>question</key>
+		<string>What was the name of Alfred the Great’s decisive victory against the Vikings in 878?</string>
+		<key>correctTAnswer</key>
+		<string>Edington</string>
+		<key>incorrectAnswer1</key>
+		<string>Buttington</string>
+		<key>incorrectAnswer2</key>
+		<string>Tettenhall</string>
+		<key>incorrectAnswer3</key>
+		<string>Bedanford</string>
+		<key>wikiSearchWord</key>
+		<string>Alfred the Great</string>
+		<key>questionTrueOrFalse</key>
+		<string>In 878 Alfred made an agreement with the Vikings, dividing England between Anglo-Saxon territory and the Viking-ruled Danelaw.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Battle of Edington</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A9457F0-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1016</string>
+		<key>question</key>
+		<string>He was a Danish prince that became king of England in 1016. Who is he?</string>
+		<key>correctTAnswer</key>
+		<string>Cnut</string>
+		<key>incorrectAnswer1</key>
+		<string>Ragnar</string>
+		<key>incorrectAnswer2</key>
+		<string>Sigfred</string>
+		<key>incorrectAnswer3</key>
+		<string>Harald</string>
+		<key>wikiSearchWord</key>
+		<string>Cnut</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cnut becam King of England but was never king of Denmark</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>King Cnut of Denmark captures the English Crown</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A945908-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1066</string>
+		<key>question</key>
+		<string>In 1086, his army invade Britain. What is the name of the Duke of Normandy who led the invasion?</string>
+		<key>correctTAnswer</key>
+		<string>William the Conqueror</string>
+		<key>incorrectAnswer1</key>
+		<string>Robert the Great</string>
+		<key>incorrectAnswer2</key>
+		<string>Francis I</string>
+		<key>incorrectAnswer3</key>
+		<string>Louis XIII</string>
+		<key>wikiSearchWord</key>
+		<string>Norman Conquest</string>
+		<key>questionTrueOrFalse</key>
+		<string>William the Conqueror never ruled Britain after the invasion</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>The Norman conquest under William the Conqueror</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A945A02-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1154</string>
+		<key>question</key>
+		<string>She was successively Queen of France and Queen of England. Who is she?</string>
+		<key>correctTAnswer</key>
+		<string>Eleanor of Aquitaine</string>
+		<key>incorrectAnswer1</key>
+		<string>Marie Antoinette</string>
+		<key>incorrectAnswer2</key>
+		<string>Mary I</string>
+		<key>incorrectAnswer3</key>
+		<string>Elizabeth I</string>
+		<key>wikiSearchWord</key>
+		<string>Eleanor of Aquitaine</string>
+		<key>questionTrueOrFalse</key>
+		<string>Despite the fact that she was Queen of France and England, she never had real power</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Eleanor of Aquitaine becomes Queen Consort of England</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A945B06-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1167</string>
+		<key>question</key>
+		<string>Founded in 1167 it is the first English language university</string>
+		<key>correctTAnswer</key>
+		<string>Oxford</string>
+		<key>incorrectAnswer1</key>
+		<string>Cambridge</string>
+		<key>incorrectAnswer2</key>
+		<string>St Andrews</string>
+		<key>incorrectAnswer3</key>
+		<string>Glasgow</string>
+		<key>wikiSearchWord</key>
+		<string>Oxford university</string>
+		<key>questionTrueOrFalse</key>
+		<string>Oxford is the world&apos;s second-oldest university in continuous operation.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Oxford University established</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A945C00-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1204</string>
+		<key>question</key>
+		<string>He lost Duchy of Normandy and most of his other French lands to Philip II of France. Who is he?</string>
+		<key>correctTAnswer</key>
+		<string>King John</string>
+		<key>incorrectAnswer1</key>
+		<string>King Richard I</string>
+		<key>incorrectAnswer2</key>
+		<string>King Henry III</string>
+		<key>incorrectAnswer3</key>
+		<string>King Edward I</string>
+		<key>wikiSearchWord</key>
+		<string>John, King of England</string>
+		<key>questionTrueOrFalse</key>
+		<string>The baronial revolt at the end of John&apos;s reign led to the sealing of Magna Carta</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>King John loses the province of Normandy to France</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A945CFA-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1215</string>
+		<key>question</key>
+		<string>Signed in 1215, it established the rights of individual against the power of the King. What is it called?</string>
+		<key>correctTAnswer</key>
+		<string>Magna Carta</string>
+		<key>incorrectAnswer1</key>
+		<string>The bill of rights</string>
+		<key>incorrectAnswer2</key>
+		<string>Thr Constitution</string>
+		<key>incorrectAnswer3</key>
+		<string>The freedom bill</string>
+		<key>wikiSearchWord</key>
+		<string>Magna Carta</string>
+		<key>questionTrueOrFalse</key>
+		<string>Magna Carta was drafted by Archbishop of Canterbury Stephen Langton to make peace between the unpopular king and a group of rebel barons</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Magna Carta is signed</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A945DFE-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1349</string>
+		<key>question</key>
+		<string>IIn 1349-50, the Black Death killed what percentage of the English population?</string>
+		<key>correctTAnswer</key>
+		<string>50%</string>
+		<key>incorrectAnswer1</key>
+		<string>10%</string>
+		<key>incorrectAnswer2</key>
+		<string>20%</string>
+		<key>incorrectAnswer3</key>
+		<string>70%</string>
+		<key>wikiSearchWord</key>
+		<string>The Black Death</string>
+		<key>questionTrueOrFalse</key>
+		<string>Despite the Black Death the Hundred Years War continues uninterrupted</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>The Black Death kills half the population</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A9460CE-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1453</string>
+		<key>question</key>
+		<string>Which country won the Hundred Years&apos; War?</string>
+		<key>correctTAnswer</key>
+		<string>France</string>
+		<key>incorrectAnswer1</key>
+		<string>England</string>
+		<key>incorrectAnswer2</key>
+		<string>I was a draw</string>
+		<key>incorrectAnswer3</key>
+		<string>Spain</string>
+		<key>wikiSearchWord</key>
+		<string>Hundred Years&apos; War</string>
+		<key>questionTrueOrFalse</key>
+		<string>There were no truces during the Hundred Years&apos; War</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>End of the Hundred Years&apos; War</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0a9461dc-86c2-11ec-a8a3-0242ac120002</string>
+		<key>date</key>
+		<string>1455</string>
+		<key>question</key>
+		<string>What is the name of a series of civil wars in the 15th century between two rival branches of Plantagenet?</string>
+		<key>correctTAnswer</key>
+		<string>Wars of the Roses</string>
+		<key>incorrectAnswer1</key>
+		<string>The hundred yeras war</string>
+		<key>incorrectAnswer2</key>
+		<string>The 30 years war</string>
+		<key>incorrectAnswer3</key>
+		<string>The Civil wars</string>
+		<key>wikiSearchWord</key>
+		<string>Wars of the Roses</string>
+		<key>questionTrueOrFalse</key>
+		<string>Henry VII marries Elizabeth of York, uniting the two houses and ending the Wars of the Roses</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>The Wars of the Roses begin</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A9462D6-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1509</string>
+		<key>question</key>
+		<string>Two months after he became king, Henry VIII married his brother&apos;s widow. What was her name?</string>
+		<key>correctTAnswer</key>
+		<string>Catherine of Aragon</string>
+		<key>incorrectAnswer1</key>
+		<string>Isabella</string>
+		<key>incorrectAnswer2</key>
+		<string>Marie Antoinette</string>
+		<key>incorrectAnswer3</key>
+		<string>Eleanor of Aquitaine</string>
+		<key>wikiSearchWord</key>
+		<string>Catherine of Aragon</string>
+		<key>questionTrueOrFalse</key>
+		<string>Catherine of Aragon was French</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Henry VIII becomes king.</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A9463DA-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1528</string>
+		<key>question</key>
+		<string>Henry VIII appeals to the pope to annul his marriage. Who did he want to marry instead?</string>
+		<key>correctTAnswer</key>
+		<string>Ann Boleyn</string>
+		<key>incorrectAnswer1</key>
+		<string>Elizabeth</string>
+		<key>incorrectAnswer2</key>
+		<string>Mary</string>
+		<key>incorrectAnswer3</key>
+		<string>Eleanor of Aquitaine</string>
+		<key>wikiSearchWord</key>
+		<string>Ann Boleyn</string>
+		<key>questionTrueOrFalse</key>
+		<string>Ann Boleyn was Henry VIII last wife</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Henry VIII appeals to the pope to annul his marriage</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A9464DE-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1543</string>
+		<key>question</key>
+		<string>How many times did Henry VIII marry ?</string>
+		<key>correctTAnswer</key>
+		<string>6</string>
+		<key>incorrectAnswer1</key>
+		<string>4</string>
+		<key>incorrectAnswer2</key>
+		<string>8</string>
+		<key>incorrectAnswer3</key>
+		<string>3</string>
+		<key>wikiSearchWord</key>
+		<string>Henry VIII</string>
+		<key>questionTrueOrFalse</key>
+		<string>Henry VIII was already a Protestant when he initiated the English reformation?</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Henry VIII marries Catherine Parr, his sixth marriage.</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A9465E2-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1553</string>
+		<key>question</key>
+		<string>She was the first woman to be crowned monarch of England in her own right&quot; Who is she?</string>
+		<key>correctTAnswer</key>
+		<string>Mary Tudor</string>
+		<key>incorrectAnswer1</key>
+		<string>Elizabeth I</string>
+		<key>incorrectAnswer2</key>
+		<string>Catherine of Aragon</string>
+		<key>incorrectAnswer3</key>
+		<string>Eleanor of Aquitaine</string>
+		<key>wikiSearchWord</key>
+		<string>Mary I of England</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mary Tudor was also known as Bloody Mary,</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Mary Tudor becomes queen of England.</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A9466DC-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1587</string>
+		<key>question</key>
+		<string>She was queen of Scotland and was executed when found guilty of treason. Who is she?</string>
+		<key>correctTAnswer</key>
+		<string>Mary Stuart</string>
+		<key>incorrectAnswer1</key>
+		<string>Joan of Navarre</string>
+		<key>incorrectAnswer2</key>
+		<string>Margaret of Anjou</string>
+		<key>incorrectAnswer3</key>
+		<string>Catherine of Valois</string>
+		<key>wikiSearchWord</key>
+		<string>Mary, Queen of Scots</string>
+		<key>questionTrueOrFalse</key>
+		<string>Mary Stuart spent eighteen and a half years in captivity before she was beheaded.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Mary Stuart (Mary I of Scotland) is executed</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A9467CC-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1642</string>
+		<key>question</key>
+		<string>In 1642 a civil war begins. Who were the parties involved in that war?</string>
+		<key>correctTAnswer</key>
+		<string> Royalist and Parliamentarian</string>
+		<key>incorrectAnswer1</key>
+		<string>Ireland and England</string>
+		<key>incorrectAnswer2</key>
+		<string>Ireland and Scotland</string>
+		<key>incorrectAnswer3</key>
+		<string>Scotland and Ireland</string>
+		<key>wikiSearchWord</key>
+		<string>English Civil War</string>
+		<key>questionTrueOrFalse</key>
+		<string>The war ended with Royalist victory at the Battle of Worcester on 3 September 1651.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>English Civil War begins</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A946A92-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1649</string>
+		<key>question</key>
+		<string>After the execution of this king of England, the monarchy was abolished. Who is he?</string>
+		<key>correctTAnswer</key>
+		<string>Charles I</string>
+		<key>incorrectAnswer1</key>
+		<string>Louis XVI</string>
+		<key>incorrectAnswer2</key>
+		<string>Edward</string>
+		<key>incorrectAnswer3</key>
+		<string>Edgar</string>
+		<key>wikiSearchWord</key>
+		<string>Charles I of England</string>
+		<key>questionTrueOrFalse</key>
+		<string>King Charles I refused to accept his captors&apos; demands for a constitutional monarchy.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>King Charles I is executed for high treason</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A946B96-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1653</string>
+		<key>question</key>
+		<string>From 1653 he rules as Lord Protector of England. Who is he?</string>
+		<key>correctTAnswer</key>
+		<string>Oliver Cromwell</string>
+		<key>incorrectAnswer1</key>
+		<string>Henry Ireton</string>
+		<key>incorrectAnswer2</key>
+		<string>John Pym</string>
+		<key>incorrectAnswer3</key>
+		<string>John Hampden</string>
+		<key>wikiSearchWord</key>
+		<string>Oliver Cromwell</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cromwell was not one the signatories of Charles I&apos;s death warrant.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Cromwell is named Lord Protector</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A946C90-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1688</string>
+		<key>question</key>
+		<string>Who became king after The Glorious Revolution and the overthrow of King James II?</string>
+		<key>correctTAnswer</key>
+		<string>William of Orange</string>
+		<key>incorrectAnswer1</key>
+		<string>Charles II</string>
+		<key>incorrectAnswer2</key>
+		<string>James II</string>
+		<key>incorrectAnswer3</key>
+		<string>William II</string>
+		<key>wikiSearchWord</key>
+		<string>The Glorious Revolution</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Glorious Revolution lasted more than 10 years.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>The Glorious Revolution</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A946D94-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1805</string>
+		<key>question</key>
+		<string>In 1805 Lord Nelson defeats Napoleon . What was the name of the battle?</string>
+		<key>correctTAnswer</key>
+		<string>Battle of Trafalgar</string>
+		<key>incorrectAnswer1</key>
+		<string>Battle of Waterloo</string>
+		<key>incorrectAnswer2</key>
+		<string>Battle of Iena</string>
+		<key>incorrectAnswer3</key>
+		<string>Battle of Austerlitz</string>
+		<key>wikiSearchWord</key>
+		<string>Battle of Trafalgar</string>
+		<key>questionTrueOrFalse</key>
+		<string>In the battle of Trafalgar Nelson was outnumbered, with 27 British ships of the line to 33 allied ships. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Battle of Trafalgar</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A946E8E-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1837</string>
+		<key>question</key>
+		<string>In 1837 she became Queen at the age of 18. Who is she?</string>
+		<key>correctTAnswer</key>
+		<string>Queen Victoria</string>
+		<key>incorrectAnswer1</key>
+		<string>Queen Elizabeth I</string>
+		<key>incorrectAnswer2</key>
+		<string>Queen Mary</string>
+		<key>incorrectAnswer3</key>
+		<string>Queen Elizabeth II</string>
+		<key>wikiSearchWord</key>
+		<string>Queen Victoria</string>
+		<key>questionTrueOrFalse</key>
+		<string>Queen Victoria became a national icon who was identified with strict standards of personal morality.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Victoria becomes queen</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>0A946F92-86C2-11EC-A8A3-0242AC120002</string>
+		<key>date</key>
+		<string>1952</string>
+		<key>question</key>
+		<string>Who is the United Kingdom&apos;s longest-reigning king or queen?</string>
+		<key>correctTAnswer</key>
+		<string>Elizabeth II</string>
+		<key>incorrectAnswer1</key>
+		<string>Victoria</string>
+		<key>incorrectAnswer2</key>
+		<string>Elizabeth I</string>
+		<key>incorrectAnswer3</key>
+		<string>Henry VIII</string>
+		<key>wikiSearchWord</key>
+		<string>Elizabeth II</string>
+		<key>questionTrueOrFalse</key>
+		<string>She was married 73 years to Prince Philip.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Elizabeth II becomes queen.</string>
+		<key>theme</key>
+		<string>British History</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>31</integer>
+	</dict>
+</array>
+</plist>

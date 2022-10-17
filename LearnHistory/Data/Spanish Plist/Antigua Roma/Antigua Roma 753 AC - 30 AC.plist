@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Rómulo</string>
+		<key>date</key>
+		<string>753 A.C.</string>
+		<key>id</key>
+		<string>28609784-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Remus</string>
+		<key>incorrectAnswer2</key>
+		<string>Eneas</string>
+		<key>incorrectAnswer3</key>
+		<string>Cesar</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>¿Quién fue el legendario fundador y primer rey de Roma?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Remus era el hermano gemelo de Rómulo.</string>
+		<key>theme</key>
+		<string>Antigua Roma 753 AC - 30 AC</string>
+		<key>timeLine</key>
+		<string>Fundación legendaria de Roma por Rómulo.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Rómulo y Remo</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>509 A.C.</string>
+		<key>date</key>
+		<string>509 A.C.</string>
+		<key>id</key>
+		<string>286099fa-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>409 A.C.</string>
+		<key>incorrectAnswer2</key>
+		<string>609 A.C.</string>
+		<key>incorrectAnswer3</key>
+		<string>309 A.C.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>¿En qué año se estableció la República Romana?</string>
+		<key>questionTrueOrFalse</key>
+		<string>No hubo guerras de conquista durante la época de la República Romana.</string>
+		<key>theme</key>
+		<string>Antigua Roma 753 AC - 30 AC</string>
+		<key>timeLine</key>
+		<string>Establecimiento de la República Romana</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>República romana</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Senones</string>
+		<key>date</key>
+		<string>390 A.C.</string>
+		<key>id</key>
+		<string>28609b3a-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Griegos</string>
+		<key>incorrectAnswer2</key>
+		<string>Egipcios</string>
+		<key>incorrectAnswer3</key>
+		<string>Los godos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>¿Qué pueblo invadió Roma en el año 390 a.C.?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Brennus lideraba la tribu gala que había invadido el norte de Italia y la República Romana. </string>
+		<key>theme</key>
+		<string>Antigua Roma 753 AC - 30 AC</string>
+		<key>timeLine</key>
+		<string>Primer saqueo galo de Roma tras la victoria en la batalla de Allia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla del Alia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Cartago</string>
+		<key>date</key>
+		<string>264 – 241 A.C.</string>
+		<key>id</key>
+		<string>28609c5c-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Celtas</string>
+		<key>incorrectAnswer2</key>
+		<string>Griegos</string>
+		<key>incorrectAnswer3</key>
+		<string>Persia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>¿Qué otra potencia se enfrentó a Roma en la primera guerra púnica?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Cartago ganó esta primera guerra.</string>
+		<key>theme</key>
+		<string>Antigua Roma 753 AC - 30 AC</string>
+		<key>timeLine</key>
+		<string>Primera Guerra Púnica Roma conquista Sicilia</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Primera guerra púnica</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Aníbal</string>
+		<key>date</key>
+		<string>218 – 201 A.C.</string>
+		<key>id</key>
+		<string>28609d92-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Atila el Huno</string>
+		<key>incorrectAnswer2</key>
+		<string>Alarico el Visigodo</string>
+		<key>incorrectAnswer3</key>
+		<string>Ciro el Grande</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>¿Qué gran general invadió Italia cruzando los Alpes con elefantes de guerra?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Aníbal fue finalmente derrotado en la batalla de Zama, terminando la guerra con la victoria romana.</string>
+		<key>theme</key>
+		<string>Antigua Roma 753 AC - 30 AC</string>
+		<key>timeLine</key>
+		<string>Segunda guerra púnica contra Aníbal</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Aníbal</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Batalla de Corinto</string>
+		<key>date</key>
+		<string>146 A.C.</string>
+		<key>id</key>
+		<string>28609fc2-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>La batalla de Maratón</string>
+		<key>incorrectAnswer2</key>
+		<string>La batalla de las Termópilas</string>
+		<key>incorrectAnswer3</key>
+		<string>Batalla del Olimpo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>¿Qué batalla marcó el inicio de la dominación romana de Grecia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tras la batalla de Corinto, la ciudad fue completamente destruida.</string>
+		<key>theme</key>
+		<string>Antigua Roma 753 AC - 30 AC</string>
+		<key>timeLine</key>
+		<string>Guerra Aquea Destrucción de Corinto, Grecia se convierte en territorio romano</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Batalla de Corinto</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Craso</string>
+		<key>date</key>
+		<string>60 – 59 A.C.</string>
+		<key>id</key>
+		<string>2860a0e4-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Escipión</string>
+		<key>incorrectAnswer2</key>
+		<string>Sulla</string>
+		<key>incorrectAnswer3</key>
+		<string>Agripa</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>El Primer Triunvirato fue una alianza de César, Pompeyo y un tercer líder. ¿Quién era éste?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La principal debilidad de Craso era su falta de dinero.</string>
+		<key>theme</key>
+		<string>Antigua Roma 753 AC - 30 AC</string>
+		<key>timeLine</key>
+		<string>Primer Triunvirato (Craso, Pompeyo, César)</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Craso</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Batalla de Alesia</string>
+		<key>date</key>
+		<string>58 – 50 A.C.</string>
+		<key>id</key>
+		<string>2860a68e-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Batalla de Gergovia</string>
+		<key>incorrectAnswer2</key>
+		<string>Batalla de los Vosgos</string>
+		<key>incorrectAnswer3</key>
+		<string>Batalla de Corinto</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>¿Qué batalla decisiva del año 52 a.C. completó la victoria romana sobre la Galia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Vercingétorix unió a la mayoría de las tribus galas con el objetivo de enfrentarse a Julio César.</string>
+		<key>theme</key>
+		<string>Antigua Roma 753 AC - 30 AC</string>
+		<key>timeLine</key>
+		<string>Conquista de la Galia por Julio César</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Vercingétorix</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Pompeyo</string>
+		<key>date</key>
+		<string>49 — 45 A.C.</string>
+		<key>id</key>
+		<string>2860a7ce-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Bruto</string>
+		<key>incorrectAnswer2</key>
+		<string>Craso</string>
+		<key>incorrectAnswer3</key>
+		<string>Escipión</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>En la guerra civil romana del 49-45 a.C., ¿qué general representaba la principal oposición de César? </string>
+		<key>questionTrueOrFalse</key>
+		<string>Pompeyo huyó a Egipto y fue asesinado al llegar.</string>
+		<key>theme</key>
+		<string>Antigua Roma 753 AC - 30 AC</string>
+		<key>timeLine</key>
+		<string>César cruza el Rubicón y marcha hacia Roma</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Segunda guerra civil de la República romana</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Marco Antonio</string>
+		<key>date</key>
+		<string>32 – 30 A.C.</string>
+		<key>id</key>
+		<string>2860a8e6-c705-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pompeyo</string>
+		<key>incorrectAnswer2</key>
+		<string>César</string>
+		<key>incorrectAnswer3</key>
+		<string>Craso</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>¿Qué general romano se opuso a Octavio en la última guerra civil de la República?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Tras la batalla de Actium, tanto Antonio como Cleopatra se vieron obligados a suicidarse.</string>
+		<key>theme</key>
+		<string>Antigua Roma 753 AC - 30 AC</string>
+		<key>timeLine</key>
+		<string>Guerra final de la República Romana (Octavio contra Antonio y Cleopatra)</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Muerte de Cleopatra</string>
+	</dict>
+</array>
+</plist>

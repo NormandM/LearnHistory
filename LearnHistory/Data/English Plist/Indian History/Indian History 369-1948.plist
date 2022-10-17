@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> The Gupta Empire</string>
+		<key>date</key>
+		<string>319 to 467 CE</string>
+		<key>id</key>
+		<string>23b0781c-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Persian – Greek arrival</string>
+		<key>incorrectAnswer2</key>
+		<string>The Sangam Age</string>
+		<key>incorrectAnswer3</key>
+		<string>Medieval India</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>What period is considered India&apos;s golden age?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Arts were neglected during de Gupta era.</string>
+		<key>theme</key>
+		<string>Indian History 369-1948</string>
+		<key>timeLine</key>
+		<string>Gupta Empire</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Gupta Empire</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>711</string>
+		<key>date</key>
+		<string>711 CE</string>
+		<key>id</key>
+		<string>23b0792a-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>605</string>
+		<key>incorrectAnswer2</key>
+		<string>900</string>
+		<key>incorrectAnswer3</key>
+		<string>1200</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>In what year did the Arabs arrive in India by conquering Sindh?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Islam is India&apos;s second-largest religion.</string>
+		<key>theme</key>
+		<string>Indian History 369-1948</string>
+		<key>timeLine</key>
+		<string>Arabs conquer Sindh</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Islam in India</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Delhi Sultanate</string>
+		<key>date</key>
+		<string>1206–1526</string>
+		<key>id</key>
+		<string>23b07a38-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>The Gupta Empire</string>
+		<key>incorrectAnswer2</key>
+		<string>The Maratha Empire</string>
+		<key>incorrectAnswer3</key>
+		<string>The Khilji Empire</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>What was the name of the Islamic empire that spread over large parts of South Asia for 320 years (1206-1526)?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The sultanate is noted for its integration of the Indian subcontinent into a global cosmopolitan culture</string>
+		<key>theme</key>
+		<string>Indian History 369-1948</string>
+		<key>timeLine</key>
+		<string>The Delhi Sultanate</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Delhi Sultanate</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Vasco da Gama</string>
+		<key>date</key>
+		<string>20 May 1498</string>
+		<key>id</key>
+		<string>23b07c40-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Ferdinand Magellan</string>
+		<key>incorrectAnswer2</key>
+		<string>Diogo Cão</string>
+		<key>incorrectAnswer3</key>
+		<string>Bartolomeu Dias</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>His initial voyage to India by way of Cape of Good Hope was the first to link Europe and Asia by an ocean route. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Da Gama landed in Calicut the first time he arrived in India.</string>
+		<key>theme</key>
+		<string>Indian History 369-1948</string>
+		<key>timeLine</key>
+		<string>Vasco da Gama arrives in India.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Vasco da Gama</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Mughal Empire</string>
+		<key>date</key>
+		<string>1526</string>
+		<key>id</key>
+		<string>23b07d4e-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Gupta Empire</string>
+		<key>incorrectAnswer2</key>
+		<string>Chola Empire</string>
+		<key>incorrectAnswer3</key>
+		<string>Maratha Empire</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>This Muslim empire ruled India for over 300 years (1526–1857)? What was its name?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Mughal Empire generated little economic expansion.</string>
+		<key>theme</key>
+		<string>Indian History 369-1948</string>
+		<key>timeLine</key>
+		<string>Foundation of the Mughal Empire.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Mughal Empire</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The East India Company</string>
+		<key>date</key>
+		<string>1600</string>
+		<key>id</key>
+		<string>23b07e52-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>British India Company</string>
+		<key>incorrectAnswer2</key>
+		<string>English East Indies</string>
+		<key>incorrectAnswer3</key>
+		<string>Eastern Trade Company</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>What is the name of the company to which the Queen Elizabeth I granted a monopoly on trade between England and India?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The East India Company monopolized trade between England and India for 100 years.</string>
+		<key>theme</key>
+		<string>Indian History 369-1948</string>
+		<key>timeLine</key>
+		<string>Creation of The East India Company</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>East India Company</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Taj Mahal</string>
+		<key>date</key>
+		<string>1643</string>
+		<key>id</key>
+		<string>23b080b4-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Meenakshi Temple</string>
+		<key>incorrectAnswer2</key>
+		<string>Mysore Palace,</string>
+		<key>incorrectAnswer3</key>
+		<string>Hawa Mahal</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>What building did Mughal Emperor Shah Jahan commission to house the tomb of his favorite wife?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Taj Mahal was designated as a UNESCO World Heritage Site in 1983 for being the jewel of Hindu art in India.</string>
+		<key>theme</key>
+		<string>Indian History 369-1948</string>
+		<key>timeLine</key>
+		<string>Construction of the Taj Mahal</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Taj Mahal</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The British Raj</string>
+		<key>date</key>
+		<string>1858 to 1947</string>
+		<key>id</key>
+		<string>23b082d0-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>British India</string>
+		<key>incorrectAnswer2</key>
+		<string>The Indian dominion</string>
+		<key>incorrectAnswer3</key>
+		<string>British East India</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>What was the British Crown&apos;s reign over the Indian subcontinent (1858 to 1947) called?</string>
+		<key>questionTrueOrFalse</key>
+		<string>In 1876, Queen Victoria was proclaimed Empress of India.</string>
+		<key>theme</key>
+		<string>Indian History 369-1948</string>
+		<key>timeLine</key>
+		<string>TheBritish Raj</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>The British Raj</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>India, Pakistan and Bangladesh</string>
+		<key>date</key>
+		<string>1947</string>
+		<key>id</key>
+		<string>23b083d4-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Bangladesh and Pakistan</string>
+		<key>incorrectAnswer2</key>
+		<string>India and Pakistan</string>
+		<key>incorrectAnswer3</key>
+		<string>India and Bangladesh</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Which countries emerged from the partition of India?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The initial partition displaced between 10 and 20 million people along religious lines</string>
+		<key>theme</key>
+		<string>Indian History 369-1948</string>
+		<key>timeLine</key>
+		<string>Partition of India</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Partition of India</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Mahatma Gandhi</string>
+		<key>date</key>
+		<string>1948</string>
+		<key>id</key>
+		<string>23b0864a-dddf-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Nehru</string>
+		<key>incorrectAnswer2</key>
+		<string>Ambedkar</string>
+		<key>incorrectAnswer3</key>
+		<string>Kalam</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>He used the non-violent resistance that led India to independence from British rule. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Gandhi lived all is life in India.</string>
+		<key>theme</key>
+		<string>Indian History 369-1948</string>
+		<key>timeLine</key>
+		<string>Assassination of Gandhi</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Mahatma Gandhi</string>
+	</dict>
+</array>
+</plist>

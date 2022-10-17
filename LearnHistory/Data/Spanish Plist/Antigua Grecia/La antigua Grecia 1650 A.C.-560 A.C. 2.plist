@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Micénica</string>
+		<key>date</key>
+		<string>1650 A.C.-1100 A.C.</string>
+		<key>id</key>
+		<string>8ac675e6-199f-11ed-861d-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Arcaica</string>
+		<key>incorrectAnswer2</key>
+		<string>Helenística</string>
+		<key>incorrectAnswer3</key>
+		<string>Primitiva</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>0</integer>
+		<key>question</key>
+		<string>¿Cómo se llama la fase de la civilización griega que se extiende desde 1650 hasta 1100 aC al final de la Edad del Bronce?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La guerra de Troya tiene lugar durante la era micénica.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 1650 A.C.-560 A.C.</string>
+		<key>timeLine</key>
+		<string>Civilización micénica</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Civilización micénica</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La civilización minoica</string>
+		<key>date</key>
+		<string>1600 A.C.</string>
+		<key>id</key>
+		<string>91896152-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Roma</string>
+		<key>incorrectAnswer2</key>
+		<string>Egipto</string>
+		<key>incorrectAnswer3</key>
+		<string>Los francos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>¿Qué civilización representa la primera sociedad avanzada de Europa?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La civilización minoica floreció en la isla de Creta.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 1650 A.C.-560 A.C.</string>
+		<key>timeLine</key>
+		<string>La catastrófica erupción volcánica de los minoicos.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>La civilización minoica</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>La guerra de Troya</string>
+		<key>date</key>
+		<string>1200 A.C.</string>
+		<key>id</key>
+		<string>9189642c-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Invasión de Dorian</string>
+		<key>incorrectAnswer2</key>
+		<string>Guerras púnicas</string>
+		<key>incorrectAnswer3</key>
+		<string>La guerra de los melíacos</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>¿Qué guerra mítica fue causada por el rapto de Helena de Esparta?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Odisea es la historia de la guerra de Troya.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 1650 A.C.-560 A.C.</string>
+		<key>timeLine</key>
+		<string>Guerra de Troya</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>La guerra de Troya</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Colapso de la Edad de Bronce</string>
+		<key>date</key>
+		<string>1150  A.C.</string>
+		<key>id</key>
+		<string>918965a8-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Erupción volcánica</string>
+		<key>incorrectAnswer2</key>
+		<string>Demasiadas guerras</string>
+		<key>incorrectAnswer3</key>
+		<string>El diluvio</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>¿Qué causó la  Edad Oscura en Grecia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La civilización micénica sobrevivió al colapso de la Edad de Bronce.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 1650 A.C.-560 A.C.</string>
+		<key>timeLine</key>
+		<string>Colapso de la Edad de Bronce</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Colapso de la Edad de Bronce</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Homero</string>
+		<key>date</key>
+		<string>800 A.C.</string>
+		<key>id</key>
+		<string>918966fc-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Virgil</string>
+		<key>incorrectAnswer2</key>
+		<string>Aristóteles</string>
+		<key>incorrectAnswer3</key>
+		<string>Platón</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>¿Quién escribió la Ilíada y la Odisea?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las epopeyas homéricas tuvieron poca influencia en la cultura y la educación de la Grecia antigua.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 1650 A.C.-560 A.C.</string>
+		<key>timeLine</key>
+		<string>Homero escribe la Ilíada y la Odisea.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Homero</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Pita</string>
+		<key>date</key>
+		<string>800-700 A.C.</string>
+		<key>id</key>
+		<string>91896a30-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hera</string>
+		<key>incorrectAnswer2</key>
+		<string>Afrodita</string>
+		<key>incorrectAnswer3</key>
+		<string>Hélène</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>¿Cómo se llamaba la gran sacerdotisa del templo de Apolo en Delfos?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El oráculo de Delfos, se encontraba en un gran recinto sagrado consagrado al dios Apolo.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 1650 A.C.-560 A.C.</string>
+		<key>timeLine</key>
+		<string>Creación de Pita</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Oráculo de Delfos</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>776 A.C.</string>
+		<key>date</key>
+		<string>776 A.C.</string>
+		<key>id</key>
+		<string>91896b7a-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>555 A.C.</string>
+		<key>incorrectAnswer2</key>
+		<string>896 A.C.</string>
+		<key>incorrectAnswer3</key>
+		<string>344 A.C.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>¿En qué año se celebraron los primeros Juegos Olímpicos?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los Juegos Olímpicos dejaron de celebrarse cuando Grecia pasó a estar bajo dominio romano.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 1650 A.C.-560 A.C.</string>
+		<key>timeLine</key>
+		<string>Primeros Juegos Olímpicos</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Juegos Olímpicos en la Antigüedad</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Tiranos</string>
+		<key>date</key>
+		<string>660 A.C.</string>
+		<key>id</key>
+		<string>91896cb0-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Reyes</string>
+		<key>incorrectAnswer2</key>
+		<string>Generales</string>
+		<key>incorrectAnswer3</key>
+		<string>Emires</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>¿Quién gobernaba las ciudades griegas antes de la instauración de la democracia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Se sabe que los tiranos gobiernan por consenso.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 1650 A.C.-560 A.C.</string>
+		<key>timeLine</key>
+		<string>Feidón es tirano en Argos.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Tiranía</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Dracon</string>
+		<key>date</key>
+		<string>622 A.C.</string>
+		<key>id</key>
+		<string>91896dfa-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Solón</string>
+		<key>incorrectAnswer2</key>
+		<string>Sócrates</string>
+		<key>incorrectAnswer3</key>
+		<string>Platón</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>¿Quién estableció leyes severas para la ciudad-estado de Atenas?</string>
+		<key>questionTrueOrFalse</key>
+		<string> A Dracón se le atribuye la primera codificación de las leyes de la ciudad.</string>
+		<key>theme</key>
+		<string>La antigua Grecia 1650 A.C.-560 A.C.</string>
+		<key>timeLine</key>
+		<string>Draco establece su código legal</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Dracon</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Solón</string>
+		<key>date</key>
+		<string>560 A.C.</string>
+		<key>id</key>
+		<string>91896f44-c190-11ec-9d64-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Draco</string>
+		<key>incorrectAnswer2</key>
+		<string>Sócrates</string>
+		<key>incorrectAnswer3</key>
+		<string>Platón</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Cleístenes es considerado el fundador de la democracia ateniense, pero ¿quién puso los cimientos?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Solón era uno de los siete sabios de Grecia. </string>
+		<key>theme</key>
+		<string>La antigua Grecia 1650 A.C.-560 A.C.</string>
+		<key>timeLine</key>
+		<string>Muerte de Solón</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Solón</string>
+	</dict>
+</array>
+</plist>

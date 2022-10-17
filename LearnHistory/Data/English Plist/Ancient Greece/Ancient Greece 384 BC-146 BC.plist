@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Polymath</string>
+		<key>date</key>
+		<string>384 BC</string>
+		<key>id</key>
+		<string>648876C4-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Philosopher</string>
+		<key>incorrectAnswer2</key>
+		<string>Physician</string>
+		<key>incorrectAnswer3</key>
+		<string>Poet</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>What word best describes Aristotle&apos;s areas of interest and study?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Aristotle tutored Alexander the Great.</string>
+		<key>theme</key>
+		<string>Ancient Greece 384 BC-146 BC</string>
+		<key>timeLine</key>
+		<string>Birth of Aristotle</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Aristotle</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Euclid</string>
+		<key>date</key>
+		<string>350 BC</string>
+		<key>id</key>
+		<string>648877FA-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Socrates</string>
+		<key>incorrectAnswer2</key>
+		<string>Pythagoras</string>
+		<key>incorrectAnswer3</key>
+		<string>Zeno</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>What Greek mathematician is considered the founder of geometry?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Euclide&apos;s Elements is one of the most influential works in the history of mathematics</string>
+		<key>theme</key>
+		<string>Ancient Greece 384 BC-146 BC</string>
+		<key>timeLine</key>
+		<string>Euclid is born</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Euclid</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Plato</string>
+		<key>date</key>
+		<string>347 BC</string>
+		<key>id</key>
+		<string>648879BC-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pythagoras</string>
+		<key>incorrectAnswer2</key>
+		<string>Herodotus</string>
+		<key>incorrectAnswer3</key>
+		<string>Zeno</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>His teacher was Socrates and his most famous student was Aristotle. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>As for his master Socrates, Plato never wrote down any of his teachings.</string>
+		<key>theme</key>
+		<string>Ancient Greece 384 BC-146 BC</string>
+		<key>timeLine</key>
+		<string>Death of Plato</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Plato</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>India</string>
+		<key>date</key>
+		<string>356 BC</string>
+		<key>id</key>
+		<string>64887ADE-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>China</string>
+		<key>incorrectAnswer2</key>
+		<string>Anetolia</string>
+		<key>incorrectAnswer3</key>
+		<string>Persia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>What country was the eastern limit of Alexander the Great’s empire?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Alexander the Great died at the age of 44.</string>
+		<key>theme</key>
+		<string>Ancient Greece 384 BC-146 BC</string>
+		<key>timeLine</key>
+		<string>Birth of Alexander the Great</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Alexander the Great</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Thebes</string>
+		<key>date</key>
+		<string>335 BC</string>
+		<key>id</key>
+		<string>64887C3C-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Sparta</string>
+		<key>incorrectAnswer2</key>
+		<string>Corith</string>
+		<key>incorrectAnswer3</key>
+		<string>Athens</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>What Greek City threatened rebellion when Alexander became King and was destroyed by him?</string>
+		<key>questionTrueOrFalse</key>
+		<string>When Alexander succeeded his father, he was quickly accepted as the new Hegemon in Greece.</string>
+		<key>theme</key>
+		<string>Ancient Greece 384 BC-146 BC</string>
+		<key>timeLine</key>
+		<string>Alexander&apos;s battle againt Thebes</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string> Battle of Thebes</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Bucephalus</string>
+		<key>date</key>
+		<string>326 BC</string>
+		<key>id</key>
+		<string>64887D4A-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Minotaur</string>
+		<key>incorrectAnswer2</key>
+		<string>Godolphin</string>
+		<key>incorrectAnswer3</key>
+		<string>Marengo</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>What is the name of Alexander&apos;s famous horse</string>
+		<key>questionTrueOrFalse</key>
+		<string>A town in India was named in honor of Bucephalus</string>
+		<key>theme</key>
+		<string>Ancient Greece 384 BC-146 BC</string>
+		<key>timeLine</key>
+		<string> Bucephalus dies after the Battle of the Hydaspes</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Bucephalus</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Macedonia</string>
+		<key>date</key>
+		<string>323 BC</string>
+		<key>id</key>
+		<string>64887E58-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Athenes</string>
+		<key>incorrectAnswer2</key>
+		<string>Rome</string>
+		<key>incorrectAnswer3</key>
+		<string>Egypt</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>Where was Alexander the Great born?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Alexander the Great founded more than twenty cities that bore his name.</string>
+		<key>theme</key>
+		<string>Ancient Greece 384 BC-146 BC</string>
+		<key>timeLine</key>
+		<string>Death of Alexander the Great</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Alexander the Great</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Eratosthenes</string>
+		<key>date</key>
+		<string>276 BC</string>
+		<key>id</key>
+		<string>64888092-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Pythagoras</string>
+		<key>incorrectAnswer2</key>
+		<string>Archimedes</string>
+		<key>incorrectAnswer3</key>
+		<string>Zeno</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>He is  the first person known to calculate the circumference of the Earth. Who is he?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Eratosthenes became the chief librarian at the Library of Alexandria.</string>
+		<key>theme</key>
+		<string>Ancient Greece 384 BC-146 BC</string>
+		<key>timeLine</key>
+		<string>Birth of Eratosthenes</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Eratosthenes</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Eureka</string>
+		<key>date</key>
+		<string>212 BC</string>
+		<key>id</key>
+		<string>648882D6-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Got it!</string>
+		<key>incorrectAnswer2</key>
+		<string>Veni, vidi, vici</string>
+		<key>incorrectAnswer3</key>
+		<string>At last!</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>What is the famous exclamation attributed to Archimedes?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Archimedes is from Syracuse Sicily</string>
+		<key>theme</key>
+		<string>Ancient Greece 384 BC-146 BC</string>
+		<key>timeLine</key>
+		<string>Death of Archimedes</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Archimedes</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Corinth</string>
+		<key>date</key>
+		<string>146 BC</string>
+		<key>id</key>
+		<string>64888434-8B81-11EC-A8A3-0242AC120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Athens</string>
+		<key>incorrectAnswer2</key>
+		<string>Sparta</string>
+		<key>incorrectAnswer3</key>
+		<string>Thebes</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>What defeat led to the Roman domination of Greece?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Battle of Corinth was fought by Cesar?</string>
+		<key>theme</key>
+		<string>Ancient Greece 384 BC-146 BC</string>
+		<key>timeLine</key>
+		<string>The Battle of Corinth. Roman domination.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Greece in the Roman era</string>
+	</dict>
+</array>
+</plist>

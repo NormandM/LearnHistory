@@ -7,10 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8E0BA30C2814A06D00DECB80 /* La antigua Mesopotamia.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E0BA30B2814A06D00DECB80 /* La antigua Mesopotamia.plist */; };
+		8E06B42E28E8AA3B00B53049 /* Bibliography.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E06B42D28E8AA3B00B53049 /* Bibliography.plist */; };
+		8E06B43028E8AAA100B53049 /* Bibliografía.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E06B42F28E8AAA100B53049 /* Bibliografía.plist */; };
+		8E06B43228E8AAEE00B53049 /* Bibliographie.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E06B43128E8AAEE00B53049 /* Bibliographie.plist */; };
+		8E0BA30C2814A06D00DECB80 /* Mesopotamia.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E0BA30B2814A06D00DECB80 /* Mesopotamia.plist */; };
 		8E0BA30E28188CDC00DECB80 /* Ancient Rome.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E0BA30D28188CDC00DECB80 /* Ancient Rome.plist */; };
-		8E0BA3102819BE0200DECB80 /* La Rome antique.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E0BA30F2819BE0200DECB80 /* La Rome antique.plist */; };
-		8E0BA312281AE63500DECB80 /* La antigua Roma.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E0BA311281AE63500DECB80 /* La antigua Roma.plist */; };
+		8E0BA3102819BE0200DECB80 /* Rome antique.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E0BA30F2819BE0200DECB80 /* Rome antique.plist */; };
+		8E0BA312281AE63500DECB80 /* Antigua Roma.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E0BA311281AE63500DECB80 /* Antigua Roma.plist */; };
 		8E1E1A68278DE31E00CAC6C7 /* chime_clickbell_octave_up.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8E1E1A67278DE31E00CAC6C7 /* chime_clickbell_octave_up.mp3 */; };
 		8E1E1A6A278DE32600CAC6C7 /* etc_error_drum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8E1E1A69278DE32600CAC6C7 /* etc_error_drum.mp3 */; };
 		8E1E1A6C278DE49000CAC6C7 /* SoundPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1E1A6B278DE49000CAC6C7 /* SoundPlayer.swift */; };
@@ -18,21 +21,76 @@
 		8E1E1A79278F50E000CAC6C7 /* CardQuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1E1A78278F50E000CAC6C7 /* CardQuizView.swift */; };
 		8E1E1A7D278F510600CAC6C7 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1E1A7C278F510600CAC6C7 /* Card.swift */; };
 		8E1E1A81278F513000CAC6C7 /* CardSequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1E1A80278F513000CAC6C7 /* CardSequence.swift */; };
-		8E1F7C1C27E4F46100147176 /* FilterList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1F7C1B27E4F46100147176 /* FilterList.swift */; };
 		8E1F7C1E27E62E3800147176 /* StatisticsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1F7C1D27E62E3800147176 /* StatisticsView.swift */; };
 		8E1F7C2027E64AE300147176 /* FilteredView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1F7C1F27E64AE300147176 /* FilteredView.swift */; };
 		8E246FF127A49308004CF602 /* ButtonModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E246FF027A49308004CF602 /* ButtonModifiers.swift */; };
 		8E246FF327A5E93A004CF602 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E246FF227A5E93A004CF602 /* IntroView.swift */; };
 		8E246FF527A5EE2B004CF602 /* SelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E246FF427A5EE2B004CF602 /* SelectionView.swift */; };
 		8E246FF827A71AF3004CF602 /* IntroductionTitlesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E246FF727A71AF3004CF602 /* IntroductionTitlesView.swift */; };
+		8E2592C328D666C200E32AC5 /* CoinsAtZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E2592C228D666C200E32AC5 /* CoinsAtZero.swift */; };
 		8E460D5427FCB34D006C4928 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8E460D5627FCB34D006C4928 /* Localizable.strings */; };
 		8E460D5B27FCBE94006C4928 /* ExtensionForTo Localize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E460D5A27FCBE94006C4928 /* ExtensionForTo Localize.swift */; };
 		8E460D5D27FCE20E006C4928 /* France.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E460D5C27FCE20D006C4928 /* France.plist */; };
 		8E460D5F27FCE329006C4928 /* ListFrench.json in Resources */ = {isa = PBXBuildFile; fileRef = 8E460D5E27FCE329006C4928 /* ListFrench.json */; };
+		8E558A0D28A6CD4F00BB28F4 /* India 30000 A.C. - 232 A.C..plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E558A0C28A6CD4F00BB28F4 /* India 30000 A.C. - 232 A.C..plist */; };
+		8E558A0F28A6CD5500BB28F4 /* India 369-1948.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E558A0E28A6CD5500BB28F4 /* India 369-1948.plist */; };
+		8E558A1128A6CD6000BB28F4 /* Indian History 30000 BC-232 BC.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E558A1028A6CD6000BB28F4 /* Indian History 30000 BC-232 BC.plist */; };
+		8E558A1328A6CD6500BB28F4 /* Indian History 369-1948.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E558A1228A6CD6500BB28F4 /* Indian History 369-1948.plist */; };
+		8E558A1528A6CD7000BB28F4 /* Inde 30000 AV-232 AV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E558A1428A6CD7000BB28F4 /* Inde 30000 AV-232 AV.plist */; };
+		8E558A1728A6CD7600BB28F4 /* Inde 369-1948.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E558A1628A6CD7600BB28F4 /* Inde 369-1948.plist */; };
 		8E56AC82280746A6005D5104 /* Inglaterra.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E56AC81280746A6005D5104 /* Inglaterra.plist */; };
 		8E56AC8628074769005D5104 /* ListSpanish.json in Resources */ = {isa = PBXBuildFile; fileRef = 8E56AC8528074769005D5104 /* ListSpanish.json */; };
-		8E730FAF27E67091008D83E1 /* SelectedItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E730FAE27E67091008D83E1 /* SelectedItem.swift */; };
+		8E6EE780289EFF5C00C966F6 /* ParticlesModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EE77F289EFF5C00C966F6 /* ParticlesModifier.swift */; };
+		8E6EE782289EFF6400C966F6 /* FireworkParticlesGeometryEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EE781289EFF6400C966F6 /* FireworkParticlesGeometryEffect.swift */; };
+		8E6EE784289EFF7C00C966F6 /* ParticleEffectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EE783289EFF7800C966F6 /* ParticleEffectView.swift */; };
+		8E6EE78628A052D400C966F6 /* Acoustic Trio.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE78528A052D400C966F6 /* Acoustic Trio.wav */; };
+		8E6EE78A28A17E1D00C966F6 /* Angleterre 1016-1509.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE78928A17E1D00C966F6 /* Angleterre 1016-1509.plist */; };
+		8E6EE78C28A17E2900C966F6 /* Angleterre 6000 Av-878.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE78B28A17E2900C966F6 /* Angleterre 6000 Av-878.plist */; };
+		8E6EE78E28A17E3400C966F6 /* Angleterre 1528-1837.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE78D28A17E3400C966F6 /* Angleterre 1528-1837.plist */; };
+		8E6EE79228A181BA00C966F6 /* British History 6000 BC-878.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE79128A181BA00C966F6 /* British History 6000 BC-878.plist */; };
+		8E6EE79428A181C000C966F6 /* British History 1016-1509.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE79328A181C000C966F6 /* British History 1016-1509.plist */; };
+		8E6EE79628A181C700C966F6 /* British History 1528-1837.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE79528A181C700C966F6 /* British History 1528-1837.plist */; };
+		8E6EE79A28A1836800C966F6 /* Inglaterra 6000 BC-878.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE79928A1836800C966F6 /* Inglaterra 6000 BC-878.plist */; };
+		8E6EE79C28A1837000C966F6 /* Inglaterra 1016-1509.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE79B28A1836F00C966F6 /* Inglaterra 1016-1509.plist */; };
+		8E6EE79E28A1837700C966F6 /* Inglaterra 1528-1837.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE79D28A1837700C966F6 /* Inglaterra 1528-1837.plist */; };
+		8E6EE7A228A1972300C966F6 /* Ancient Rome 27 BC - 476.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7A128A1972300C966F6 /* Ancient Rome 27 BC - 476.plist */; };
+		8E6EE7A428A1972F00C966F6 /* Ancient Rome 753 BC - 30 BC.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7A328A1972F00C966F6 /* Ancient Rome 753 BC - 30 BC.plist */; };
+		8E6EE7AE28A19B4F00C966F6 /* Antigua Roma 753 AC - 30 AC.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7AD28A19B4F00C966F6 /* Antigua Roma 753 AC - 30 AC.plist */; };
+		8E6EE7B028A19B5700C966F6 /* Antigua Roma 27 AC - 476.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7AF28A19B5700C966F6 /* Antigua Roma 27 AC - 476.plist */; };
+		8E6EE7B428A19EBB00C966F6 /* Rome antique 753 AV - 30 AV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7B328A19EBB00C966F6 /* Rome antique 753 AV - 30 AV.plist */; };
+		8E6EE7B628A19EC300C966F6 /* Rome antique 27 AV - 476 AV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7B528A19EC300C966F6 /* Rome antique 27 AV - 476 AV.plist */; };
+		8E6EE7BC28A2AB8600C966F6 /* Ancient Egypt 3200 BC-2400 BC.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7BB28A2AB8600C966F6 /* Ancient Egypt 3200 BC-2400 BC.plist */; };
+		8E6EE7BE28A2AB8C00C966F6 /* Ancient Egypt 2300 BC-1323 BC.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7BD28A2AB8C00C966F6 /* Ancient Egypt 2300 BC-1323 BC.plist */; };
+		8E6EE7C028A2AB9300C966F6 /* Ancient Egypt 1213 BC-1824.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7BF28A2AB9300C966F6 /* Ancient Egypt 1213 BC-1824.plist */; };
+		8E6EE7C228A2AD1D00C966F6 /* Ancient Egypt.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7C128A2AD1D00C966F6 /* Ancient Egypt.plist */; };
+		8E6EE7C628A2AFAA00C966F6 /* Égypte antique 3200 AV-2400 AV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7C528A2AFAA00C966F6 /* Égypte antique 3200 AV-2400 AV.plist */; };
+		8E6EE7C828A2AFB300C966F6 /* Égypte antique 2300 AV-1323 AV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7C728A2AFB300C966F6 /* Égypte antique 2300 AV-1323 AV.plist */; };
+		8E6EE7CA28A2AFBA00C966F6 /* Égypte antique 1213 AV-1824.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7C928A2AFBA00C966F6 /* Égypte antique 1213 AV-1824.plist */; };
+		8E6EE7CE28A2B87900C966F6 /* Antiguo Egipto  3200 A.C.-2400 A.C..plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7CD28A2B87900C966F6 /* Antiguo Egipto  3200 A.C.-2400 A.C..plist */; };
+		8E6EE7D028A2B88000C966F6 /* Antiguo Egipto 2300 A.C.-1323 A.C..plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7CF28A2B88000C966F6 /* Antiguo Egipto 2300 A.C.-1323 A.C..plist */; };
+		8E6EE7D228A2B88B00C966F6 /* Antiguo Egipto 1213 A.C.-1824.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7D128A2B88B00C966F6 /* Antiguo Egipto 1213 A.C.-1824.plist */; };
+		8E6EE7D828A3039700C966F6 /* Mesopotamia 10000 A.C.-2000 A.C..plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7D728A3039700C966F6 /* Mesopotamia 10000 A.C.-2000 A.C..plist */; };
+		8E6EE7DA28A3039F00C966F6 /* Mesopotamia 1894 A.C.-651.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7D928A3039F00C966F6 /* Mesopotamia 1894 A.C.-651.plist */; };
+		8E6EE7DC28A303B600C966F6 /* Mesopotamia  10000 BC-2000 BC.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7DB28A303B600C966F6 /* Mesopotamia  10000 BC-2000 BC.plist */; };
+		8E6EE7DE28A303C500C966F6 /* Mesopotamia  1894 BC-651 AD.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7DD28A303C500C966F6 /* Mesopotamia  1894 BC-651 AD.plist */; };
+		8E6EE7E028A303D900C966F6 /* Mésopotamie 10000 AV-2000 AV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7DF28A303D900C966F6 /* Mésopotamie 10000 AV-2000 AV.plist */; };
+		8E6EE7E228A303E200C966F6 /* Mésopotamie 1894 AV-651.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7E128A303E200C966F6 /* Mésopotamie 1894 AV-651.plist */; };
+		8E6EE7EA28A437FB00C966F6 /* China 2070 A.C.-130 A.C..plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7E928A437FB00C966F6 /* China 2070 A.C.-130 A.C..plist */; };
+		8E6EE7EC28A4380200C966F6 /* China  220-1949.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7EB28A4380200C966F6 /* China  220-1949.plist */; };
+		8E6EE7EE28A4381C00C966F6 /* China 2070 BC-130 BC.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7ED28A4381C00C966F6 /* China 2070 BC-130 BC.plist */; };
+		8E6EE7F028A4382600C966F6 /* China 220-1949.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7EF28A4382600C966F6 /* China 220-1949.plist */; };
+		8E6EE7F228A4383100C966F6 /* Chine 2070 AV-130 AV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7F128A4383100C966F6 /* Chine 2070 AV-130 AV.plist */; };
+		8E6EE7F428A4383A00C966F6 /* Chine 220-1949.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EE7F328A4383A00C966F6 /* Chine 220-1949.plist */; };
 		8E730FB127E79625008D83E1 /* OptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E730FB027E79625008D83E1 /* OptionView.swift */; };
+		8E80556228A581890088A552 /* Grèce antique 1650 AV-560 AV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E80556128A581890088A552 /* Grèce antique 1650 AV-560 AV.plist */; };
+		8E80556428A5818E0088A552 /* Grèce antique 508 AV-399 AV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E80556328A5818E0088A552 /* Grèce antique 508 AV-399 AV.plist */; };
+		8E80556628A581940088A552 /* Grèce antique 384 AV-146 AV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E80556528A581940088A552 /* Grèce antique 384 AV-146 AV.plist */; };
+		8E80556828A581A30088A552 /* Ancient Greece 1650 BC-560 BC.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E80556728A581A30088A552 /* Ancient Greece 1650 BC-560 BC.plist */; };
+		8E80556A28A581A90088A552 /* Ancient Greece 508 BC-399 BC.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E80556928A581A90088A552 /* Ancient Greece 508 BC-399 BC.plist */; };
+		8E80556C28A581AE0088A552 /* Ancient Greece 384 BC-146 BC.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E80556B28A581AE0088A552 /* Ancient Greece 384 BC-146 BC.plist */; };
+		8E80556E28A581BD0088A552 /* Antigua Grecia 1650 A.C.-560 A.C..plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E80556D28A581BD0088A552 /* Antigua Grecia 1650 A.C.-560 A.C..plist */; };
+		8E80557028A581C20088A552 /* Antigua Grecia 508 A.C.-399 A.C..plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E80556F28A581C20088A552 /* Antigua Grecia 508 A.C.-399 A.C..plist */; };
+		8E80557228A581C80088A552 /* Antigua Grecia 384 A.C.-146 A.C..plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E80557128A581C80088A552 /* Antigua Grecia 384 A.C.-146 A.C..plist */; };
 		8E80FFD227D4029400A52776 /* HistoricalEvent.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8E80FFD027D4029400A52776 /* HistoricalEvent.xcdatamodeld */; };
 		8E80FFD827D4059D00A52776 /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E80FFD727D4059D00A52776 /* DataController.swift */; };
 		8E86674127A9D4FA0010EB1E /* TimeLinesDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E86674027A9D4FA0010EB1E /* TimeLinesDetailView.swift */; };
@@ -43,12 +101,24 @@
 		8E86677427B073970010EB1E /* ModelList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E86677327B073970010EB1E /* ModelList.swift */; };
 		8E91F3172836D53D007AE785 /* China.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E91F3162836D53D007AE785 /* China.plist */; };
 		8E91F31D28381CC1007AE785 /* Chine.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E91F31C28381CC1007AE785 /* Chine.plist */; };
-		8E91F32D28392E3E007AE785 /* La China.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E91F32C28392E3E007AE785 /* La China.plist */; };
-		8EA6972F2800D9E300B349C5 /* Mésopotamie antique.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EA6972E2800D9E300B349C5 /* Mésopotamie antique.plist */; };
+		8E91F32D28392E3E007AE785 /* China .plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E91F32C28392E3E007AE785 /* China .plist */; };
+		8EA6972F2800D9E300B349C5 /* Mésopotamie.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EA6972E2800D9E300B349C5 /* Mésopotamie.plist */; };
 		8EA697312803588B00B349C5 /* Angleterre.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EA697302803588B00B349C5 /* Angleterre.plist */; };
 		8EA697332804A42800B349C5 /* Égypte antique.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EA697322804A42800B349C5 /* Égypte antique.plist */; };
 		8EA697352805FFF100B349C5 /* Grèce antique.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EA697342805FFF100B349C5 /* Grèce antique.plist */; };
 		8EABB677285E2859002F3645 /* NoCoinsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EABB676285E2859002F3645 /* NoCoinsView.swift */; };
+		8EABDE8828DE595A00137E15 /* United_States 1917-1969.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDE8528DE595900137E15 /* United_States 1917-1969.plist */; };
+		8EABDE8928DE595A00137E15 /* United_States 1607-1789.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDE8628DE595A00137E15 /* United_States 1607-1789.plist */; };
+		8EABDE8A28DE595A00137E15 /* United_States 1789-1908.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDE8728DE595A00137E15 /* United_States 1789-1908.plist */; };
+		8EABDE8C28DE596300137E15 /* United_States.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDE8B28DE596300137E15 /* United_States.plist */; };
+		8EABDE9928DE652C00137E15 /* États-Unis.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDE9828DE652C00137E15 /* États-Unis.plist */; };
+		8EABDE9D28DE653600137E15 /* États-Unis 1789-1908.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDE9A28DE653500137E15 /* États-Unis 1789-1908.plist */; };
+		8EABDE9E28DE653600137E15 /* États-Unis 1917-1969.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDE9B28DE653600137E15 /* États-Unis 1917-1969.plist */; };
+		8EABDE9F28DE653600137E15 /* États-Unis 1607-1789.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDE9C28DE653600137E15 /* États-Unis 1607-1789.plist */; };
+		8EABDEA328DE664D00137E15 /* Estados Unidos.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDEA228DE664D00137E15 /* Estados Unidos.plist */; };
+		8EABDEA728DE665B00137E15 /* Estados Unidos 1917-1969.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDEA428DE665A00137E15 /* Estados Unidos 1917-1969.plist */; };
+		8EABDEA828DE665B00137E15 /* Estados Unidos 1607-1789.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDEA528DE665A00137E15 /* Estados Unidos 1607-1789.plist */; };
+		8EABDEA928DE665B00137E15 /* Estados Unidos 1789-1908.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EABDEA628DE665A00137E15 /* Estados Unidos 1789-1908.plist */; };
 		8EADEED0282848D400D60084 /* EnumProgressionMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EADEECF282848D400D60084 /* EnumProgressionMessage.swift */; };
 		8EADEED22828630500D60084 /* OrientationModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EADEED12828630500D60084 /* OrientationModifier.swift */; };
 		8EADEED4282C18E800D60084 /* ProgressionCalculation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EADEED3282C18E800D60084 /* ProgressionCalculation.swift */; };
@@ -56,10 +126,11 @@
 		8EAF08DA27B852FF002ED633 /* SectionHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EAF08D927B852FF002ED633 /* SectionHeader.swift */; };
 		8EAF08DC27B8587F002ED633 /* NetworkMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EAF08DB27B8587F002ED633 /* NetworkMonitor.swift */; };
 		8EAF08DF27B98171002ED633 /* ActivityIndicatorView in Frameworks */ = {isa = PBXBuildFile; productRef = 8EAF08DE27B98171002ED633 /* ActivityIndicatorView */; };
+		8EB0765028E36FB20089BEDE /* AppInformationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB0764F28E36FB10089BEDE /* AppInformationView.swift */; };
 		8EB4A2B827DD46CF005B94F9 /* AnswerButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB4A2B727DD46CF005B94F9 /* AnswerButton.swift */; };
 		8EB4A2BC27E0FA6A005B94F9 /* 404015__paul-sinnett__card.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8EB4A2BB27E0FA6A005B94F9 /* 404015__paul-sinnett__card.wav */; };
 		8EB4A2BE27E0FD94005B94F9 /* RoundButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB4A2BD27E0FD94005B94F9 /* RoundButtonView.swift */; };
-		8EC4011127F75BF700CCD927 /* Ancient Mesopotamia.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EC4011027F75BF700CCD927 /* Ancient Mesopotamia.plist */; };
+		8EC4011127F75BF700CCD927 /* Mesopotamia .plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EC4011027F75BF700CCD927 /* Mesopotamia .plist */; };
 		8EC89EE22784B3CF00E9743B /* LearnHistoryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EC89EE12784B3CF00E9743B /* LearnHistoryApp.swift */; };
 		8EC89EE62784B3D300E9743B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EC89EE52784B3D300E9743B /* Assets.xcassets */; };
 		8EC89EE92784B3D300E9743B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EC89EE82784B3D300E9743B /* Preview Assets.xcassets */; };
@@ -77,12 +148,12 @@
 		8EC89F2227876B6300E9743B /* FlipView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EC89F2127876B6300E9743B /* FlipView.swift */; };
 		8ED842AA28592D9800518E0B /* CoinManagementView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED842A928592D9800518E0B /* CoinManagementView.swift */; };
 		8ED842AC28592DC000518E0B /* IAPManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED842AB28592DC000518E0B /* IAPManager.swift */; };
-		8ED842AE28592E2000518E0B /* ConnectionReachable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED842AD28592E2000518E0B /* ConnectionReachable.swift */; };
+		8ED9397628F1FA3100A3F2E3 /* NoInternetConnectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED9397528F1FA3100A3F2E3 /* NoInternetConnectionView.swift */; };
+		8ED9397828F2108A00A3F2E3 /* noInternetForWikiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED9397728F2108A00A3F2E3 /* noInternetForWikiView.swift */; };
 		8EDC383527D6820F00FFAD23 /* HistoricalEvent+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EDC383327D6820F00FFAD23 /* HistoricalEvent+CoreDataClass.swift */; };
 		8EDC383627D6820F00FFAD23 /* HistoricalEvent+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EDC383427D6820F00FFAD23 /* HistoricalEvent+CoreDataProperties.swift */; };
 		8EDC383B27D686CB00FFAD23 /* French History.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EDC383727D686CB00FFAD23 /* French History.plist */; };
 		8EDC383D27D686CB00FFAD23 /* British History.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EDC383927D686CB00FFAD23 /* British History.plist */; };
-		8EDC383E27D686CB00FFAD23 /* Ancient Egypt.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EDC383A27D686CB00FFAD23 /* Ancient Egypt.plist */; };
 		8EDC384027D6888A00FFAD23 /* Ancient Greece.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EDC383F27D6888A00FFAD23 /* Ancient Greece.plist */; };
 		8EE9CDF0281DC856003E0E95 /* ProgressionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EE9CDEF281DC856003E0E95 /* ProgressionView.swift */; };
 		8EEA3D7D28413E950044F70D /* Indian History.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EEA3D7C28413E950044F70D /* Indian History.plist */; };
@@ -91,16 +162,36 @@
 		8EEA3D85284693250044F70D /* LineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEA3D84284693250044F70D /* LineView.swift */; };
 		8EEA3D87284BE2D80044F70D /* AlreadyAnExpertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEA3D86284BE2D80044F70D /* AlreadyAnExpertView.swift */; };
 		8EF37D20280F038B00A24B84 /* Francia.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF37D1F280F038B00A24B84 /* Francia.plist */; };
-		8EF37D22280F533F00A24B84 /* El antiguo Egipto.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF37D21280F533F00A24B84 /* El antiguo Egipto.plist */; };
-		8EF37D262811C31100A24B84 /* La antigua Grecia.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF37D252811C31100A24B84 /* La antigua Grecia.plist */; };
+		8EF37D22280F533F00A24B84 /* Antiguo Egipto.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF37D21280F533F00A24B84 /* Antiguo Egipto.plist */; };
+		8EF37D262811C31100A24B84 /* Antigua Grecia.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF37D252811C31100A24B84 /* Antigua Grecia.plist */; };
+		8EF674D528E37E1D004D61C2 /* What do you think?.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF674D428E37E1D004D61C2 /* What do you think?.plist */; };
+		8EF674D928E38EFF004D61C2 /* ¿Qué opinas?.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF674D828E38EFF004D61C2 /* ¿Qué opinas?.plist */; };
+		8EF674DB28E38F1C004D61C2 /* Qu'en pensez-vous ?.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF674DA28E38F1C004D61C2 /* Qu'en pensez-vous ?.plist */; };
+		8EF674DD28E4B5C1004D61C2 /* ReviewHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EF674DC28E4B5C1004D61C2 /* ReviewHandler.swift */; };
+		8EF70D362889D28A00F128B7 /* France 40000 Av. - 843.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF70D352889D28A00F128B7 /* France 40000 Av. - 843.plist */; };
+		8EF70D382889D29400F128B7 /* France 1309 - 1793.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF70D372889D29400F128B7 /* France 1309 - 1793.plist */; };
+		8EF70D3A2889D29B00F128B7 /* France 1794 - 1940.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF70D392889D29B00F128B7 /* France 1794 - 1940.plist */; };
+		8EF70D3F288EE0D600F128B7 /* ListFrenchTitles.json in Resources */ = {isa = PBXBuildFile; fileRef = 8EF70D3E288EE0D600F128B7 /* ListFrenchTitles.json */; };
+		8EF70D41288EE20E00F128B7 /* ListTitle.json in Resources */ = {isa = PBXBuildFile; fileRef = 8EF70D40288EE20E00F128B7 /* ListTitle.json */; };
+		8EF70D43288EFD6500F128B7 /* SelectionMultipleChoiceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EF70D42288EFD6500F128B7 /* SelectionMultipleChoiceView.swift */; };
+		8EF70D46288F114500F128B7 /* ListSpanishTitle.json in Resources */ = {isa = PBXBuildFile; fileRef = 8EF70D45288F114500F128B7 /* ListSpanishTitle.json */; };
+		8EF70D4A288F17E200F128B7 /* French History 40000 BC - 843.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF70D49288F17E200F128B7 /* French History 40000 BC - 843.plist */; };
+		8EF70D4C288F17E900F128B7 /* French History 1309 - 1793.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF70D4B288F17E900F128B7 /* French History 1309 - 1793.plist */; };
+		8EF70D4E288F17F000F128B7 /* French History 1794 - 1940.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF70D4D288F17F000F128B7 /* French History 1794 - 1940.plist */; };
+		8EF70D52288F18F700F128B7 /* Francia 40000 aC - 843.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF70D51288F18F700F128B7 /* Francia 40000 aC - 843.plist */; };
+		8EF70D54288F190200F128B7 /* Francia 1309 - 1793.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF70D53288F190200F128B7 /* Francia 1309 - 1793.plist */; };
+		8EF70D56288F190800F128B7 /* Francia 1794 - 1940.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EF70D55288F190800F128B7 /* Francia 1794 - 1940.plist */; };
 		8EFFB41827CE9E5F00F224CA /* EnumCardDisplaced.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EFFB41727CE9E5F00F224CA /* EnumCardDisplaced.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8E0BA30B2814A06D00DECB80 /* La antigua Mesopotamia.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "La antigua Mesopotamia.plist"; sourceTree = "<group>"; };
+		8E06B42D28E8AA3B00B53049 /* Bibliography.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Bibliography.plist; sourceTree = "<group>"; };
+		8E06B42F28E8AAA100B53049 /* Bibliografía.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Bibliografía.plist"; sourceTree = "<group>"; };
+		8E06B43128E8AAEE00B53049 /* Bibliographie.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Bibliographie.plist; sourceTree = "<group>"; };
+		8E0BA30B2814A06D00DECB80 /* Mesopotamia.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Mesopotamia.plist; sourceTree = "<group>"; };
 		8E0BA30D28188CDC00DECB80 /* Ancient Rome.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ancient Rome.plist"; sourceTree = "<group>"; };
-		8E0BA30F2819BE0200DECB80 /* La Rome antique.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "La Rome antique.plist"; sourceTree = "<group>"; };
-		8E0BA311281AE63500DECB80 /* La antigua Roma.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "La antigua Roma.plist"; sourceTree = "<group>"; };
+		8E0BA30F2819BE0200DECB80 /* Rome antique.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Rome antique.plist"; sourceTree = "<group>"; };
+		8E0BA311281AE63500DECB80 /* Antigua Roma.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Antigua Roma.plist"; sourceTree = "<group>"; };
 		8E1E1A67278DE31E00CAC6C7 /* chime_clickbell_octave_up.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chime_clickbell_octave_up.mp3; sourceTree = "<group>"; };
 		8E1E1A69278DE32600CAC6C7 /* etc_error_drum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = etc_error_drum.mp3; sourceTree = "<group>"; };
 		8E1E1A6B278DE49000CAC6C7 /* SoundPlayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoundPlayer.swift; sourceTree = "<group>"; };
@@ -108,23 +199,78 @@
 		8E1E1A78278F50E000CAC6C7 /* CardQuizView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardQuizView.swift; sourceTree = "<group>"; };
 		8E1E1A7C278F510600CAC6C7 /* Card.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		8E1E1A80278F513000CAC6C7 /* CardSequence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardSequence.swift; sourceTree = "<group>"; };
-		8E1F7C1B27E4F46100147176 /* FilterList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterList.swift; sourceTree = "<group>"; };
 		8E1F7C1D27E62E3800147176 /* StatisticsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticsView.swift; sourceTree = "<group>"; };
 		8E1F7C1F27E64AE300147176 /* FilteredView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilteredView.swift; sourceTree = "<group>"; };
 		8E246FF027A49308004CF602 /* ButtonModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonModifiers.swift; sourceTree = "<group>"; };
 		8E246FF227A5E93A004CF602 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
 		8E246FF427A5EE2B004CF602 /* SelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionView.swift; sourceTree = "<group>"; };
 		8E246FF727A71AF3004CF602 /* IntroductionTitlesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroductionTitlesView.swift; sourceTree = "<group>"; };
+		8E2592C228D666C200E32AC5 /* CoinsAtZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinsAtZero.swift; sourceTree = "<group>"; };
 		8E460D5527FCB34D006C4928 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		8E460D5727FCB39A006C4928 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		8E460D5927FCB3AB006C4928 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
 		8E460D5A27FCBE94006C4928 /* ExtensionForTo Localize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ExtensionForTo Localize.swift"; sourceTree = "<group>"; };
 		8E460D5C27FCE20D006C4928 /* France.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = France.plist; sourceTree = "<group>"; };
 		8E460D5E27FCE329006C4928 /* ListFrench.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ListFrench.json; sourceTree = "<group>"; };
+		8E558A0C28A6CD4F00BB28F4 /* India 30000 A.C. - 232 A.C..plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "India 30000 A.C. - 232 A.C..plist"; sourceTree = "<group>"; };
+		8E558A0E28A6CD5500BB28F4 /* India 369-1948.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "India 369-1948.plist"; sourceTree = "<group>"; };
+		8E558A1028A6CD6000BB28F4 /* Indian History 30000 BC-232 BC.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Indian History 30000 BC-232 BC.plist"; sourceTree = "<group>"; };
+		8E558A1228A6CD6500BB28F4 /* Indian History 369-1948.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Indian History 369-1948.plist"; sourceTree = "<group>"; };
+		8E558A1428A6CD7000BB28F4 /* Inde 30000 AV-232 AV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Inde 30000 AV-232 AV.plist"; sourceTree = "<group>"; };
+		8E558A1628A6CD7600BB28F4 /* Inde 369-1948.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Inde 369-1948.plist"; sourceTree = "<group>"; };
 		8E56AC81280746A6005D5104 /* Inglaterra.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Inglaterra.plist; sourceTree = "<group>"; };
 		8E56AC8528074769005D5104 /* ListSpanish.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ListSpanish.json; sourceTree = "<group>"; };
-		8E730FAE27E67091008D83E1 /* SelectedItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectedItem.swift; sourceTree = "<group>"; };
+		8E6EE77F289EFF5C00C966F6 /* ParticlesModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParticlesModifier.swift; sourceTree = "<group>"; };
+		8E6EE781289EFF6400C966F6 /* FireworkParticlesGeometryEffect.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FireworkParticlesGeometryEffect.swift; sourceTree = "<group>"; };
+		8E6EE783289EFF7800C966F6 /* ParticleEffectView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParticleEffectView.swift; sourceTree = "<group>"; };
+		8E6EE78528A052D400C966F6 /* Acoustic Trio.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Acoustic Trio.wav"; sourceTree = "<group>"; };
+		8E6EE78928A17E1D00C966F6 /* Angleterre 1016-1509.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Angleterre 1016-1509.plist"; sourceTree = "<group>"; };
+		8E6EE78B28A17E2900C966F6 /* Angleterre 6000 Av-878.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Angleterre 6000 Av-878.plist"; sourceTree = "<group>"; };
+		8E6EE78D28A17E3400C966F6 /* Angleterre 1528-1837.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Angleterre 1528-1837.plist"; sourceTree = "<group>"; };
+		8E6EE79128A181BA00C966F6 /* British History 6000 BC-878.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "British History 6000 BC-878.plist"; sourceTree = "<group>"; };
+		8E6EE79328A181C000C966F6 /* British History 1016-1509.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "British History 1016-1509.plist"; sourceTree = "<group>"; };
+		8E6EE79528A181C700C966F6 /* British History 1528-1837.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "British History 1528-1837.plist"; sourceTree = "<group>"; };
+		8E6EE79928A1836800C966F6 /* Inglaterra 6000 BC-878.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Inglaterra 6000 BC-878.plist"; sourceTree = "<group>"; };
+		8E6EE79B28A1836F00C966F6 /* Inglaterra 1016-1509.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Inglaterra 1016-1509.plist"; sourceTree = "<group>"; };
+		8E6EE79D28A1837700C966F6 /* Inglaterra 1528-1837.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Inglaterra 1528-1837.plist"; sourceTree = "<group>"; };
+		8E6EE7A128A1972300C966F6 /* Ancient Rome 27 BC - 476.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ancient Rome 27 BC - 476.plist"; sourceTree = "<group>"; };
+		8E6EE7A328A1972F00C966F6 /* Ancient Rome 753 BC - 30 BC.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ancient Rome 753 BC - 30 BC.plist"; sourceTree = "<group>"; };
+		8E6EE7AD28A19B4F00C966F6 /* Antigua Roma 753 AC - 30 AC.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Antigua Roma 753 AC - 30 AC.plist"; sourceTree = "<group>"; };
+		8E6EE7AF28A19B5700C966F6 /* Antigua Roma 27 AC - 476.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Antigua Roma 27 AC - 476.plist"; sourceTree = "<group>"; };
+		8E6EE7B328A19EBB00C966F6 /* Rome antique 753 AV - 30 AV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Rome antique 753 AV - 30 AV.plist"; sourceTree = "<group>"; };
+		8E6EE7B528A19EC300C966F6 /* Rome antique 27 AV - 476 AV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Rome antique 27 AV - 476 AV.plist"; sourceTree = "<group>"; };
+		8E6EE7BB28A2AB8600C966F6 /* Ancient Egypt 3200 BC-2400 BC.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ancient Egypt 3200 BC-2400 BC.plist"; sourceTree = "<group>"; };
+		8E6EE7BD28A2AB8C00C966F6 /* Ancient Egypt 2300 BC-1323 BC.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ancient Egypt 2300 BC-1323 BC.plist"; sourceTree = "<group>"; };
+		8E6EE7BF28A2AB9300C966F6 /* Ancient Egypt 1213 BC-1824.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ancient Egypt 1213 BC-1824.plist"; sourceTree = "<group>"; };
+		8E6EE7C128A2AD1D00C966F6 /* Ancient Egypt.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ancient Egypt.plist"; sourceTree = "<group>"; };
+		8E6EE7C528A2AFAA00C966F6 /* Égypte antique 3200 AV-2400 AV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Égypte antique 3200 AV-2400 AV.plist"; sourceTree = "<group>"; };
+		8E6EE7C728A2AFB300C966F6 /* Égypte antique 2300 AV-1323 AV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Égypte antique 2300 AV-1323 AV.plist"; sourceTree = "<group>"; };
+		8E6EE7C928A2AFBA00C966F6 /* Égypte antique 1213 AV-1824.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Égypte antique 1213 AV-1824.plist"; sourceTree = "<group>"; };
+		8E6EE7CD28A2B87900C966F6 /* Antiguo Egipto  3200 A.C.-2400 A.C..plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Antiguo Egipto  3200 A.C.-2400 A.C..plist"; sourceTree = "<group>"; };
+		8E6EE7CF28A2B88000C966F6 /* Antiguo Egipto 2300 A.C.-1323 A.C..plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Antiguo Egipto 2300 A.C.-1323 A.C..plist"; sourceTree = "<group>"; };
+		8E6EE7D128A2B88B00C966F6 /* Antiguo Egipto 1213 A.C.-1824.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Antiguo Egipto 1213 A.C.-1824.plist"; sourceTree = "<group>"; };
+		8E6EE7D728A3039700C966F6 /* Mesopotamia 10000 A.C.-2000 A.C..plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Mesopotamia 10000 A.C.-2000 A.C..plist"; sourceTree = "<group>"; };
+		8E6EE7D928A3039F00C966F6 /* Mesopotamia 1894 A.C.-651.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Mesopotamia 1894 A.C.-651.plist"; sourceTree = "<group>"; };
+		8E6EE7DB28A303B600C966F6 /* Mesopotamia  10000 BC-2000 BC.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Mesopotamia  10000 BC-2000 BC.plist"; sourceTree = "<group>"; };
+		8E6EE7DD28A303C500C966F6 /* Mesopotamia  1894 BC-651 AD.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Mesopotamia  1894 BC-651 AD.plist"; sourceTree = "<group>"; };
+		8E6EE7DF28A303D900C966F6 /* Mésopotamie 10000 AV-2000 AV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Mésopotamie 10000 AV-2000 AV.plist"; sourceTree = "<group>"; };
+		8E6EE7E128A303E200C966F6 /* Mésopotamie 1894 AV-651.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Mésopotamie 1894 AV-651.plist"; sourceTree = "<group>"; };
+		8E6EE7E928A437FB00C966F6 /* China 2070 A.C.-130 A.C..plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "China 2070 A.C.-130 A.C..plist"; sourceTree = "<group>"; };
+		8E6EE7EB28A4380200C966F6 /* China  220-1949.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "China  220-1949.plist"; sourceTree = "<group>"; };
+		8E6EE7ED28A4381C00C966F6 /* China 2070 BC-130 BC.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "China 2070 BC-130 BC.plist"; sourceTree = "<group>"; };
+		8E6EE7EF28A4382600C966F6 /* China 220-1949.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "China 220-1949.plist"; sourceTree = "<group>"; };
+		8E6EE7F128A4383100C966F6 /* Chine 2070 AV-130 AV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Chine 2070 AV-130 AV.plist"; sourceTree = "<group>"; };
+		8E6EE7F328A4383A00C966F6 /* Chine 220-1949.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Chine 220-1949.plist"; sourceTree = "<group>"; };
 		8E730FB027E79625008D83E1 /* OptionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionView.swift; sourceTree = "<group>"; };
+		8E80556128A581890088A552 /* Grèce antique 1650 AV-560 AV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Grèce antique 1650 AV-560 AV.plist"; sourceTree = "<group>"; };
+		8E80556328A5818E0088A552 /* Grèce antique 508 AV-399 AV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Grèce antique 508 AV-399 AV.plist"; sourceTree = "<group>"; };
+		8E80556528A581940088A552 /* Grèce antique 384 AV-146 AV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Grèce antique 384 AV-146 AV.plist"; sourceTree = "<group>"; };
+		8E80556728A581A30088A552 /* Ancient Greece 1650 BC-560 BC.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ancient Greece 1650 BC-560 BC.plist"; sourceTree = "<group>"; };
+		8E80556928A581A90088A552 /* Ancient Greece 508 BC-399 BC.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ancient Greece 508 BC-399 BC.plist"; sourceTree = "<group>"; };
+		8E80556B28A581AE0088A552 /* Ancient Greece 384 BC-146 BC.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ancient Greece 384 BC-146 BC.plist"; sourceTree = "<group>"; };
+		8E80556D28A581BD0088A552 /* Antigua Grecia 1650 A.C.-560 A.C..plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Antigua Grecia 1650 A.C.-560 A.C..plist"; sourceTree = "<group>"; };
+		8E80556F28A581C20088A552 /* Antigua Grecia 508 A.C.-399 A.C..plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Antigua Grecia 508 A.C.-399 A.C..plist"; sourceTree = "<group>"; };
+		8E80557128A581C80088A552 /* Antigua Grecia 384 A.C.-146 A.C..plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Antigua Grecia 384 A.C.-146 A.C..plist"; sourceTree = "<group>"; };
 		8E80FFD127D4029400A52776 /* HistoricalEvent.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = HistoricalEvent.xcdatamodel; sourceTree = "<group>"; };
 		8E80FFD727D4059D00A52776 /* DataController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = "<group>"; };
 		8E86674027A9D4FA0010EB1E /* TimeLinesDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeLinesDetailView.swift; sourceTree = "<group>"; };
@@ -135,23 +281,36 @@
 		8E86677327B073970010EB1E /* ModelList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelList.swift; sourceTree = "<group>"; };
 		8E91F3162836D53D007AE785 /* China.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = China.plist; sourceTree = "<group>"; };
 		8E91F31C28381CC1007AE785 /* Chine.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Chine.plist; sourceTree = "<group>"; };
-		8E91F32C28392E3E007AE785 /* La China.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "La China.plist"; sourceTree = "<group>"; };
-		8EA6972E2800D9E300B349C5 /* Mésopotamie antique.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Mésopotamie antique.plist"; sourceTree = "<group>"; };
+		8E91F32C28392E3E007AE785 /* China .plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "China .plist"; sourceTree = "<group>"; };
+		8EA6972E2800D9E300B349C5 /* Mésopotamie.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Mésopotamie.plist"; sourceTree = "<group>"; };
 		8EA697302803588B00B349C5 /* Angleterre.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Angleterre.plist; sourceTree = "<group>"; };
 		8EA697322804A42800B349C5 /* Égypte antique.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Égypte antique.plist"; sourceTree = "<group>"; };
 		8EA697342805FFF100B349C5 /* Grèce antique.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Grèce antique.plist"; sourceTree = "<group>"; };
 		8EABB675285D0FAF002F3645 /* Configuration.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Configuration.storekit; sourceTree = "<group>"; };
 		8EABB676285E2859002F3645 /* NoCoinsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoCoinsView.swift; sourceTree = "<group>"; };
+		8EABDE8528DE595900137E15 /* United_States 1917-1969.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "United_States 1917-1969.plist"; sourceTree = "<group>"; };
+		8EABDE8628DE595A00137E15 /* United_States 1607-1789.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "United_States 1607-1789.plist"; sourceTree = "<group>"; };
+		8EABDE8728DE595A00137E15 /* United_States 1789-1908.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "United_States 1789-1908.plist"; sourceTree = "<group>"; };
+		8EABDE8B28DE596300137E15 /* United_States.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = United_States.plist; sourceTree = "<group>"; };
+		8EABDE9828DE652C00137E15 /* États-Unis.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "États-Unis.plist"; sourceTree = "<group>"; };
+		8EABDE9A28DE653500137E15 /* États-Unis 1789-1908.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "États-Unis 1789-1908.plist"; sourceTree = "<group>"; };
+		8EABDE9B28DE653600137E15 /* États-Unis 1917-1969.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "États-Unis 1917-1969.plist"; sourceTree = "<group>"; };
+		8EABDE9C28DE653600137E15 /* États-Unis 1607-1789.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "États-Unis 1607-1789.plist"; sourceTree = "<group>"; };
+		8EABDEA228DE664D00137E15 /* Estados Unidos.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Estados Unidos.plist"; sourceTree = "<group>"; };
+		8EABDEA428DE665A00137E15 /* Estados Unidos 1917-1969.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Estados Unidos 1917-1969.plist"; sourceTree = "<group>"; };
+		8EABDEA528DE665A00137E15 /* Estados Unidos 1607-1789.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Estados Unidos 1607-1789.plist"; sourceTree = "<group>"; };
+		8EABDEA628DE665A00137E15 /* Estados Unidos 1789-1908.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Estados Unidos 1789-1908.plist"; sourceTree = "<group>"; };
 		8EADEECF282848D400D60084 /* EnumProgressionMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnumProgressionMessage.swift; sourceTree = "<group>"; };
 		8EADEED12828630500D60084 /* OrientationModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrientationModifier.swift; sourceTree = "<group>"; };
 		8EADEED3282C18E800D60084 /* ProgressionCalculation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressionCalculation.swift; sourceTree = "<group>"; };
 		8EADEED5282C292C00D60084 /* EraseQuizResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EraseQuizResult.swift; sourceTree = "<group>"; };
 		8EAF08D927B852FF002ED633 /* SectionHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionHeader.swift; sourceTree = "<group>"; };
 		8EAF08DB27B8587F002ED633 /* NetworkMonitor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkMonitor.swift; sourceTree = "<group>"; };
+		8EB0764F28E36FB10089BEDE /* AppInformationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppInformationView.swift; sourceTree = "<group>"; };
 		8EB4A2B727DD46CF005B94F9 /* AnswerButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerButton.swift; sourceTree = "<group>"; };
 		8EB4A2BB27E0FA6A005B94F9 /* 404015__paul-sinnett__card.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "404015__paul-sinnett__card.wav"; sourceTree = "<group>"; };
 		8EB4A2BD27E0FD94005B94F9 /* RoundButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButtonView.swift; sourceTree = "<group>"; };
-		8EC4011027F75BF700CCD927 /* Ancient Mesopotamia.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ancient Mesopotamia.plist"; sourceTree = "<group>"; };
+		8EC4011027F75BF700CCD927 /* Mesopotamia .plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Mesopotamia .plist"; sourceTree = "<group>"; };
 		8EC89EDE2784B3CF00E9743B /* LearnHistory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearnHistory.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EC89EE12784B3CF00E9743B /* LearnHistoryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnHistoryApp.swift; sourceTree = "<group>"; };
 		8EC89EE52784B3D300E9743B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -169,14 +328,15 @@
 		8EC89F2127876B6300E9743B /* FlipView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipView.swift; sourceTree = "<group>"; };
 		8ED842A928592D9800518E0B /* CoinManagementView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoinManagementView.swift; sourceTree = "<group>"; };
 		8ED842AB28592DC000518E0B /* IAPManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IAPManager.swift; sourceTree = "<group>"; };
-		8ED842AD28592E2000518E0B /* ConnectionReachable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConnectionReachable.swift; sourceTree = "<group>"; };
 		8ED842AF285A2FAE00518E0B /* LearnHistory.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = LearnHistory.entitlements; sourceTree = "<group>"; };
+		8ED9397528F1FA3100A3F2E3 /* NoInternetConnectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoInternetConnectionView.swift; sourceTree = "<group>"; };
+		8ED9397728F2108A00A3F2E3 /* noInternetForWikiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = noInternetForWikiView.swift; sourceTree = "<group>"; };
 		8EDC383327D6820F00FFAD23 /* HistoricalEvent+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "HistoricalEvent+CoreDataClass.swift"; sourceTree = "<group>"; };
 		8EDC383427D6820F00FFAD23 /* HistoricalEvent+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "HistoricalEvent+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		8EDC383727D686CB00FFAD23 /* French History.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "French History.plist"; sourceTree = "<group>"; };
 		8EDC383927D686CB00FFAD23 /* British History.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "British History.plist"; sourceTree = "<group>"; };
-		8EDC383A27D686CB00FFAD23 /* Ancient Egypt.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ancient Egypt.plist"; sourceTree = "<group>"; };
 		8EDC383F27D6888A00FFAD23 /* Ancient Greece.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Ancient Greece.plist"; sourceTree = "<group>"; };
+		8EDC57D328D8C58300ABA1B7 /* Configuration.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; name = Configuration.storekit; path = "LearnHistory/Manage Credits/Configuration.storekit"; sourceTree = "<group>"; };
 		8EE9CDEF281DC856003E0E95 /* ProgressionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressionView.swift; sourceTree = "<group>"; };
 		8EEA3D7C28413E950044F70D /* Indian History.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Indian History.plist"; sourceTree = "<group>"; };
 		8EEA3D7E284169850044F70D /* Inde.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Inde.plist; sourceTree = "<group>"; };
@@ -184,8 +344,25 @@
 		8EEA3D84284693250044F70D /* LineView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineView.swift; sourceTree = "<group>"; };
 		8EEA3D86284BE2D80044F70D /* AlreadyAnExpertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlreadyAnExpertView.swift; sourceTree = "<group>"; };
 		8EF37D1F280F038B00A24B84 /* Francia.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Francia.plist; sourceTree = "<group>"; };
-		8EF37D21280F533F00A24B84 /* El antiguo Egipto.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "El antiguo Egipto.plist"; sourceTree = "<group>"; };
-		8EF37D252811C31100A24B84 /* La antigua Grecia.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "La antigua Grecia.plist"; sourceTree = "<group>"; };
+		8EF37D21280F533F00A24B84 /* Antiguo Egipto.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Antiguo Egipto.plist"; sourceTree = "<group>"; };
+		8EF37D252811C31100A24B84 /* Antigua Grecia.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Antigua Grecia.plist"; sourceTree = "<group>"; };
+		8EF674D428E37E1D004D61C2 /* What do you think?.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "What do you think?.plist"; sourceTree = "<group>"; };
+		8EF674D828E38EFF004D61C2 /* ¿Qué opinas?.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "¿Qué opinas?.plist"; sourceTree = "<group>"; };
+		8EF674DA28E38F1C004D61C2 /* Qu'en pensez-vous ?.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Qu'en pensez-vous ?.plist"; sourceTree = "<group>"; };
+		8EF674DC28E4B5C1004D61C2 /* ReviewHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewHandler.swift; sourceTree = "<group>"; };
+		8EF70D352889D28A00F128B7 /* France 40000 Av. - 843.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "France 40000 Av. - 843.plist"; sourceTree = "<group>"; };
+		8EF70D372889D29400F128B7 /* France 1309 - 1793.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "France 1309 - 1793.plist"; sourceTree = "<group>"; };
+		8EF70D392889D29B00F128B7 /* France 1794 - 1940.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "France 1794 - 1940.plist"; sourceTree = "<group>"; };
+		8EF70D3E288EE0D600F128B7 /* ListFrenchTitles.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ListFrenchTitles.json; sourceTree = "<group>"; };
+		8EF70D40288EE20E00F128B7 /* ListTitle.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ListTitle.json; sourceTree = "<group>"; };
+		8EF70D42288EFD6500F128B7 /* SelectionMultipleChoiceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionMultipleChoiceView.swift; sourceTree = "<group>"; };
+		8EF70D45288F114500F128B7 /* ListSpanishTitle.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ListSpanishTitle.json; sourceTree = "<group>"; };
+		8EF70D49288F17E200F128B7 /* French History 40000 BC - 843.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "French History 40000 BC - 843.plist"; sourceTree = "<group>"; };
+		8EF70D4B288F17E900F128B7 /* French History 1309 - 1793.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "French History 1309 - 1793.plist"; sourceTree = "<group>"; };
+		8EF70D4D288F17F000F128B7 /* French History 1794 - 1940.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "French History 1794 - 1940.plist"; sourceTree = "<group>"; };
+		8EF70D51288F18F700F128B7 /* Francia 40000 aC - 843.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Francia 40000 aC - 843.plist"; sourceTree = "<group>"; };
+		8EF70D53288F190200F128B7 /* Francia 1309 - 1793.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Francia 1309 - 1793.plist"; sourceTree = "<group>"; };
+		8EF70D55288F190800F128B7 /* Francia 1794 - 1940.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Francia 1794 - 1940.plist"; sourceTree = "<group>"; };
 		8EFFB41727CE9E5F00F224CA /* EnumCardDisplaced.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnumCardDisplaced.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -207,6 +384,7 @@
 			children = (
 				8E1E1A67278DE31E00CAC6C7 /* chime_clickbell_octave_up.mp3 */,
 				8EB4A2BB27E0FA6A005B94F9 /* 404015__paul-sinnett__card.wav */,
+				8E6EE78528A052D400C966F6 /* Acoustic Trio.wav */,
 				8E1E1A69278DE32600CAC6C7 /* etc_error_drum.mp3 */,
 			);
 			path = Sounds;
@@ -257,20 +435,280 @@
 			path = Localization;
 			sourceTree = "<group>";
 		};
+		8E4719E4289EFEF700CB9A28 /* Particle Effect */ = {
+			isa = PBXGroup;
+			children = (
+				8E6EE77F289EFF5C00C966F6 /* ParticlesModifier.swift */,
+				8E6EE781289EFF6400C966F6 /* FireworkParticlesGeometryEffect.swift */,
+				8E6EE783289EFF7800C966F6 /* ParticleEffectView.swift */,
+			);
+			path = "Particle Effect";
+			sourceTree = "<group>";
+		};
+		8E6EE7F528A43A5700C966F6 /* Mesopotamia */ = {
+			isa = PBXGroup;
+			children = (
+				8E0BA30B2814A06D00DECB80 /* Mesopotamia.plist */,
+				8E6EE7D728A3039700C966F6 /* Mesopotamia 10000 A.C.-2000 A.C..plist */,
+				8E6EE7D928A3039F00C966F6 /* Mesopotamia 1894 A.C.-651.plist */,
+			);
+			path = Mesopotamia;
+			sourceTree = "<group>";
+		};
+		8E6EE7F628A43A7B00C966F6 /* Antiguo Egipto */ = {
+			isa = PBXGroup;
+			children = (
+				8EF37D21280F533F00A24B84 /* Antiguo Egipto.plist */,
+				8E6EE7CD28A2B87900C966F6 /* Antiguo Egipto  3200 A.C.-2400 A.C..plist */,
+				8E6EE7CF28A2B88000C966F6 /* Antiguo Egipto 2300 A.C.-1323 A.C..plist */,
+				8E6EE7D128A2B88B00C966F6 /* Antiguo Egipto 1213 A.C.-1824.plist */,
+			);
+			path = "Antiguo Egipto";
+			sourceTree = "<group>";
+		};
+		8E6EE7F728A43AA800C966F6 /* Inglaterra */ = {
+			isa = PBXGroup;
+			children = (
+				8E56AC81280746A6005D5104 /* Inglaterra.plist */,
+				8E6EE79928A1836800C966F6 /* Inglaterra 6000 BC-878.plist */,
+				8E6EE79B28A1836F00C966F6 /* Inglaterra 1016-1509.plist */,
+				8E6EE79D28A1837700C966F6 /* Inglaterra 1528-1837.plist */,
+			);
+			path = Inglaterra;
+			sourceTree = "<group>";
+		};
+		8E6EE7F828A43AC800C966F6 /* China  */ = {
+			isa = PBXGroup;
+			children = (
+				8E91F32C28392E3E007AE785 /* China .plist */,
+				8E6EE7E928A437FB00C966F6 /* China 2070 A.C.-130 A.C..plist */,
+				8E6EE7EB28A4380200C966F6 /* China  220-1949.plist */,
+			);
+			path = "China ";
+			sourceTree = "<group>";
+		};
+		8E6EE7F928A43AED00C966F6 /* India */ = {
+			isa = PBXGroup;
+			children = (
+				8EEA3D822842A0650044F70D /* India.plist */,
+				8E558A0C28A6CD4F00BB28F4 /* India 30000 A.C. - 232 A.C..plist */,
+				8E558A0E28A6CD5500BB28F4 /* India 369-1948.plist */,
+			);
+			path = India;
+			sourceTree = "<group>";
+		};
+		8E6EE7FA28A43B0000C966F6 /* Francia */ = {
+			isa = PBXGroup;
+			children = (
+				8EF37D1F280F038B00A24B84 /* Francia.plist */,
+				8EF70D51288F18F700F128B7 /* Francia 40000 aC - 843.plist */,
+				8EF70D53288F190200F128B7 /* Francia 1309 - 1793.plist */,
+				8EF70D55288F190800F128B7 /* Francia 1794 - 1940.plist */,
+			);
+			path = Francia;
+			sourceTree = "<group>";
+		};
+		8E6EE7FB28A43B3800C966F6 /* Antigua Grecia */ = {
+			isa = PBXGroup;
+			children = (
+				8EF37D252811C31100A24B84 /* Antigua Grecia.plist */,
+				8E80556D28A581BD0088A552 /* Antigua Grecia 1650 A.C.-560 A.C..plist */,
+				8E80556F28A581C20088A552 /* Antigua Grecia 508 A.C.-399 A.C..plist */,
+				8E80557128A581C80088A552 /* Antigua Grecia 384 A.C.-146 A.C..plist */,
+			);
+			path = "Antigua Grecia";
+			sourceTree = "<group>";
+		};
+		8E6EE7FC28A43B4C00C966F6 /* Antigua Roma */ = {
+			isa = PBXGroup;
+			children = (
+				8E0BA311281AE63500DECB80 /* Antigua Roma.plist */,
+				8E6EE7AD28A19B4F00C966F6 /* Antigua Roma 753 AC - 30 AC.plist */,
+				8E6EE7AF28A19B5700C966F6 /* Antigua Roma 27 AC - 476.plist */,
+			);
+			path = "Antigua Roma";
+			sourceTree = "<group>";
+		};
+		8E6EE7FD28A43B6D00C966F6 /* Ancient Rome */ = {
+			isa = PBXGroup;
+			children = (
+				8E0BA30D28188CDC00DECB80 /* Ancient Rome.plist */,
+				8E6EE7A328A1972F00C966F6 /* Ancient Rome 753 BC - 30 BC.plist */,
+				8E6EE7A128A1972300C966F6 /* Ancient Rome 27 BC - 476.plist */,
+			);
+			path = "Ancient Rome";
+			sourceTree = "<group>";
+		};
+		8E6EE7FE28A43B8100C966F6 /* Ancient Egypt */ = {
+			isa = PBXGroup;
+			children = (
+				8E6EE7C128A2AD1D00C966F6 /* Ancient Egypt.plist */,
+				8E6EE7BB28A2AB8600C966F6 /* Ancient Egypt 3200 BC-2400 BC.plist */,
+				8E6EE7BD28A2AB8C00C966F6 /* Ancient Egypt 2300 BC-1323 BC.plist */,
+				8E6EE7BF28A2AB9300C966F6 /* Ancient Egypt 1213 BC-1824.plist */,
+			);
+			path = "Ancient Egypt";
+			sourceTree = "<group>";
+		};
+		8E6EE7FF28A43BA900C966F6 /* Mesopotamia */ = {
+			isa = PBXGroup;
+			children = (
+				8EC4011027F75BF700CCD927 /* Mesopotamia .plist */,
+				8E6EE7DB28A303B600C966F6 /* Mesopotamia  10000 BC-2000 BC.plist */,
+				8E6EE7DD28A303C500C966F6 /* Mesopotamia  1894 BC-651 AD.plist */,
+			);
+			path = Mesopotamia;
+			sourceTree = "<group>";
+		};
+		8E6EE80028A43BC000C966F6 /* Indian History */ = {
+			isa = PBXGroup;
+			children = (
+				8EEA3D7C28413E950044F70D /* Indian History.plist */,
+				8E558A1028A6CD6000BB28F4 /* Indian History 30000 BC-232 BC.plist */,
+				8E558A1228A6CD6500BB28F4 /* Indian History 369-1948.plist */,
+			);
+			path = "Indian History";
+			sourceTree = "<group>";
+		};
+		8E6EE80128A43BD400C966F6 /* Ancient Greece */ = {
+			isa = PBXGroup;
+			children = (
+				8EDC383F27D6888A00FFAD23 /* Ancient Greece.plist */,
+				8E80556728A581A30088A552 /* Ancient Greece 1650 BC-560 BC.plist */,
+				8E80556928A581A90088A552 /* Ancient Greece 508 BC-399 BC.plist */,
+				8E80556B28A581AE0088A552 /* Ancient Greece 384 BC-146 BC.plist */,
+			);
+			path = "Ancient Greece";
+			sourceTree = "<group>";
+		};
+		8E6EE80228A43BE200C966F6 /* British History */ = {
+			isa = PBXGroup;
+			children = (
+				8EDC383927D686CB00FFAD23 /* British History.plist */,
+				8E6EE79128A181BA00C966F6 /* British History 6000 BC-878.plist */,
+				8E6EE79328A181C000C966F6 /* British History 1016-1509.plist */,
+				8E6EE79528A181C700C966F6 /* British History 1528-1837.plist */,
+			);
+			path = "British History";
+			sourceTree = "<group>";
+		};
+		8E6EE80328A43BFC00C966F6 /* China */ = {
+			isa = PBXGroup;
+			children = (
+				8E91F3162836D53D007AE785 /* China.plist */,
+				8E6EE7ED28A4381C00C966F6 /* China 2070 BC-130 BC.plist */,
+				8E6EE7EF28A4382600C966F6 /* China 220-1949.plist */,
+			);
+			path = China;
+			sourceTree = "<group>";
+		};
+		8E6EE80428A43C1800C966F6 /* French History */ = {
+			isa = PBXGroup;
+			children = (
+				8EDC383727D686CB00FFAD23 /* French History.plist */,
+				8EF70D49288F17E200F128B7 /* French History 40000 BC - 843.plist */,
+				8EF70D4B288F17E900F128B7 /* French History 1309 - 1793.plist */,
+				8EF70D4D288F17F000F128B7 /* French History 1794 - 1940.plist */,
+			);
+			path = "French History";
+			sourceTree = "<group>";
+		};
+		8E6EE80528A43C4800C966F6 /* Angleterre */ = {
+			isa = PBXGroup;
+			children = (
+				8EA697302803588B00B349C5 /* Angleterre.plist */,
+				8E6EE78B28A17E2900C966F6 /* Angleterre 6000 Av-878.plist */,
+				8E6EE78928A17E1D00C966F6 /* Angleterre 1016-1509.plist */,
+				8E6EE78D28A17E3400C966F6 /* Angleterre 1528-1837.plist */,
+			);
+			path = Angleterre;
+			sourceTree = "<group>";
+		};
+		8E6EE80628A43C6900C966F6 /* La Rome antique */ = {
+			isa = PBXGroup;
+			children = (
+				8E0BA30F2819BE0200DECB80 /* Rome antique.plist */,
+				8E6EE7B328A19EBB00C966F6 /* Rome antique 753 AV - 30 AV.plist */,
+				8E6EE7B528A19EC300C966F6 /* Rome antique 27 AV - 476 AV.plist */,
+			);
+			path = "La Rome antique";
+			sourceTree = "<group>";
+		};
+		8E6EE80728A43C8200C966F6 /* Égypte antique */ = {
+			isa = PBXGroup;
+			children = (
+				8EA697322804A42800B349C5 /* Égypte antique.plist */,
+				8E6EE7C528A2AFAA00C966F6 /* Égypte antique 3200 AV-2400 AV.plist */,
+				8E6EE7C728A2AFB300C966F6 /* Égypte antique 2300 AV-1323 AV.plist */,
+				8E6EE7C928A2AFBA00C966F6 /* Égypte antique 1213 AV-1824.plist */,
+			);
+			path = "Égypte antique";
+			sourceTree = "<group>";
+		};
+		8E6EE80828A43CA000C966F6 /* Grèce antique */ = {
+			isa = PBXGroup;
+			children = (
+				8EA697342805FFF100B349C5 /* Grèce antique.plist */,
+				8E80556128A581890088A552 /* Grèce antique 1650 AV-560 AV.plist */,
+				8E80556328A5818E0088A552 /* Grèce antique 508 AV-399 AV.plist */,
+				8E80556528A581940088A552 /* Grèce antique 384 AV-146 AV.plist */,
+			);
+			path = "Grèce antique";
+			sourceTree = "<group>";
+		};
+		8E6EE80928A43CB600C966F6 /* Mésopotamie */ = {
+			isa = PBXGroup;
+			children = (
+				8EA6972E2800D9E300B349C5 /* Mésopotamie.plist */,
+				8E6EE7DF28A303D900C966F6 /* Mésopotamie 10000 AV-2000 AV.plist */,
+				8E6EE7E128A303E200C966F6 /* Mésopotamie 1894 AV-651.plist */,
+			);
+			path = "Mésopotamie";
+			sourceTree = "<group>";
+		};
+		8E6EE80A28A43CC800C966F6 /* Chine */ = {
+			isa = PBXGroup;
+			children = (
+				8E91F31C28381CC1007AE785 /* Chine.plist */,
+				8E6EE7F128A4383100C966F6 /* Chine 2070 AV-130 AV.plist */,
+				8E6EE7F328A4383A00C966F6 /* Chine 220-1949.plist */,
+			);
+			path = Chine;
+			sourceTree = "<group>";
+		};
+		8E6EE80B28A43CED00C966F6 /* France */ = {
+			isa = PBXGroup;
+			children = (
+				8E460D5C27FCE20D006C4928 /* France.plist */,
+				8EF70D352889D28A00F128B7 /* France 40000 Av. - 843.plist */,
+				8EF70D372889D29400F128B7 /* France 1309 - 1793.plist */,
+				8EF70D392889D29B00F128B7 /* France 1794 - 1940.plist */,
+			);
+			path = France;
+			sourceTree = "<group>";
+		};
+		8E6EE80C28A43D0800C966F6 /* Inde */ = {
+			isa = PBXGroup;
+			children = (
+				8EEA3D7E284169850044F70D /* Inde.plist */,
+				8E558A1428A6CD7000BB28F4 /* Inde 30000 AV-232 AV.plist */,
+				8E558A1628A6CD7600BB28F4 /* Inde 369-1948.plist */,
+			);
+			path = Inde;
+			sourceTree = "<group>";
+		};
 		8E80FFCF27D4011900A52776 /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				8EF70D44288F10FE00F128B7 /* Json */,
 				8EA6972C2800825C00B349C5 /* Spanish Plist */,
 				8EA6972B2800824E00B349C5 /* English Plist */,
 				8EA6972A2800823500B349C5 /* French Plist */,
 				8E80FFD027D4029400A52776 /* HistoricalEvent.xcdatamodeld */,
+				8EC89F152784BD5900E9743B /* DataModel.swift */,
 				8EDC383327D6820F00FFAD23 /* HistoricalEvent+CoreDataClass.swift */,
 				8EDC383427D6820F00FFAD23 /* HistoricalEvent+CoreDataProperties.swift */,
 				8E80FFD727D4059D00A52776 /* DataController.swift */,
-				8E86677127B070F70010EB1E /* List.json */,
-				8E460D5E27FCE329006C4928 /* ListFrench.json */,
-				8E56AC8528074769005D5104 /* ListSpanish.json */,
-				8EC89F152784BD5900E9743B /* DataModel.swift */,
 				8E86677327B073970010EB1E /* ModelList.swift */,
 				8EC89F172784BD5900E9743B /* DataModelCoins.swift */,
 				8E86674227AB17F20010EB1E /* Extension.swift */,
@@ -295,11 +733,10 @@
 				8EFFB41727CE9E5F00F224CA /* EnumCardDisplaced.swift */,
 				8EB4A2B727DD46CF005B94F9 /* AnswerButton.swift */,
 				8EB4A2BD27E0FD94005B94F9 /* RoundButtonView.swift */,
-				8E730FAE27E67091008D83E1 /* SelectedItem.swift */,
-				8E1F7C1B27E4F46100147176 /* FilterList.swift */,
 				8E1F7C1D27E62E3800147176 /* StatisticsView.swift */,
 				8E1F7C1F27E64AE300147176 /* FilteredView.swift */,
 				8E730FB027E79625008D83E1 /* OptionView.swift */,
+				8ED9397728F2108A00A3F2E3 /* noInternetForWikiView.swift */,
 			);
 			path = Studying;
 			sourceTree = "<group>";
@@ -307,14 +744,16 @@
 		8EA6972A2800823500B349C5 /* French Plist */ = {
 			isa = PBXGroup;
 			children = (
-				8EA697302803588B00B349C5 /* Angleterre.plist */,
-				8E0BA30F2819BE0200DECB80 /* La Rome antique.plist */,
-				8EA697322804A42800B349C5 /* Égypte antique.plist */,
-				8EA697342805FFF100B349C5 /* Grèce antique.plist */,
-				8EA6972E2800D9E300B349C5 /* Mésopotamie antique.plist */,
-				8E91F31C28381CC1007AE785 /* Chine.plist */,
-				8E460D5C27FCE20D006C4928 /* France.plist */,
-				8EEA3D7E284169850044F70D /* Inde.plist */,
+				8EF674D628E38ADA004D61C2 /* Information dur L'App */,
+				8EABDE8D28DE596D00137E15 /* États-Unis */,
+				8E6EE80C28A43D0800C966F6 /* Inde */,
+				8E6EE80B28A43CED00C966F6 /* France */,
+				8E6EE80A28A43CC800C966F6 /* Chine */,
+				8E6EE80928A43CB600C966F6 /* Mésopotamie */,
+				8E6EE80828A43CA000C966F6 /* Grèce antique */,
+				8E6EE80728A43C8200C966F6 /* Égypte antique */,
+				8E6EE80628A43C6900C966F6 /* La Rome antique */,
+				8E6EE80528A43C4800C966F6 /* Angleterre */,
 			);
 			path = "French Plist";
 			sourceTree = "<group>";
@@ -322,14 +761,16 @@
 		8EA6972B2800824E00B349C5 /* English Plist */ = {
 			isa = PBXGroup;
 			children = (
-				8E0BA30D28188CDC00DECB80 /* Ancient Rome.plist */,
-				8EDC383A27D686CB00FFAD23 /* Ancient Egypt.plist */,
-				8EC4011027F75BF700CCD927 /* Ancient Mesopotamia.plist */,
-				8EEA3D7C28413E950044F70D /* Indian History.plist */,
-				8EDC383F27D6888A00FFAD23 /* Ancient Greece.plist */,
-				8EDC383927D686CB00FFAD23 /* British History.plist */,
-				8E91F3162836D53D007AE785 /* China.plist */,
-				8EDC383727D686CB00FFAD23 /* French History.plist */,
+				8EF674D328E37DFC004D61C2 /* Information about App */,
+				8EABDE8428DE594400137E15 /* United_States */,
+				8E6EE80428A43C1800C966F6 /* French History */,
+				8E6EE80328A43BFC00C966F6 /* China */,
+				8E6EE80228A43BE200C966F6 /* British History */,
+				8E6EE80128A43BD400C966F6 /* Ancient Greece */,
+				8E6EE80028A43BC000C966F6 /* Indian History */,
+				8E6EE7FF28A43BA900C966F6 /* Mesopotamia */,
+				8E6EE7FE28A43B8100C966F6 /* Ancient Egypt */,
+				8E6EE7FD28A43B6D00C966F6 /* Ancient Rome */,
 			);
 			path = "English Plist";
 			sourceTree = "<group>";
@@ -337,21 +778,66 @@
 		8EA6972C2800825C00B349C5 /* Spanish Plist */ = {
 			isa = PBXGroup;
 			children = (
-				8E0BA30B2814A06D00DECB80 /* La antigua Mesopotamia.plist */,
-				8EF37D21280F533F00A24B84 /* El antiguo Egipto.plist */,
-				8E56AC81280746A6005D5104 /* Inglaterra.plist */,
-				8E91F32C28392E3E007AE785 /* La China.plist */,
-				8EEA3D822842A0650044F70D /* India.plist */,
-				8EF37D1F280F038B00A24B84 /* Francia.plist */,
-				8EF37D252811C31100A24B84 /* La antigua Grecia.plist */,
-				8E0BA311281AE63500DECB80 /* La antigua Roma.plist */,
+				8EF674D728E38AF4004D61C2 /* Informacion sobre l'App */,
+				8EABDE7D28DE57BC00137E15 /* Estados Unidos */,
+				8E6EE7FC28A43B4C00C966F6 /* Antigua Roma */,
+				8E6EE7FB28A43B3800C966F6 /* Antigua Grecia */,
+				8E6EE7FA28A43B0000C966F6 /* Francia */,
+				8E6EE7F928A43AED00C966F6 /* India */,
+				8E6EE7F828A43AC800C966F6 /* China  */,
+				8E6EE7F728A43AA800C966F6 /* Inglaterra */,
+				8E6EE7F628A43A7B00C966F6 /* Antiguo Egipto */,
+				8E6EE7F528A43A5700C966F6 /* Mesopotamia */,
 			);
 			path = "Spanish Plist";
+			sourceTree = "<group>";
+		};
+		8EABDE7D28DE57BC00137E15 /* Estados Unidos */ = {
+			isa = PBXGroup;
+			children = (
+				8EABDEA228DE664D00137E15 /* Estados Unidos.plist */,
+				8EABDEA528DE665A00137E15 /* Estados Unidos 1607-1789.plist */,
+				8EABDEA628DE665A00137E15 /* Estados Unidos 1789-1908.plist */,
+				8EABDEA428DE665A00137E15 /* Estados Unidos 1917-1969.plist */,
+			);
+			path = "Estados Unidos";
+			sourceTree = "<group>";
+		};
+		8EABDE8428DE594400137E15 /* United_States */ = {
+			isa = PBXGroup;
+			children = (
+				8EABDE8B28DE596300137E15 /* United_States.plist */,
+				8EABDE8628DE595A00137E15 /* United_States 1607-1789.plist */,
+				8EABDE8728DE595A00137E15 /* United_States 1789-1908.plist */,
+				8EABDE8528DE595900137E15 /* United_States 1917-1969.plist */,
+			);
+			path = United_States;
+			sourceTree = "<group>";
+		};
+		8EABDE8D28DE596D00137E15 /* États-Unis */ = {
+			isa = PBXGroup;
+			children = (
+				8EABDE9828DE652C00137E15 /* États-Unis.plist */,
+				8EABDE9C28DE653600137E15 /* États-Unis 1607-1789.plist */,
+				8EABDE9A28DE653500137E15 /* États-Unis 1789-1908.plist */,
+				8EABDE9B28DE653600137E15 /* États-Unis 1917-1969.plist */,
+			);
+			name = "États-Unis";
+			path = "États-Unis";
+			sourceTree = "<group>";
+		};
+		8EB0764E28E36FB10089BEDE /* AppInformation */ = {
+			isa = PBXGroup;
+			children = (
+				8EB0764F28E36FB10089BEDE /* AppInformationView.swift */,
+			);
+			path = AppInformation;
 			sourceTree = "<group>";
 		};
 		8EC89ED52784B3CF00E9743B = {
 			isa = PBXGroup;
 			children = (
+				8EDC57D328D8C58300ABA1B7 /* Configuration.storekit */,
 				8EC89EE02784B3CF00E9743B /* LearnHistory */,
 				8EC89EDF2784B3CF00E9743B /* Products */,
 			);
@@ -378,12 +864,15 @@
 				8E86673D27A9CD580010EB1E /* TimeLines */,
 				8EC89EF62784BD4900E9743B /* MultipleChoiceQuizView */,
 				8E1E1A77278F50B400CAC6C7 /* CardQuiz */,
+				8EB0764E28E36FB10089BEDE /* AppInformation */,
 				8ED842A828592D6000518E0B /* Manage Credits */,
 				8E246FEF27A492E4004CF602 /* Modifiers */,
+				8E4719E4289EFEF700CB9A28 /* Particle Effect */,
 				8EC89EE52784B3D300E9743B /* Assets.xcassets */,
 				8E1E1A66278DE2FA00CAC6C7 /* Sounds */,
 				8EC89EE72784B3D300E9743B /* Preview Content */,
 				8EAF08DB27B8587F002ED633 /* NetworkMonitor.swift */,
+				8EF674DC28E4B5C1004D61C2 /* ReviewHandler.swift */,
 			);
 			path = LearnHistory;
 			sourceTree = "<group>";
@@ -399,15 +888,17 @@
 		8EC89EF62784BD4900E9743B /* MultipleChoiceQuizView */ = {
 			isa = PBXGroup;
 			children = (
+				8EF70D42288EFD6500F128B7 /* SelectionMultipleChoiceView.swift */,
 				8EC89F002784BD4900E9743B /* MultipleChoiceQuizView.swift */,
 				8EC89EFE2784BD4900E9743B /* WiKiView.swift */,
 				8EC89EFF2784BD4900E9743B /* TrueOrFalseQuizView.swift */,
 				8EC89EFC2784BD4900E9743B /* QuizButtonTextModifier.swift */,
 				8EC89F1F2786150600E9743B /* EnumQuizSection.swift */,
+				8E1E1A6B278DE49000CAC6C7 /* SoundPlayer.swift */,
 				8EC89F042784BD4900E9743B /* QuestionViewModel.swift */,
 				8EC89F2127876B6300E9743B /* FlipView.swift */,
-				8E1E1A6B278DE49000CAC6C7 /* SoundPlayer.swift */,
 				8E1E1A6D278E034400CAC6C7 /* SoundOption.swift */,
+				8ED9397528F1FA3100A3F2E3 /* NoInternetConnectionView.swift */,
 			);
 			path = MultipleChoiceQuizView;
 			sourceTree = "<group>";
@@ -417,11 +908,51 @@
 			children = (
 				8ED842A928592D9800518E0B /* CoinManagementView.swift */,
 				8ED842AB28592DC000518E0B /* IAPManager.swift */,
-				8ED842AD28592E2000518E0B /* ConnectionReachable.swift */,
 				8EABB675285D0FAF002F3645 /* Configuration.storekit */,
 				8EABB676285E2859002F3645 /* NoCoinsView.swift */,
+				8E2592C228D666C200E32AC5 /* CoinsAtZero.swift */,
 			);
 			path = "Manage Credits";
+			sourceTree = "<group>";
+		};
+		8EF674D328E37DFC004D61C2 /* Information about App */ = {
+			isa = PBXGroup;
+			children = (
+				8EF674D428E37E1D004D61C2 /* What do you think?.plist */,
+				8E06B42D28E8AA3B00B53049 /* Bibliography.plist */,
+			);
+			path = "Information about App";
+			sourceTree = "<group>";
+		};
+		8EF674D628E38ADA004D61C2 /* Information dur L'App */ = {
+			isa = PBXGroup;
+			children = (
+				8EF674DA28E38F1C004D61C2 /* Qu'en pensez-vous ?.plist */,
+				8E06B43128E8AAEE00B53049 /* Bibliographie.plist */,
+			);
+			path = "Information dur L'App";
+			sourceTree = "<group>";
+		};
+		8EF674D728E38AF4004D61C2 /* Informacion sobre l'App */ = {
+			isa = PBXGroup;
+			children = (
+				8EF674D828E38EFF004D61C2 /* ¿Qué opinas?.plist */,
+				8E06B42F28E8AAA100B53049 /* Bibliografía.plist */,
+			);
+			path = "Informacion sobre l'App";
+			sourceTree = "<group>";
+		};
+		8EF70D44288F10FE00F128B7 /* Json */ = {
+			isa = PBXGroup;
+			children = (
+				8E86677127B070F70010EB1E /* List.json */,
+				8EF70D40288EE20E00F128B7 /* ListTitle.json */,
+				8E460D5E27FCE329006C4928 /* ListFrench.json */,
+				8EF70D3E288EE0D600F128B7 /* ListFrenchTitles.json */,
+				8E56AC8528074769005D5104 /* ListSpanish.json */,
+				8EF70D45288F114500F128B7 /* ListSpanishTitle.json */,
+			);
+			path = Json;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -492,39 +1023,121 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E6EE78C28A17E2900C966F6 /* Angleterre 6000 Av-878.plist in Resources */,
+				8EABDEA828DE665B00137E15 /* Estados Unidos 1607-1789.plist in Resources */,
+				8E06B43228E8AAEE00B53049 /* Bibliographie.plist in Resources */,
+				8E6EE79228A181BA00C966F6 /* British History 6000 BC-878.plist in Resources */,
+				8E80556E28A581BD0088A552 /* Antigua Grecia 1650 A.C.-560 A.C..plist in Resources */,
+				8EF70D362889D28A00F128B7 /* France 40000 Av. - 843.plist in Resources */,
 				8EB4A2BC27E0FA6A005B94F9 /* 404015__paul-sinnett__card.wav in Resources */,
+				8E80557028A581C20088A552 /* Antigua Grecia 508 A.C.-399 A.C..plist in Resources */,
+				8E6EE7B628A19EC300C966F6 /* Rome antique 27 AV - 476 AV.plist in Resources */,
 				8EA697332804A42800B349C5 /* Égypte antique.plist in Resources */,
+				8E6EE7DC28A303B600C966F6 /* Mesopotamia  10000 BC-2000 BC.plist in Resources */,
+				8E6EE7CE28A2B87900C966F6 /* Antiguo Egipto  3200 A.C.-2400 A.C..plist in Resources */,
 				8E460D5427FCB34D006C4928 /* Localizable.strings in Resources */,
-				8EDC383E27D686CB00FFAD23 /* Ancient Egypt.plist in Resources */,
+				8E558A0F28A6CD5500BB28F4 /* India 369-1948.plist in Resources */,
+				8E6EE7B028A19B5700C966F6 /* Antigua Roma 27 AC - 476.plist in Resources */,
+				8E6EE79C28A1837000C966F6 /* Inglaterra 1016-1509.plist in Resources */,
 				8EEA3D7F284169850044F70D /* Inde.plist in Resources */,
 				8EF37D20280F038B00A24B84 /* Francia.plist in Resources */,
+				8E6EE7AE28A19B4F00C966F6 /* Antigua Roma 753 AC - 30 AC.plist in Resources */,
 				8EA697312803588B00B349C5 /* Angleterre.plist in Resources */,
-				8E91F32D28392E3E007AE785 /* La China.plist in Resources */,
+				8E6EE7EA28A437FB00C966F6 /* China 2070 A.C.-130 A.C..plist in Resources */,
+				8E91F32D28392E3E007AE785 /* China .plist in Resources */,
+				8EF70D54288F190200F128B7 /* Francia 1309 - 1793.plist in Resources */,
+				8E6EE7D028A2B88000C966F6 /* Antiguo Egipto 2300 A.C.-1323 A.C..plist in Resources */,
+				8E6EE7CA28A2AFBA00C966F6 /* Égypte antique 1213 AV-1824.plist in Resources */,
 				8E460D5F27FCE329006C4928 /* ListFrench.json in Resources */,
+				8E6EE7D828A3039700C966F6 /* Mesopotamia 10000 A.C.-2000 A.C..plist in Resources */,
+				8E558A1528A6CD7000BB28F4 /* Inde 30000 AV-232 AV.plist in Resources */,
 				8E460D5D27FCE20E006C4928 /* France.plist in Resources */,
 				8E1E1A6A278DE32600CAC6C7 /* etc_error_drum.mp3 in Resources */,
+				8E6EE7D228A2B88B00C966F6 /* Antiguo Egipto 1213 A.C.-1824.plist in Resources */,
+				8E6EE7F028A4382600C966F6 /* China 220-1949.plist in Resources */,
+				8EF70D56288F190800F128B7 /* Francia 1794 - 1940.plist in Resources */,
+				8EABDEA928DE665B00137E15 /* Estados Unidos 1789-1908.plist in Resources */,
+				8E06B42E28E8AA3B00B53049 /* Bibliography.plist in Resources */,
 				8EC89EE92784B3D300E9743B /* Preview Assets.xcassets in Resources */,
+				8E6EE7EC28A4380200C966F6 /* China  220-1949.plist in Resources */,
 				8E1E1A68278DE31E00CAC6C7 /* chime_clickbell_octave_up.mp3 in Resources */,
+				8E80556428A5818E0088A552 /* Grèce antique 508 AV-399 AV.plist in Resources */,
+				8E558A1128A6CD6000BB28F4 /* Indian History 30000 BC-232 BC.plist in Resources */,
+				8EF674D528E37E1D004D61C2 /* What do you think?.plist in Resources */,
+				8E80556228A581890088A552 /* Grèce antique 1650 AV-560 AV.plist in Resources */,
 				8EEA3D7D28413E950044F70D /* Indian History.plist in Resources */,
-				8E0BA30C2814A06D00DECB80 /* La antigua Mesopotamia.plist in Resources */,
+				8E0BA30C2814A06D00DECB80 /* Mesopotamia.plist in Resources */,
+				8E6EE79628A181C700C966F6 /* British History 1528-1837.plist in Resources */,
+				8E6EE7C228A2AD1D00C966F6 /* Ancient Egypt.plist in Resources */,
+				8EABDE9928DE652C00137E15 /* États-Unis.plist in Resources */,
 				8E56AC8628074769005D5104 /* ListSpanish.json in Resources */,
+				8EABDE9F28DE653600137E15 /* États-Unis 1607-1789.plist in Resources */,
+				8E6EE7C028A2AB9300C966F6 /* Ancient Egypt 1213 BC-1824.plist in Resources */,
+				8E6EE7DA28A3039F00C966F6 /* Mesopotamia 1894 A.C.-651.plist in Resources */,
+				8E6EE7BC28A2AB8600C966F6 /* Ancient Egypt 3200 BC-2400 BC.plist in Resources */,
 				8EDC384027D6888A00FFAD23 /* Ancient Greece.plist in Resources */,
+				8EF70D4E288F17F000F128B7 /* French History 1794 - 1940.plist in Resources */,
 				8E91F31D28381CC1007AE785 /* Chine.plist in Resources */,
-				8E0BA3102819BE0200DECB80 /* La Rome antique.plist in Resources */,
+				8E0BA3102819BE0200DECB80 /* Rome antique.plist in Resources */,
 				8E0BA30E28188CDC00DECB80 /* Ancient Rome.plist in Resources */,
-				8E0BA312281AE63500DECB80 /* La antigua Roma.plist in Resources */,
+				8E6EE7A428A1972F00C966F6 /* Ancient Rome 753 BC - 30 BC.plist in Resources */,
+				8EF674DB28E38F1C004D61C2 /* Qu'en pensez-vous ?.plist in Resources */,
+				8E0BA312281AE63500DECB80 /* Antigua Roma.plist in Resources */,
 				8EC89EE62784B3D300E9743B /* Assets.xcassets in Resources */,
+				8E6EE78A28A17E1D00C966F6 /* Angleterre 1016-1509.plist in Resources */,
 				8EDC383B27D686CB00FFAD23 /* French History.plist in Resources */,
+				8EABDE8C28DE596300137E15 /* United_States.plist in Resources */,
+				8E6EE79428A181C000C966F6 /* British History 1016-1509.plist in Resources */,
 				8EEA3D832842A0650044F70D /* India.plist in Resources */,
+				8E6EE7A228A1972300C966F6 /* Ancient Rome 27 BC - 476.plist in Resources */,
 				8EA697352805FFF100B349C5 /* Grèce antique.plist in Resources */,
-				8EC4011127F75BF700CCD927 /* Ancient Mesopotamia.plist in Resources */,
-				8EF37D22280F533F00A24B84 /* El antiguo Egipto.plist in Resources */,
-				8EF37D262811C31100A24B84 /* La antigua Grecia.plist in Resources */,
-				8EA6972F2800D9E300B349C5 /* Mésopotamie antique.plist in Resources */,
+				8EF70D382889D29400F128B7 /* France 1309 - 1793.plist in Resources */,
+				8EC4011127F75BF700CCD927 /* Mesopotamia .plist in Resources */,
+				8EF37D22280F533F00A24B84 /* Antiguo Egipto.plist in Resources */,
+				8E6EE79E28A1837700C966F6 /* Inglaterra 1528-1837.plist in Resources */,
+				8E6EE78628A052D400C966F6 /* Acoustic Trio.wav in Resources */,
+				8E6EE7F428A4383A00C966F6 /* Chine 220-1949.plist in Resources */,
+				8EF674D928E38EFF004D61C2 /* ¿Qué opinas?.plist in Resources */,
+				8E80556628A581940088A552 /* Grèce antique 384 AV-146 AV.plist in Resources */,
+				8E80557228A581C80088A552 /* Antigua Grecia 384 A.C.-146 A.C..plist in Resources */,
+				8E6EE78E28A17E3400C966F6 /* Angleterre 1528-1837.plist in Resources */,
+				8EABDE9D28DE653600137E15 /* États-Unis 1789-1908.plist in Resources */,
+				8E6EE79A28A1836800C966F6 /* Inglaterra 6000 BC-878.plist in Resources */,
+				8E6EE7DE28A303C500C966F6 /* Mesopotamia  1894 BC-651 AD.plist in Resources */,
+				8EF37D262811C31100A24B84 /* Antigua Grecia.plist in Resources */,
+				8E06B43028E8AAA100B53049 /* Bibliografía.plist in Resources */,
+				8E6EE7E028A303D900C966F6 /* Mésopotamie 10000 AV-2000 AV.plist in Resources */,
+				8E558A0D28A6CD4F00BB28F4 /* India 30000 A.C. - 232 A.C..plist in Resources */,
+				8EABDE8A28DE595A00137E15 /* United_States 1789-1908.plist in Resources */,
+				8E80556C28A581AE0088A552 /* Ancient Greece 384 BC-146 BC.plist in Resources */,
+				8E6EE7F228A4383100C966F6 /* Chine 2070 AV-130 AV.plist in Resources */,
+				8EA6972F2800D9E300B349C5 /* Mésopotamie.plist in Resources */,
 				8E91F3172836D53D007AE785 /* China.plist in Resources */,
+				8EABDE8828DE595A00137E15 /* United_States 1917-1969.plist in Resources */,
+				8EABDE8928DE595A00137E15 /* United_States 1607-1789.plist in Resources */,
+				8E80556A28A581A90088A552 /* Ancient Greece 508 BC-399 BC.plist in Resources */,
+				8E6EE7EE28A4381C00C966F6 /* China 2070 BC-130 BC.plist in Resources */,
+				8EF70D41288EE20E00F128B7 /* ListTitle.json in Resources */,
+				8E558A1328A6CD6500BB28F4 /* Indian History 369-1948.plist in Resources */,
+				8E6EE7B428A19EBB00C966F6 /* Rome antique 753 AV - 30 AV.plist in Resources */,
+				8E6EE7C828A2AFB300C966F6 /* Égypte antique 2300 AV-1323 AV.plist in Resources */,
+				8EABDEA728DE665B00137E15 /* Estados Unidos 1917-1969.plist in Resources */,
+				8EF70D52288F18F700F128B7 /* Francia 40000 aC - 843.plist in Resources */,
+				8EABDEA328DE664D00137E15 /* Estados Unidos.plist in Resources */,
+				8E6EE7E228A303E200C966F6 /* Mésopotamie 1894 AV-651.plist in Resources */,
 				8EDC383D27D686CB00FFAD23 /* British History.plist in Resources */,
+				8E6EE7C628A2AFAA00C966F6 /* Égypte antique 3200 AV-2400 AV.plist in Resources */,
+				8EF70D4A288F17E200F128B7 /* French History 40000 BC - 843.plist in Resources */,
+				8EF70D46288F114500F128B7 /* ListSpanishTitle.json in Resources */,
 				8E56AC82280746A6005D5104 /* Inglaterra.plist in Resources */,
+				8EF70D3A2889D29B00F128B7 /* France 1794 - 1940.plist in Resources */,
+				8EF70D4C288F17E900F128B7 /* French History 1309 - 1793.plist in Resources */,
 				8E86677227B070F70010EB1E /* List.json in Resources */,
+				8EABDE9E28DE653600137E15 /* États-Unis 1917-1969.plist in Resources */,
+				8E6EE7BE28A2AB8C00C966F6 /* Ancient Egypt 2300 BC-1323 BC.plist in Resources */,
+				8E80556828A581A30088A552 /* Ancient Greece 1650 BC-560 BC.plist in Resources */,
+				8EF70D3F288EE0D600F128B7 /* ListFrenchTitles.json in Resources */,
+				8E558A1728A6CD7600BB28F4 /* Inde 369-1948.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -536,19 +1149,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E1F7C2027E64AE300147176 /* FilteredView.swift in Sources */,
+				8E6EE782289EFF6400C966F6 /* FireworkParticlesGeometryEffect.swift in Sources */,
 				8EADEED4282C18E800D60084 /* ProgressionCalculation.swift in Sources */,
+				8ED9397628F1FA3100A3F2E3 /* NoInternetConnectionView.swift in Sources */,
 				8E246FF127A49308004CF602 /* ButtonModifiers.swift in Sources */,
 				8EC89F0F2784BD4900E9743B /* MultipleChoiceQuizView.swift in Sources */,
 				8EDC383527D6820F00FFAD23 /* HistoricalEvent+CoreDataClass.swift in Sources */,
 				8EAF08DA27B852FF002ED633 /* SectionHeader.swift in Sources */,
-				8ED842AE28592E2000518E0B /* ConnectionReachable.swift in Sources */,
 				8ED842AC28592DC000518E0B /* IAPManager.swift in Sources */,
+				8E6EE784289EFF7C00C966F6 /* ParticleEffectView.swift in Sources */,
 				8EAF08DC27B8587F002ED633 /* NetworkMonitor.swift in Sources */,
 				8EFFB41827CE9E5F00F224CA /* EnumCardDisplaced.swift in Sources */,
 				8EEA3D87284BE2D80044F70D /* AlreadyAnExpertView.swift in Sources */,
 				8EB4A2BE27E0FD94005B94F9 /* RoundButtonView.swift in Sources */,
 				8EABB677285E2859002F3645 /* NoCoinsView.swift in Sources */,
+				8E2592C328D666C200E32AC5 /* CoinsAtZero.swift in Sources */,
 				8E1E1A79278F50E000CAC6C7 /* CardQuizView.swift in Sources */,
+				8EF70D43288EFD6500F128B7 /* SelectionMultipleChoiceView.swift in Sources */,
+				8EB0765028E36FB20089BEDE /* AppInformationView.swift in Sources */,
 				8E86677427B073970010EB1E /* ModelList.swift in Sources */,
 				8EC89F2227876B6300E9743B /* FlipView.swift in Sources */,
 				8E1E1A6C278DE49000CAC6C7 /* SoundPlayer.swift in Sources */,
@@ -561,17 +1179,18 @@
 				8E246FF327A5E93A004CF602 /* IntroView.swift in Sources */,
 				8E1E1A81278F513000CAC6C7 /* CardSequence.swift in Sources */,
 				8EC89EF52784BD2900E9743B /* NMLogo.swift in Sources */,
-				8E730FAF27E67091008D83E1 /* SelectedItem.swift in Sources */,
 				8EC89F0E2784BD4900E9743B /* TrueOrFalseQuizView.swift in Sources */,
 				8E246FF527A5EE2B004CF602 /* SelectionView.swift in Sources */,
 				8E1E1A6E278E034400CAC6C7 /* SoundOption.swift in Sources */,
 				8EC89F182784BD5900E9743B /* DataModel.swift in Sources */,
 				8EDC383627D6820F00FFAD23 /* HistoricalEvent+CoreDataProperties.swift in Sources */,
+				8EF674DD28E4B5C1004D61C2 /* ReviewHandler.swift in Sources */,
+				8E6EE780289EFF5C00C966F6 /* ParticlesModifier.swift in Sources */,
 				8EADEED22828630500D60084 /* OrientationModifier.swift in Sources */,
 				8E246FF827A71AF3004CF602 /* IntroductionTitlesView.swift in Sources */,
-				8E1F7C1C27E4F46100147176 /* FilterList.swift in Sources */,
 				8EC89F202786150600E9743B /* EnumQuizSection.swift in Sources */,
 				8EC89F1A2784BD5900E9743B /* DataModelCoins.swift in Sources */,
+				8ED9397828F2108A00A3F2E3 /* noInternetForWikiView.swift in Sources */,
 				8EB4A2B827DD46CF005B94F9 /* AnswerButton.swift in Sources */,
 				8EC89F0D2784BD4900E9743B /* WiKiView.swift in Sources */,
 				8EADEED6282C292C00D60084 /* EraseQuizResult.swift in Sources */,
@@ -658,7 +1277,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -714,7 +1333,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -742,12 +1361,12 @@
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = NM.LearnHistory;
 				PRODUCT_NAME = LearnHistory;
 				SUPPORTS_MACCATALYST = YES;
@@ -775,12 +1394,12 @@
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = NM.LearnHistory;
 				PRODUCT_NAME = LearnHistory;
 				SUPPORTS_MACCATALYST = YES;
