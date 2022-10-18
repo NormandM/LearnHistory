@@ -60,7 +60,7 @@ struct AlreadyAnExpertView: View {
     func buttonAction() {
         withAnimation {
             startOver = true
-            print(UserDefaults.standard.double(forKey: theme))
+            UserDefaults.standard.set(0.0, forKey: theme)
         }
         
     }

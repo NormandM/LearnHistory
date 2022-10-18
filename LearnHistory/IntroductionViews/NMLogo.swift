@@ -56,7 +56,7 @@ struct NMLogo:  View {
                     UserDefaults.standard.set(0, forKey: "indexOfQuestion")
                 }
                 if !pointsAlreadyExists(points: coins) {
-                    UserDefaults.standard.set(50, forKey: "coins")
+                    UserDefaults.standard.set(60, forKey: "coins")
                 }
             }
             .navigationViewStyle(StackNavigationViewStyle())

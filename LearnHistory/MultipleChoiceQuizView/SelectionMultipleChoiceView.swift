@@ -35,6 +35,7 @@ struct SelectionMultipleChoiceView: View {
                     }
                 VStack {
                     Text("Congratulation you have mastered:")
+                        .foregroundColor(.white)
                     Text(sectionNameForParticleEffect)
                         .foregroundColor(ColorReference.lightGreen)
                         .fontWeight(.bold)
@@ -104,7 +105,6 @@ struct SelectionMultipleChoiceView: View {
                         UserDefaults.standard.set(0, forKey: UserDefaultsKeys.appStartUpsCountKey)
                     }
                     
-                    
                 }
             }else {
 
@@ -170,8 +170,6 @@ struct SelectionMultipleChoiceView: View {
                     }
 
                 }
-
-
         }
             
     }
