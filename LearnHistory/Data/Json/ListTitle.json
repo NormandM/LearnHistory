@@ -1,4 +1,16 @@
 [    {
+    "id": "724d2772-6dd1-11ed-a1eb-0242ac120002",
+    "name": "The Beginning",
+    "themes": [
+        {
+            "id": "724d2ad8-6dd1-11ed-a1eb-0242ac120002",
+            "themeTitle": "From the Big Bang to humans"
+        }
+
+    ]
+    
+},
+    {
     "id": "36091bcc-8b82-11ec-a8a3-0242ac120002",
     "name": "Ancient History",
     "themes": [

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>A great diversification of and complexification of life.</string>
+		<key>date</key>
+		<string>538.8 million years ago</string>
+		<key>id</key>
+		<string>77aa51aa-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>A great volcano eruption.</string>
+		<key>incorrectAnswer2</key>
+		<string>The collision of an asteroid with the earth.</string>
+		<key>incorrectAnswer3</key>
+		<string>The continental drift.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>What is the Cambrian explosion?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Before early Cambrian diversification, most organisms were relatively simple, composed of individual cells.</string>
+		<key>theme</key>
+		<string>538 to 6 million years ago</string>
+		<key>timeLine</key>
+		<string>Cambrian explosion</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Cambrian explosion</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>In the sea.</string>
+		<key>date</key>
+		<string>500  million years ago</string>
+		<key>id</key>
+		<string>77aa5452-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>On land.</string>
+		<key>incorrectAnswer2</key>
+		<string>Both on land and in the sea.</string>
+		<key>incorrectAnswer3</key>
+		<string>In the muddy waters of lakes.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>Where did the first vertebrate appear?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The first vertebrate was a shark.</string>
+		<key>theme</key>
+		<string>538 to 6 million years ago</string>
+		<key>timeLine</key>
+		<string>First vertebrates</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Evolution of fish</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Amphibians</string>
+		<key>date</key>
+		<string>475  million years ago</string>
+		<key>id</key>
+		<string>77aa5592-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Reptiles</string>
+		<key>incorrectAnswer2</key>
+		<string>Turtles</string>
+		<key>incorrectAnswer3</key>
+		<string>Frogs</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Which animals are considered the first terrestrial vertebrates?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The vertebrate land invasion refers to the aquatic-to-terrestrial transition of vertebrate organisms in the Late Devonian epoch.</string>
+		<key>theme</key>
+		<string>538 to 6 million years ago</string>
+		<key>timeLine</key>
+		<string>First vertebrates on land.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Vertebrate land invasion</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hylonomus</string>
+		<key>date</key>
+		<string>350  million years ago </string>
+		<key>id</key>
+		<string>77aa57e0-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Iguana</string>
+		<key>incorrectAnswer2</key>
+		<string>Turtle</string>
+		<key>incorrectAnswer3</key>
+		<string>Serpent</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>What is the name of the first known reptile?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Dinosaurs did not evolve from early reptiles.</string>
+		<key>theme</key>
+		<string>538 to 6 million years ago</string>
+		<key>timeLine</key>
+		<string>First Reptiles</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Evolution of reptiles</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Pangaea</string>
+		<key>date</key>
+		<string>335  million years ago</string>
+		<key>id</key>
+		<string>77aa5902-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Atlantis</string>
+		<key>incorrectAnswer2</key>
+		<string>Euramerica</string>
+		<key>incorrectAnswer3</key>
+		<string>Siberia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>What was the name of a supercontinent that existed in the late Paleozoic and early Mesozoic?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Pangaea assembled from the earlier continental units.</string>
+		<key>theme</key>
+		<string>538 to 6 million years ago</string>
+		<key>timeLine</key>
+		<string>Formation of Pangae</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Pangaea</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Birds</string>
+		<key>date</key>
+		<string>250  million years ago </string>
+		<key>id</key>
+		<string>77aa5a1a-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Serpents</string>
+		<key>incorrectAnswer2</key>
+		<string>Lizards</string>
+		<key>incorrectAnswer3</key>
+		<string>Turtles</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>What are the only dinosaur lineage known to have survived the Cretaceous–Paleogene extinction?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Dinosaurs are represented on every continent.</string>
+		<key>theme</key>
+		<string>538 to 6 million years ago</string>
+		<key>timeLine</key>
+		<string>First dinosaurs</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Dinosaur</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Similar to rodents</string>
+		<key>date</key>
+		<string>178  million years ago</string>
+		<key>id</key>
+		<string>77aa5b28-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Similar to big insects</string>
+		<key>incorrectAnswer2</key>
+		<string>Similar to reptiles</string>
+		<key>incorrectAnswer3</key>
+		<string>Similar to legged fish</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>What were the traits of the first mammals?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The first mammals didn&apos;t appear on the scene until after the dinosaurs went extinct.</string>
+		<key>theme</key>
+		<string>538 to 6 million years ago</string>
+		<key>timeLine</key>
+		<string>Appearance of first mamals</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Evolution of mammals</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The impact of a massive asteroid </string>
+		<key>date</key>
+		<string>67  million years ago</string>
+		<key>id</key>
+		<string>77aa5dee-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Major volcano eruption</string>
+		<key>incorrectAnswer2</key>
+		<string>The predominance of mammals</string>
+		<key>incorrectAnswer3</key>
+		<string>A flood</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>What caused the extinction of the dinosaurs?</string>
+		<key>questionTrueOrFalse</key>
+		<string>66 million years ago, there was a sudden mass extinction of three-quarters of the plant and animal species on Earth.</string>
+		<key>theme</key>
+		<string>538 to 6 million years ago</string>
+		<key>timeLine</key>
+		<string>An asteroid impact destroys many species including dinosaurs. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Cretaceous–Paleogene extinction event</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Africa</string>
+		<key>date</key>
+		<string>20  million years ago</string>
+		<key>id</key>
+		<string>77aa5f24-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Europe</string>
+		<key>incorrectAnswer2</key>
+		<string>Asia</string>
+		<key>incorrectAnswer3</key>
+		<string>South-America</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>Where was the oldest ape fossil found?</string>
+		<key>questionTrueOrFalse</key>
+		<string> Apes do not have tails due to a mutation. </string>
+		<key>theme</key>
+		<string>538 to 6 million years ago</string>
+		<key>timeLine</key>
+		<string> First apes appear.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Ape</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>4–7 million years ago</string>
+		<key>date</key>
+		<string>6  million years ago</string>
+		<key>id</key>
+		<string>77aa60c8-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>20–25 million years ago</string>
+		<key>incorrectAnswer2</key>
+		<string>1–3 million years ago</string>
+		<key>incorrectAnswer3</key>
+		<string>300,000 years ago</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>When did the Hominina lineage (extinct bipedal humans and ancestors) split from the Panina lineage (chimpanzees)?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The gorilla is more closely related to humans than the chimpanzee.</string>
+		<key>theme</key>
+		<string>538 to 6 million years ago</string>
+		<key>timeLine</key>
+		<string>First “hominines” (bipedal apes) </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Human evolution</string>
+	</dict>
+</array>
+</plist>

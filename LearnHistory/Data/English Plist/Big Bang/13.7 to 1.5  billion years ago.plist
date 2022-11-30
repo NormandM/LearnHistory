@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>13.7 Billion years ago</string>
+		<key>date</key>
+		<string>13.7 billion years ago</string>
+		<key>id</key>
+		<string>77aa3fb2-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>4.6 Billion years ago</string>
+		<key>incorrectAnswer2</key>
+		<string>15 Billion years ago</string>
+		<key>incorrectAnswer3</key>
+		<string>20 Billion years ago</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>When did the Big Bang happen?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Big Bang event is now largely universally accepted by the scientific community.</string>
+		<key>theme</key>
+		<string>13.7 to 1.5  billion years ago</string>
+		<key>timeLine</key>
+		<string>Big Bang</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Big Bang</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string> Cosmic microwave background</string>
+		<key>date</key>
+		<string>Big Bang + 380,0000 years</string>
+		<key>id</key>
+		<string>77aa4322-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>There is none</string>
+		<key>incorrectAnswer2</key>
+		<string>Dark matter</string>
+		<key>incorrectAnswer3</key>
+		<string>Black holes</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>What is considered a remnant trace of the Big Ban?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The cosmic microwave background remains a theoretical concept and has never been observed.</string>
+		<key>theme</key>
+		<string>13.7 to 1.5  billion years ago</string>
+		<key>timeLine</key>
+		<string>Separation of energy and matter; cosmic background radiation. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Cosmic microwave background</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>From molecular clouds.</string>
+		<key>date</key>
+		<string>Big Bang + 200 million years</string>
+		<key>id</key>
+		<string>77aa4764-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>From dark matter.</string>
+		<key>incorrectAnswer2</key>
+		<string>From black holes.</string>
+		<key>incorrectAnswer3</key>
+		<string>From asteroid collisions.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>From what are the  stars formed?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Molecular clouds in interstellar space are sometimes referred to as &quot;stellar nurseries”?</string>
+		<key>theme</key>
+		<string>13.7 to 1.5  billion years ago</string>
+		<key>timeLine</key>
+		<string>Appearance of stars. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Star formation</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Nuclear fusion</string>
+		<key>date</key>
+		<string>11–12 billion years ago</string>
+		<key>id</key>
+		<string>77aa48ea-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Nuclear fission</string>
+		<key>incorrectAnswer2</key>
+		<string>Chemical</string>
+		<key>incorrectAnswer3</key>
+		<string>fire</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>What is the name of the reaction that transforms hydrogen into Helium inside the stars?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Oxygen can be formed in stars such as our sun.</string>
+		<key>theme</key>
+		<string>13.7 to 1.5  billion years ago</string>
+		<key>timeLine</key>
+		<string>First supernovae; appearance of new elements. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Nucleosynthesis</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>4.6 Billion years ago</string>
+		<key>date</key>
+		<string>4.6  billion years ago</string>
+		<key>id</key>
+		<string>77aa4a2a-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>9.6 Billion years ago</string>
+		<key>incorrectAnswer2</key>
+		<string>2.6 Billion years ago</string>
+		<key>incorrectAnswer3</key>
+		<string>1.6 Billion years ago</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>When did our solar system form?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The solar system was formed by the gravitational collapse of a small part of a giant molecular cloud.</string>
+		<key>theme</key>
+		<string>13.7 to 1.5  billion years ago</string>
+		<key>timeLine</key>
+		<string>Creation of the Sun, solar system, and Earth. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Formation and evolution of the Solar System</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>From a giant impact between the earth and another planet.</string>
+		<key>date</key>
+		<string>4.5  billion years ago</string>
+		<key>id</key>
+		<string>77aa4b4c-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>By the gravitational collapse of part of the molecular cloud.</string>
+		<key>incorrectAnswer2</key>
+		<string>The moon came from outside the solar system</string>
+		<key>incorrectAnswer3</key>
+		<string>Thew moon was ejected by the sun.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>How was the moon formed?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The moon has a higher density than earth.</string>
+		<key>theme</key>
+		<string>13.7 to 1.5  billion years ago</string>
+		<key>timeLine</key>
+		<string>Formation of the moon</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Giant-impact hypothesis</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>3.5 Billion years ago</string>
+		<key>date</key>
+		<string>3.5  billion years ago</string>
+		<key>id</key>
+		<string>77aa4c6e-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>4.4 Billion years ago</string>
+		<key>incorrectAnswer2</key>
+		<string>500 million years ago</string>
+		<key>incorrectAnswer3</key>
+		<string>100 million years ago</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>When does life appear on earth?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The earliest known life forms found on Earth are fossils of microorganisms.</string>
+		<key>theme</key>
+		<string>13.7 to 1.5  billion years ago</string>
+		<key>timeLine</key>
+		<string>First life forms on Earth; single-celled “prokaryotes”.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Earliest known life forms</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>It releases carbon dioxide into the environment.</string>
+		<key>date</key>
+		<string>3.2  billion years ago</string>
+		<key>id</key>
+		<string>77aa4d7c-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>It releases oxygen into the environment</string>
+		<key>incorrectAnswer2</key>
+		<string>Living organisms can tap the colossal solar energy.</string>
+		<key>incorrectAnswer3</key>
+		<string>It sustains all the food chains in an ecosystem.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>Which statement about photosynthesis is false?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Photosynthesis is performed when energy from light is absorbed by proteins that contain green chlorophyll.</string>
+		<key>theme</key>
+		<string>13.7 to 1.5  billion years ago</string>
+		<key>timeLine</key>
+		<string>Photosynthesis</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Photosynthesis</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Photosynthesis</string>
+		<key>date</key>
+		<string>2–3  billion years ago</string>
+		<key>id</key>
+		<string>77aa4f84-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Volcanos</string>
+		<key>incorrectAnswer2</key>
+		<string>Bacterias</string>
+		<key>incorrectAnswer3</key>
+		<string>Asteroid collision</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>What caused the rapid increase of oxygen on earth 2 to 3 billion years ago?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Before photosynthesis, a good part of the atmosphere was already composed of oxygen.</string>
+		<key>theme</key>
+		<string>13.7 to 1.5  billion years ago</string>
+		<key>timeLine</key>
+		<string>Increase of oxygen in atmosphere due to photosynthesis. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Geological history of oxygen</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Eukaryotes</string>
+		<key>date</key>
+		<string>1.5  billion years ago</string>
+		<key>id</key>
+		<string>77aa509c-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Prokaryotes</string>
+		<key>incorrectAnswer2</key>
+		<string>Bacterias</string>
+		<key>incorrectAnswer3</key>
+		<string>Amoeba</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>The first microorganisms had no nucleus. What do you call the cells that appeared with nuclei?</string>
+		<key>questionTrueOrFalse</key>
+		<string>All animals, plants, fungi, and many unicellular organisms, are Eukaryotes. </string>
+		<key>theme</key>
+		<string>13.7 to 1.5  billion years ago</string>
+		<key>timeLine</key>
+		<string>First complex or “eukaryotic” cells.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Eukaryote</string>
+	</dict>
+</array>
+</plist>

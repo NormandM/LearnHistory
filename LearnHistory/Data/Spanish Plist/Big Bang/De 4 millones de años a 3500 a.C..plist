@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Lucy</string>
+		<key>date</key>
+		<string>Hace 4 millones de años</string>
+		<key>id</key>
+		<string>ced7a040-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Anna</string>
+		<key>incorrectAnswer2</key>
+		<string>Michelle</string>
+		<key>incorrectAnswer3</key>
+		<string>Alice</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>¿Qué nombre recibió una hembra de Australopithecus datada hace unos 3,2 millones de años y descubierta en Etiopía?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Lucy, es una colección de varias piezas de hueso fosilizado que representan el 80 por ciento de una hembra de Australopithecus.</string>
+		<key>theme</key>
+		<string>De 4 millones de años a 3500 a.C.</string>
+		<key>timeLine</key>
+		<string>Lucy, la hembra del Australopithecus.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Lucy</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Por haber utilizado herramientas de piedra.</string>
+		<key>date</key>
+		<string>Hace 3,2 millones de años</string>
+		<key>id</key>
+		<string>ced7a220-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>El Homo habilis es conocido por sus pinturas.</string>
+		<key>incorrectAnswer2</key>
+		<string>El Homo habilis es conocido por utilizar el fuego.</string>
+		<key>incorrectAnswer3</key>
+		<string>El Homo habilis es conocido por haber sido muy alto.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>¿Por qué se conoce al Homo Habilis?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Dada su longevidad, parece que el Homo habilis también cohabitó en África con los australopitecos.</string>
+		<key>theme</key>
+		<string>De 4 millones de años a 3500 a.C.</string>
+		<key>timeLine</key>
+		<string>Homo habilis. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Homo habilis</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Asia</string>
+		<key>date</key>
+		<string>Hace 1,9 millones de años</string>
+		<key>id</key>
+		<string>ced7a32e-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Europa</string>
+		<key>incorrectAnswer2</key>
+		<string>América del Sur</string>
+		<key>incorrectAnswer3</key>
+		<string>Australia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>El Homo erectus fue el primer homínido que emigró fuera de África. ¿Dónde más se han encontrado fósiles?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El Homo erectus evolucionó en África, pero algunos emigraron a Asia. </string>
+		<key>theme</key>
+		<string>De 4 millones de años a 3500 a.C.</string>
+		<key>timeLine</key>
+		<string>El Homo erectus evoluciona en África, pero algunos emigran a Asia. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Homo erectus</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Neanderthal</string>
+		<key>date</key>
+		<string>Hace 200.000-300.000 años</string>
+		<key>id</key>
+		<string>ced7a432-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Homo habilis</string>
+		<key>incorrectAnswer2</key>
+		<string>Homo erectus</string>
+		<key>incorrectAnswer3</key>
+		<string>Australopithecus</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>¿Qué otro ADN humano arcaico se ha encontrado en los genomas del Homo sapiens en poblaciones contemporáneas?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El mestizaje entre humanos arcaicos y modernos sólo se produjo con los neandertales.</string>
+		<key>theme</key>
+		<string>De 4 millones de años a 3500 a.C.</string>
+		<key>timeLine</key>
+		<string>El Homo sapiens evoluciona en algún lugar de África. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Mestizaje entre humanos arcaicos y modernos</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hace 164.000 años</string>
+		<key>date</key>
+		<string>Hace 164.000 años</string>
+		<key>id</key>
+		<string>ced7a540-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hace 500.000 años</string>
+		<key>incorrectAnswer2</key>
+		<string>Hace 30.000 años</string>
+		<key>incorrectAnswer3</key>
+		<string>Hace 10.000 años</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>Aunque el homo erectus controlaba el fuego. ¿cuándo utilizó el hombre moderno el fuego de forma regular y sistemática?</string>
+		<key>questionTrueOrFalse</key>
+		<string>No hay pruebas de que el Home erectus utilizara el fuego, sólo especulaciones.</string>
+		<key>theme</key>
+		<string>De 4 millones de años a 3500 a.C.</string>
+		<key>timeLine</key>
+		<string>El hombre moderno utiliza el fuego de forma regular y sistemática.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Domesticación del fuego</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hace 70.000 años</string>
+		<key>date</key>
+		<string>Hace 70.000 años</string>
+		<key>id</key>
+		<string>ced7a63a-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hace 150.000 años</string>
+		<key>incorrectAnswer2</key>
+		<string>En el año 536</string>
+		<key>incorrectAnswer3</key>
+		<string>En el año 1000 a.C.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>¿Cuándo estuvo la raza humana peligrosamente cerca de la extinción?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La casi extinción de los humanos fue posiblemente causada por un volcán.</string>
+		<key>theme</key>
+		<string>De 4 millones de años a 3500 a.C.</string>
+		<key>timeLine</key>
+		<string>Casi extinción del ser humano.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Teoría de la catástrofe de Toba</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hace 40.000 años</string>
+		<key>date</key>
+		<string>Hace 40.000 años</string>
+		<key>id</key>
+		<string>ced7a838-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hace 150.000 años</string>
+		<key>incorrectAnswer2</key>
+		<string>Hace 10.000 años</string>
+		<key>incorrectAnswer3</key>
+		<string>Hace 100.000 años</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>Los neandertales aparecieron en Eurasia hace 400.000 años. ¿Cuándo desaparecieron?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los neandertales no utilizaban ninguna herramienta.</string>
+		<key>theme</key>
+		<string>De 4 millones de años a 3500 a.C.</string>
+		<key>timeLine</key>
+		<string>Desaparición de los neandertales </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Homo neanderthalensis</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>América</string>
+		<key>date</key>
+		<string>Hace 13.000 años</string>
+		<key>id</key>
+		<string>ced7a946-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Sahul (Australia/Papúa Nueva Guinea)</string>
+		<key>incorrectAnswer2</key>
+		<string>Siberia</string>
+		<key>incorrectAnswer3</key>
+		<string>Asia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>Los humanos salieron de África y poblaron el mundo. ¿Cuál fue la última región a la que llegaron?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La evidencia paleoantropológica y genética apoya la hipótesis según la cual los primeros pobladores de América procedían de Siberia.</string>
+		<key>theme</key>
+		<string>De 4 millones de años a 3500 a.C.</string>
+		<key>timeLine</key>
+		<string>Los humanos en América</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Poblamiento de América</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Mesopotamia</string>
+		<key>date</key>
+		<string>Hace 11.500 años </string>
+		<key>id</key>
+		<string>ced7aa54-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>África</string>
+		<key>incorrectAnswer2</key>
+		<string>América del Sur</string>
+		<key>incorrectAnswer3</key>
+		<string>Asia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>¿Dónde se asentaron por primera vez los cazadores-recolectores nómadas hasta llegar a los asentamientos permanentes y la agricultura?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La agricultura apareció por primera vez en Mesopotamia y luego se extendió a otros lugares. No se desarrolló de forma independiente en otros lugares que en Mesopotamia.</string>
+		<key>theme</key>
+		<string>De 4 millones de años a 3500 a.C.</string>
+		<key>timeLine</key>
+		<string>Agricultura</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Historia de la agricultura</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Sumeria</string>
+		<key>date</key>
+		<string>4000-3500 A.C.</string>
+		<key>id</key>
+		<string>ced7ab62-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Egipto</string>
+		<key>incorrectAnswer2</key>
+		<string>Valle del Indo</string>
+		<key>incorrectAnswer3</key>
+		<string>China</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>¿Cuál se considera la civilización más antigua conocida?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Sumeria nunca desarrolló la escritura.</string>
+		<key>theme</key>
+		<string>De 4 millones de años a 3500 a.C.</string>
+		<key>timeLine</key>
+		<string>Primera civilización sumeria</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Sumeria</string>
+	</dict>
+</array>
+</plist>

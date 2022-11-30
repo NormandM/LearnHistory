@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Lucy</string>
+		<key>date</key>
+		<string>4  million years ago</string>
+		<key>id</key>
+		<string>77aa61ea-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Anna</string>
+		<key>incorrectAnswer2</key>
+		<string>Michelle</string>
+		<key>incorrectAnswer3</key>
+		<string>Alice</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>question</key>
+		<string>What was the name given to an early female Australopithecus dated to around 3.2 million years ago and discovered in Ethiopia?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Lucy, is a collection of several hundred pieces of fossilized bone representing 80 percent of a female Australopithecus.</string>
+		<key>theme</key>
+		<string>4 million years ago to 3500 B.C.</string>
+		<key>timeLine</key>
+		<string>Lucy the female Australopithecus.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Lucy (Australopithecus)</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Homo habilis is known for having modified and used stone tools.</string>
+		<key>date</key>
+		<string>3.2  million years ago</string>
+		<key>id</key>
+		<string>77aa6532-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Homo habilis is known for its paintings.</string>
+		<key>incorrectAnswer2</key>
+		<string>Homo habilis is known for using fire.</string>
+		<key>incorrectAnswer3</key>
+		<string>Homo habilis is known for having been very tall.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>question</key>
+		<string>What is Homo Habilis known for?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Like contemporary Homo, H. habilis brain size generally varied from 500–900 cm3 (31–55 cu in).</string>
+		<key>theme</key>
+		<string>4 million years ago to 3500 B.C.</string>
+		<key>timeLine</key>
+		<string>Homo habilis. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Homo habilis</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Asia</string>
+		<key>date</key>
+		<string>1.9  million years ago</string>
+		<key>id</key>
+		<string>77aa6672-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Europe</string>
+		<key>incorrectAnswer2</key>
+		<string>South America</string>
+		<key>incorrectAnswer3</key>
+		<string>Australia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>question</key>
+		<string>Homo erectus was the first known hominid to migrate out of Africa. Where else have Homo erectus fossils been found?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Homo erectus had human-like body proportions.</string>
+		<key>theme</key>
+		<string>4 million years ago to 3500 B.C.</string>
+		<key>timeLine</key>
+		<string>Homo erectus evolves in Africa, but some migrate to Asia. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Homo erectus</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Neanderthal</string>
+		<key>date</key>
+		<string>200,000–300,000 years ago</string>
+		<key>id</key>
+		<string>77aa687a-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Homo habilis</string>
+		<key>incorrectAnswer2</key>
+		<string>Homo erectus</string>
+		<key>incorrectAnswer3</key>
+		<string>Australopithecus</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>question</key>
+		<string>What other archaic human DNA has been found in the genomes of Homo sapiens in contemporary populations?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Interbreeding between archaic and modern humans only happened with Neanderthals.</string>
+		<key>theme</key>
+		<string>4 million years ago to 3500 B.C.</string>
+		<key>timeLine</key>
+		<string>Homo sapiens evolves somewhere in Africa. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Interbreeding between archaic and modern humans</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>164,000 years  ago</string>
+		<key>date</key>
+		<string>164,000 years ago</string>
+		<key>id</key>
+		<string>77aa6a64-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>500,000 years ago</string>
+		<key>incorrectAnswer2</key>
+		<string>30,000 years ago</string>
+		<key>incorrectAnswer3</key>
+		<string>10,000 years ago</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>question</key>
+		<string>Although homo erectus controlled fire over a million years ago, when did modern man use fire in a regular and systematic way?</string>
+		<key>questionTrueOrFalse</key>
+		<string>There is no evidence that Home erectus used fire, only speculation.</string>
+		<key>theme</key>
+		<string>4 million years ago to 3500 B.C.</string>
+		<key>timeLine</key>
+		<string>Modern man use fire in a regular and systematic way.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Control of fire by early humans</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>70,000 years ago</string>
+		<key>date</key>
+		<string>70,000 years ago</string>
+		<key>id</key>
+		<string>77aa70d6-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>150,000 years ago</string>
+		<key>incorrectAnswer2</key>
+		<string>In the year 536</string>
+		<key>incorrectAnswer3</key>
+		<string>In 1000 BC</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>question</key>
+		<string>When did the human race come dangerously close to extinction?</string>
+		<key>questionTrueOrFalse</key>
+		<string>The near extinction of humans was possibly caused by a volcano.</string>
+		<key>theme</key>
+		<string>4 million years ago to 3500 B.C.</string>
+		<key>timeLine</key>
+		<string>Near human extinction.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Toba catastrophe theory</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>40,000 years ago</string>
+		<key>date</key>
+		<string>40,000 years ago</string>
+		<key>id</key>
+		<string>77aa7248-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>150,000 years ago</string>
+		<key>incorrectAnswer2</key>
+		<string>10,000 years ago</string>
+		<key>incorrectAnswer3</key>
+		<string>100,000 years ago</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>question</key>
+		<string>Neanderthals appeared in Eurasia 400 000 years ago. When did they disappear?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Neanderthal did not use any tools.</string>
+		<key>theme</key>
+		<string>4 million years ago to 3500 B.C.</string>
+		<key>timeLine</key>
+		<string>Neanderthal disappearance </string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Neanderthal</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>The Americas</string>
+		<key>date</key>
+		<string>13,000 years ago</string>
+		<key>id</key>
+		<string>77aa7356-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Sahul (Australia/Papua New Guinea)</string>
+		<key>incorrectAnswer2</key>
+		<string>Siberia</string>
+		<key>incorrectAnswer3</key>
+		<string>Asia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+		<key>question</key>
+		<string>Humans left Africa and populated the world. What was the last region they reached?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Humans crossed to America via the Beringia land bridge, which had formed between northeastern Siberia and western Alaska.</string>
+		<key>theme</key>
+		<string>4 million years ago to 3500 B.C.</string>
+		<key>timeLine</key>
+		<string>Humans in Americas</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>wikiSearchWord</key>
+		<string>Settlement of the Americas</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Mesopotamia</string>
+		<key>date</key>
+		<string>11,500 years ago </string>
+		<key>id</key>
+		<string>77aa74dc-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Africa</string>
+		<key>incorrectAnswer2</key>
+		<string>South America</string>
+		<key>incorrectAnswer3</key>
+		<string>Asia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+		<key>question</key>
+		<string>Where did nomadic hunter-gatherer first settled to permanent settlements and farming?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Agriculture first appeared in Mesopotamia and then spread elsewhere. It did not develop independently elsewhere than in Mesopotamia.</string>
+		<key>theme</key>
+		<string>4 million years ago to 3500 B.C.</string>
+		<key>timeLine</key>
+		<string>Agriculture</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>History of agriculture</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Sumer</string>
+		<key>date</key>
+		<string>4000-3500 B.C</string>
+		<key>id</key>
+		<string>77aa78e2-6cea-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Egypt</string>
+		<key>incorrectAnswer2</key>
+		<string>Indus Valley</string>
+		<key>incorrectAnswer3</key>
+		<string>China</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>question</key>
+		<string>What is considered the oldest known civilization?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Sumer never developed writing.</string>
+		<key>theme</key>
+		<string>4 million years ago to 3500 B.C.</string>
+		<key>timeLine</key>
+		<string>First Sumerian civilisation</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>wikiSearchWord</key>
+		<string>Sumer</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hace 13.700 millones de años</string>
+		<key>date</key>
+		<string>Hace 13.700 millones de años</string>
+		<key>id</key>
+		<string>ced77eee-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hace 4.600 millones de años</string>
+		<key>incorrectAnswer2</key>
+		<string>Hace 15 mil millones de años</string>
+		<key>incorrectAnswer3</key>
+		<string>Hace 20 mil millones de años</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>¿Cuándo se produjo el Big Bang?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El acontecimiento del Big Bang es ahora ampliamente aceptado por la comunidad científica.</string>
+		<key>theme</key>
+		<string>De 13700 a 1500 millones de años</string>
+		<key>timeLine</key>
+		<string>Big Bang</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Big Bang</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Fondo cósmico de microondas</string>
+		<key>date</key>
+		<string>Big Bang + 380.0000 años</string>
+		<key>id</key>
+		<string>ced7818c-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>No hay</string>
+		<key>incorrectAnswer2</key>
+		<string>Materia oscura</string>
+		<key>incorrectAnswer3</key>
+		<string>Agujeros negros</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>¿Qué se considera un rastro remanente del Big Bang?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El fondo cósmico de microondas sigue siendo un concepto teórico y nunca se ha observado.</string>
+		<key>theme</key>
+		<string>De 13700 a 1500 millones de años</string>
+		<key>timeLine</key>
+		<string>Separación de la energía y la materia; radiación cósmica de fondo. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Radiación de fondo de microondas</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>De las nubes moleculares.</string>
+		<key>date</key>
+		<string>Big Bang + 200 millones de años</string>
+		<key>id</key>
+		<string>ced782c2-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>De la materia oscura.</string>
+		<key>incorrectAnswer2</key>
+		<string>De los agujeros negros.</string>
+		<key>incorrectAnswer3</key>
+		<string>Por la colisión de asteroides.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>¿De qué se forman las estrellas?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las nubes moleculares del espacio interestelar se denominan a veces &quot;guarderías estelares&quot;.</string>
+		<key>theme</key>
+		<string>De 13700 a 1500 millones de años</string>
+		<key>timeLine</key>
+		<string>Aparición de las estrellas. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Formación estelar</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Fusión nuclear</string>
+		<key>date</key>
+		<string>Hace 11-12 mil millones de años</string>
+		<key>id</key>
+		<string>ced783e4-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Fisión nuclear</string>
+		<key>incorrectAnswer2</key>
+		<string>Química</string>
+		<key>incorrectAnswer3</key>
+		<string>fuego</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>¿Cómo se llama la reacción que transforma el hidrógeno en helio dentro de las estrellas?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El oxígeno puede formarse en estrellas como nuestro sol.</string>
+		<key>theme</key>
+		<string>De 13700 a 1500 millones de años</string>
+		<key>timeLine</key>
+		<string>Primeras supernovas; aparición de nuevos elementos. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Estrella</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hace 4.600 millones de años</string>
+		<key>date</key>
+		<string>Hace 4.600 millones de años</string>
+		<key>id</key>
+		<string>ced784fc-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hace 9.600 millones de años</string>
+		<key>incorrectAnswer2</key>
+		<string>Hace 2.600 millones de años</string>
+		<key>incorrectAnswer3</key>
+		<string>Hace 1.600 millones de años</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>¿Cuándo se formó nuestro sistema solar?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El sistema solar se formó por el colapso gravitatorio de una pequeña parte de una nube molecular gigante.</string>
+		<key>theme</key>
+		<string>De 13700 a 1500 millones de años</string>
+		<key>timeLine</key>
+		<string>Creación del Sol, del sistema solar y de la Tierra. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Formación y evolución del sistema solar</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>De un impacto gigante entre la Tierra y otro planeta.</string>
+		<key>date</key>
+		<string>Hace 4.500 millones de años</string>
+		<key>id</key>
+		<string>ced7861e-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Por el colapso gravitacional de parte de la nube molecular</string>
+		<key>incorrectAnswer2</key>
+		<string>La luna vino de fuera del sistema solar</string>
+		<key>incorrectAnswer3</key>
+		<string>La luna fue expulsada por el sol.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>¿Cómo se formó la Luna?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La hipótesis del gran impacto propone que la Luna se creó a partir del material expulsado por una colisión entre la joven Tierra y un protoplaneta.</string>
+		<key>theme</key>
+		<string>De 13700 a 1500 millones de años</string>
+		<key>timeLine</key>
+		<string>Formación de la Luna.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Teoría del gran impacto</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hace 3.500 millones de años</string>
+		<key>date</key>
+		<string>Hace 3.500 millones de años</string>
+		<key>id</key>
+		<string>ced7888a-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hace 4,4 mil millones de años</string>
+		<key>incorrectAnswer2</key>
+		<string>Hace 500 millones de años</string>
+		<key>incorrectAnswer3</key>
+		<string>Hace 100 millones de años</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>¿Cuándo aparece la vida en la Tierra?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Las primeras formas de vida conocidas encontradas en la Tierra son fósiles de microorganismos.</string>
+		<key>theme</key>
+		<string>De 13700 a 1500 millones de años</string>
+		<key>timeLine</key>
+		<string>Primeras formas de vida en la Tierra; &quot;procariotas&quot; unicelulares.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Primeras formas de vida conocidas</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Libera dióxido de carbono.</string>
+		<key>date</key>
+		<string>Hace 3.200 millones de años</string>
+		<key>id</key>
+		<string>ced78b5a-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Libera oxígeno.</string>
+		<key>incorrectAnswer2</key>
+		<string>Hace que la energía solar sea disponible.</string>
+		<key>incorrectAnswer3</key>
+		<string>Sostiene las cadenas alimenticias de un ecosistema.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>¿Qué afirmación sobre la fotosíntesis es falsa?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La fotosíntesis se realiza cuando la energía de la luz es absorbida por proteínas que contienen clorofila verde.</string>
+		<key>theme</key>
+		<string>De 13700 a 1500 millones de años</string>
+		<key>timeLine</key>
+		<string>Fotosíntesis</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Fotosíntesis</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Fotosíntesis</string>
+		<key>date</key>
+		<string>Hace 2-3 mil millones de años</string>
+		<key>id</key>
+		<string>ced78c86-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Volcanes</string>
+		<key>incorrectAnswer2</key>
+		<string>Bacterias</string>
+		<key>incorrectAnswer3</key>
+		<string>Colisión de asteroides</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>¿Qué causó el rápido aumento del oxígeno en la Tierra hace 2.000 o 3.000 millones de años?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Antes de la fotosíntesis, una buena parte de la atmósfera ya estaba compuesta de oxígeno.</string>
+		<key>theme</key>
+		<string>De 13700 a 1500 millones de años</string>
+		<key>timeLine</key>
+		<string>Aumento del oxígeno en la atmósfera debido a la fotosíntesis. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Historia geológica del oxígeno</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Eucariotas</string>
+		<key>date</key>
+		<string>Hace 1.500 millones de años</string>
+		<key>id</key>
+		<string>ced78d94-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Procariotas</string>
+		<key>incorrectAnswer2</key>
+		<string>Bacterias</string>
+		<key>incorrectAnswer3</key>
+		<string>Amoeba</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Los primeros microorganismos no tenían núcleo. ¿Cómo se llaman las células que aparecieron con núcleo?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Todos los animales, plantas, hongos y muchos organismos unicelulares son eucariotas. </string>
+		<key>theme</key>
+		<string>De 13700 a 1500 millones de años</string>
+		<key>timeLine</key>
+		<string>Primeras células complejas o &quot;eucariotas&quot;.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Eukaryota</string>
+	</dict>
+</array>
+</plist>

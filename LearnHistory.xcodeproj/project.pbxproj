@@ -32,6 +32,18 @@
 		8E460D5B27FCBE94006C4928 /* ExtensionForTo Localize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E460D5A27FCBE94006C4928 /* ExtensionForTo Localize.swift */; };
 		8E460D5D27FCE20E006C4928 /* France.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E460D5C27FCE20D006C4928 /* France.plist */; };
 		8E460D5F27FCE329006C4928 /* ListFrench.json in Resources */ = {isa = PBXBuildFile; fileRef = 8E460D5E27FCE329006C4928 /* ListFrench.json */; };
+		8E4E86C82932B5DF007ED755 /* Del Big Bang al ser humano.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E4E86C72932B5DF007ED755 /* Del Big Bang al ser humano.plist */; };
+		8E4E86CA2932B5E9007ED755 /* Du Big Bang à l'homme.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E4E86C92932B5E9007ED755 /* Du Big Bang à l'homme.plist */; };
+		8E4E86CC2932B5F3007ED755 /* From the Big Bang to humans.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E4E86CB2932B5F3007ED755 /* From the Big Bang to humans.plist */; };
+		8E4E86D02932B6FC007ED755 /* 4 million years ago to 3500 B.C..plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E4E86CF2932B6FC007ED755 /* 4 million years ago to 3500 B.C..plist */; };
+		8E4E86D22932B704007ED755 /* 13.7 to 1.5  billion years ago.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E4E86D12932B704007ED755 /* 13.7 to 1.5  billion years ago.plist */; };
+		8E4E86D42932B709007ED755 /* 538 to 6 million years ago.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E4E86D32932B709007ED755 /* 538 to 6 million years ago.plist */; };
+		8E4E86D82932B90E007ED755 /* De 13,7 à 1,5 milliards d'années.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E4E86D72932B90E007ED755 /* De 13,7 à 1,5 milliards d'années.plist */; };
+		8E4E86DA2932B919007ED755 /* De 538 à 6 millions d'années.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E4E86D92932B919007ED755 /* De 538 à 6 millions d'années.plist */; };
+		8E4E86DC2932B922007ED755 /* De 4 millions à 3500 ans av..plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E4E86DB2932B921007ED755 /* De 4 millions à 3500 ans av..plist */; };
+		8E4E86E02932BAE6007ED755 /* De 13700 a 1500 millones de años.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E4E86DF2932BAE6007ED755 /* De 13700 a 1500 millones de años.plist */; };
+		8E4E86E22932BAEC007ED755 /* De 538 a 6 millones de años.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E4E86E12932BAEC007ED755 /* De 538 a 6 millones de años.plist */; };
+		8E4E86E42932BAF3007ED755 /* De 4 millones de años a 3500 a.C..plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E4E86E32932BAF3007ED755 /* De 4 millones de años a 3500 a.C..plist */; };
 		8E558A0D28A6CD4F00BB28F4 /* India 30000 A.C. - 232 A.C..plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E558A0C28A6CD4F00BB28F4 /* India 30000 A.C. - 232 A.C..plist */; };
 		8E558A0F28A6CD5500BB28F4 /* India 369-1948.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E558A0E28A6CD5500BB28F4 /* India 369-1948.plist */; };
 		8E558A1128A6CD6000BB28F4 /* Indian History 30000 BC-232 BC.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E558A1028A6CD6000BB28F4 /* Indian History 30000 BC-232 BC.plist */; };
@@ -212,6 +224,18 @@
 		8E460D5A27FCBE94006C4928 /* ExtensionForTo Localize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ExtensionForTo Localize.swift"; sourceTree = "<group>"; };
 		8E460D5C27FCE20D006C4928 /* France.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = France.plist; sourceTree = "<group>"; };
 		8E460D5E27FCE329006C4928 /* ListFrench.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ListFrench.json; sourceTree = "<group>"; };
+		8E4E86C72932B5DF007ED755 /* Del Big Bang al ser humano.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Del Big Bang al ser humano.plist"; sourceTree = "<group>"; };
+		8E4E86C92932B5E9007ED755 /* Du Big Bang à l'homme.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Du Big Bang à l'homme.plist"; sourceTree = "<group>"; };
+		8E4E86CB2932B5F3007ED755 /* From the Big Bang to humans.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "From the Big Bang to humans.plist"; sourceTree = "<group>"; };
+		8E4E86CF2932B6FC007ED755 /* 4 million years ago to 3500 B.C..plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "4 million years ago to 3500 B.C..plist"; sourceTree = "<group>"; };
+		8E4E86D12932B704007ED755 /* 13.7 to 1.5  billion years ago.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "13.7 to 1.5  billion years ago.plist"; sourceTree = "<group>"; };
+		8E4E86D32932B709007ED755 /* 538 to 6 million years ago.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "538 to 6 million years ago.plist"; sourceTree = "<group>"; };
+		8E4E86D72932B90E007ED755 /* De 13,7 à 1,5 milliards d'années.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "De 13,7 à 1,5 milliards d'années.plist"; sourceTree = "<group>"; };
+		8E4E86D92932B919007ED755 /* De 538 à 6 millions d'années.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "De 538 à 6 millions d'années.plist"; sourceTree = "<group>"; };
+		8E4E86DB2932B921007ED755 /* De 4 millions à 3500 ans av..plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "De 4 millions à 3500 ans av..plist"; sourceTree = "<group>"; };
+		8E4E86DF2932BAE6007ED755 /* De 13700 a 1500 millones de años.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "De 13700 a 1500 millones de años.plist"; sourceTree = "<group>"; };
+		8E4E86E12932BAEC007ED755 /* De 538 a 6 millones de años.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "De 538 a 6 millones de años.plist"; sourceTree = "<group>"; };
+		8E4E86E32932BAF3007ED755 /* De 4 millones de años a 3500 a.C..plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "De 4 millones de años a 3500 a.C..plist"; sourceTree = "<group>"; };
 		8E558A0C28A6CD4F00BB28F4 /* India 30000 A.C. - 232 A.C..plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "India 30000 A.C. - 232 A.C..plist"; sourceTree = "<group>"; };
 		8E558A0E28A6CD5500BB28F4 /* India 369-1948.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "India 369-1948.plist"; sourceTree = "<group>"; };
 		8E558A1028A6CD6000BB28F4 /* Indian History 30000 BC-232 BC.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Indian History 30000 BC-232 BC.plist"; sourceTree = "<group>"; };
@@ -443,6 +467,39 @@
 				8E6EE783289EFF7800C966F6 /* ParticleEffectView.swift */,
 			);
 			path = "Particle Effect";
+			sourceTree = "<group>";
+		};
+		8E4E86BC2932AF51007ED755 /* Big Bang */ = {
+			isa = PBXGroup;
+			children = (
+				8E4E86C72932B5DF007ED755 /* Del Big Bang al ser humano.plist */,
+				8E4E86DF2932BAE6007ED755 /* De 13700 a 1500 millones de años.plist */,
+				8E4E86E12932BAEC007ED755 /* De 538 a 6 millones de años.plist */,
+				8E4E86E32932BAF3007ED755 /* De 4 millones de años a 3500 a.C..plist */,
+			);
+			path = "Big Bang";
+			sourceTree = "<group>";
+		};
+		8E4E86BD2932AF67007ED755 /* Big Bang */ = {
+			isa = PBXGroup;
+			children = (
+				8E4E86CB2932B5F3007ED755 /* From the Big Bang to humans.plist */,
+				8E4E86D12932B704007ED755 /* 13.7 to 1.5  billion years ago.plist */,
+				8E4E86D32932B709007ED755 /* 538 to 6 million years ago.plist */,
+				8E4E86CF2932B6FC007ED755 /* 4 million years ago to 3500 B.C..plist */,
+			);
+			path = "Big Bang";
+			sourceTree = "<group>";
+		};
+		8E4E86BE2932AF7B007ED755 /* Big bang */ = {
+			isa = PBXGroup;
+			children = (
+				8E4E86C92932B5E9007ED755 /* Du Big Bang à l'homme.plist */,
+				8E4E86D72932B90E007ED755 /* De 13,7 à 1,5 milliards d'années.plist */,
+				8E4E86D92932B919007ED755 /* De 538 à 6 millions d'années.plist */,
+				8E4E86DB2932B921007ED755 /* De 4 millions à 3500 ans av..plist */,
+			);
+			path = "Big bang";
 			sourceTree = "<group>";
 		};
 		8E6EE7F528A43A5700C966F6 /* Mesopotamia */ = {
@@ -744,6 +801,7 @@
 		8EA6972A2800823500B349C5 /* French Plist */ = {
 			isa = PBXGroup;
 			children = (
+				8E4E86BE2932AF7B007ED755 /* Big bang */,
 				8EF674D628E38ADA004D61C2 /* Information dur L'App */,
 				8EABDE8D28DE596D00137E15 /* États-Unis */,
 				8E6EE80C28A43D0800C966F6 /* Inde */,
@@ -761,6 +819,7 @@
 		8EA6972B2800824E00B349C5 /* English Plist */ = {
 			isa = PBXGroup;
 			children = (
+				8E4E86BD2932AF67007ED755 /* Big Bang */,
 				8EF674D328E37DFC004D61C2 /* Information about App */,
 				8EABDE8428DE594400137E15 /* United_States */,
 				8E6EE80428A43C1800C966F6 /* French History */,
@@ -778,6 +837,7 @@
 		8EA6972C2800825C00B349C5 /* Spanish Plist */ = {
 			isa = PBXGroup;
 			children = (
+				8E4E86BC2932AF51007ED755 /* Big Bang */,
 				8EF674D728E38AF4004D61C2 /* Informacion sobre l'App */,
 				8EABDE7D28DE57BC00137E15 /* Estados Unidos */,
 				8E6EE7FC28A43B4C00C966F6 /* Antigua Roma */,
@@ -1039,8 +1099,11 @@
 				8E558A0F28A6CD5500BB28F4 /* India 369-1948.plist in Resources */,
 				8E6EE7B028A19B5700C966F6 /* Antigua Roma 27 AC - 476.plist in Resources */,
 				8E6EE79C28A1837000C966F6 /* Inglaterra 1016-1509.plist in Resources */,
+				8E4E86E22932BAEC007ED755 /* De 538 a 6 millones de años.plist in Resources */,
 				8EEA3D7F284169850044F70D /* Inde.plist in Resources */,
+				8E4E86D42932B709007ED755 /* 538 to 6 million years ago.plist in Resources */,
 				8EF37D20280F038B00A24B84 /* Francia.plist in Resources */,
+				8E4E86D22932B704007ED755 /* 13.7 to 1.5  billion years ago.plist in Resources */,
 				8E6EE7AE28A19B4F00C966F6 /* Antigua Roma 753 AC - 30 AC.plist in Resources */,
 				8EA697312803588B00B349C5 /* Angleterre.plist in Resources */,
 				8E6EE7EA28A437FB00C966F6 /* China 2070 A.C.-130 A.C..plist in Resources */,
@@ -1049,6 +1112,7 @@
 				8E6EE7D028A2B88000C966F6 /* Antiguo Egipto 2300 A.C.-1323 A.C..plist in Resources */,
 				8E6EE7CA28A2AFBA00C966F6 /* Égypte antique 1213 AV-1824.plist in Resources */,
 				8E460D5F27FCE329006C4928 /* ListFrench.json in Resources */,
+				8E4E86D82932B90E007ED755 /* De 13,7 à 1,5 milliards d'années.plist in Resources */,
 				8E6EE7D828A3039700C966F6 /* Mesopotamia 10000 A.C.-2000 A.C..plist in Resources */,
 				8E558A1528A6CD7000BB28F4 /* Inde 30000 AV-232 AV.plist in Resources */,
 				8E460D5D27FCE20E006C4928 /* France.plist in Resources */,
@@ -1064,10 +1128,12 @@
 				8E80556428A5818E0088A552 /* Grèce antique 508 AV-399 AV.plist in Resources */,
 				8E558A1128A6CD6000BB28F4 /* Indian History 30000 BC-232 BC.plist in Resources */,
 				8EF674D528E37E1D004D61C2 /* What do you think?.plist in Resources */,
+				8E4E86CC2932B5F3007ED755 /* From the Big Bang to humans.plist in Resources */,
 				8E80556228A581890088A552 /* Grèce antique 1650 AV-560 AV.plist in Resources */,
 				8EEA3D7D28413E950044F70D /* Indian History.plist in Resources */,
 				8E0BA30C2814A06D00DECB80 /* Mesopotamia.plist in Resources */,
 				8E6EE79628A181C700C966F6 /* British History 1528-1837.plist in Resources */,
+				8E4E86DC2932B922007ED755 /* De 4 millions à 3500 ans av..plist in Resources */,
 				8E6EE7C228A2AD1D00C966F6 /* Ancient Egypt.plist in Resources */,
 				8EABDE9928DE652C00137E15 /* États-Unis.plist in Resources */,
 				8E56AC8628074769005D5104 /* ListSpanish.json in Resources */,
@@ -1075,12 +1141,14 @@
 				8E6EE7C028A2AB9300C966F6 /* Ancient Egypt 1213 BC-1824.plist in Resources */,
 				8E6EE7DA28A3039F00C966F6 /* Mesopotamia 1894 A.C.-651.plist in Resources */,
 				8E6EE7BC28A2AB8600C966F6 /* Ancient Egypt 3200 BC-2400 BC.plist in Resources */,
+				8E4E86D02932B6FC007ED755 /* 4 million years ago to 3500 B.C..plist in Resources */,
 				8EDC384027D6888A00FFAD23 /* Ancient Greece.plist in Resources */,
 				8EF70D4E288F17F000F128B7 /* French History 1794 - 1940.plist in Resources */,
 				8E91F31D28381CC1007AE785 /* Chine.plist in Resources */,
 				8E0BA3102819BE0200DECB80 /* Rome antique.plist in Resources */,
 				8E0BA30E28188CDC00DECB80 /* Ancient Rome.plist in Resources */,
 				8E6EE7A428A1972F00C966F6 /* Ancient Rome 753 BC - 30 BC.plist in Resources */,
+				8E4E86E42932BAF3007ED755 /* De 4 millones de años a 3500 a.C..plist in Resources */,
 				8EF674DB28E38F1C004D61C2 /* Qu'en pensez-vous ?.plist in Resources */,
 				8E0BA312281AE63500DECB80 /* Antigua Roma.plist in Resources */,
 				8EC89EE62784B3D300E9743B /* Assets.xcassets in Resources */,
@@ -1092,6 +1160,7 @@
 				8E6EE7A228A1972300C966F6 /* Ancient Rome 27 BC - 476.plist in Resources */,
 				8EA697352805FFF100B349C5 /* Grèce antique.plist in Resources */,
 				8EF70D382889D29400F128B7 /* France 1309 - 1793.plist in Resources */,
+				8E4E86CA2932B5E9007ED755 /* Du Big Bang à l'homme.plist in Resources */,
 				8EC4011127F75BF700CCD927 /* Mesopotamia .plist in Resources */,
 				8EF37D22280F533F00A24B84 /* Antiguo Egipto.plist in Resources */,
 				8E6EE79E28A1837700C966F6 /* Inglaterra 1528-1837.plist in Resources */,
@@ -1104,9 +1173,11 @@
 				8EABDE9D28DE653600137E15 /* États-Unis 1789-1908.plist in Resources */,
 				8E6EE79A28A1836800C966F6 /* Inglaterra 6000 BC-878.plist in Resources */,
 				8E6EE7DE28A303C500C966F6 /* Mesopotamia  1894 BC-651 AD.plist in Resources */,
+				8E4E86E02932BAE6007ED755 /* De 13700 a 1500 millones de años.plist in Resources */,
 				8EF37D262811C31100A24B84 /* Antigua Grecia.plist in Resources */,
 				8E06B43028E8AAA100B53049 /* Bibliografía.plist in Resources */,
 				8E6EE7E028A303D900C966F6 /* Mésopotamie 10000 AV-2000 AV.plist in Resources */,
+				8E4E86C82932B5DF007ED755 /* Del Big Bang al ser humano.plist in Resources */,
 				8E558A0D28A6CD4F00BB28F4 /* India 30000 A.C. - 232 A.C..plist in Resources */,
 				8EABDE8A28DE595A00137E15 /* United_States 1789-1908.plist in Resources */,
 				8E80556C28A581AE0088A552 /* Ancient Greece 384 BC-146 BC.plist in Resources */,
@@ -1120,6 +1191,7 @@
 				8EF70D41288EE20E00F128B7 /* ListTitle.json in Resources */,
 				8E558A1328A6CD6500BB28F4 /* Indian History 369-1948.plist in Resources */,
 				8E6EE7B428A19EBB00C966F6 /* Rome antique 753 AV - 30 AV.plist in Resources */,
+				8E4E86DA2932B919007ED755 /* De 538 à 6 millions d'années.plist in Resources */,
 				8E6EE7C828A2AFB300C966F6 /* Égypte antique 2300 AV-1323 AV.plist in Resources */,
 				8EABDEA728DE665B00137E15 /* Estados Unidos 1917-1969.plist in Resources */,
 				8EF70D52288F18F700F128B7 /* Francia 40000 aC - 843.plist in Resources */,
@@ -1366,7 +1438,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.3;
+				MARKETING_VERSION = 1.4;
 				PRODUCT_BUNDLE_IDENTIFIER = NM.LearnHistory;
 				PRODUCT_NAME = LearnHistory;
 				SUPPORTS_MACCATALYST = YES;
@@ -1399,7 +1471,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.3;
+				MARKETING_VERSION = 1.4;
 				PRODUCT_BUNDLE_IDENTIFIER = NM.LearnHistory;
 				PRODUCT_NAME = LearnHistory;
 				SUPPORTS_MACCATALYST = YES;

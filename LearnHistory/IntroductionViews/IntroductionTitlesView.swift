@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+import StoreKit
 struct IntroductionTitlesView: View {
     @Binding var isQuizSelectionView: Bool
     @Binding var isTimeLineView: Bool
@@ -103,6 +103,16 @@ struct IntroductionTitlesView: View {
             }
         }
         .navigationBarHidden(true)
+        .onAppear{
+            
+            var numberOfOpen: Int = UserDefaults.standard.integer(forKey: "numberOfOpen")
+            if numberOfOpen > 10 {
+                SKStoreReviewController.requestReview()
+                numberOfOpen = 0
+                UserDefaults.standard.set(numberOfOpen, forKey: "numberOfOpen")
+            }
+            UserDefaults.standard.set(numberOfOpen + 1, forKey: "numberOfOpen")
+        }
     }
 }
 

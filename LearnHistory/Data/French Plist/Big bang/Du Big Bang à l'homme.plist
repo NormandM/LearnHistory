@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>000b320a-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>Il y a 13,7 milliards d&apos;années</string>
+		<key>question</key>
+		<string>Quand le Big Bang s&apos;est-il produit ?</string>
+		<key>correctTAnswer</key>
+		<string>Il y a 13,7 milliards d&apos;années</string>
+		<key>incorrectAnswer1</key>
+		<string>Il y a 4,6 milliards d&apos;années</string>
+		<key>incorrectAnswer2</key>
+		<string>Il y a 15 milliards d&apos;années</string>
+		<key>incorrectAnswer3</key>
+		<string>Il y a 20 milliards d&apos;années</string>
+		<key>wikiSearchWord</key>
+		<string>Big Bang</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le Big Bang est désormais largement accepté par la communauté scientifique.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Big Bang</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b3534-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>Big Bang + 380 0000 ans</string>
+		<key>question</key>
+		<string>Qu&apos;est-ce qui est considéré comme une trace résiduelle du Big Bang ?</string>
+		<key>correctTAnswer</key>
+		<string>Fond diffus cosmologique</string>
+		<key>incorrectAnswer1</key>
+		<string>Il n&apos;y a rien</string>
+		<key>incorrectAnswer2</key>
+		<string>La matière noire</string>
+		<key>incorrectAnswer3</key>
+		<string>Des trous noirs</string>
+		<key>wikiSearchWord</key>
+		<string>Fond diffus cosmologique</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le fond diffus cosmologique reste un concept théorique et n&apos;a jamais été observé.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Séparation de l&apos;énergie et de la matière ; rayonnement de fond cosmique. </string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b3840-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>Big Bang + 200 millions d&apos;années</string>
+		<key>question</key>
+		<string>A partir de quoi les étoiles sont-elles formées ?</string>
+		<key>correctTAnswer</key>
+		<string>À partir des nuages moléculaires.</string>
+		<key>incorrectAnswer1</key>
+		<string>À partir de la matière noire.</string>
+		<key>incorrectAnswer2</key>
+		<string>À partir des trous noirs.</string>
+		<key>incorrectAnswer3</key>
+		<string>À partir de collisions d&apos;astéroïdes.</string>
+		<key>wikiSearchWord</key>
+		<string>Naissance des étoiles</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les étoiles en formation sont fréquemment appelées « étoiles jeunes ».</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Apparition des étoiles. </string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b396c-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>Il y a 11 à 12 milliards d&apos;années</string>
+		<key>question</key>
+		<string>Quel est le nom de la réaction qui transforme l&apos;hydrogène en Hélium à l&apos;intérieur des étoiles ?</string>
+		<key>correctTAnswer</key>
+		<string>Fusion nucléaire</string>
+		<key>incorrectAnswer1</key>
+		<string>Fission nucléaire</string>
+		<key>incorrectAnswer2</key>
+		<string>Chimique</string>
+		<key>incorrectAnswer3</key>
+		<string>feu</string>
+		<key>wikiSearchWord</key>
+		<string>Nucléosynthèse</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;oxygène peut être formé dans des étoiles telles que notre soleil.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Premières supernovae ; apparition de nouveaux éléments. </string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b3a84-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 4,6 milliards d&apos;années</string>
+		<key>question</key>
+		<string>Quand notre système solaire s&apos;est-il formé ?</string>
+		<key>correctTAnswer</key>
+		<string>Il y a 4,6 milliards d&apos;années</string>
+		<key>incorrectAnswer1</key>
+		<string>Il y a 9,6 milliards d&apos;années</string>
+		<key>incorrectAnswer2</key>
+		<string>Il y a 2,6 milliards d&apos;années</string>
+		<key>incorrectAnswer3</key>
+		<string>Il y a 1,6 milliard d&apos;années</string>
+		<key>wikiSearchWord</key>
+		<string>Formation et évolution du Système solaire</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le système solaire s&apos;est formé par l&apos;effondrement gravitationnel d&apos;une petite partie d&apos;un nuage moléculaire géant.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Création du Soleil, du système solaire et de la Terre. </string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b3e26-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 4,5 milliards d&apos;années</string>
+		<key>question</key>
+		<string>Comment la lune s&apos;est-elle formée ?</string>
+		<key>correctTAnswer</key>
+		<string>D&apos;un impact géant entre la Terre et une autre planète.</string>
+		<key>incorrectAnswer1</key>
+		<string>L&apos;effondrement gravitationneldu nuage moléculaire.</string>
+		<key>incorrectAnswer2</key>
+		<string>La lune est venue de l&apos;extérieur du système solaire</string>
+		<key>incorrectAnswer3</key>
+		<string>La lune a été éjectée par le soleil.</string>
+		<key>wikiSearchWord</key>
+		<string>Hypothèse de l&apos;impact géant</string>
+		<key>questionTrueOrFalse</key>
+		<string>L’hypothèse de l&apos;impact géant propose que la Lune a été créée à partir de la matière éjectée par une collision entre la jeune Terre et une protoplanète.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Formation de la lune</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b3fa2-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 3,5 milliards d&apos;années</string>
+		<key>question</key>
+		<string>Quand la vie apparaît-elle sur terre ?</string>
+		<key>correctTAnswer</key>
+		<string>Il y a 3,5 milliards d&apos;années</string>
+		<key>incorrectAnswer1</key>
+		<string>Il y a 4,4 milliards d&apos;années</string>
+		<key>incorrectAnswer2</key>
+		<string>Il y a 500 millions d&apos;années</string>
+		<key>incorrectAnswer3</key>
+		<string>Il y a 100 millions d&apos;années</string>
+		<key>wikiSearchWord</key>
+		<string>Fossiles les plus anciens</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les plus anciennes formes de vie connues sur Terre sont des fossiles de micro-organismes.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Premières formes de vie sur Terre ; &quot;procaryotes&quot; unicellulaires.</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b40e2-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 3,2 milliards d&apos;années</string>
+		<key>question</key>
+		<string>Quelle affirmation concernant les effets de la photosynthèse est fausse ?</string>
+		<key>correctTAnswer</key>
+		<string>Libération de dioxyde de carbone.</string>
+		<key>New item</key>
+		<string></string>
+		<key>incorrectAnswer1</key>
+		<string>Libération d&apos;oxygène.</string>
+		<key>incorrectAnswer2</key>
+		<string>Exploitation de l&apos;énergie solaire par les vivants.</string>
+		<key>incorrectAnswer3</key>
+		<string>Soutient les chaînes alimentaires dans un écosystème.</string>
+		<key>wikiSearchWord</key>
+		<string>Photosynthèse</string>
+		<key>questionTrueOrFalse</key>
+		<string>La photosynthèse s&apos;effectue lorsque l&apos;énergie de la lumière est absorbée par des protéines qui contiennent de la chlorophylle verte.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Photosynthèse</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b41f0-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>Il y a 2 à 3 milliards d&apos;années</string>
+		<key>question</key>
+		<string>Quelle est la cause de l&apos;augmentation rapide de l&apos;oxygène sur terre il y a 2 à 3 milliards d&apos;années ?</string>
+		<key>correctTAnswer</key>
+		<string>Photosynthèse</string>
+		<key>incorrectAnswer1</key>
+		<string>Volcans</string>
+		<key>incorrectAnswer2</key>
+		<string>Bactéries</string>
+		<key>incorrectAnswer3</key>
+		<string>Collision d&apos;astéroïdes</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire géologique de l&apos;oxygène</string>
+		<key>questionTrueOrFalse</key>
+		<string>Avant la photosynthèse, une bonne partie de l&apos;atmosphère était déjà composée d&apos;oxygène.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Augmentation de l&apos;oxygène dans l&apos;atmosphère grâce à la photosynthèse. </string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b4308-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 1,5 milliard d&apos;années</string>
+		<key>question</key>
+		<string>Les premiers micro-organismes n&apos;avaient pas de noyau. Comment appelle-t-on les cellules qui sont apparues avec des noyaux ?</string>
+		<key>correctTAnswer</key>
+		<string>Eucaryotes</string>
+		<key>incorrectAnswer1</key>
+		<string>Prokaryotes</string>
+		<key>incorrectAnswer2</key>
+		<string>Bactéries</string>
+		<key>incorrectAnswer3</key>
+		<string>Amibe</string>
+		<key>wikiSearchWord</key>
+		<string>Eukaryota</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les eucaryotes regroupent seulement les organismes unicellulaires.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Premières cellules complexes ou &quot;eucaryotes&quot;.</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b4772-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>Il y a 538,8 millions d&apos;années</string>
+		<key>question</key>
+		<string>Qu&apos;est-ce que l&apos;explosion cambrienne ?</string>
+		<key>correctTAnswer</key>
+		<string>Une grande diversification et complexification de la vie.</string>
+		<key>incorrectAnswer1</key>
+		<string>Une grande éruption volcanique.</string>
+		<key>incorrectAnswer2</key>
+		<string>La collision d&apos;un astéroïde avec la terre.</string>
+		<key>incorrectAnswer3</key>
+		<string>La dérive des continents.</string>
+		<key>wikiSearchWord</key>
+		<string>Explosion cambrienne</string>
+		<key>questionTrueOrFalse</key>
+		<string>Avant la diversification du début du Cambrien, la plupart des organismes étaient relativement simples, composés de cellules individuelles.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Explosion cambrienne</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b489e-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 500 millions d&apos;années</string>
+		<key>question</key>
+		<string>Où est apparu le premier vertébré ?</string>
+		<key>correctTAnswer</key>
+		<string>Dans la mer.</string>
+		<key>incorrectAnswer1</key>
+		<string>Sur terre.</string>
+		<key>incorrectAnswer2</key>
+		<string>Sur terre et dans la mer.</string>
+		<key>incorrectAnswer3</key>
+		<string>Dans les eaux boueuses des lacs.</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire évolutive des poissons</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le premier vertébré était un requin.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Premiers vertébrés</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b49c0-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 475 millions d&apos;années</string>
+		<key>question</key>
+		<string>Quels animaux sont considérés comme les premiers vertébrés terrestres ?</string>
+		<key>correctTAnswer</key>
+		<string>Amphibiens</string>
+		<key>incorrectAnswer1</key>
+		<string>Reptiles</string>
+		<key>incorrectAnswer2</key>
+		<string>Tortues</string>
+		<key>incorrectAnswer3</key>
+		<string>Grenouilles</string>
+		<key>wikiSearchWord</key>
+		<string>Sortie des eaux</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le phénomène de sorties des eaux s’est passé en même temps pour tous les être vivants.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Premiers vertébrés sur terre.</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b4ac4-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 350 millions d&apos;années</string>
+		<key>question</key>
+		<string>Quel est le nom du premier reptile connu ?</string>
+		<key>correctTAnswer</key>
+		<string>Hylonomus</string>
+		<key>incorrectAnswer1</key>
+		<string>Iguane</string>
+		<key>incorrectAnswer2</key>
+		<string>Tortues</string>
+		<key>incorrectAnswer3</key>
+		<string>Serpent</string>
+		<key>wikiSearchWord</key>
+		<string>Reptile</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les dinosaures n&apos;ont pas évolué à partir des premiers reptiles.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Premiers reptiles</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b4fa6-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 335 millions d&apos;années</string>
+		<key>question</key>
+		<string>Quel est le nom d&apos;un supercontinent qui a existé à la fin du Paléozoïque et au début du Mésozoïque ?</string>
+		<key>correctTAnswer</key>
+		<string>Pangée</string>
+		<key>incorrectAnswer1</key>
+		<string>Atlantide</string>
+		<key>incorrectAnswer2</key>
+		<string>Euramérique</string>
+		<key>incorrectAnswer3</key>
+		<string>Sibérie</string>
+		<key>wikiSearchWord</key>
+		<string>Pangée</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Pangée s&apos;est assemblée à partir des unités continentales précédentes.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Formation de la Pangée</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b5136-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 250 millions d&apos;années</string>
+		<key>question</key>
+		<string>Quelle est la seule lignée de dinosaures connue à avoir survécu à l&apos;extinction du Crétacé-Paléogène ?</string>
+		<key>correctTAnswer</key>
+		<string>Oiseaux</string>
+		<key>incorrectAnswer1</key>
+		<string>Serpents</string>
+		<key>incorrectAnswer2</key>
+		<string>Lézards</string>
+		<key>incorrectAnswer3</key>
+		<string>Tortues</string>
+		<key>wikiSearchWord</key>
+		<string>Dinosauria</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les dinosaures sont représentés sur tous les continents.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Premiers dinosaures</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b524e-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 178 millions d&apos;années</string>
+		<key>question</key>
+		<string>À quoi ressemblaient les premiers mammifères?</string>
+		<key>correctTAnswer</key>
+		<string>Semblables aux rongeurs</string>
+		<key>incorrectAnswer1</key>
+		<string>Semblables à de gros insectes</string>
+		<key>incorrectAnswer2</key>
+		<string>Semblables aux reptiles</string>
+		<key>incorrectAnswer3</key>
+		<string>Semblables aux poissons à pattes</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire évolutive des mammifères</string>
+		<key>questionTrueOrFalse</key>
+		<string>L’histoire évolutive des mammifères est passée par plusieurs stades depuis leurs ancêtres dits « reptiles mammaliens ».</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Apparition des premiers mammifères</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b5370-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 67 millions d&apos;années</string>
+		<key>question</key>
+		<string>Quelle est la cause de l&apos;extinction des dinosaures ?</string>
+		<key>correctTAnswer</key>
+		<string>L&apos;impact d&apos;un astéroïde massif </string>
+		<key>incorrectAnswer1</key>
+		<string>Eruption volcanique majeure</string>
+		<key>incorrectAnswer2</key>
+		<string>La prédominance des mammifères</string>
+		<key>incorrectAnswer3</key>
+		<string>Une inondation</string>
+		<key>wikiSearchWord</key>
+		<string>Extinction Crétacé-Paléogène</string>
+		<key>questionTrueOrFalse</key>
+		<string>Il y a 66 millions d&apos;années, il y a eu une soudaine extinction massive des espèces végétales et animales sur Terre.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>L&apos;impact d&apos;un astéroïde détruit de nombreuses espèces dont les dinosaures. </string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b55fa-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 20 millions d&apos;années</string>
+		<key>question</key>
+		<string>Où a été trouvé le plus ancien fossile de singe ?</string>
+		<key>correctTAnswer</key>
+		<string>Afrique</string>
+		<key>incorrectAnswer1</key>
+		<string>Europe</string>
+		<key>incorrectAnswer2</key>
+		<string>Asie</string>
+		<key>incorrectAnswer3</key>
+		<string>Amérique du Sud</string>
+		<key>wikiSearchWord</key>
+		<string>Hominoidea</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Hominoïdes, ou grands singes n’ont pas de queue.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string> Apparition des premiers singes.</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b5708-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 6 millions d&apos;années</string>
+		<key>question</key>
+		<string>Quand la lignée des Hominina (humains bipèdes et ancêtres disparus) s&apos;est-elle séparée de la lignée des Panina (chimpanzés) ?</string>
+		<key>correctTAnswer</key>
+		<string>Il y a 4 à 7 millions d&apos;années</string>
+		<key>incorrectAnswer1</key>
+		<string>Il y a 20-25 millions d&apos;années</string>
+		<key>incorrectAnswer2</key>
+		<string>Il y a 1 à 3 millions d&apos;années</string>
+		<key>incorrectAnswer3</key>
+		<string>Il y a 300 000 ans</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire évolutive de la lignée humaine</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;orang-outan est plus proche de l&apos;homme que le chimpanzé.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Premiers &quot;hominines&quot; (singes bipèdes) </string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b5816-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 4 millions d&apos;années</string>
+		<key>question</key>
+		<string>Quel est le nom donné à une femelle australopithèque datant d&apos;environ 3,2 millions d&apos;années et découverte en Éthiopie ?</string>
+		<key>correctTAnswer</key>
+		<string>Lucy</string>
+		<key>incorrectAnswer1</key>
+		<string>Anna</string>
+		<key>incorrectAnswer2</key>
+		<string>Michelle</string>
+		<key>incorrectAnswer3</key>
+		<string>Alice</string>
+		<key>wikiSearchWord</key>
+		<string>Lucy (australopithèque)</string>
+		<key>questionTrueOrFalse</key>
+		<string>Lucy, est une collection de plusieurs morceaux d&apos;os fossilisés représentant 80 % d&apos;une femelle australopithèque.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Lucy la femelle australopithèque.</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b5938-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 3,2 millions d&apos;années</string>
+		<key>question</key>
+		<string>Qu’est-ce qui caractérise l’Homo habilis?</string>
+		<key>correctTAnswer</key>
+		<string>L&apos;Homo habilis est connu pour avoir utilisé des outils en pierre.</string>
+		<key>incorrectAnswer1</key>
+		<string>L&apos;Homo habilis est connu pour ses peintures.</string>
+		<key>incorrectAnswer2</key>
+		<string>L&apos;Homo habilis est connu pour utiliser le feu.</string>
+		<key>incorrectAnswer3</key>
+		<string>L&apos;Homo habilis est connu pour avoir été très grand.</string>
+		<key>wikiSearchWord</key>
+		<string>Homo habilis</string>
+		<key>questionTrueOrFalse</key>
+		<string>Compte tenu de sa longévité, Homo habilis a cohabité en Afrique avec les Australopithèques.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>Homo habilis. </string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b5b5e-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 1,9 millions d&apos;années</string>
+		<key>question</key>
+		<string>L&apos;Homo erectus a été le premier hominidé connu à migrer hors d&apos;Afrique. Où d&apos;autres fossiles ont-ils été découverts ?</string>
+		<key>correctTAnswer</key>
+		<string>Asie</string>
+		<key>incorrectAnswer1</key>
+		<string>Europe</string>
+		<key>incorrectAnswer2</key>
+		<string>Amérique du Sud</string>
+		<key>incorrectAnswer3</key>
+		<string>Australie</string>
+		<key>wikiSearchWord</key>
+		<string>Homo erectus</string>
+		<key>questionTrueOrFalse</key>
+		<string>L’Australopithèque est plus ancien que l’Homo erectus.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>L&apos;Homo erectus évolue en Afrique, mais certains migrent vers l&apos;Asie. </string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b5c8a-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>Il y a 200 000 à 300 000 ans</string>
+		<key>question</key>
+		<string>Quel autre ADN humain archaïque a été retrouvé dans les génomes d&apos;Homo sapiens de populations contemporaines ?</string>
+		<key>correctTAnswer</key>
+		<string>Néandertalien</string>
+		<key>incorrectAnswer1</key>
+		<string>Homo habilis</string>
+		<key>incorrectAnswer2</key>
+		<string>Homo erectus</string>
+		<key>incorrectAnswer3</key>
+		<string>Australopithèque</string>
+		<key>wikiSearchWord</key>
+		<string>Hybridation entre les humains archaïques et modernes</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les croisements entre humains archaïques et modernes ne se sont produits qu&apos;avec les Néandertaliens.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>L&apos;Homo sapiens évolue quelque part en Afrique. </string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b5d98-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 164 000 ans</string>
+		<key>question</key>
+		<string>Bien que l&apos;homo erectus maîtrisait le feu, quand l&apos;homme moderne a-t-il utilisé le feu de manière régulière et systématique ?</string>
+		<key>correctTAnswer</key>
+		<string>Il y a 164 000 ans</string>
+		<key>incorrectAnswer1</key>
+		<string>Il y a 500 000 ans</string>
+		<key>incorrectAnswer2</key>
+		<string>Il y a 30.000 ans</string>
+		<key>incorrectAnswer3</key>
+		<string>Il y a 10 000 ans</string>
+		<key>wikiSearchWord</key>
+		<string>Domestication du feu</string>
+		<key>questionTrueOrFalse</key>
+		<string>La domestication du feu est attestée à partir d’environ 40,000 ans pas avant.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>L&apos;homme moderne utilise le feu de manière régulière et systématique.</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b5f82-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 70 000 ans</string>
+		<key>question</key>
+		<string>Quand la race humaine s&apos;est-elle dangereusement rapprochée de l&apos;extinction ?</string>
+		<key>correctTAnswer</key>
+		<string>Il y a 70 000 ans</string>
+		<key>incorrectAnswer1</key>
+		<string>Il y a 150 000 ans</string>
+		<key>incorrectAnswer2</key>
+		<string>En l&apos;an 536</string>
+		<key>incorrectAnswer3</key>
+		<string>En 1000 avant J.-C.</string>
+		<key>wikiSearchWord</key>
+		<string>Théorie de la catastrophe de Toba</string>
+		<key>questionTrueOrFalse</key>
+		<string>La quasi-extinction des humains a peut-être été causée par un volcan.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>L’humanité proche de l’extinction.</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b60a4-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 40 000 ans</string>
+		<key>question</key>
+		<string>Les Néandertaliens sont apparus en Eurasie il y a 400 000 ans. Quand ont-ils disparu ?</string>
+		<key>correctTAnswer</key>
+		<string>Il y a 40 000 ans</string>
+		<key>incorrectAnswer1</key>
+		<string>Il y a 150 000 ans</string>
+		<key>incorrectAnswer2</key>
+		<string>Il y a 10 000 ans</string>
+		<key>incorrectAnswer3</key>
+		<string>Il y a 100 000 ans</string>
+		<key>wikiSearchWord</key>
+		<string>Homme de Néandertal</string>
+		<key>questionTrueOrFalse</key>
+		<string>L’Homme de Néandertal n&apos;a pas utilisé d&apos;outil.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Disparition de l&apos;homme de Neandertal </string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b61b2-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 13 000 ans</string>
+		<key>question</key>
+		<string>Les humains ont quitté l&apos;Afrique et ont peuplé le monde. Quelle a été la dernière région qu&apos;ils ont atteinte ?</string>
+		<key>correctTAnswer</key>
+		<string>Les Amériques</string>
+		<key>incorrectAnswer1</key>
+		<string>Sahul (Australie/Papouasie-Nouvelle-Guinée)</string>
+		<key>incorrectAnswer2</key>
+		<string>Sibérie</string>
+		<key>incorrectAnswer3</key>
+		<string>Asie</string>
+		<key>wikiSearchWord</key>
+		<string>Premier peuplement de l&apos;Amérique</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les humains ont traversé vers l&apos;Amérique via le pont terrestre de Béringie, qui s&apos;était formé entre le nord-est de la Sibérie et l&apos;ouest de l&apos;Alaska.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>timeLine</key>
+		<string>L&apos;homme en Amérique</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000b62b6-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>il y a 11 500 ans</string>
+		<key>question</key>
+		<string>Quelle est la première région où les chasseurs-cueilleurs nomades se sont installés et ont pratiqué l’agriculture?</string>
+		<key>correctTAnswer</key>
+		<string>Mésopotamie</string>
+		<key>incorrectAnswer1</key>
+		<string>Afrique</string>
+		<key>incorrectAnswer2</key>
+		<string>Amérique du Sud</string>
+		<key>incorrectAnswer3</key>
+		<string>Asie</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire de l&apos;agriculture</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;agriculture est d&apos;abord apparue en Mésopotamie, puis s&apos;est répandue ailleurs. Elle ne s&apos;est pas développée indépendamment ailleurs qu&apos;en Mésopotamie.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Agriculture</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>000c343e-6d07-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>4000-3500 avant JC</string>
+		<key>question</key>
+		<string>Quelle est considérée comme la plus ancienne civilisation connue ?</string>
+		<key>correctTAnswer</key>
+		<string>Sumer</string>
+		<key>incorrectAnswer1</key>
+		<string>Égypte</string>
+		<key>incorrectAnswer2</key>
+		<string>Vallée de l&apos;Indus</string>
+		<key>incorrectAnswer3</key>
+		<string>Chine</string>
+		<key>wikiSearchWord</key>
+		<string>Sumer</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Sumériens n&apos;ont jamais développé l&apos;écriture.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>timeLine</key>
+		<string>Première civilisation sumérienne</string>
+		<key>theme</key>
+		<string>Du Big Bang à l&apos;homme</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+	</dict>
+</array>
+</plist>

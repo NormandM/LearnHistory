@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Il y a 13,7 milliards d&apos;années</string>
+		<key>date</key>
+		<string>Il y a 13,7 milliards d&apos;années</string>
+		<key>id</key>
+		<string>000b320a-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Il y a 4,6 milliards d&apos;années</string>
+		<key>incorrectAnswer2</key>
+		<string>Il y a 15 milliards d&apos;années</string>
+		<key>incorrectAnswer3</key>
+		<string>Il y a 20 milliards d&apos;années</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>Quand le Big Bang s&apos;est-il produit ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le Big Bang est désormais largement accepté par la communauté scientifique.</string>
+		<key>theme</key>
+		<string>De 13,7 à 1,5 milliards d&apos;années</string>
+		<key>timeLine</key>
+		<string>Big Bang</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Big Bang</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Fond diffus cosmologique</string>
+		<key>date</key>
+		<string>Big Bang + 380 0000 ans</string>
+		<key>id</key>
+		<string>000b3534-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Il n&apos;y a rien</string>
+		<key>incorrectAnswer2</key>
+		<string>La matière noire</string>
+		<key>incorrectAnswer3</key>
+		<string>Des trous noirs</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>question</key>
+		<string>Qu&apos;est-ce qui est considéré comme une trace résiduelle du Big Bang ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le fond diffus cosmologique reste un concept théorique et n&apos;a jamais été observé.</string>
+		<key>theme</key>
+		<string>De 13,7 à 1,5 milliards d&apos;années</string>
+		<key>timeLine</key>
+		<string>Séparation de l&apos;énergie et de la matière ; rayonnement de fond cosmique. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Fond diffus cosmologique</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Des nuages moléculaires.</string>
+		<key>date</key>
+		<string>Big Bang + 200 millions d&apos;années</string>
+		<key>id</key>
+		<string>000b3840-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>De la matière noire.</string>
+		<key>incorrectAnswer2</key>
+		<string>Provenant des trous noirs.</string>
+		<key>incorrectAnswer3</key>
+		<string>Provenant de collisions d&apos;astéroïdes.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>question</key>
+		<string>A partir de quoi les étoiles sont-elles formées ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les étoiles en formation sont fréquemment appelées « étoiles jeunes ».</string>
+		<key>theme</key>
+		<string>De 13,7 à 1,5 milliards d&apos;années</string>
+		<key>timeLine</key>
+		<string>Apparition des étoiles. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Naissance des étoiles</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Fusion nucléaire</string>
+		<key>date</key>
+		<string>Il y a 11 à 12 milliards d&apos;années</string>
+		<key>id</key>
+		<string>000b396c-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Fission nucléaire</string>
+		<key>incorrectAnswer2</key>
+		<string>Chimique</string>
+		<key>incorrectAnswer3</key>
+		<string>feu</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>question</key>
+		<string>Quel est le nom de la réaction qui transforme l&apos;hydrogène en Hélium à l&apos;intérieur des étoiles ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;oxygène peut être formé dans des étoiles telles que notre soleil.</string>
+		<key>theme</key>
+		<string>De 13,7 à 1,5 milliards d&apos;années</string>
+		<key>timeLine</key>
+		<string>Premières supernovae ; apparition de nouveaux éléments. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Nucléosynthèse</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Il y a 4,6 milliards d&apos;années</string>
+		<key>date</key>
+		<string>il y a 4,6 milliards d&apos;années</string>
+		<key>id</key>
+		<string>000b3a84-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Il y a 9,6 milliards d&apos;années</string>
+		<key>incorrectAnswer2</key>
+		<string>Il y a 2,6 milliards d&apos;années</string>
+		<key>incorrectAnswer3</key>
+		<string>Il y a 1,6 milliard d&apos;années</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>question</key>
+		<string>Quand notre système solaire s&apos;est-il formé ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le système solaire s&apos;est formé par l&apos;effondrement gravitationnel d&apos;une petite partie d&apos;un nuage moléculaire géant.</string>
+		<key>theme</key>
+		<string>De 13,7 à 1,5 milliards d&apos;années</string>
+		<key>timeLine</key>
+		<string>Création du Soleil, du système solaire et de la Terre. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Formation et évolution du Système solaire</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>D&apos;un impact géant entre la Terre et une autre planète.</string>
+		<key>date</key>
+		<string>il y a 4,5 milliards d&apos;années</string>
+		<key>id</key>
+		<string>000b3e26-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>L&apos;effondrement gravitationneldu nuage moléculaire.</string>
+		<key>incorrectAnswer2</key>
+		<string>La lune est venue de l&apos;extérieur du système solaire</string>
+		<key>incorrectAnswer3</key>
+		<string>La lune a été éjectée par le soleil.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>question</key>
+		<string>Comment la lune s&apos;est-elle formée ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L’hypothèse de l&apos;impact géant propose que la Lune a été créée à partir de la matière éjectée par une collision entre la jeune Terre et une protoplanète.</string>
+		<key>theme</key>
+		<string>De 13,7 à 1,5 milliards d&apos;années</string>
+		<key>timeLine</key>
+		<string>Formation de la lune</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Hypothèse de l&apos;impact géant</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Il y a 3,5 milliards d&apos;années</string>
+		<key>date</key>
+		<string>il y a 3,5 milliards d&apos;années</string>
+		<key>id</key>
+		<string>000b3fa2-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Il y a 4,4 milliards d&apos;années</string>
+		<key>incorrectAnswer2</key>
+		<string>Il y a 500 millions d&apos;années</string>
+		<key>incorrectAnswer3</key>
+		<string>Il y a 100 millions d&apos;années</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>question</key>
+		<string>Quand la vie apparaît-elle sur terre ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les plus anciennes formes de vie connues sur Terre sont des fossiles de micro-organismes.</string>
+		<key>theme</key>
+		<string>De 13,7 à 1,5 milliards d&apos;années</string>
+		<key>timeLine</key>
+		<string>Premières formes de vie sur Terre ; &quot;procaryotes&quot; unicellulaires.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Fossiles les plus anciens</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Libération de dioxyde de carbone.</string>
+		<key>date</key>
+		<string>il y a 3,2 milliards d&apos;années</string>
+		<key>id</key>
+		<string>000b40e2-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Libération d&apos;oxygène.</string>
+		<key>incorrectAnswer2</key>
+		<string>Exploitation de l&apos;énergie solaire par les vivants.</string>
+		<key>incorrectAnswer3</key>
+		<string>Soutient les chaînes alimentaires dans un écosystème.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>question</key>
+		<string>Quelle affirmation concernant les effets de la photosynthèse est fausse ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La photosynthèse s&apos;effectue lorsque l&apos;énergie de la lumière est absorbée par des protéines qui contiennent de la chlorophylle verte.</string>
+		<key>theme</key>
+		<string>De 13,7 à 1,5 milliards d&apos;années</string>
+		<key>timeLine</key>
+		<string>Photosynthèse</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Photosynthèse</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Photosynthèse</string>
+		<key>date</key>
+		<string>Il y a 2 à 3 milliards d&apos;années</string>
+		<key>id</key>
+		<string>000b41f0-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Volcans</string>
+		<key>incorrectAnswer2</key>
+		<string>Bactéries</string>
+		<key>incorrectAnswer3</key>
+		<string>Collision d&apos;astéroïdes</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>question</key>
+		<string>Quelle est la cause de l&apos;augmentation rapide de l&apos;oxygène sur terre il y a 2 à 3 milliards d&apos;années ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Avant la photosynthèse, une bonne partie de l&apos;atmosphère était déjà composée d&apos;oxygène.</string>
+		<key>theme</key>
+		<string>De 13,7 à 1,5 milliards d&apos;années</string>
+		<key>timeLine</key>
+		<string>Augmentation de l&apos;oxygène dans l&apos;atmosphère grâce à la photosynthèse. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire géologique de l&apos;oxygène</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Eucaryotes</string>
+		<key>date</key>
+		<string>il y a 1,5 milliard d&apos;années</string>
+		<key>id</key>
+		<string>000b4308-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Prokaryotes</string>
+		<key>incorrectAnswer2</key>
+		<string>Bactéries</string>
+		<key>incorrectAnswer3</key>
+		<string>Amibe</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>question</key>
+		<string>Les premiers micro-organismes n&apos;avaient pas de noyau. Comment appelle-t-on les cellules qui sont apparues avec des noyaux ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les eucaryotes regroupent seulement les organismes unicellulaires.</string>
+		<key>theme</key>
+		<string>De 13,7 à 1,5 milliards d&apos;années</string>
+		<key>timeLine</key>
+		<string>Premières cellules complexes ou &quot;eucaryotes&quot;.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Eukaryota</string>
+	</dict>
+</array>
+</plist>

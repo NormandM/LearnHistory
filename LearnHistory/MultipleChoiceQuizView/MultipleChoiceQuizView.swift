@@ -303,6 +303,7 @@ struct MultipleChoiceQuizView: View {
                     overlayIsHidden = UserDefaults.standard.bool(forKey: "overlayIsHidden")
                     numberOfAnswers = 0
                     EraseQuizResult.erase(fetchRequest: fetchRequest, theme: selectedTheme)
+                    try? moc.save()
                     hintDemanded = false
                     nextButtonIsVisible = false
                     identifyButtonRightAnswer = false
@@ -325,6 +326,7 @@ struct MultipleChoiceQuizView: View {
                         message: Text("It will reset the quiz"),
                         primaryButton: .destructive(Text("Exit")) {
                             EraseQuizResult.erase(fetchRequest: fetchRequest, theme: selectedTheme)
+                            try? moc.save()
                             if UserDefaults.standard.double(forKey: selectedTheme) < score {
                                 UserDefaults.standard.set(score, forKey: selectedTheme)
                             }

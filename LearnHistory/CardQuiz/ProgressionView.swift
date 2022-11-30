@@ -9,6 +9,7 @@ import SwiftUI
 
 struct CustomProgressView: View {
     var progress: CGFloat
+    @Environment(\.managedObjectContext) var moc
     @State private var orientation = UIDeviceOrientation.unknown
     var deviceHeight: CGFloat {
         UIScreen.main.bounds.height
@@ -74,6 +75,7 @@ struct CustomProgressView: View {
 }
 struct CustomProgressViewUser: View {
     @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
+    @Environment(\.managedObjectContext) var moc
     @FetchRequest var fetchRequest: FetchedResults<HistoricalEventDetail>
     let sectionName: String
     var deviceHeight: CGFloat {
@@ -146,6 +148,7 @@ struct CustomProgressViewUser: View {
                             NMRoundButton(buttonText: "Back".localized, buttonAction: {
                                 lastScore = UserDefaults.standard.double(forKey: theme)
                                 EraseQuizResult.erase(fetchRequest: fetchRequest, theme: theme)
+                                try? moc.save()
                                 UserDefaults.standard.set(score, forKey: theme)
                                 presentationMode.wrappedValue.dismiss()
                             })
@@ -183,6 +186,7 @@ struct CustomProgressViewUser: View {
                     HStack {
                         NMRoundButton(buttonText: "Back".localized, buttonAction: {
                             EraseQuizResult.erase(fetchRequest: fetchRequest, theme: theme)
+                            try? moc.save()
                             if UserDefaults.standard.double(forKey: theme) < score {
                                 UserDefaults.standard.set(score, forKey: theme)
                             }

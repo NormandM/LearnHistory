@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Une grande diversification et complexification de la vie.</string>
+		<key>date</key>
+		<string>Il y a 538,8 millions d&apos;années</string>
+		<key>id</key>
+		<string>000b4772-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Une grande éruption volcanique.</string>
+		<key>incorrectAnswer2</key>
+		<string>La collision d&apos;un astéroïde avec la terre.</string>
+		<key>incorrectAnswer3</key>
+		<string>La dérive des continents.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>Qu&apos;est-ce que l&apos;explosion cambrienne ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Avant la diversification du début du Cambrien, la plupart des organismes étaient relativement simples, composés de cellules individuelles.</string>
+		<key>theme</key>
+		<string>De 538 à 6 millions d&apos;années</string>
+		<key>timeLine</key>
+		<string>Explosion cambrienne</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Explosion cambrienne</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Dans la mer.</string>
+		<key>date</key>
+		<string>il y a 500 millions d&apos;années</string>
+		<key>id</key>
+		<string>000b489e-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Sur terre.</string>
+		<key>incorrectAnswer2</key>
+		<string>Sur terre et dans la mer.</string>
+		<key>incorrectAnswer3</key>
+		<string>Dans les eaux boueuses des lacs.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>Où est apparu le premier vertébré ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le premier vertébré était un requin.</string>
+		<key>theme</key>
+		<string>De 538 à 6 millions d&apos;années</string>
+		<key>timeLine</key>
+		<string>Premiers vertébrés</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire évolutive des poissons</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Amphibiens</string>
+		<key>date</key>
+		<string>il y a 475 millions d&apos;années</string>
+		<key>id</key>
+		<string>000b49c0-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Reptiles</string>
+		<key>incorrectAnswer2</key>
+		<string>Tortues</string>
+		<key>incorrectAnswer3</key>
+		<string>Grenouilles</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>Quels animaux sont considérés comme les premiers vertébrés terrestres ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Le phénomène de sorties des eaux s’est passé en même temps pour tous les être vivants.</string>
+		<key>theme</key>
+		<string>De 538 à 6 millions d&apos;années</string>
+		<key>timeLine</key>
+		<string>Premiers vertébrés sur terre.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Sortie des eaux</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hylonomus</string>
+		<key>date</key>
+		<string>il y a 350 millions d&apos;années</string>
+		<key>id</key>
+		<string>000b4ac4-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Iguane</string>
+		<key>incorrectAnswer2</key>
+		<string>Tortues</string>
+		<key>incorrectAnswer3</key>
+		<string>Serpent</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>Quel est le nom du premier reptile connu ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les dinosaures n&apos;ont pas évolué à partir des premiers reptiles.</string>
+		<key>theme</key>
+		<string>De 538 à 6 millions d&apos;années</string>
+		<key>timeLine</key>
+		<string>Premiers reptiles</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Reptile</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Pangée</string>
+		<key>date</key>
+		<string>il y a 335 millions d&apos;années</string>
+		<key>id</key>
+		<string>000b4fa6-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Atlantide</string>
+		<key>incorrectAnswer2</key>
+		<string>Euramérique</string>
+		<key>incorrectAnswer3</key>
+		<string>Sibérie</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>Quel est le nom d&apos;un supercontinent qui a existé à la fin du Paléozoïque et au début du Mésozoïque ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La Pangée s&apos;est assemblée à partir des unités continentales précédentes.</string>
+		<key>theme</key>
+		<string>De 538 à 6 millions d&apos;années</string>
+		<key>timeLine</key>
+		<string>Formation de la Pangée</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Pangée</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Oiseaux</string>
+		<key>date</key>
+		<string>il y a 250 millions d&apos;années</string>
+		<key>id</key>
+		<string>000b5136-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Serpents</string>
+		<key>incorrectAnswer2</key>
+		<string>Lézards</string>
+		<key>incorrectAnswer3</key>
+		<string>Tortues</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>Quelle est la seule lignée de dinosaures connue à avoir survécu à l&apos;extinction du Crétacé-Paléogène ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les dinosaures sont représentés sur tous les continents.</string>
+		<key>theme</key>
+		<string>De 538 à 6 millions d&apos;années</string>
+		<key>timeLine</key>
+		<string>Premiers dinosaures</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Dinosauria</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Semblables aux rongeurs</string>
+		<key>date</key>
+		<string>il y a 178 millions d&apos;années</string>
+		<key>id</key>
+		<string>000b524e-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Semblables à de gros insectes</string>
+		<key>incorrectAnswer2</key>
+		<string>Semblables aux reptiles</string>
+		<key>incorrectAnswer3</key>
+		<string>Semblables aux poissons à pattes</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>À quoi ressemblaient les premiers mammifères?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L’histoire évolutive des mammifères est passée par plusieurs stades depuis leurs ancêtres dits « reptiles mammaliens ».</string>
+		<key>theme</key>
+		<string>De 538 à 6 millions d&apos;années</string>
+		<key>timeLine</key>
+		<string>Apparition des premiers mammifères</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire évolutive des mammifères</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>L&apos;impact d&apos;un astéroïde massif </string>
+		<key>date</key>
+		<string>il y a 67 millions d&apos;années</string>
+		<key>id</key>
+		<string>000b5370-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Eruption volcanique majeure</string>
+		<key>incorrectAnswer2</key>
+		<string>La prédominance des mammifères</string>
+		<key>incorrectAnswer3</key>
+		<string>Une inondation</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>Quelle est la cause de l&apos;extinction des dinosaures ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Il y a 66 millions d&apos;années, il y a eu une soudaine extinction massive des espèces végétales et animales sur Terre.</string>
+		<key>theme</key>
+		<string>De 538 à 6 millions d&apos;années</string>
+		<key>timeLine</key>
+		<string>L&apos;impact d&apos;un astéroïde détruit de nombreuses espèces dont les dinosaures. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Extinction Crétacé-Paléogène</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Afrique</string>
+		<key>date</key>
+		<string>il y a 20 millions d&apos;années</string>
+		<key>id</key>
+		<string>000b55fa-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Europe</string>
+		<key>incorrectAnswer2</key>
+		<string>Asie</string>
+		<key>incorrectAnswer3</key>
+		<string>Amérique du Sud</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>Où a été trouvé le plus ancien fossile de singe ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Les Hominoïdes, ou grands singes n’ont pas de queue.</string>
+		<key>theme</key>
+		<string>De 538 à 6 millions d&apos;années</string>
+		<key>timeLine</key>
+		<string> Apparition des premiers singes.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Vrai</string>
+		<key>wikiSearchWord</key>
+		<string>Hominoidea</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Il y a 4 à 7 millions d&apos;années</string>
+		<key>date</key>
+		<string>il y a 6 millions d&apos;années</string>
+		<key>id</key>
+		<string>000b5708-6d07-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Il y a 20-25 millions d&apos;années</string>
+		<key>incorrectAnswer2</key>
+		<string>Il y a 1 à 3 millions d&apos;années</string>
+		<key>incorrectAnswer3</key>
+		<string>Il y a 300 000 ans</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>Quand la lignée des Hominina (humains bipèdes et ancêtres disparus) s&apos;est-elle séparée de la lignée des Panina (chimpanzés) ?</string>
+		<key>questionTrueOrFalse</key>
+		<string>L&apos;orang-outan est plus proche de l&apos;homme que le chimpanzé.</string>
+		<key>theme</key>
+		<string>De 538 à 6 millions d&apos;années</string>
+		<key>timeLine</key>
+		<string>Premiers &quot;hominines&quot; (singes bipèdes) </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Faux</string>
+		<key>wikiSearchWord</key>
+		<string>Histoire évolutive de la lignée humaine</string>
+	</dict>
+</array>
+</plist>

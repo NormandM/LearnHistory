@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Gran diversificación y complejización de la vida.</string>
+		<key>date</key>
+		<string>Hace 538,8 millones de años</string>
+		<key>id</key>
+		<string>ced78e98-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Una gran erupción de un volcán.</string>
+		<key>incorrectAnswer2</key>
+		<string>La colisión de un asteroide con la tierra.</string>
+		<key>incorrectAnswer3</key>
+		<string>La deriva continental.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>question</key>
+		<string>¿Qué es la explosión del Cámbrico?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Antes de la diversificación del Cámbrico, la mayoría de los organismos eran relativamente simples, compuestos por células individuales.</string>
+		<key>theme</key>
+		<string>De 538 a 6 millones de años</string>
+		<key>timeLine</key>
+		<string>Explosión del Cámbrico</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Explosión cámbrica</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>En el mar.</string>
+		<key>date</key>
+		<string>Hace 500 millones de años</string>
+		<key>id</key>
+		<string>ced791fe-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>En la tierra.</string>
+		<key>incorrectAnswer2</key>
+		<string>Tanto en la tierra como en el mar.</string>
+		<key>incorrectAnswer3</key>
+		<string>En las aguas fangosas de los lagos.</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>question</key>
+		<string>¿Dónde apareció el primer vertebrado?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El primer vertebrado fue un tiburón.</string>
+		<key>theme</key>
+		<string>De 538 a 6 millones de años</string>
+		<key>timeLine</key>
+		<string>Primeros vertebrados</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Evolución de los peces</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Anfibios</string>
+		<key>date</key>
+		<string>Hace 475 millones de años</string>
+		<key>id</key>
+		<string>ced793b6-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Reptiles</string>
+		<key>incorrectAnswer2</key>
+		<string>Tortugas</string>
+		<key>incorrectAnswer3</key>
+		<string>Ranas</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>question</key>
+		<string>¿Qué animales se consideran los primeros vertebrados terrestres?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El fenómeno de la salida del agua se produjo al mismo tiempo para todos los seres vivos.</string>
+		<key>theme</key>
+		<string>De 538 a 6 millones de años</string>
+		<key>timeLine</key>
+		<string>Primeros vertebrados terrestres.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Salida de las aguas</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hylonomus</string>
+		<key>date</key>
+		<string>Hace 350 millones de años </string>
+		<key>id</key>
+		<string>ced7951e-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Iguana</string>
+		<key>incorrectAnswer2</key>
+		<string>Tortuga</string>
+		<key>incorrectAnswer3</key>
+		<string>Serpiente</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>question</key>
+		<string>¿Cómo se llama el primer reptil conocido?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los dinosaurios no evolucionaron a partir de los primeros reptiles.</string>
+		<key>theme</key>
+		<string>De 538 a 6 millones de años</string>
+		<key>timeLine</key>
+		<string>Primeros reptiles</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Reptilia</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Pangea</string>
+		<key>date</key>
+		<string>Hace 335 millones de años</string>
+		<key>id</key>
+		<string>ced79636-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Atlántida</string>
+		<key>incorrectAnswer2</key>
+		<string>Euramérica</string>
+		<key>incorrectAnswer3</key>
+		<string>Siberia</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>question</key>
+		<string>¿Cómo se llamaba un supercontinente que existió a finales del Paleozoico y principios del Mesozoico?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Pangea se ensambló a partir de las unidades continentales anteriores.</string>
+		<key>theme</key>
+		<string>De 538 a 6 millones de años</string>
+		<key>timeLine</key>
+		<string>Formación del Pangae</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Pangea</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Aves</string>
+		<key>date</key>
+		<string>Hace 250 millones de años </string>
+		<key>id</key>
+		<string>ced7973a-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Serpientes</string>
+		<key>incorrectAnswer2</key>
+		<string>Lagartos</string>
+		<key>incorrectAnswer3</key>
+		<string>Tortugas</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>question</key>
+		<string>¿Cuál es el único linaje de dinosaurios conocido que sobrevivió a la extinción del Cretácico-Paleógeno?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los dinosaurios están representados en todos los continentes.</string>
+		<key>theme</key>
+		<string>De 538 a 6 millones de años</string>
+		<key>timeLine</key>
+		<string>Primeros dinosaurios</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Dinosauria</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Similares a los roedores</string>
+		<key>date</key>
+		<string>Hace 178 millones de años</string>
+		<key>id</key>
+		<string>ced79bd6-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Similares a los grandes insectos</string>
+		<key>incorrectAnswer2</key>
+		<string>Similares a los reptiles</string>
+		<key>incorrectAnswer3</key>
+		<string>Similares a los peces con patas</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>question</key>
+		<string>¿Qué aspecto tenían los primeros mamíferos?</string>
+		<key>questionTrueOrFalse</key>
+		<string>La historia evolutiva de los mamíferos ha pasado por varias etapas desde sus ancestros llamados &quot;reptiles mamíferos&quot;.</string>
+		<key>theme</key>
+		<string>De 538 a 6 millones de años</string>
+		<key>timeLine</key>
+		<string>Aparición de los primeros mamíferos</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Evolución de los mamíferos</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>El impacto de un asteroide masivo </string>
+		<key>date</key>
+		<string>Hace 67 millones de años</string>
+		<key>id</key>
+		<string>ced79d16-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Erupción de un gran volcán</string>
+		<key>incorrectAnswer2</key>
+		<string>El predominio de los mamíferos</string>
+		<key>incorrectAnswer3</key>
+		<string>Una inundación</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>question</key>
+		<string>¿Qué causó la extinción de los dinosaurios?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Hace 66 millones de años se produjo una repentina extinción masiva de tres cuartas partes de las especies vegetales y animales de la Tierra.</string>
+		<key>theme</key>
+		<string>De 538 a 6 millones de años</string>
+		<key>timeLine</key>
+		<string>El impacto de un asteroide destruye muchas especies, incluidos los dinosaurios. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Extinción masiva del Cretácico-Paleógeno</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>África</string>
+		<key>date</key>
+		<string>Hace 20 millones de años</string>
+		<key>id</key>
+		<string>ced79e2e-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Europa</string>
+		<key>incorrectAnswer2</key>
+		<string>Asia</string>
+		<key>incorrectAnswer3</key>
+		<string>América del Sur</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>question</key>
+		<string>¿Dónde se encontró el fósil de simio más antiguo?</string>
+		<key>questionTrueOrFalse</key>
+		<string>Los hominoides, o grandes simios, no tienen cola.</string>
+		<key>theme</key>
+		<string>De 538 a 6 millones de años</string>
+		<key>timeLine</key>
+		<string> Aparecen los primeros simios.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>Verdadero</string>
+		<key>wikiSearchWord</key>
+		<string>Hominoidea</string>
+	</dict>
+	<dict>
+		<key>correctTAnswer</key>
+		<string>Hace 4-7 millones de años</string>
+		<key>date</key>
+		<string>Hace 6 millones de años</string>
+		<key>id</key>
+		<string>ced79f3c-6db7-11ed-a1eb-0242ac120002</string>
+		<key>incorrectAnswer1</key>
+		<string>Hace 20-25 millones de años</string>
+		<key>incorrectAnswer2</key>
+		<string>Hace 1-3 millones de años</string>
+		<key>incorrectAnswer3</key>
+		<string>Hace 300.000 años</string>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>question</key>
+		<string>¿Cuándo se separó el linaje Hominina (humanos bípedos extintos y antepasados) del linaje Panina (chimpancés)?</string>
+		<key>questionTrueOrFalse</key>
+		<string>El gorila está más emparentado con los humanos que el chimpancé.</string>
+		<key>theme</key>
+		<string>De 538 a 6 millones de años</string>
+		<key>timeLine</key>
+		<string>Primeros &quot;homininos&quot; (simios bípedos) </string>
+		<key>trueOrFalseAnswer</key>
+		<string>Falso</string>
+		<key>wikiSearchWord</key>
+		<string>Evolución humana</string>
+	</dict>
+</array>
+</plist>

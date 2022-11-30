@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>77aa3fb2-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>13.7 billion years ago</string>
+		<key>question</key>
+		<string>When did the Big Bang happen?</string>
+		<key>correctTAnswer</key>
+		<string>13.7 Billion years ago</string>
+		<key>incorrectAnswer1</key>
+		<string>4.6 Billion years ago</string>
+		<key>incorrectAnswer2</key>
+		<string>15 Billion years ago</string>
+		<key>incorrectAnswer3</key>
+		<string>20 Billion years ago</string>
+		<key>wikiSearchWord</key>
+		<string>Big Bang</string>
+		<key>questionTrueOrFalse</key>
+		<string>The Big Bang event is now largely universally accepted by the scientific community.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Big Bang</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa4322-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>Big Bang + 380,0000 years</string>
+		<key>question</key>
+		<string>What is considered a remnant trace of the Big Ban?</string>
+		<key>correctTAnswer</key>
+		<string> Cosmic microwave background</string>
+		<key>incorrectAnswer1</key>
+		<string>There is none</string>
+		<key>incorrectAnswer2</key>
+		<string>Dark matter</string>
+		<key>incorrectAnswer3</key>
+		<string>Black holes</string>
+		<key>wikiSearchWord</key>
+		<string>Cosmic microwave background</string>
+		<key>questionTrueOrFalse</key>
+		<string>The cosmic microwave background remains a theoretical concept and has never been observed.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Separation of energy and matter; cosmic background radiation. </string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa4764-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>Big Bang + 200 million years</string>
+		<key>question</key>
+		<string>From what are the  stars formed?</string>
+		<key>correctTAnswer</key>
+		<string>From molecular clouds.</string>
+		<key>incorrectAnswer1</key>
+		<string>From dark matter.</string>
+		<key>incorrectAnswer2</key>
+		<string>From black holes.</string>
+		<key>incorrectAnswer3</key>
+		<string>From asteroid collisions.</string>
+		<key>wikiSearchWord</key>
+		<string>Star formation</string>
+		<key>questionTrueOrFalse</key>
+		<string>Molecular clouds in interstellar space are sometimes referred to as &quot;stellar nurseries”?</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Appearance of stars. </string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa48ea-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>11–12 billion years ago</string>
+		<key>question</key>
+		<string>What is the name of the reaction that transforms hydrogen into Helium inside the stars?</string>
+		<key>correctTAnswer</key>
+		<string>Nuclear fusion</string>
+		<key>incorrectAnswer1</key>
+		<string>Nuclear fission</string>
+		<key>incorrectAnswer2</key>
+		<string>Chemical</string>
+		<key>incorrectAnswer3</key>
+		<string>fire</string>
+		<key>wikiSearchWord</key>
+		<string>Nucleosynthesis</string>
+		<key>questionTrueOrFalse</key>
+		<string>Oxygen can be formed in stars such as our sun.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>First supernovae; appearance of new elements. </string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa4a2a-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>4.6  billion years ago</string>
+		<key>question</key>
+		<string>When did our solar system form?</string>
+		<key>correctTAnswer</key>
+		<string>4.6 Billion years ago</string>
+		<key>incorrectAnswer1</key>
+		<string>9.6 Billion years ago</string>
+		<key>incorrectAnswer2</key>
+		<string>2.6 Billion years ago</string>
+		<key>incorrectAnswer3</key>
+		<string>1.6 Billion years ago</string>
+		<key>wikiSearchWord</key>
+		<string>Formation and evolution of the Solar System</string>
+		<key>questionTrueOrFalse</key>
+		<string>The solar system was formed by the gravitational collapse of a small part of a giant molecular cloud.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Creation of the Sun, solar system, and Earth. </string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa4b4c-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>4.5  billion years ago</string>
+		<key>question</key>
+		<string>How was the moon formed?</string>
+		<key>correctTAnswer</key>
+		<string>From a giant impact between the earth and another planet.</string>
+		<key>incorrectAnswer1</key>
+		<string>By the gravitational collapse of part of the molecular cloud.</string>
+		<key>incorrectAnswer2</key>
+		<string>The moon came from outside the solar system</string>
+		<key>incorrectAnswer3</key>
+		<string>Thew moon was ejected by the sun.</string>
+		<key>wikiSearchWord</key>
+		<string>Giant-impact hypothesis</string>
+		<key>questionTrueOrFalse</key>
+		<string>The moon has a higher density than earth.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Formation of the moon</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa4c6e-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>3.5  billion years ago</string>
+		<key>question</key>
+		<string>When does life appear on earth?</string>
+		<key>correctTAnswer</key>
+		<string>3.5 Billion years ago</string>
+		<key>incorrectAnswer1</key>
+		<string>4.4 Billion years ago</string>
+		<key>incorrectAnswer2</key>
+		<string>500 million years ago</string>
+		<key>incorrectAnswer3</key>
+		<string>100 million years ago</string>
+		<key>wikiSearchWord</key>
+		<string>Earliest known life forms</string>
+		<key>questionTrueOrFalse</key>
+		<string>The earliest known life forms found on Earth are fossils of microorganisms.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>First life forms on Earth; single-celled “prokaryotes”.</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa4d7c-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>3.2  billion years ago</string>
+		<key>question</key>
+		<string>Which statement about photosynthesis is false?</string>
+		<key>correctTAnswer</key>
+		<string>It releases carbon dioxide into the environment.</string>
+		<key>incorrectAnswer1</key>
+		<string>It releases oxygen into the environment</string>
+		<key>incorrectAnswer2</key>
+		<string>Living organisms can tap the colossal solar energy.</string>
+		<key>incorrectAnswer3</key>
+		<string>It sustains all the food chains in an ecosystem.</string>
+		<key>wikiSearchWord</key>
+		<string>Photosynthesis</string>
+		<key>questionTrueOrFalse</key>
+		<string>Photosynthesis is performed when energy from light is absorbed by proteins that contain green chlorophyll.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Photosynthesis</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa4f84-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>2–3  billion years ago</string>
+		<key>question</key>
+		<string>What caused the rapid increase of oxygen on earth 2 to 3 billion years ago?</string>
+		<key>correctTAnswer</key>
+		<string>Photosynthesis</string>
+		<key>incorrectAnswer1</key>
+		<string>Volcanos</string>
+		<key>incorrectAnswer2</key>
+		<string>Bacterias</string>
+		<key>incorrectAnswer3</key>
+		<string>Asteroid collision</string>
+		<key>wikiSearchWord</key>
+		<string>Geological history of oxygen</string>
+		<key>questionTrueOrFalse</key>
+		<string>Before photosynthesis, a good part of the atmosphere was already composed of oxygen.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Increase of oxygen in atmosphere due to photosynthesis. </string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa509c-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1.5  billion years ago</string>
+		<key>question</key>
+		<string>The first microorganisms had no nucleus. What do you call the cells that appeared with nuclei?</string>
+		<key>correctTAnswer</key>
+		<string>Eukaryotes</string>
+		<key>incorrectAnswer1</key>
+		<string>Prokaryotes</string>
+		<key>incorrectAnswer2</key>
+		<string>Bacterias</string>
+		<key>incorrectAnswer3</key>
+		<string>Amoeba</string>
+		<key>wikiSearchWord</key>
+		<string>Eukaryote</string>
+		<key>questionTrueOrFalse</key>
+		<string>All animals, plants, fungi, and many unicellular organisms, are Eukaryotes. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>First complex or “eukaryotic” cells.</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa51aa-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>538.8 million years ago</string>
+		<key>question</key>
+		<string>What is the Cambrian explosion?</string>
+		<key>correctTAnswer</key>
+		<string>A great diversification of and complexification of life.</string>
+		<key>incorrectAnswer1</key>
+		<string>A great volcano eruption.</string>
+		<key>incorrectAnswer2</key>
+		<string>The collision of an asteroid with the earth.</string>
+		<key>incorrectAnswer3</key>
+		<string>The continental drift.</string>
+		<key>wikiSearchWord</key>
+		<string>Cambrian explosion</string>
+		<key>questionTrueOrFalse</key>
+		<string>Before early Cambrian diversification, most organisms were relatively simple, composed of individual cells.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Cambrian explosion</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa5452-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>500  million years ago</string>
+		<key>question</key>
+		<string>Where did the first vertebrate appear?</string>
+		<key>correctTAnswer</key>
+		<string>In the sea.</string>
+		<key>incorrectAnswer1</key>
+		<string>On land.</string>
+		<key>incorrectAnswer2</key>
+		<string>Both on land and in the sea.</string>
+		<key>incorrectAnswer3</key>
+		<string>In the muddy waters of lakes.</string>
+		<key>wikiSearchWord</key>
+		<string>Evolution of fish</string>
+		<key>questionTrueOrFalse</key>
+		<string>The first vertebrate was a shark.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>First vertebrates</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa5592-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>475  million years ago</string>
+		<key>question</key>
+		<string>Which animals are considered the first terrestrial vertebrates?</string>
+		<key>correctTAnswer</key>
+		<string>Amphibians</string>
+		<key>incorrectAnswer1</key>
+		<string>Reptiles</string>
+		<key>incorrectAnswer2</key>
+		<string>Turtles</string>
+		<key>incorrectAnswer3</key>
+		<string>Frogs</string>
+		<key>wikiSearchWord</key>
+		<string>Vertebrate land invasion</string>
+		<key>questionTrueOrFalse</key>
+		<string>The vertebrate land invasion refers to the aquatic-to-terrestrial transition of vertebrate organisms in the Late Devonian epoch.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>First vertebrates on land.</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa57e0-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>350  million years ago </string>
+		<key>question</key>
+		<string>What is the name of the first known reptile?</string>
+		<key>correctTAnswer</key>
+		<string>Hylonomus</string>
+		<key>incorrectAnswer1</key>
+		<string>Iguana</string>
+		<key>incorrectAnswer2</key>
+		<string>Turtle</string>
+		<key>incorrectAnswer3</key>
+		<string>Serpent</string>
+		<key>wikiSearchWord</key>
+		<string>Evolution of reptiles</string>
+		<key>questionTrueOrFalse</key>
+		<string>Dinosaurs did not evolve from early reptiles.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>First Reptiles</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa5902-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>335  million years ago</string>
+		<key>question</key>
+		<string>What was the name of a supercontinent that existed in the late Paleozoic and early Mesozoic?</string>
+		<key>correctTAnswer</key>
+		<string>Pangaea</string>
+		<key>incorrectAnswer1</key>
+		<string>Atlantis</string>
+		<key>incorrectAnswer2</key>
+		<string>Euramerica</string>
+		<key>incorrectAnswer3</key>
+		<string>Siberia</string>
+		<key>wikiSearchWord</key>
+		<string>Pangaea</string>
+		<key>questionTrueOrFalse</key>
+		<string>Pangaea assembled from the earlier continental units.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Formation of Pangae</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa5a1a-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>250  million years ago </string>
+		<key>question</key>
+		<string>What are the only dinosaur lineage known to have survived the Cretaceous–Paleogene extinction?</string>
+		<key>correctTAnswer</key>
+		<string>Birds</string>
+		<key>incorrectAnswer1</key>
+		<string>Serpents</string>
+		<key>incorrectAnswer2</key>
+		<string>Lizards</string>
+		<key>incorrectAnswer3</key>
+		<string>Turtles</string>
+		<key>wikiSearchWord</key>
+		<string>Dinosaur</string>
+		<key>questionTrueOrFalse</key>
+		<string>Dinosaurs are represented on every continent.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>First dinosaurs</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa5b28-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>178  million years ago</string>
+		<key>question</key>
+		<string>What were the traits of the first mammals?</string>
+		<key>correctTAnswer</key>
+		<string>Similar to rodents</string>
+		<key>incorrectAnswer1</key>
+		<string>Similar to big insects</string>
+		<key>incorrectAnswer2</key>
+		<string>Similar to reptiles</string>
+		<key>incorrectAnswer3</key>
+		<string>Similar to legged fish</string>
+		<key>wikiSearchWord</key>
+		<string>Evolution of mammals</string>
+		<key>questionTrueOrFalse</key>
+		<string>The first mammals didn&apos;t appear on the scene until after the dinosaurs went extinct.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Appearance of first mamals</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa5dee-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>67  million years ago</string>
+		<key>question</key>
+		<string>What caused the extinction of the dinosaurs?</string>
+		<key>correctTAnswer</key>
+		<string>The impact of a massive asteroid </string>
+		<key>incorrectAnswer1</key>
+		<string>Major volcano eruption</string>
+		<key>incorrectAnswer2</key>
+		<string>The predominance of mammals</string>
+		<key>incorrectAnswer3</key>
+		<string>A flood</string>
+		<key>wikiSearchWord</key>
+		<string>Cretaceous–Paleogene extinction event</string>
+		<key>questionTrueOrFalse</key>
+		<string>66 million years ago, there was a sudden mass extinction of three-quarters of the plant and animal species on Earth.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>An asteroid impact destroys many species including dinosaurs. </string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa5f24-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>20  million years ago</string>
+		<key>question</key>
+		<string>Where was the oldest ape fossil found?</string>
+		<key>correctTAnswer</key>
+		<string>Africa</string>
+		<key>incorrectAnswer1</key>
+		<string>Europe</string>
+		<key>incorrectAnswer2</key>
+		<string>Asia</string>
+		<key>incorrectAnswer3</key>
+		<string>South-America</string>
+		<key>wikiSearchWord</key>
+		<string>Ape</string>
+		<key>questionTrueOrFalse</key>
+		<string> Apes do not have tails due to a mutation. </string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string> First apes appear.</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>19</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa60c8-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>6  million years ago</string>
+		<key>question</key>
+		<string>When did the Hominina lineage (extinct bipedal humans and ancestors) split from the Panina lineage (chimpanzees)?</string>
+		<key>correctTAnswer</key>
+		<string>4–7 million years ago</string>
+		<key>incorrectAnswer1</key>
+		<string>20–25 million years ago</string>
+		<key>incorrectAnswer2</key>
+		<string>1–3 million years ago</string>
+		<key>incorrectAnswer3</key>
+		<string>300,000 years ago</string>
+		<key>wikiSearchWord</key>
+		<string>Human evolution</string>
+		<key>questionTrueOrFalse</key>
+		<string>The gorilla is more closely related to humans than the chimpanzee.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>First “hominines” (bipedal apes) </string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa61ea-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>4  million years ago</string>
+		<key>question</key>
+		<string>What was the name given to an early female Australopithecus dated to around 3.2 million years ago and discovered in Ethiopia?</string>
+		<key>correctTAnswer</key>
+		<string>Lucy</string>
+		<key>incorrectAnswer1</key>
+		<string>Anna</string>
+		<key>incorrectAnswer2</key>
+		<string>Michelle</string>
+		<key>incorrectAnswer3</key>
+		<string>Alice</string>
+		<key>wikiSearchWord</key>
+		<string>Lucy (Australopithecus)</string>
+		<key>questionTrueOrFalse</key>
+		<string>Lucy, is a collection of several hundred pieces of fossilized bone representing 80 percent of a female Australopithecus.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Lucy the female Australopithecus.</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>21</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa6532-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>3.2  million years ago</string>
+		<key>question</key>
+		<string>What is Homo Habilis known for?</string>
+		<key>correctTAnswer</key>
+		<string>Homo habilis is known for having modified and used stone tools.</string>
+		<key>incorrectAnswer1</key>
+		<string>Homo habilis is known for its paintings.</string>
+		<key>incorrectAnswer2</key>
+		<string>Homo habilis is known for using fire.</string>
+		<key>incorrectAnswer3</key>
+		<string>Homo habilis is known for having been very tall.</string>
+		<key>wikiSearchWord</key>
+		<string>Homo habilis</string>
+		<key>questionTrueOrFalse</key>
+		<string>Like contemporary Homo, H. habilis brain size generally varied from 500–900 cm3 (31–55 cu in).</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Homo habilis. </string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>22</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa6672-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>1.9  million years ago</string>
+		<key>question</key>
+		<string>Homo erectus was the first known hominid to migrate out of Africa. Where else have Homo erectus fossils been found?</string>
+		<key>correctTAnswer</key>
+		<string>Asia</string>
+		<key>incorrectAnswer1</key>
+		<string>Europe</string>
+		<key>incorrectAnswer2</key>
+		<string>South America</string>
+		<key>incorrectAnswer3</key>
+		<string>Australia</string>
+		<key>wikiSearchWord</key>
+		<string>Homo erectus</string>
+		<key>questionTrueOrFalse</key>
+		<string>Homo erectus had human-like body proportions.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Homo erectus evolves in Africa, but some migrate to Asia. </string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>23</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa687a-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>200,000–300,000 years ago</string>
+		<key>question</key>
+		<string>What other archaic human DNA has been found in the genomes of Homo sapiens in contemporary populations?</string>
+		<key>correctTAnswer</key>
+		<string>Neanderthal</string>
+		<key>incorrectAnswer1</key>
+		<string>Homo habilis</string>
+		<key>incorrectAnswer2</key>
+		<string>Homo erectus</string>
+		<key>incorrectAnswer3</key>
+		<string>Australopithecus</string>
+		<key>wikiSearchWord</key>
+		<string>Interbreeding between archaic and modern humans</string>
+		<key>questionTrueOrFalse</key>
+		<string>Interbreeding between archaic and modern humans only happened with Neanderthals.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Homo sapiens evolves somewhere in Africa. </string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa6a64-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>164,000 years ago</string>
+		<key>question</key>
+		<string>Although homo erectus controlled fire over a million years ago, when did modern man use fire in a regular and systematic way?</string>
+		<key>correctTAnswer</key>
+		<string>164,000 years  ago</string>
+		<key>incorrectAnswer1</key>
+		<string>500,000 years ago</string>
+		<key>incorrectAnswer2</key>
+		<string>30,000 years ago</string>
+		<key>incorrectAnswer3</key>
+		<string>10,000 years ago</string>
+		<key>wikiSearchWord</key>
+		<string>Control of fire by early humans</string>
+		<key>questionTrueOrFalse</key>
+		<string>There is no evidence that Home erectus used fire, only speculation.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Modern man use fire in a regular and systematic way.</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>25</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa70d6-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>70,000 years ago</string>
+		<key>question</key>
+		<string>When did the human race come dangerously close to extinction?</string>
+		<key>correctTAnswer</key>
+		<string>70,000 years ago</string>
+		<key>incorrectAnswer1</key>
+		<string>150,000 years ago</string>
+		<key>incorrectAnswer2</key>
+		<string>In the year 536</string>
+		<key>incorrectAnswer3</key>
+		<string>In 1000 BC</string>
+		<key>wikiSearchWord</key>
+		<string>Toba catastrophe theory</string>
+		<key>questionTrueOrFalse</key>
+		<string>The near extinction of humans was possibly caused by a volcano.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Near human extinction.</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>26</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa7248-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>40,000 years ago</string>
+		<key>question</key>
+		<string>Neanderthals appeared in Eurasia 400 000 years ago. When did they disappear?</string>
+		<key>correctTAnswer</key>
+		<string>40,000 years ago</string>
+		<key>incorrectAnswer1</key>
+		<string>150,000 years ago</string>
+		<key>incorrectAnswer2</key>
+		<string>10,000 years ago</string>
+		<key>incorrectAnswer3</key>
+		<string>100,000 years ago</string>
+		<key>wikiSearchWord</key>
+		<string>Neanderthal</string>
+		<key>questionTrueOrFalse</key>
+		<string>Neanderthal did not use any tools.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Neanderthal disappearance </string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>27</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa7356-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>13,000 years ago</string>
+		<key>question</key>
+		<string>Humans left Africa and populated the world. What was the last region they reached?</string>
+		<key>correctTAnswer</key>
+		<string>The Americas</string>
+		<key>incorrectAnswer1</key>
+		<string>Sahul (Australia/Papua New Guinea)</string>
+		<key>incorrectAnswer2</key>
+		<string>Siberia</string>
+		<key>incorrectAnswer3</key>
+		<string>Asia</string>
+		<key>wikiSearchWord</key>
+		<string>Settlement of the Americas</string>
+		<key>questionTrueOrFalse</key>
+		<string>Humans crossed to America via the Beringia land bridge, which had formed between northeastern Siberia and western Alaska.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>True</string>
+		<key>timeLine</key>
+		<string>Humans in Americas</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>28</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa74dc-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>11,500 years ago </string>
+		<key>question</key>
+		<string>Where did nomadic hunter-gatherer first settled to permanent settlements and farming?</string>
+		<key>correctTAnswer</key>
+		<string>Mesopotamia</string>
+		<key>incorrectAnswer1</key>
+		<string>Africa</string>
+		<key>incorrectAnswer2</key>
+		<string>South America</string>
+		<key>incorrectAnswer3</key>
+		<string>Asia</string>
+		<key>wikiSearchWord</key>
+		<string>History of agriculture</string>
+		<key>questionTrueOrFalse</key>
+		<string>Agriculture first appeared in Mesopotamia and then spread elsewhere. It did not develop independently elsewhere than in Mesopotamia.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>Agriculture</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>29</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>77aa78e2-6cea-11ed-a1eb-0242ac120002</string>
+		<key>date</key>
+		<string>4000-3500 B.C</string>
+		<key>question</key>
+		<string>What is considered the oldest known civilization?</string>
+		<key>correctTAnswer</key>
+		<string>Sumer</string>
+		<key>incorrectAnswer1</key>
+		<string>Egypt</string>
+		<key>incorrectAnswer2</key>
+		<string>Indus Valley</string>
+		<key>incorrectAnswer3</key>
+		<string>China</string>
+		<key>wikiSearchWord</key>
+		<string>Sumer</string>
+		<key>questionTrueOrFalse</key>
+		<string>Sumer never developed writing.</string>
+		<key>trueOrFalseAnswer</key>
+		<string>False</string>
+		<key>timeLine</key>
+		<string>First Sumerian civilisation</string>
+		<key>theme</key>
+		<string>From the Big Bang to humans</string>
+		<key>numberOfGoodAnswers</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswers</key>
+		<integer>0</integer>
+		<key>numberOfGoodAnswersQuiz</key>
+		<integer>0</integer>
+		<key>numberOfBadAnswersQuiz</key>
+		<integer>0</integer>
+		<key>order</key>
+		<integer>30</integer>
+	</dict>
+</array>
+</plist>

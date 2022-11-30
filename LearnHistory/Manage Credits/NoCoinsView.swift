@@ -9,6 +9,7 @@ import SwiftUI
 
 struct NoCoinsView: View {
     @Environment(\.presentationMode) var presentationMode
+    @Environment(\.managedObjectContext) var moc
     var deviceHeight: CGFloat {
         UIScreen.main.bounds.height
     }
@@ -70,6 +71,7 @@ struct NoCoinsView: View {
                     Button(action:
                             {
                         EraseQuizResult.erase(fetchRequest: fetchRequest, theme: selectedTheme)
+                        try? moc.save()
                         let score = UserDefaults.standard.double(forKey: selectedTheme)
                         if UserDefaults.standard.double(forKey: selectedTheme) < score {
                             UserDefaults.standard.set(score, forKey: selectedTheme)

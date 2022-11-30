@@ -8,7 +8,6 @@
 import SwiftUI
 import AVFoundation
 
-
 struct SelectionMultipleChoiceView: View {
     @Environment(\.dismiss) private var dismiss
     var listOfThemes = Bundle.main.decodeJson([HistorySection].self, from:"List.json".localized)
@@ -98,14 +97,7 @@ struct SelectionMultipleChoiceView: View {
                 })
                 .navigationTitle("History themes")
                 .navigationBarTitleDisplayMode(.inline)
-                .onAppear{
-                    let count = UserDefaults.standard.integer(forKey: UserDefaultsKeys.appStartUpsCountKey)
-                    if count >= 20 {
-                        ReviewHandler.requestReview()
-                        UserDefaults.standard.set(0, forKey: UserDefaultsKeys.appStartUpsCountKey)
-                    }
-                    
-                }
+
             }else {
 
                     List{
@@ -153,11 +145,7 @@ struct SelectionMultipleChoiceView: View {
                     .navigationTitle("History themes")
                     .navigationBarTitleDisplayMode(.inline)
                     .onAppear{
-                        let count = UserDefaults.standard.integer(forKey: UserDefaultsKeys.appStartUpsCountKey)
-                        if count >= 20 {
-                            ReviewHandler.requestReview()
-                            UserDefaults.standard.set(0, forKey: UserDefaultsKeys.appStartUpsCountKey)
-                        }
+    
                         for section in listOfThemes {
                             for theme in section.themes {
                                 countNumberOfFinishedThemes(section: section, theme: theme)
